@@ -1,0 +1,504 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,La 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/21.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1690.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La 1 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6694.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/27.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Antena 3
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/19.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Antena 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Antena 3 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6748.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cuatro
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/22.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cuatro HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1686.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cuatro HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6742.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telecinco
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/23.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telecinco HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1685.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telecinco HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6736.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La Sexta
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/20.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La Sexta HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1689.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La Sexta HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6732.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NEOX
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/95.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NOVA
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/96.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/303.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Divinity
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/305.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Energy
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/304.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11374.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A3Series HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1713.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A3Series HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11449.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MEGA
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/26.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeMad TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9782.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeMad TV HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9081.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeMad TV HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11453.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,7RM Murcia
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/757.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,8TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/758.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,13 TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/753.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Levante TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/755.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Aragon TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11367.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Sur Andalucia
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11370.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV Canaria
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Intereconomia
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/754.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX News ES
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11377.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVE 24 horas
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11366.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LTC
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11372.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/74.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/415.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,#0 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6697.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Series
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/37.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Series HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/417.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Series HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6674.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Series Xtra
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Series Xtra HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/418.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Series Xtra HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6670.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Accion
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/380.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Accion HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/419.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Accion HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Comedia
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/381.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Comedia HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Comedia HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6667.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ DCine
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/382.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ DCine HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/421.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ DCine HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6681.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ DCine ES
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/227.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Estrenos
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/383.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Estrenos HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/416.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Estrenos HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6698.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Xtra
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/91.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Xtra HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/436.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Xtra HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6702.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/50.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/429.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6735.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/274.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/2051.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TCM HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6703.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/433.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6692.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN White
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/35.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN White HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1695.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN White HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6689.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Calle 13
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Calle 13 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/669.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Calle 13 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6683.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hollywood
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/10.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hollywood HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/668.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hollywood HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6705.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cosmo
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/43.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cosmo HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/671.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cosmo HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6685.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/434.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6682.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX Life
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/48.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX Life HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/435.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX Life HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6699.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/432.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TNT HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6686.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/47.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/670.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/44.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Syfy HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/675.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SyFy HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6676.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sundance TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11364.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/51.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/425.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 1 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6690.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/55.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/426.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 2 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Futbol
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/15.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Futbol HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/424.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Futbol HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6696.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Partidazo
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/17.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Partidazo HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/437.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Partidazo HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6695.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/16.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8944.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 1 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9079.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 2 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9779.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 3 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9780.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 4 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9781.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/148.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/423.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6706.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9072.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11454.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 1 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9067.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9073.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11455.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 2 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9068.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 3
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9074.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 4
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9075.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 5
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9076.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 6
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9077.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 7
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9078.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6744.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6745.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 3
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6746.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 4
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6747.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 5
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7576.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 6
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7577.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 7
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7578.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 8
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7579.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Golf
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/18.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Golf HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/427.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Golf HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6693.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Toros TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Toros TV HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1684.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Toros TV HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6680.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6754.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports España HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1681.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports España HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6668.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 1 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6733.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 1 España HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/5857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 1 España HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6672.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 2 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6753.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 2 España HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/5860.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 2 España HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6679.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 3 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6731.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 4 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6752.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 5 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6751.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 6 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9069.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 7 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9070.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 8 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9071.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6750.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6734.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 3
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6749.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 4
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6738.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 5
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6743.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 6
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6741.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 7
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6740.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ F1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/56.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ F1 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8689.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ F1 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6739.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ GP
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/57.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ GP HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ GP HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6737.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Gol TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Futbol Replay
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11457.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/58.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1691.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6669.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/59.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7813.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 2 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11452.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Teledeporte
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/97.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Teledeporte HD (próximamente)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1712.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Barca TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/273.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Real Madrid TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/41.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AE
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/86.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Cocina
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/89.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Crimen e Investigación
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/88.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/85.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/2052.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Channel HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11450.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Caza y Pesca
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/379.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Caza y Pesca HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7814.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Caza y Pesca HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7593.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Iberalia TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/87.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Odisea
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/244.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Odisea HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/5863.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Odisea HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11451.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Historia
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/45.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Historia HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7815.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Historia HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11665.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viajar
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11376.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viajar HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1694.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viajar HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6675.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Decasa
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11369.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/46.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/430.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Geographic HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6671.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Geographic Wild
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Geographic Wild HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/431.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Geographic Wild HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6673.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Orbe 21
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11365.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/90.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/243.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Clan TVE
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/306.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Panda
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1447.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/12.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1693.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6684.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/13.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/42.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/49.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1692.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nickelodeon HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6677.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nick Junior
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/14.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,40 TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/75.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/93.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV Rocks ES
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11373.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11375.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mezzo Live
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11363.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mezzo Live HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1711.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mezzo Live HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6727.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Classica
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11371.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Non Stop People
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1724.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Kiss TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/750.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hustler TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1723.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hustler HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/224.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Penthouse
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/2049.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Playboy TV ES
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1446.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sex One
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/2050.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sex Five
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1714.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cadena Dial
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/4804.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cadena 100
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/4800.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,40 Principales
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/4805.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Kiss FM
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/4803.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rock FM
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/4801.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Onda Cero
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/4802.ts&amp;streamtype=TSDOWNLOADER
