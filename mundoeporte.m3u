@@ -1,0 +1,192 @@
+#EXTM3U
+#EXTINF:-1,[COLOR red][I][B]----------------DEPORTES---------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,Movistar+ Deportes 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/51.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/425.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 1 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6690.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/55.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/426.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Deportes 2 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Futbol
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/15.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Futbol HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/424.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Futbol HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6696.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Partidazo
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/17.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Partidazo HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/437.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Partidazo HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6695.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/16.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8944.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 1 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9079.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 2 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9779.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 3 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9780.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LaLigaTV Bar Multi 4 (segunda division)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9781.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/148.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/423.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6706.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9072.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11454.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 1 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9067.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9073.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11455.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 2 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9068.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 3
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9074.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 4
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9075.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 5
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9076.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 6
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9077.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LaLiga 7
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9078.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6744.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6745.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 3
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6746.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 4
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6747.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 5
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7576.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 6
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7577.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 7
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7578.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiFutbol 8
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7579.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Golf
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/18.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Golf HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/427.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ Golf HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6693.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Toros TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Toros TV HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1684.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Toros TV HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6680.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6754.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports España HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1681.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports España HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6668.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 1 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6733.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 1 España HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/5857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 1 España HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6672.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 2 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6753.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 2 España HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/5860.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 2 España HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6679.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 3 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6731.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 4 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6752.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 5 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6751.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 6 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9069.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 7 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9070.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports MAX 8 España
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/9071.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6750.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6734.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 3
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6749.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 4
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6738.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 5
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6743.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 6
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6741.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MultiDeportes 7
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6740.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ F1
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/56.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ F1 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8689.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ F1 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6739.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ GP
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/57.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ GP HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movistar+ GP HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6737.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Gol TV
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/8687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Futbol Replay
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11457.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/58.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1691.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6669.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/59.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/7813.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 2 HD 1080
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11452.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Teledeporte
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/97.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Teledeporte HD (próximamente)
+plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/1712.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR yellow][I][B]---------------LA LIGA-------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,SPAIN Bein Sports 
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1826.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LA LIGA DE JHG
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1878.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1883.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Deportes - SP C  Deportes
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1884.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPAIN Bein Sports 
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1826.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1832.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,C+Footbol_SPAIN
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1886.ts&amp;streamtype=TSDOWNLOADER
+
+
