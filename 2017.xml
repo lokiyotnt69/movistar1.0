@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+  <streamingInfos>
+ 
+          <item> 
+            <title>------ Portugal --------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ Portugal --------</link> 
+        </item> 
+          <item> 
+            <title>PT: Spor tv 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Spor tv 1</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 2</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 3</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 4</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 5</link> 
+        </item> 
+          <item> 
+            <title>PT: Sporting TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Benfica TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2</link> 
+        </item> 
+          <item> 
+            <title>PT: Benfica TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+        </item> 
+          <item> 
+            <title>PT: Toros tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+        </item> 
+          <item> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
+        </item> 
+          <item> 
+            <title>PT: Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: Jim Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jim</link> 
+        </item> 
+          <item> 
+            <title>PT: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
+        </item> 
+          <item> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: CartoonNet Work</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CartoonNet Work</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Cine Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSpor News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News</link> 
+        </item> 
+          <item> 
+            <title>PT: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Abola tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv</link> 
+        </item> 
+          <item> 
+            <title>------- Spanish ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Spanish ---------</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 1</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 3</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 4</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 5</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 6</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 7</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 8</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 9</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 10</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Liga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Liga</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Deportes HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Deportes HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Futpol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Futpol</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Golf</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Accion</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Dcine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Dcine</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1031.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Comedia</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Estrenos HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ de las Estrellas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ de las Estrellas</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Series</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Serie Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Serie Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Cuatro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Cuatro</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Dcine Espanol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Dcine Espanol</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Cocina</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ AXN HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Toros</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Toros</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal Los40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Los40</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Nova</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1029.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Fox HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal T HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal T HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal MicroVision HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal MicroVision HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ 40</link> 
+        </item> 
+          <item> 
+            <title>ES: 24 Horas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24 Horas</link> 
+        </item> 
+          <item> 
+            <title>ES: Bein Sport ES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sport ES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1021.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Movis Star Moto Gp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movis Star Moto Gp</link> 
+        </item> 
+          <item> 
+            <title>ES: Movi Star F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movi Star F1</link> 
+        </item> 
+          <item> 
+            <title>ES: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>ES: Teledeportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1050.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teledeportes</link> 
+        </item> 
+          <item> 
+            <title>ES: Clan TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan TVE</link> 
+        </item> 
+          <item> 
+            <title>ES: Real Madrid</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real Madrid</link> 
+        </item> 
+          <item> 
+            <title>ES: La 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 1</link> 
+        </item> 
+          <item> 
+            <title>ES: La 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Cine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Cine</link> 
+        </item> 
+          <item> 
+            <title>ES: La  Sexta HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La  Sexta HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TV Galicia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TV Galicia</link> 
+        </item> 
+          <item> 
+            <title>ES: News DW</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: News DW</link> 
+        </item> 
+          <item> 
+            <title>ES: Proyecto 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Proyecto 40</link> 
+        </item> 
+          <item> 
+            <title>ES: Azteca Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca Noticias</link> 
+        </item> 
+          <item> 
+            <title>ES: 324 Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1005.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 324 Entertainment</link> 
+        </item> 
+          <item> 
+            <title>ES: Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox Life</link> 
+        </item> 
+          <item> 
+            <title>ES: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>ES: Axn White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Axn White HD</link> 
+        </item> 
+          <item> 
+            <title>ES: History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: History</link> 
+        </item> 
+          <item> 
+            <title>ES: Calle 13 Spain</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13 Spain</link> 
+        </item> 
+          <item> 
+            <title>ES: Azteca trece</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca trece</link> 
+        </item> 
+          <item> 
+            <title>ES: Anime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Anime</link> 
+        </item> 
+          <item> 
+            <title>ES: Azteca 7 Monterrey</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca 7 Monterrey</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena 3 Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3 Internacional</link> 
+        </item> 
+          <item> 
+            <title>ES: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>ES: FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF</link> 
+        </item> 
+          <item> 
+            <title>ES: Caza Y Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza Y Pesca</link> 
+        </item> 
+          <item> 
+            <title>ES: Viajar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Viajar</link> 
+        </item> 
+          <item> 
+            <title>ES: Teleticino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teleticino</link> 
+        </item> 
+          <item> 
+            <title>ES: National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: National Geographic</link> 
+        </item> 
+          <item> 
+            <title>ES: National Geographic Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: National Geographic Wild</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney Chaneel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Chaneel</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney XD</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
+        </item> 
+          <item> 
+            <title>ES: TVN Chile HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1006.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVN Chile HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CHILE La Red</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CHILE La Red</link> 
+        </item> 
+          <item> 
+            <title>ES: ITV HD Chile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190001334099327/190001334099327/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ITV HD Chile</link> 
+        </item> 
+  
