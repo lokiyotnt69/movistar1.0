@@ -590,91 +590,136 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/188
 
 
 #EXTINF:-1,X------------------------------------SPAIN------------------------------------X
-http://universeiptv.com:8000/live/shaker/shaker123/1703.ts
-#EXTINF:-1,ES:Amc
-http://universeiptv.com:8000/live/shaker/shaker123/3177.ts
-#EXTINF:-1,ES:Antena3
-http://universeiptv.com:8000/live/shaker/shaker123/3178.ts
-#EXTINF:-1,ES:Axn
-http://universeiptv.com:8000/live/shaker/shaker123/3179.ts
-#EXTINF:-1,ES:Barca_TV
-http://universeiptv.com:8000/live/shaker/shaker123/1025.ts
-#EXTINF:-1,ES:Bein_Sports_HD
-http://universeiptv.com:8000/live/shaker/shaker123/2584.ts
-#EXTINF:-1,ES:Bein_Sports_La_Liga
-http://universeiptv.com:8000/live/shaker/shaker123/2586.ts
-#EXTINF:-1,ES:Comedy_central
-http://universeiptv.com:8000/live/shaker/shaker123/3180.ts
-#EXTINF:-1,ES:DARK_Horror_Channel
-http://universeiptv.com:8000/live/shaker/shaker123/3128.ts
-#EXTINF:-1,ES:Discovery
-http://universeiptv.com:8000/live/shaker/shaker123/3181.ts
-#EXTINF:-1,ES:FOX_HD
-http://universeiptv.com:8000/live/shaker/shaker123/1014.ts
-#EXTINF:-1,ES:Gol_tv
-http://universeiptv.com:8000/live/shaker/shaker123/3182.ts
-#EXTINF:-1,ES:Historia
-http://universeiptv.com:8000/live/shaker/shaker123/3183.ts
-#EXTINF:-1,ES:LA_1_HD
-http://universeiptv.com:8000/live/shaker/shaker123/2067.ts
-#EXTINF:-1,ES:LA_2_HD
-http://universeiptv.com:8000/live/shaker/shaker123/2066.ts
-#EXTINF:-1,ES:La_LIGA
-http://universeiptv.com:8000/live/shaker/shaker123/1020.ts
-#EXTINF:-1,ES:La_Sexta
-http://universeiptv.com:8000/live/shaker/shaker123/1026.ts
-#EXTINF:-1,ES:Moto_gp
-http://universeiptv.com:8000/live/shaker/shaker123/3184.ts
-#EXTINF:-1,ES:Movistar_ACCION
-http://universeiptv.com:8000/live/shaker/shaker123/1015.ts
-#EXTINF:-1,ES:Movistar_COMIDEA
-http://universeiptv.com:8000/live/shaker/shaker123/1023.ts
-#EXTINF:-1,ES:Movistar_COSINA
-http://universeiptv.com:8000/live/shaker/shaker123/2064.ts
-#EXTINF:-1,ES:Movistar_DCINE
-http://universeiptv.com:8000/live/shaker/shaker123/2070.ts
-#EXTINF:-1,ES:Movistar_DEPORTES
-http://universeiptv.com:8000/live/shaker/shaker123/1018.ts
-#EXTINF:-1,ES:Movistar_DEPORTES_2
-http://universeiptv.com:8000/live/shaker/shaker123/2550.ts
-#EXTINF:-1,ES:Movistar_ESTRENOS
-http://universeiptv.com:8000/live/shaker/shaker123/1019.ts
-#EXTINF:-1,ES:Movistar_F1
-http://universeiptv.com:8000/live/shaker/shaker123/1984.ts
-#EXTINF:-1,ES:Movistar_FUTBOL
-http://universeiptv.com:8000/live/shaker/shaker123/1022.ts
-#EXTINF:-1,ES:Movistar_GOLF
-http://universeiptv.com:8000/live/shaker/shaker123/1021.ts
-#EXTINF:-1,ES:Movistar_SERIES
-http://universeiptv.com:8000/live/shaker/shaker123/1016.ts
-#EXTINF:-1,ES:Movistar_SERIES_EXTRA
-http://universeiptv.com:8000/live/shaker/shaker123/2178.ts
-#EXTINF:-1,ES:Movistar_TOROS
-http://universeiptv.com:8000/live/shaker/shaker123/1017.ts
-#EXTINF:-1,ES:National_Geographic
-http://universeiptv.com:8000/live/shaker/shaker123/1568.ts
-#EXTINF:-1,ES:NOVA
-http://universeiptv.com:8000/live/shaker/shaker123/2065.ts
-#EXTINF:-1,ES:Real_Madrid
-http://universeiptv.com:8000/live/shaker/shaker123/1024.ts
-#EXTINF:-1,ES:Syfy
-http://universeiptv.com:8000/live/shaker/shaker123/3185.ts
-#EXTINF:-1,ES:Tcm
-http://universeiptv.com:8000/live/shaker/shaker123/3186.ts
-#EXTINF:-1,ES:Taquilla-1
-http://universeiptv.com:8000/live/shaker/shaker123/3153.ts
-#EXTINF:-1,ES:Taquilla-2
-http://universeiptv.com:8000/live/shaker/shaker123/3154.ts
-#EXTINF:-1,ES:Taquilla-3
-http://universeiptv.com:8000/live/shaker/shaker123/3155.ts
-#EXTINF:-1,ES:Taquilla-4
-http://universeiptv.com:8000/live/shaker/shaker123/3156.ts
-#EXTINF:-1,ES:Taquilla-5
-http://universeiptv.com:8000/live/shaker/shaker123/3157.ts
-#EXTINF:-1,ES:Taquilla-6
-http://universeiptv.com:8000/live/shaker/shaker123/3158.ts
-#EXTINF:-1,ES:Taquilla-7
-http://universeiptv.com:8000/live/shaker/shaker123/3159.ts
-#EXTINF:-1,ES:Taquilla-8
-http://universeiptv.com:8000/live/shaker/shaker123/3160.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA
+http://pro213.com/live/ozcelik685/jux49s/1785.ts
+#EXTINF:-1,ES: BEIN LA LIGA
+http://pro213.com/live/ozcelik685/jux49s/2516.ts
+#EXTINF:-1,ES: BEIN LA LIGA 1
+http://pro213.com/live/ozcelik685/jux49s/2517.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://pro213.com/live/ozcelik685/jux49s/2432.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://pro213.com/live/ozcelik685/jux49s/2518.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://pro213.com/live/ozcelik685/jux49s/2519.ts
+#EXTINF:-1,ES: Beinsport HD
+http://pro213.com/live/ozcelik685/jux49s/2515.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://pro213.com/live/ozcelik685/jux49s/1903.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://pro213.com/live/ozcelik685/jux49s/2425.ts
+#EXTINF:-1,ES: GOL TV
+http://pro213.com/live/ozcelik685/jux49s/2514.ts
+#EXTINF:-1,ES: Movistar moto gp
+http://pro213.com/live/ozcelik685/jux49s/1916.ts
+#EXTINF:-1,ES: Movistar F1
+http://pro213.com/live/ozcelik685/jux49s/1915.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://pro213.com/live/ozcelik685/jux49s/1765.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://pro213.com/live/ozcelik685/jux49s/2427.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://pro213.com/live/ozcelik685/jux49s/2524.ts
+#EXTINF:-1,ES : MOVISTAR TOROS HD
+http://pro213.com/live/ozcelik685/jux49s/2525.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://pro213.com/live/ozcelik685/jux49s/2522.ts
+#EXTINF:-1,ES: CUATRO HD
+http://pro213.com/live/ozcelik685/jux49s/2510.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://pro213.com/live/ozcelik685/jux49s/2512.ts
+#EXTINF:-1,ES: MOVISTAR XTRA HD
+http://pro213.com/live/ozcelik685/jux49s/3137.ts
+#EXTINF:-1,ES: CASA Y PESCA
+http://pro213.com/live/ozcelik685/jux49s/2429.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://pro213.com/live/ozcelik685/jux49s/2426.ts
+#EXTINF:-1,ES: CANAL MUSICA
+http://pro213.com/live/ozcelik685/jux49s/2428.ts
+#EXTINF:-1,ES: Canal Cocina
+http://pro213.com/live/ozcelik685/jux49s/2430.ts
+#EXTINF:-1,ES: BARCA TV
+http://pro213.com/live/ozcelik685/jux49s/2445.ts
+#EXTINF:-1,ES: TELECINCO
+http://pro213.com/live/ozcelik685/jux49s/1767.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://pro213.com/live/ozcelik685/jux49s/2511.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://pro213.com/live/ozcelik685/jux49s/2724.ts
+#EXTINF:-1,ES : COMEDY CENTRAL HD
+http://pro213.com/live/ozcelik685/jux49s/1907.ts
+#EXTINF:-1,ES: TCM
+http://pro213.com/live/ozcelik685/jux49s/2528.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://pro213.com/live/ozcelik685/jux49s/2436.ts
+#EXTINF:-1,ES: MEGA
+http://pro213.com/live/ozcelik685/jux49s/2721.ts
+#EXTINF:-1,ES : Viajar HD
+http://pro213.com/live/ozcelik685/jux49s/1909.ts
+#EXTINF:-1,ES: La 2
+http://pro213.com/live/ozcelik685/jux49s/2532.ts
+#EXTINF:-1,ES: La 1
+http://pro213.com/live/ozcelik685/jux49s/2531.ts
+#EXTINF:-1,ES: BEIN LA LIGA 2
+http://pro213.com/live/ozcelik685/jux49s/2438.ts
+#EXTINF:-1,ES: ENERGY
+http://pro213.com/live/ozcelik685/jux49s/2530.ts
+#EXTINF:-1,ES: MOVISTAR DCINE Ñ
+http://pro213.com/live/ozcelik685/jux49s/2529.ts
+#EXTINF:-1,ES: Baby TV
+http://pro213.com/live/ozcelik685/jux49s/2527.ts
+#EXTINF:-1,ES: Antena 3
+http://pro213.com/live/ozcelik685/jux49s/1770.ts
+#EXTINF:-1,ES: antena3 HD
+http://pro213.com/live/ozcelik685/jux49s/3135.ts
+#EXTINF:-1,ES: Disney channel
+http://pro213.com/live/ozcelik685/jux49s/1793.ts
+#EXTINF:-1,ES: FOX
+http://pro213.com/live/ozcelik685/jux49s/1790.ts
+#EXTINF:-1,ES: History
+http://pro213.com/live/ozcelik685/jux49s/1928.ts
+#EXTINF:-1,ES: Hollywood HD
+http://pro213.com/live/ozcelik685/jux49s/1773.ts
+#EXTINF:-1,ES: SyFy HD
+http://pro213.com/live/ozcelik685/jux49s/1791.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://pro213.com/live/ozcelik685/jux49s/2421.ts
+#EXTINF:-1,ES: LaSextaHD
+http://pro213.com/live/ozcelik685/jux49s/1768.ts
+#EXTINF:-1,ES: AMC HD
+http://pro213.com/live/ozcelik685/jux49s/2435.ts
+#EXTINF:-1,ES: AMC
+http://pro213.com/live/ozcelik685/jux49s/2434.ts
+#EXTINF:-1,ES: FOX Life
+http://pro213.com/live/ozcelik685/jux49s/1771.ts
+#EXTINF:-1,ES: CUATRO SD
+http://pro213.com/live/ozcelik685/jux49s/1769.ts
+#EXTINF:-1,ES: CALLE13
+http://pro213.com/live/ozcelik685/jux49s/2422.ts
+#EXTINF:-1,ES: Axn White
+http://pro213.com/live/ozcelik685/jux49s/1786.ts
+#EXTINF:-1,ES: 40 TV
+http://pro213.com/live/ozcelik685/jux49s/2423.ts
+#EXTINF:-1,ES: TVE 24 Hora
+http://pro213.com/live/ozcelik685/jux49s/1923.ts
+#EXTINF:-1,ES: COSMO
+http://pro213.com/live/ozcelik685/jux49s/1919.ts
+#EXTINF:-1,ES: TVE 2
+http://pro213.com/live/ozcelik685/jux49s/1918.ts
+#EXTINF:-1,ES: TVE
+http://pro213.com/live/ozcelik685/jux49s/2420.ts
+#EXTINF:-1,ES: TNT HD
+http://pro213.com/live/ozcelik685/jux49s/1788.ts
+#EXTINF:-1,ES: Odisea HD
+http://pro213.com/live/ozcelik685/jux49s/1912.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://pro213.com/live/ozcelik685/jux49s/1789.ts
+#EXTINF:-1,ES: Eurosport
+http://pro213.com/live/ozcelik685/jux49s/1906.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://pro213.com/live/ozcelik685/jux49s/1917.ts
+#EXTINF:-1,ES: AXNSpain
+http://pro213.com/live/ozcelik685/jux49s/1772.ts
+#EXTINF:-1,ES: Andalucia TV
+http://pro213.com/live/ozcelik685/jux49s/1921.ts
 
