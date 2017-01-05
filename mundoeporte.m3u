@@ -570,11 +570,6 @@ plugin://plugin.video.f4mTester/?url=http://iptv.wssiptv.com:80/live/Vivienne/Vi
 
 
 
-
-
-
-
-
 #EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR yellow][I][B]---------------LA LIGA-------------------------------------[/B][/I][/COLOR]
@@ -593,4 +588,93 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/183
 #EXTINF:-1,C+Footbol_SPAIN
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1886.ts&amp;streamtype=TSDOWNLOADER
 
+
+#EXTINF:-1,X------------------------------------SPAIN------------------------------------X
+http://universeiptv.com:8000/live/shaker/shaker123/1703.ts
+#EXTINF:-1,ES:Amc
+http://universeiptv.com:8000/live/shaker/shaker123/3177.ts
+#EXTINF:-1,ES:Antena3
+http://universeiptv.com:8000/live/shaker/shaker123/3178.ts
+#EXTINF:-1,ES:Axn
+http://universeiptv.com:8000/live/shaker/shaker123/3179.ts
+#EXTINF:-1,ES:Barca_TV
+http://universeiptv.com:8000/live/shaker/shaker123/1025.ts
+#EXTINF:-1,ES:Bein_Sports_HD
+http://universeiptv.com:8000/live/shaker/shaker123/2584.ts
+#EXTINF:-1,ES:Bein_Sports_La_Liga
+http://universeiptv.com:8000/live/shaker/shaker123/2586.ts
+#EXTINF:-1,ES:Comedy_central
+http://universeiptv.com:8000/live/shaker/shaker123/3180.ts
+#EXTINF:-1,ES:DARK_Horror_Channel
+http://universeiptv.com:8000/live/shaker/shaker123/3128.ts
+#EXTINF:-1,ES:Discovery
+http://universeiptv.com:8000/live/shaker/shaker123/3181.ts
+#EXTINF:-1,ES:FOX_HD
+http://universeiptv.com:8000/live/shaker/shaker123/1014.ts
+#EXTINF:-1,ES:Gol_tv
+http://universeiptv.com:8000/live/shaker/shaker123/3182.ts
+#EXTINF:-1,ES:Historia
+http://universeiptv.com:8000/live/shaker/shaker123/3183.ts
+#EXTINF:-1,ES:LA_1_HD
+http://universeiptv.com:8000/live/shaker/shaker123/2067.ts
+#EXTINF:-1,ES:LA_2_HD
+http://universeiptv.com:8000/live/shaker/shaker123/2066.ts
+#EXTINF:-1,ES:La_LIGA
+http://universeiptv.com:8000/live/shaker/shaker123/1020.ts
+#EXTINF:-1,ES:La_Sexta
+http://universeiptv.com:8000/live/shaker/shaker123/1026.ts
+#EXTINF:-1,ES:Moto_gp
+http://universeiptv.com:8000/live/shaker/shaker123/3184.ts
+#EXTINF:-1,ES:Movistar_ACCION
+http://universeiptv.com:8000/live/shaker/shaker123/1015.ts
+#EXTINF:-1,ES:Movistar_COMIDEA
+http://universeiptv.com:8000/live/shaker/shaker123/1023.ts
+#EXTINF:-1,ES:Movistar_COSINA
+http://universeiptv.com:8000/live/shaker/shaker123/2064.ts
+#EXTINF:-1,ES:Movistar_DCINE
+http://universeiptv.com:8000/live/shaker/shaker123/2070.ts
+#EXTINF:-1,ES:Movistar_DEPORTES
+http://universeiptv.com:8000/live/shaker/shaker123/1018.ts
+#EXTINF:-1,ES:Movistar_DEPORTES_2
+http://universeiptv.com:8000/live/shaker/shaker123/2550.ts
+#EXTINF:-1,ES:Movistar_ESTRENOS
+http://universeiptv.com:8000/live/shaker/shaker123/1019.ts
+#EXTINF:-1,ES:Movistar_F1
+http://universeiptv.com:8000/live/shaker/shaker123/1984.ts
+#EXTINF:-1,ES:Movistar_FUTBOL
+http://universeiptv.com:8000/live/shaker/shaker123/1022.ts
+#EXTINF:-1,ES:Movistar_GOLF
+http://universeiptv.com:8000/live/shaker/shaker123/1021.ts
+#EXTINF:-1,ES:Movistar_SERIES
+http://universeiptv.com:8000/live/shaker/shaker123/1016.ts
+#EXTINF:-1,ES:Movistar_SERIES_EXTRA
+http://universeiptv.com:8000/live/shaker/shaker123/2178.ts
+#EXTINF:-1,ES:Movistar_TOROS
+http://universeiptv.com:8000/live/shaker/shaker123/1017.ts
+#EXTINF:-1,ES:National_Geographic
+http://universeiptv.com:8000/live/shaker/shaker123/1568.ts
+#EXTINF:-1,ES:NOVA
+http://universeiptv.com:8000/live/shaker/shaker123/2065.ts
+#EXTINF:-1,ES:Real_Madrid
+http://universeiptv.com:8000/live/shaker/shaker123/1024.ts
+#EXTINF:-1,ES:Syfy
+http://universeiptv.com:8000/live/shaker/shaker123/3185.ts
+#EXTINF:-1,ES:Tcm
+http://universeiptv.com:8000/live/shaker/shaker123/3186.ts
+#EXTINF:-1,ES:Taquilla-1
+http://universeiptv.com:8000/live/shaker/shaker123/3153.ts
+#EXTINF:-1,ES:Taquilla-2
+http://universeiptv.com:8000/live/shaker/shaker123/3154.ts
+#EXTINF:-1,ES:Taquilla-3
+http://universeiptv.com:8000/live/shaker/shaker123/3155.ts
+#EXTINF:-1,ES:Taquilla-4
+http://universeiptv.com:8000/live/shaker/shaker123/3156.ts
+#EXTINF:-1,ES:Taquilla-5
+http://universeiptv.com:8000/live/shaker/shaker123/3157.ts
+#EXTINF:-1,ES:Taquilla-6
+http://universeiptv.com:8000/live/shaker/shaker123/3158.ts
+#EXTINF:-1,ES:Taquilla-7
+http://universeiptv.com:8000/live/shaker/shaker123/3159.ts
+#EXTINF:-1,ES:Taquilla-8
+http://universeiptv.com:8000/live/shaker/shaker123/3160.ts
 
