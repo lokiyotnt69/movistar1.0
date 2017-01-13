@@ -89,315 +89,255 @@ plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/m
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
-#EXTINF:-1,Es-LA 1
-http://ultime-iptv.net:8000/live/lvy/lvy/2558.ts
-#EXTINF:-1,ES-LA2
-http://ultime-iptv.net:8000/live/lvy/lvy/2599.ts
-#EXTINF:-1,ES-TV3
-http://ultime-iptv.net:8000/live/lvy/lvy/1558.ts
-#EXTINF:-1,es-Antenna 3
-http://ultime-iptv.net:8000/live/lvy/lvy/2007.ts
-#EXTINF:-1,ES-CALLE 13
-http://ultime-iptv.net:8000/live/lvy/lvy/2595.ts
-#EXTINF:-1,Es-C  XTRA HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2563.ts
-#EXTINF:-1,Es-C  LIGA HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2567.ts
-#EXTINF:-1,Es-C  FUTBOL HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2570.ts
-#EXTINF:-1,Es-C  ESTRENOS HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2571.ts
-#EXTINF:-1,Es-C  DEPORTES HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2572.ts
-#EXTINF:-1,Es-C  DCINE HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2574.ts
-#EXTINF:-1,ES-Canal Acction
-http://ultime-iptv.net:8000/live/lvy/lvy/2606.ts
-#EXTINF:-1,Es-La Sexta
-http://ultime-iptv.net:8000/live/lvy/lvy/2576.ts
-#EXTINF:-1,Es-EuroNews
-http://ultime-iptv.net:8000/live/lvy/lvy/2569.ts
-#EXTINF:-1,Es-Travel tv
-http://ultime-iptv.net:8000/live/lvy/lvy/2573.ts
-#EXTINF:-1,Es-RT es
-http://ultime-iptv.net:8000/live/lvy/lvy/2564.ts
-#EXTINF:-1,Es-EiTB
-http://ultime-iptv.net:8000/live/lvy/lvy/2565.ts
-#EXTINF:-1,Es-BEIN SPORTS
-http://ultime-iptv.net:8000/live/lvy/lvy/2579.ts
-#EXTINF:-1,ES-REAL MADRID TV
-http://ultime-iptv.net:8000/live/lvy/lvy/2589.ts
-#EXTINF:-1,ES-Canal.Costa
-http://ultime-iptv.net:8000/live/lvy/lvy/2601.ts
-#EXTINF:-1,ES-Fox Life
-http://ultime-iptv.net:8000/live/lvy/lvy/2598.ts
-#EXTINF:-1,ES-FOX HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2590.ts
-#EXTINF:-1,Es-Anime
-http://ultime-iptv.net:8000/live/lvy/lvy/2566.ts
-#EXTINF:-1,ES-Disney.Channel
-http://ultime-iptv.net:8000/live/lvy/lvy/2592.ts
-#EXTINF:-1,ES-DISNEY XD
-http://ultime-iptv.net:8000/live/lvy/lvy/2593.ts
-#EXTINF:-1,ES-DISNEY JUNIOR
-http://ultime-iptv.net:8000/live/lvy/lvy/2594.ts
-#EXTINF:-1,ES-Canal_Toros
-http://ultime-iptv.net:8000/live/lvy/lvy/2591.ts
-#EXTINF:-1,ES-AXN HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2597.ts
-#EXTINF:-1,ES-moviestar.Comedia
-http://ultime-iptv.net:8000/live/lvy/lvy/2596.ts
-#EXTINF:-1,Es-TELECINCO HD
-http://ultime-iptv.net:8000/live/lvy/lvy/2556.ts
-#EXTINF:-1,Es-Nat.Geo
-http://ultime-iptv.net:8000/live/lvy/lvy/2557.ts
-#EXTINF:-1,es-Hollywood
-http://ultime-iptv.net:8000/live/lvy/lvy/2003.ts
-#EXTINF:-1,es-Europe News
-http://ultime-iptv.net:8000/live/lvy/lvy/2011.ts
-#EXTINF:-1,ES:BEIN_SPORT_HD
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3677.m3u8
-#EXTINF:-1,ES:40_TV
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3180.m3u8
-#EXTINF:-1,ES:Antenna_3
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2105.m3u8
-#EXTINF:-1,ES:AXN
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2104.m3u8
-#EXTINF:-1,ES:AXN_White
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2103.m3u8
-#EXTINF:-1,ES:A_&_E
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3181.m3u8
-#EXTINF:-1,ES:Bein_Sport
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3168.m3u8
-#EXTINF:-1,ES:Calle_13
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2101.m3u8
-#EXTINF:-1,ES:Canal _Liga_2_HD
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3184.m3u8
-#EXTINF:-1,ES:Canal+_Deportes
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/828.m3u8
-#EXTINF:-1,ES:Canal+_Futbol
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/829.m3u8
-#EXTINF:-1,ES:CANAL+_GOLF-HD
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/827.m3u8
-#EXTINF:-1,ES:Canal+_Liga
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/830.m3u8
-#EXTINF:-1,ES:CANAL-DEPORTES-HD
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/822.m3u8
-#EXTINF:-1,ES:CANAL-LIGA-HD
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/825.m3u8
-#EXTINF:-1,ES:Canal_1
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2099.m3u8
-#EXTINF:-1,ES:Canal_2
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2097.m3u8
-#EXTINF:-1,ES:Canal_Comedia
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2095.m3u8
-#EXTINF:-1,ES:Canal_COSINA
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2089.m3u8
-#EXTINF:-1,ES:CANAL_FUTBALL-HD
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/823.m3u8
-#EXTINF:-1,ES:Canal_Futbol
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2092.m3u8
-#EXTINF:-1,ES:Canal_Golf
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2091.m3u8
-#EXTINF:-1,ES:Canal_Liga
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2090.m3u8
-#EXTINF:-1,ES:CANAL_PLUS_DEPORTES_2
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3177.m3u8
-#EXTINF:-1,ES:CANAL_PLUS_PANDA
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3173.m3u8
-#EXTINF:-1,ES:CANAL_PLUS_SERIES
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3172.m3u8
-#EXTINF:-1,ES:CANAL_PLUS_SERIESXTRA
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3171.m3u8
-#EXTINF:-1,ES:CANAL_PLUS_XTRA
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3170.m3u8
-#EXTINF:-1,ES:Canal_Toros
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2081.m3u8
-#EXTINF:-1,ES:Canal_Toros
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1741.m3u8
-#EXTINF:-1,ES:Discovery
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2087.m3u8
-#EXTINF:-1,ES:Disney_Channel
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2085.m3u8
-#EXTINF:-1,ES:FOX
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2083.m3u8
-#EXTINF:-1,ES:Hollywood
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2079.m3u8
-#EXTINF:-1,ES:La_1
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3182.m3u8
-#EXTINF:-1,ES:LA_2
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3183.m3u8
-#EXTINF:-1,ES:Moviestar_F1
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2084.m3u8
-#EXTINF:-1,ES:Moviestar_Motogp
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2080.m3u8
-#EXTINF:-1,ES:NAT_GEO_WILD
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2078.m3u8
-#EXTINF:-1,ES:Real_Madrid_Channel
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2077.m3u8
-#EXTINF:-1,ES:Syfy
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2076.m3u8
-#EXTINF:-1,ES:Taquiila-2
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1297.m3u8
-#EXTINF:-1,ES:Taquiila-3
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1298.m3u8
-#EXTINF:-1,ES:Taquiila-4
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1299.m3u8
-#EXTINF:-1,ES:Taquilla-1
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1296.m3u8
-#EXTINF:-1,ES:Taquilla-5
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1409.m3u8
-#EXTINF:-1,ES:Taquilla_6
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1403.m3u8
-#EXTINF:-1,ES:Taquilla_7
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1402.m3u8
-#EXTINF:-1,ES:Taquilla_8
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/1401.m3u8
-#EXTINF:-1,ES:Telecinco
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2075.m3u8
-#EXTINF:-1,ES:TVE_1
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/2073.m3u8
-#EXTINF:-1,ES: FUTBOL
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/804.ts
-#EXTINF:-1,ES: DEPORTES
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/802.ts
-#EXTINF:-1,SP:#0
-http://skyeg.dyndns.org:8000/live/051909/051909/1620.ts
-#EXTINF:-1,SP:A&E
-http://skyeg.dyndns.org:8000/live/051909/051909/1621.ts
-#EXTINF:-1,SP:AMC
-http://skyeg.dyndns.org:8000/live/051909/051909/1105.ts
-#EXTINF:-1,SP:Andalucia
-http://skyeg.dyndns.org:8000/live/051909/051909/1909.ts
-#EXTINF:-1,SP:Antena_3
-http://skyeg.dyndns.org:8000/live/051909/051909/1101.ts
-#EXTINF:-1,SP:AXN
-http://skyeg.dyndns.org:8000/live/051909/051909/804.ts
-#EXTINF:-1,SP:AXN_White
-http://skyeg.dyndns.org:8000/live/051909/051909/370.ts
-#EXTINF:-1,SP:Baby_TV
-http://skyeg.dyndns.org:8000/live/051909/051909/1624.ts
-#EXTINF:-1,SP:Barca
-http://skyeg.dyndns.org:8000/live/051909/051909/1106.ts
-#EXTINF:-1,SP:Bein_Laliga
-http://skyeg.dyndns.org:8000/live/051909/051909/1629.ts
-#EXTINF:-1,SP:Bein_Sport
-http://skyeg.dyndns.org:8000/live/051909/051909/1630.ts
-#EXTINF:-1,SP:CALLE_13
-http://skyeg.dyndns.org:8000/live/051909/051909/562.ts
-#EXTINF:-1,SP:Caza_Y_ Pesca
-http://skyeg.dyndns.org:8000/live/051909/051909/1622.ts
-#EXTINF:-1,SP:CI
-http://skyeg.dyndns.org:8000/live/051909/051909/1626.ts
-#EXTINF:-1,SP:CINE_Boing
-http://skyeg.dyndns.org:8000/live/051909/051909/1627.ts
-#EXTINF:-1,SP:Clan
-http://skyeg.dyndns.org:8000/live/051909/051909/1910.ts
-#EXTINF:-1,SP:Comedy_Central
-http://skyeg.dyndns.org:8000/live/051909/051909/1107.ts
-#EXTINF:-1,SP:Cosmo
-http://skyeg.dyndns.org:8000/live/051909/051909/1911.ts
-#EXTINF:-1,SP:CUATRO
-http://skyeg.dyndns.org:8000/live/051909/051909/1102.ts
-#EXTINF:-1,SP:Discovery
-http://skyeg.dyndns.org:8000/live/051909/051909/993.ts
-#EXTINF:-1,SP:Disney_Channel
-http://skyeg.dyndns.org:8000/live/051909/051909/992.ts
-#EXTINF:-1,SP:Disney_Junior
-http://skyeg.dyndns.org:8000/live/051909/051909/1916.ts
-#EXTINF:-1,SP:Disney_XD
-http://skyeg.dyndns.org:8000/live/051909/051909/1098.ts
-#EXTINF:-1,SP:ENERGY
-http://skyeg.dyndns.org:8000/live/051909/051909/1855.ts
-#EXTINF:-1,SP:Fox
-http://skyeg.dyndns.org:8000/live/051909/051909/619.ts
-#EXTINF:-1,SP:Fox_Life
-http://skyeg.dyndns.org:8000/live/051909/051909/618.ts
-#EXTINF:-1,SP:Historia
-http://skyeg.dyndns.org:8000/live/051909/051909/991.ts
-#EXTINF:-1,SP:Hollywood
-http://skyeg.dyndns.org:8000/live/051909/051909/523.ts
-#EXTINF:-1,SP:LA_***ta
-http://skyeg.dyndns.org:8000/live/051909/051909/1100.ts
-#EXTINF:-1,SP:La1
-http://skyeg.dyndns.org:8000/live/051909/051909/1633.ts
-#EXTINF:-1,SP:La2
-http://skyeg.dyndns.org:8000/live/051909/051909/1634.ts
-#EXTINF:-1,SP:Laliga
-http://skyeg.dyndns.org:8000/live/051909/051909/1628.ts
-#EXTINF:-1,SP:Mega
-http://skyeg.dyndns.org:8000/live/051909/051909/1632.ts
-#EXTINF:-1,SP:MOVISTAR_Accion
-http://skyeg.dyndns.org:8000/live/051909/051909/765.ts
-#EXTINF:-1,SP:MOVISTAR_Comedia
-http://skyeg.dyndns.org:8000/live/051909/051909/690.ts
-#EXTINF:-1,SP:MOVISTAR_Dcine
-http://skyeg.dyndns.org:8000/live/051909/051909/805.ts
-#EXTINF:-1,SP:MOVISTAR_Decasa
-http://skyeg.dyndns.org:8000/live/051909/051909/1625.ts
-#EXTINF:-1,SP:MOVISTAR_Deportes
-http://skyeg.dyndns.org:8000/live/051909/051909/577.ts
-#EXTINF:-1,SP:MOVISTAR_Deportes_2
-http://skyeg.dyndns.org:8000/live/051909/051909/1915.ts
-#EXTINF:-1,SP:MOVISTAR_Estrenos
-http://skyeg.dyndns.org:8000/live/051909/051909/1108.ts
-#EXTINF:-1,SP:MOVISTAR_Futbol
-http://skyeg.dyndns.org:8000/live/051909/051909/803.ts
-#EXTINF:-1,SP:MOVISTAR_Golf
-http://skyeg.dyndns.org:8000/live/051909/051909/708.ts
-#EXTINF:-1,SP:MOVISTAR_Liga
-http://skyeg.dyndns.org:8000/live/051909/051909/622.ts
-#EXTINF:-1,SP:MOVISTAR_Series
-http://skyeg.dyndns.org:8000/live/051909/051909/1109.ts
-#EXTINF:-1,SP:MOVISTAR_Series_Xtra
-http://skyeg.dyndns.org:8000/live/051909/051909/1110.ts
-#EXTINF:-1,SP:MOVISTAR_Toros
-http://skyeg.dyndns.org:8000/live/051909/051909/802.ts
-#EXTINF:-1,SP:MOVISTAR_Xtra
-http://skyeg.dyndns.org:8000/live/051909/051909/1631.ts
-#EXTINF:-1,SP:MTV
-http://skyeg.dyndns.org:8000/live/051909/051909/1623.ts
-#EXTINF:-1,SP:Nat_Geo_Wild
-http://skyeg.dyndns.org:8000/live/051909/051909/1099.ts
-#EXTINF:-1,SP:National_Geographic
-http://skyeg.dyndns.org:8000/live/051909/051909/994.ts
-#EXTINF:-1,SP:Nickelodeon
-http://skyeg.dyndns.org:8000/live/051909/051909/387.ts
-#EXTINF:-1,SP:Nova
-http://skyeg.dyndns.org:8000/live/051909/051909/617.ts
-#EXTINF:-1,SP:Odisea
-http://skyeg.dyndns.org:8000/live/051909/051909/1104.ts
-#EXTINF:-1,SP:Real_Madrid
-http://skyeg.dyndns.org:8000/live/051909/051909/605.ts
-#EXTINF:-1,SP:SYFY
-http://skyeg.dyndns.org:8000/live/051909/051909/616.ts
-#EXTINF:-1,SP:Taquilla_1
-http://skyeg.dyndns.org:8000/live/051909/051909/1917.ts
-#EXTINF:-1,SP:Taquilla_10
-http://skyeg.dyndns.org:8000/live/051909/051909/1926.ts
-#EXTINF:-1,SP:Taquilla_2
-http://skyeg.dyndns.org:8000/live/051909/051909/1918.ts
-#EXTINF:-1,SP:Taquilla_3
-http://skyeg.dyndns.org:8000/live/051909/051909/1919.ts
-#EXTINF:-1,SP:Taquilla_4
-http://skyeg.dyndns.org:8000/live/051909/051909/1920.ts
-#EXTINF:-1,SP:Taquilla_5
-http://skyeg.dyndns.org:8000/live/051909/051909/1921.ts
-#EXTINF:-1,SP:Taquilla_6
-http://skyeg.dyndns.org:8000/live/051909/051909/1922.ts
-#EXTINF:-1,SP:Taquilla_7
-http://skyeg.dyndns.org:8000/live/051909/051909/1923.ts
-#EXTINF:-1,SP:Taquilla_8
-http://skyeg.dyndns.org:8000/live/051909/051909/1924.ts
-#EXTINF:-1,SP:Taquilla_9
-http://skyeg.dyndns.org:8000/live/051909/051909/1925.ts
-#EXTINF:-1,SP:TCM
-http://skyeg.dyndns.org:8000/live/051909/051909/311.ts
-#EXTINF:-1,SP:Tdp
-http://skyeg.dyndns.org:8000/live/051909/051909/1914.ts
-#EXTINF:-1,SP:Telecinco
-http://skyeg.dyndns.org:8000/live/051909/051909/1913.ts
-#EXTINF:-1,SP:TNT
-http://skyeg.dyndns.org:8000/live/051909/051909/1103.ts
-#EXTINF:-1,SP:Toros
-http://skyeg.dyndns.org:8000/live/051909/051909/1912.ts
+#EXTINF:-1,------------ Spain TV ------------
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4880.ts
+#EXTINF:-1,ES - LTC
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7303.ts
+#EXTINF:-1,ES - LOS 40
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7251.ts
+#EXTINF:-1,ES - LALIGA TV BAR HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7241.ts
+#EXTINF:-1,ES - LALIGA TV BAR
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7240.ts
+#EXTINF:-1,ES - LA SEXTA HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7260.ts
+#EXTINF:-1,ES - TVI Internacional
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7325.ts
+#EXTINF:-1,ES - TNT HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7264.ts
+#EXTINF:-1,ES - TNT
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7324.ts
+#EXTINF:-1,ES - Telesur
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7323.ts
+#EXTINF:-1,ES - VIAJAR
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7326.ts
+#EXTINF:-1,ES - VH1
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7311.ts
+#EXTINF:-1,ES - TELECINCO HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7288.ts
+#EXTINF:-1,ES - TELEDEPORTE
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7322.ts
+#EXTINF:-1,ES - TELECINCO
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7321.ts
+#EXTINF:-1,ES - TCM HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7265.ts
+#EXTINF:-1,ES - TCM
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7320.ts
+#EXTINF:-1,ES - SYFY
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7319.ts
+#EXTINF:-1,ES - LA 1 HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7259.ts
+#EXTINF:-1,ES - LA 1
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7301.ts
+#EXTINF:-1,ES - LA 2
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7302.ts
+#EXTINF:-1,ES - LA SEXTA
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7304.ts
+#EXTINF:-1,ES - IBERALIA TV
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7300.ts
+#EXTINF:-1,ES - FRANCE 24-EN
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7299.ts
+#EXTINF:-1,ES - FOX LIFE HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7254.ts
+#EXTINF:-1,ES - FOX HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7253.ts
+#EXTINF:-1,ES - ES-40 TV
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7297.ts
+#EXTINF:-1,ES - ENERGY
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7296.ts
+#EXTINF:-1,ES - EHS
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7295.ts
+#EXTINF:-1,ES - DIVINITY
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7294.ts
+#EXTINF:-1,ES - C  SERIES HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7255.ts
+#EXTINF:-1,ES - BABY TV
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7273.ts
+#EXTINF:-1,ES - AXN HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7246.ts
+#EXTINF:-1,ES - ARAGON TV
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7272.ts
+#EXTINF:-1,ES - ANTENA 3 HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7245.ts
+#EXTINF:-1,ES - ANTENA 3
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7271.ts
+#EXTINF:-1,ES - MOVISTAR XTRA
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7287.ts
+#EXTINF:-1,ES - MOVISTAR PORTADA
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7286.ts
+#EXTINF:-1,ES - MOVISTAR DCINE HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7249.ts
+#EXTINF:-1,ES - MOVISTAR COMEDIA HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7257.ts
+#EXTINF:-1,ES - MOVISTAR ACCI©N HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7248.ts
+#EXTINF:-1,ES - MOVISTAR  Series Xtra HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7256.ts
+#EXTINF:-1,ES - AMC HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7247.ts
+#EXTINF:-1,ES - AMC
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7270.ts
+#EXTINF:-1,ES - AJE
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7269.ts
+#EXTINF:-1,ES - A&E
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7268.ts
+#EXTINF:-1,ES - 24 HORAS
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7266.ts
+#EXTINF:-1,ES - #0 HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7244.ts
+#EXTINF:-1,ES - CUATRO HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7252.ts
+#EXTINF:-1,ES - COSMOPOLITAN HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7250.ts
+#EXTINF:-1,ES - COSMO
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7292.ts
+#EXTINF:-1,ES - CAZA Y PESCA HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7242.ts
+#EXTINF:-1,ES - CASTILLA LA MANCHA
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7243.ts
+#EXTINF:-1,ES - CANAL SUR ANDALUCIA
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7291.ts
+#EXTINF:-1,ES - CANAL ODISEA
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7290.ts
+#EXTINF:-1,ES - Canal Extremadura SAT
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7289.ts
+#EXTINF:-1,ES - Fox
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4870.ts
+#EXTINF:-1,ES - Fox Life
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4871.ts
+#EXTINF:-1,ES - AXN White
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4853.ts
+#EXTINF:-1,ES - AXN
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4852.ts
+#EXTINF:-1,ES - Comedy Central
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4861.ts
+#EXTINF:-1,ES - RT NEWS ENG
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7267.ts
+#EXTINF:-1,ES - RT
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7318.ts
+#EXTINF:-1,ES - QUATRO
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7317.ts
+#EXTINF:-1,ES - Parlamento
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7315.ts
+#EXTINF:-1,ES - PARAMOUNT
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7314.ts
+#EXTINF:-1,ES - NOVA
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7313.ts
+#EXTINF:-1,ES - NHK WORLD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7312.ts
+#EXTINF:-1,ES - NAT GEO WILD HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7263.ts
+#EXTINF:-1,ES - Hollywood
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4869.ts
+#EXTINF:-1,ES - National Geographic
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4867.ts
+#EXTINF:-1,ES - Nat Geo Wild
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4866.ts
+#EXTINF:-1,ES - Historia
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4868.ts
+#EXTINF:-1,ES - MEZZO
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4878.ts
+#EXTINF:-1,ES - Discovery
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4874.ts
+#EXTINF:-1,ES - CI
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4860.ts
+#EXTINF:-1,ES - Caza Y Pesca
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4859.ts
+#EXTINF:-1,ES - Canal Decasa
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4857.ts
+#EXTINF:-1,ES - Canal Cocina
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4856.ts
+#EXTINF:-1,ES - Calle 13
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4855.ts
+#EXTINF:-1,ES - C  Toros
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4863.ts
+#EXTINF:-1,ES - C  Series Extra
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4850.ts
+#EXTINF:-1,ES - C  Series
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4849.ts
+#EXTINF:-1,ES - C  Estrenos
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4848.ts
+#EXTINF:-1,ES - C  Dcine
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4847.ts
+#EXTINF:-1,ES - C  Comedia
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4846.ts
+#EXTINF:-1,ES - C  Accion
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4845.ts
+#EXTINF:-1,ES - DISNEY JR
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7293.ts
+#EXTINF:-1,ES - Nickelodeon
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4877.ts
+#EXTINF:-1,ES - Disney XD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4876.ts
+#EXTINF:-1,ES - Disney Channel
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4875.ts
+#EXTINF:-1,ES - Canal Panda
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4858.ts
+#EXTINF:-1,ES - Boing Tv
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4844.ts
+#EXTINF:-1,ES - MTV ROCK
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7308.ts
+#EXTINF:-1,ES - MTV HITS
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7309.ts
+#EXTINF:-1,ES - MTV ESPA¹A
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7307.ts
+#EXTINF:-1,ES - MTV DANCE
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7310.ts
+#EXTINF:-1,ES - Canal + Liga
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/403.ts
+#EXTINF:-1,ES - Canal + Liga 2
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4862.ts
+#EXTINF:-1,ES - Canal + Deportes
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/405.ts
+#EXTINF:-1,ES - Canal +  Deportes 2
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4851.ts
+#EXTINF:-1,ES - Canal + Fotball
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/404.ts
+#EXTINF:-1,ES - BEIN LALIGA HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7261.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 1
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7275.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 2
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7276.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 3
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7277.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 4
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7278.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 5
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7279.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 6
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7280.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 7
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7281.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 8
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7282.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 9
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7283.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 10
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7284.ts
+#EXTINF:-1,ES - Real Madrid TV
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4879.ts
+#EXTINF:-1,ES - BARCA TV
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4854.ts
+#EXTINF:-1,ES - Bein Sport
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4843.ts
+#EXTINF:-1,ES - GOL TV
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7298.ts
+#EXTINF:-1,ES - MOVISTAR FUTBOL HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7262.ts
+#EXTINF:-1,ES - MOVISTAR F1
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7306.ts
+#EXTINF:-1,ES - MOVISTAR GOLF HD
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7258.ts
+#EXTINF:-1,ES - MOVISTAR  GOLF
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7285.ts
+#EXTINF:-1,ES - Eurosport 1
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4872.ts
+#EXTINF:-1,ES - Eurosport 2
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4873.ts
+#EXTINF:-1,ES - MOVISTAR MOTO GP
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/7305.ts
+#EXTINF:-1,ES - Moviestar MOTOGP
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4864.ts
+#EXTINF:-1,ES - Moviestar F1
+http://bb1.sendevric.com:8000/live/phlczebb/iptv2015/4865.ts
