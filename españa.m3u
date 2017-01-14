@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1,LA LIGA TV
+http://1.442244.info/sp_laligatv_bar/index.m3u8
+#EXTINF:-1,BEIN LA LIGA
+http://1.442244.info/sp_bein_laliga/index.m3u8
 #EXTINF:-1,ESP:TELECINCO-HD
 plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3927.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ESP:LA-SEXTA-HD
