@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<streamingInfos>
+ 
+          <item> 
+            <title>***Sport***</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=***Sport***</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 1 HD -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 1 HD -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 2 HD -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2531.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 2 HD -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL:Super Sport 2 HD+ -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL:Super Sport 2 HD+ -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 3 HD -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 3 HD -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 4 HD -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 4 HD -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 1 -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 1 -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 2 -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 2 -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 3 -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 3 -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 4 -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 4 -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 5 -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 5 -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: SuperSport 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: SuperSport 6</link> 
+        </item> 
+          <item> 
+            <title>AL: Supersport 1 (backup)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3521.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Supersport 1 (backup)</link> 
+        </item> 
+          <item> 
+            <title>AL: Supersport 2 (backup)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3522.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Supersport 2 (backup)</link> 
+        </item> 
+          <item> 
+            <title>AL: Supersport 3 (backup)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3523.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Supersport 3 (backup)</link> 
+        </item> 
+          <item> 
+            <title>AL: Supersport 4 (backup)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3524.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Supersport 4 (backup)</link> 
+        </item> 
+          <item> 
+            <title>AL: SS Kosova 1 HD -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: SS Kosova 1 HD -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: SS Kosova 2HD -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: SS Kosova 2HD -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: SuperSport Kosova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1875.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: SuperSport Kosova</link> 
+        </item> 
+          <item> 
+            <title>AL: Sport Kosova 1 -DIGITALB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Sport Kosova 1 -DIGITALB</link> 
+        </item> 
+          <item> 
+            <title>AL: Sport Kosova 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Sport Kosova 2 HD</link> 
+        </item> 
+          <item> 
+            <title>AL: Tring Sport News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Tring Sport News HD</link> 
+        </item> 
+          <item> 
+            <title>AL: Tring Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Tring Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>AL: Tring Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Tring Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>AL: Tring Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Tring Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>AL: Tring Sport 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Tring Sport 4 HD</link> 
+        </item> 
+          <item> 
+            <title>AL: Kujtesa Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Kujtesa Sport 1</link> 
+        </item> 
+          <item> 
+            <title>AL: Kujtesa Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Kujtesa Sport 2</link> 
+        </item> 
+          <item> 
+            <title>AL: Kujtesa Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Kujtesa Sport 3</link> 
+        </item> 
+          <item> 
+            <title>AL: Kujtesa Sport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Kujtesa Sport 4</link> 
+        </item> 
+          <item> 
+            <title>AL: Tele Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Tele Sport</link> 
+        </item> 
+          <item> 
+            <title>AL: RTSH Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1887.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: RTSH Sport HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Calcio 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2037.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 1</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Calcio 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2038.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 2</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Sport 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 24</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Sport 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3501.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 24 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3955.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: PREMIUM SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1757.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2122.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Calcio 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3462.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Calcio 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2135.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Calcio 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2136.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 3 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Calcio 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2137.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 4 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Calcio 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2138.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 5 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Calcio 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2139.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 6 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Juventus Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4114.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Juventus Channel</link> 
+        </item> 
+          <item> 
+            <title>IT: Milan Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3959.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Milan Channel</link> 
+        </item> 
+          <item> 
+            <title>IT: INTER CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3418.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: INTER CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>IT: ROMA CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3419.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: ROMA CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 2</link> 
+        </item> 
+          <item> 
+            <title>IT: Fox Sport HD Italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3954.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fox Sport HD Italia</link> 
+        </item> 
+          <item> 
+            <title>IT: Super Tennis HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2032.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Super Tennis HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3956.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Eurosport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3957.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Eurosport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sport Italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2020.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sport Italia</link> 
+        </item> 
+          <item> 
+            <title>IT: AutoMoto TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3960.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: AutoMoto TV</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Sport F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport F1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Sport MotoGP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3958.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport MotoGP HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY Sport News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Sport News HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport Austria HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1496.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1582.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky  Sport 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2735.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky  Sport 4 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 5 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Bundesliga 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Bundesliga 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 2 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Bundesliga 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: Bundesliga 3 (Only Live Matches) back up</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4838.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Bundesliga 3 (Only Live Matches) back up</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Bundesliga 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 4 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: Bundesliga 4 back up</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4839.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Bundesliga 4 back up</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Bundesliga 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 5 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Bundesliga 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 6 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SPORT1+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SPORT1+ HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>DE: ORF Sport + HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF Sport + HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1656.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2184.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 1</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 2</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2186.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 3</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV3</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 4</link> 
+        </item> 
+          <item> 
+            <title>PT: Sport TV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 5</link> 
+        </item> 
+          <item> 
+            <title>PT: Sporting TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2189.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Liga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Liga</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Liga 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Liga 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Futbol</link> 
+        </item> 
+          <item> 
+            <title>ES: REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2148.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn-Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn-Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn-Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2430.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn-Sport 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2429.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 4 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn-Sport 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2428.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 5 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: AFN Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Sports HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2412.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: AFN Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2414.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: AFN Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: FOX Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FOX Sport 1</link> 
+        </item> 
+          <item> 
+            <title>US: ESPN 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN 1</link> 
+        </item> 
+          <item> 
+            <title>FR: Canal+ Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Sport</link> 
+        </item> 
+          <item> 
+            <title>FR: beiN Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1476.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beiN Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR: beiN Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beiN Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>FR: beiN Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beiN Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>NL: Ziggo Sport Extra 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Extra 1</link> 
+        </item> 
+          <item> 
+            <title>NL: Ziggo Sport Extra 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Extra 2</link> 
+        </item> 
+          <item> 
+            <title>NL: Fox Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,NL: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>NL: Fox Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,NL: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>TR: Lig TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: Lig TV</link> 
+        </item> 
+          <item> 
+            <title>TR: Lig TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: Lig TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: Lig TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/982.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: Lig TV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: Lig TV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1360.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: Lig TV 3</link> 
+        </item> 
+          <item> 
+            <title>TR: Lig TV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2951.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: Lig TV 4</link> 
+        </item> 
+          <item> 
+            <title>TR: NTV Spor</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: NTV Spor</link> 
+        </item> 
+          <item> 
+            <title>TR: A Spor HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: A Spor HD</link> 
+        </item> 
+          <item> 
+            <title>TR: TIVIBU SPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4234.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TIVIBU SPORT 1</link> 
+        </item> 
+          <item> 
+            <title>TR: TIVIBU SPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1933.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TIVIBU SPORT 2</link> 
+        </item> 
+          <item> 
+            <title>TR: TIVIBU SPORT 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4236.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TIVIBU SPORT 3</link> 
+        </item> 
+          <item> 
+            <title>TR: TIVIBU SPORT 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4235.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TIVIBU SPORT 4</link> 
+        </item> 
+          <item> 
+            <title>UK:BT Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1837.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:BT Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1836.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:BT Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:BT Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4807.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Manchester United TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Manchester United TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Liverpool FC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2614.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Liverpool FC</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Sport 2</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 4</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 5 HD</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky Sports F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports F1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky Sports 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky Sports 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 5</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 4 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 5 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 6 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 7 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 8 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 9 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 10 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR: beINSports 11 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR: beINSports&amp;streamtype=TSDOWNLOADER&amp;name=AR: beINSports 11 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Sport Klub 1 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Sport Klub 1 HR</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Sport Klub 2 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Sport Klub 2 HR</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Sport Klub 3 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Sport Klub 3 HR</link> 
+        </item> 
+          <item> 
+            <title>Ex-Yu:Sport Klub 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ex-Yu:Sport Klub 6</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 1 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 1 HR</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 2 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 2 HR</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 4 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 4 HR</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 3 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 3 HR</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 5 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 5 HR</link> 
+        </item> 
+          <item> 
+            <title>EX:YU: ARENA SPORT 6 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2941.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX:YU: ARENA SPORT 6 HR</link> 
+        </item> 
+          <item> 
+            <title>EX-YU : SPORT KLUB 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU : SPORT KLUB 1 HD</link> 
+        </item> 
+          <item> 
+            <title>EX-YU : SPORT KLUB 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU : SPORT KLUB 2 HD</link> 
+        </item> 
+          <item> 
+            <title>EX-YU : SPORT KLUB 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU : SPORT KLUB 3 HD</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 1 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 1 SRB</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 2 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 2 SRB</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 3 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 3 SRB</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 4 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 4 SRB</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: Arena Sport 5 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Arena Sport 5 SRB</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: ARENA SPORT 1 SRB (local)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2936.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 1 SRB (local)</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: ARENA SPORT 2 SRB (local)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2937.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 2 SRB (local)</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: ARENA SPORT 3 SRB (reserve)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2938.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 3 SRB (reserve)</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: ARENA SPORT 4 SRB (reserve)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2939.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 4 SRB (reserve)</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: ARENA SPORT 5 SRB (reserve)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2940.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 5 SRB (reserve)</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORTKLUB 1 HD SLO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2942.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORTKLUB 1 HD SLO</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORTKLUB 2 HD SLO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2943.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORTKLUB 2 HD SLO</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORTKLUB 3 HD SLO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2944.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORTKLUB 3 HD SLO</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORT TV 1 HD SLO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2945.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORT TV 1 HD SLO</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORT TV 2 HD SLO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2946.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORT TV 2 HD SLO</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORT TV 3 HD SLO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2947.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORT TV 3 HD SLO</link> 
+        </item> 
+          <item> 
+            <title>EX YU: SPORT KLUB 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2930.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX YU: SPORT KLUB 1</link> 
+        </item> 
+          <item> 
+            <title>EX YU: SPORT KLUB 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2931.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX YU: SPORT KLUB 2</link> 
+        </item> 
+          <item> 
+            <title>EX YU: SPORT KLUB 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2932.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX YU: SPORT KLUB 3</link> 
+        </item> 
+          <item> 
+            <title>EX YU: SPORT KLUB 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2933.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX YU: SPORT KLUB 4</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORT KLUB 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2934.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORT KLUB 5</link> 
+        </item> 
+          <item> 
+            <title>EX-YU: SPORT KLUB 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2935.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORT KLUB 6</link> 
+        </item> 
+          <item> 
+            <title>EX-YU : Sportal TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU : Sportal TV HD</link> 
+        </item> 
+          <item> 
+            <title>RO: DIGI Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO: DIGI Sport 1</link> 
+        </item> 
+          <item> 
+            <title>RO: DIGI Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO: DIGI Sport 2</link> 
+        </item> 
+          <item> 
+            <title>RO: DIGI Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO: DIGI Sport 3</link> 
+        </item> 
+          <item> 
+            <title>SP: Digi Sport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4806.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Digi Sport 4</link> 
+        </item> 
+          <item> 
+            <title>SP: Digi Sport 1 Hungary</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Digi Sport 1 Hungary</link> 
+        </item> 
+          <item> 
+            <title>SP: Digi Sport 2 Hungary</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4805.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Digi Sport 2 Hungary</link> 
+        </item> 
+          <item> 
+            <title>SP: Astro Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: Astro Sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: Astro Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4798.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SP: Astro Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: Astro Sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: Astro Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4797.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SP: Astro sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: Astro sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: Astro sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4799.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SP: Astro Sports 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: Astro Sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: Astro Sports 4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4800.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SP:Dolce-Sport-1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:Dolce-Sport-1-HD</link> 
+        </item> 
+          <item> 
+            <title>SP: Dolce-Sport-2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Dolce-Sport-2-HD</link> 
+        </item> 
+          <item> 
+            <title>SP: SFR Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4832.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SFR Sport 1</link> 
+        </item> 
+          <item> 
+            <title>SP: SFR Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4833.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SFR Sport 2</link> 
+        </item> 
+          <item> 
+            <title>SP: SFR Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: SFR Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4834.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SP: SFR Sports 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: SFR Sports 5</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/4835.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Sport HD</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Sport 2 HD Tran</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Sport 2 HD Tran</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Calcio 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Calcio 1</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Calcio 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Calcio 2</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Calcio 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Calcio 3</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Calcio 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Calcio 4</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Calcio 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Calcio 5</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Calcio 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/371.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Calcio 6</link> 
+        </item> 
+          <item> 
+            <title>ITA - Premium Calcio 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITA - Premium Calcio 7</link> 
+        </item> 
+          <item> 
+            <title>--------------- SKY UK SPORTS ---------------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------------- SKY UK SPORTS ---------------</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 4 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 5 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports 5</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports News HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports News HQ</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/2561.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports News</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports F1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Sky Sports F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Sky Sports F1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/5420.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Showcase</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1325.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports Extra</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1326.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports Extra</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports Extra 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports Extra 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/4201.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports Extra 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports Extra 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/4202.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports Extra 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports Extra 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/4203.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports Extra 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports Extra 4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/4204.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - BT Sports Extra 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - BT Sports Extra 5</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/4205.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - ESPN</link> 
+        </item> 
+          <item> 
+            <title>UK - ESPN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - ESPN 2</link> 
+        </item> 
+          <item> 
+            <title>UK - Setanta Asia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/5427.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - Setanta Asia</link> 
+        </item> 
+          <item> 
+            <title>UK - Setanta Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Setanta Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Premier Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Premier Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - EuroSport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - EuroSport 1</link> 
+        </item> 
+          <item> 
+            <title>UK - EuroSport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - EuroSport 2</link> 
+        </item> 
+          <item> 
+            <title>UK - LFC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - LFC TV</link> 
+        </item> 
+          <item> 
+            <title>UK - Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - Chelsea TV</link> 
+        </item> 
+          <item> 
+            <title>UK - MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - MUTV</link> 
+        </item> 
+          <item> 
+            <title>UK - Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - Motors TV</link> 
+        </item> 
+          <item> 
+            <title>UK - Box Nation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - Box Nation</link> 
+        </item> 
+          <item> 
+            <title>UK - Viasat Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/4206.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - Viasat Golf</link> 
+        </item> 
+          <item> 
+            <title>UK - Golf Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/5428.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - Golf Channel</link> 
+        </item> 
+          <item> 
+            <title>UK - Fight Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK - Fight Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK - Fight Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/5426.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK - Cricket Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/5425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK - Cricket Channel</link> 
+        </item> 
+          <item> 
+            <title>--------------- OTHER SPORTS ---------------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------------- OTHER SPORTS ---------------</link> 
+        </item> 
+          <item> 
+            <title>TH - Fox Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,TH - Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=TH - Fox Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>TH - Fox Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,TH - Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=TH - Fox Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>TH - Fox Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,TH - Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=TH - Fox Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 5</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 6</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 7</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 8</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 9</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 10</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 11</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 12</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 13</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports Max 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports Max 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports Max 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports Max 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AR - Bein Sports 16 Spain</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AR - Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=AR - Bein Sports 16 Spain</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>US - TSN 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1031.ts&amp;streamtype=TSDOWNLOADER&amp;name=US - TSN 1</link> 
+        </item> 
+          <item> 
+            <title>US - TSN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=US - TSN 2</link> 
+        </item> 
+          <item> 
+            <title>US - TSN 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=US - TSN 3</link> 
+        </item> 
+          <item> 
+            <title>US - TSN 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=US - TSN 4</link> 
+        </item> 
+          <item> 
+            <title>US - TSN 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=US - TSN 5</link> 
+        </item> 
+          <item> 
+            <title>CRO - Arena Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,CRO - Arena Sports&amp;streamtype=TSDOWNLOADER&amp;name=CRO - Arena Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>CRO - Arena Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,CRO - Arena Sports&amp;streamtype=TSDOWNLOADER&amp;name=CRO - Arena Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>CRO - Arena Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,CRO - Arena Sports&amp;streamtype=TSDOWNLOADER&amp;name=CRO - Arena Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>CRO - Arena Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,CRO - Arena Sports&amp;streamtype=TSDOWNLOADER&amp;name=CRO - Arena Sports 4 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SRB - Sport Klub 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRB - Sport Klub 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SRB - Sport Klub 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRB - Sport Klub 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SRB - Sport Klub 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRB - Sport Klub 3 HD</link> 
+        </item> 
+          <item> 
+            <title>ALB - Super Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,ALB - Super Sports&amp;streamtype=TSDOWNLOADER&amp;name=ALB - Super Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>ALB - Super Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,ALB - Super Sports&amp;streamtype=TSDOWNLOADER&amp;name=ALB - Super Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>ALB - Super Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,ALB - Super Sports&amp;streamtype=TSDOWNLOADER&amp;name=ALB - Super Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>ALB - Super Sports 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,ALB - Super Sports&amp;streamtype=TSDOWNLOADER&amp;name=ALB - Super Sports 4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>AU - Australia +</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/k1vZb4QIeZ/nWIpzKq99R/1255.ts&amp;streamtype=TSDOWNLOADER&amp;name=AU - Australia +</link> 
+        </item> 
+  
