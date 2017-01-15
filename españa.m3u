@@ -1012,31 +1012,65 @@ http://185.71.66.46:8000/live/8atsMdIz4n/BQMffJvFAP/40469.ts
 http://185.71.66.46:8000/live/8atsMdIz4n/BQMffJvFAP/40473.ts
 #EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,TVE 24 horas
-http://185.26.175.200:5000/udp/239.200.1.29:10000
-#EXTINF:-1,AXN
-http://185.26.175.200:5000/udp/239.200.1.73:10000
-#EXTINF:-1,Canal Plus Comedia
-http://185.26.175.200:5000/udp/239.200.1.76:10000
-#EXTINF:-1,Canal Plus Accion
-http://185.26.175.200:5000/udp/239.200.1.75:10000
-#EXTINF:-1,Motorvision TV
-http://185.26.175.200:5000/udp/239.200.1.43:10000
-#EXTINF:-1,Toros
-http://185.26.175.200:5000/udp/239.200.1.31:10000
-#EXTINF:-1,Hot
-http://185.26.175.200:5000/udp/239.200.1.32:10000
-#EXTINF:-1,Canal Plus DCine
-http://185.26.175.200:5000/udp/239.200.1.77:10000
-#EXTINF:-1,BabyFirst
-http://185.26.175.200:5000/udp/239.200.1.40:10000
-#EXTINF:-1,Odisseia
-http://185.26.175.200:5000/udp/239.200.1.22:10000
-#EXTINF:-1,24
-http://185.26.175.200:5000/udp/239.200.1.13:10000
-#EXTINF:-1,TV Foco
-http://185.26.175.200:5000/udp/239.200.1.15:10000
-#EXTINF:-1,Caza y Pesca
-http://185.26.175.200:5000/udp/239.200.1.38:10000
-#EXTINF:-1,Globo
-http://185.26.175.200:5000/udp/239.200.1.12:10000
+#EXTINF:-1,***** SPAIN *****
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2669.ts
+#EXTINF:-1,SP | Taquilla7
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2650.ts
+#EXTINF:-1,SP | CANAL  XTRA
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2649.ts
+#EXTINF:-1,SP | DCINE
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2651.ts
+#EXTINF:-1,SP | Taquilla3
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2656.ts
+#EXTINF:-1,SP | CUATRO
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2652.ts
+#EXTINF:-1,SP | TVE 2 HD
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2659.ts
+#EXTINF:-1,SP | Taquilla6
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2664.ts
+#EXTINF:-1,SP | Barca TV
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2665.ts
+#EXTINF:-1,SP | Taquilla2
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2648.ts
+#EXTINF:-1,SP | Taquilla1
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2653.ts
+#EXTINF:-1,SP | CANAL+ TOROS
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2654.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2657.ts
+#EXTINF:-1,SP | CALLE 13
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2640.ts
+#EXTINF:-1,SP | NEOX
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2641.ts
+#EXTINF:-1,SP | NOVA
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2639.ts
+#EXTINF:-1,SP | TVE LA1
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2666.ts
+#EXTINF:-1,SP | A&E
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2667.ts
+#EXTINF:-1,SP | Canal+ Accion HD
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2668.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2663.ts
+#EXTINF:-1,SP | Taquilla5
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2643.ts
+#EXTINF:-1,SP | Taquilla4
+http://sutverduz.com:8080/live/ksanthopoulos/srI47BI9v8/2644.ts
