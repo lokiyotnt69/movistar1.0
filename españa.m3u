@@ -2,330 +2,265 @@
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,ESP:TELECINCO-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3927.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:LA-SEXTA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3928.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:CALLE-13-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3929.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-SERIES-XTRA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3930.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-LIGA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3931.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-GOLF-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3933.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-DEPORTES-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3935.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-DCINE-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3937.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-COMEDIA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3938.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-ACCION-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3939.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-XTRA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3940.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:AXN-WHITE-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3942.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:ANTENA-3-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3943.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:AMC
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6697.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:ANTENA-3-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:AXN-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6693.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:Axn-White-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6694.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:Calle-13-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6700.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:Clan-TVE
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6714.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:COSMO-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6702.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:CUATRO-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:DISNEY-CHANNEL-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6718.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:DISNEY-JUNIOR
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6717.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:DISNEY-XD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6716.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:Fox-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6691.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:FOX-LIFE-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6692.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:HOLLYWOOD-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6701.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:LA-SEXTA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6690.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M ACCION-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6703.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M COMEDIA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M DCINE-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6705.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M ESTRENOS-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6710.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M Golf-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6713.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M XTRA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6707.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M-Dcine-Espanol
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6706.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:M.Series-Xtra
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6708.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:NAT-GEO-WILD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6719.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:NATIONAL-GEOGRAPHIC
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6720.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:Nova
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6699.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:REAL-MADRID-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6712.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:SyFy
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6698.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:TCM-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6696.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES*:TELECINCO-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6689.ts&amp;streamtype=TSDOWNLOADER
 
 
-#EXTINF:-1,****SPAIN CHANNEL****
-http://51.255.76.67:1557/live/4444/4444/2331.ts
-#EXTINF:-1,ES: TVE1
-http://51.255.76.67:1557/live/4444/4444/2144.ts
-#EXTINF:-1,ES: TVE LA 1 HD
-http://51.255.76.67:1557/live/4444/4444/1770.ts
-#EXTINF:-1,ES: TVE LA 2
-http://51.255.76.67:1557/live/4444/4444/1771.ts
-#EXTINF:-1,ES: TV3 HD
-http://51.255.76.67:1557/live/4444/4444/2145.ts
+
+
+
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/70.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/85.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES: Antena 3
-http://51.255.76.67:1557/live/4444/4444/1772.ts
-#EXTINF:-1,ES: Azteca Trece
-http://51.255.76.67:1557/live/4444/4444/4632.ts
-#EXTINF:-1,ES: Cuatro
-http://51.255.76.67:1557/live/4444/4444/1773.ts
-#EXTINF:-1,ES: N Cuatro HD
-http://51.255.76.67:1557/live/4444/4444/2152.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/191.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: A3 Series
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/86.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/87.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES: Telecinco HD
-http://51.255.76.67:1557/live/4444/4444/3630.ts
-#EXTINF:-1,ES: Telecinco
-http://51.255.76.67:1557/live/4444/4444/1774.ts
-#EXTINF:-1,ES: la sexta HD
-http://51.255.76.67:1557/live/4444/4444/2154.ts
-#EXTINF:-1,ES: tHD
-http://51.255.76.67:1557/live/4444/4444/4631.ts
-#EXTINF:-1,ES: RTVA
-http://51.255.76.67:1557/live/4444/4444/4630.ts
-#EXTINF:-1,ES: Baby TV
-http://51.255.76.67:1557/live/4444/4444/3651.ts
-#EXTINF:-1,ES: BOING
-http://51.255.76.67:1557/live/4444/4444/3650.ts
-#EXTINF:-1,ES: Anima Tv
-http://51.255.76.67:1557/live/4444/4444/3674.ts
-#EXTINF:-1,ES: Disney XD
-http://51.255.76.67:1557/live/4444/4444/3654.ts
-#EXTINF:-1,ES: Disney Junior
-http://51.255.76.67:1557/live/4444/4444/3653.ts
-#EXTINF:-1,ES: Cartoon Network
-http://51.255.76.67:1557/live/4444/4444/3652.ts
-#EXTINF:-1,ES: Nickelodeon
-http://51.255.76.67:1557/live/4444/4444/3687.ts
-#EXTINF:-1,ES: Disney Channel
-http://51.255.76.67:1557/live/4444/4444/2162.ts
-#EXTINF:-1,ES: SYFY
-http://51.255.76.67:1557/live/4444/4444/2153.ts
-#EXTINF:-1,ES: FOX LIFE
-http://51.255.76.67:1557/live/4444/4444/2158.ts
-#EXTINF:-1,ES: FOX Life HD
-http://51.255.76.67:1557/live/4444/4444/3642.ts
-#EXTINF:-1,ES: FOX HD
-http://51.255.76.67:1557/live/4444/4444/3641.ts
-#EXTINF:-1,ES: Fox
-http://51.255.76.67:1557/live/4444/4444/2147.ts
-#EXTINF:-1,ES: AXN White HD
-http://51.255.76.67:1557/live/4444/4444/3648.ts
-#EXTINF:-1,ES: AXN
-http://51.255.76.67:1557/live/4444/4444/3649.ts
-#EXTINF:-1,ES: Calle 13 HD
-http://51.255.76.67:1557/live/4444/4444/3643.ts
-#EXTINF:-1,ES: Movistar Accion
-http://51.255.76.67:1557/live/4444/4444/3632.ts
-#EXTINF:-1,ES: Movistar Comedia
-http://51.255.76.67:1557/live/4444/4444/3633.ts
-#EXTINF:-1,ES: Movistar DCine
-http://51.255.76.67:1557/live/4444/4444/3631.ts
-#EXTINF:-1,ES: Movistar Xtra
-http://51.255.76.67:1557/live/4444/4444/3635.ts
-#EXTINF:-1,ES: Movistar Series Xtra
-http://51.255.76.67:1557/live/4444/4444/3637.ts
-#EXTINF:-1,ES: Movistar Series
-http://51.255.76.67:1557/live/4444/4444/3636.ts
-#EXTINF:-1,ES: Movistar Estrenos
-http://51.255.76.67:1557/live/4444/4444/3634.ts
-#EXTINF:-1,ES: Canal HD
-http://51.255.76.67:1557/live/4444/4444/3638.ts
-#EXTINF:-1,ES: TNT
-http://51.255.76.67:1557/live/4444/4444/3646.ts
-#EXTINF:-1,ES: Comedy Central
-http://51.255.76.67:1557/live/4444/4444/3640.ts
-#EXTINF:-1,ES: Paramount Channel
-http://51.255.76.67:1557/live/4444/4444/3673.ts
-#EXTINF:-1,ES: Hollywood SD
-http://51.255.76.67:1557/live/4444/4444/3645.ts
-#EXTINF:-1,ES: Hollywood HD
-http://51.255.76.67:1557/live/4444/4444/3644.ts
-#EXTINF:-1,ES: Factoria de Ficcion
-http://51.255.76.67:1557/live/4444/4444/3678.ts
-#EXTINF:-1,ES: Televisa HD
-http://51.255.76.67:1557/live/4444/4444/3679.ts
-#EXTINF:-1,ES: Energy
-http://51.255.76.67:1557/live/4444/4444/3675.ts
-#EXTINF:-1,ES: TVE Clan
-http://51.255.76.67:1557/live/4444/4444/3647.ts
-#EXTINF:-1,ES: TVE 24H
-http://51.255.76.67:1557/live/4444/4444/3669.ts
-#EXTINF:-1,ES: Neox Tv
-http://51.255.76.67:1557/live/4444/4444/3672.ts
-#EXTINF:-1,ES: National Geographic
-http://51.255.76.67:1557/live/4444/4444/3676.ts
-#EXTINF:-1,ES: Nat Geo Wild
-http://51.255.76.67:1557/live/4444/4444/3677.ts
-#EXTINF:-1,ES: Historia
-http://51.255.76.67:1557/live/4444/4444/3682.ts
-#EXTINF:-1,ES: Toros Tv
-http://51.255.76.67:1557/live/4444/4444/3668.ts
-#EXTINF:-1,ES: Viajar HD
-http://51.255.76.67:1557/live/4444/4444/3683.ts
-#EXTINF:-1,ES: Odisea Tv
-http://51.255.76.67:1557/live/4444/4444/3671.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/88.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: La Sexta HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/89.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Neox
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/92.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES: Nova
-http://51.255.76.67:1557/live/4444/4444/3667.ts
-#EXTINF:-1,ES: Mega
-http://51.255.76.67:1557/live/4444/4444/3691.ts
-#EXTINF:-1,ES: MTV es
-http://51.255.76.67:1557/live/4444/4444/3690.ts
-#EXTINF:-1,ES: Proyecto 40
-http://51.255.76.67:1557/live/4444/4444/2150.ts
-#EXTINF:-1,ES: Crimen Investigation
-http://51.255.76.67:1557/live/4444/4444/3689.ts
-#EXTINF:-1,ES: Cosmo HD
-http://51.255.76.67:1557/live/4444/4444/3688.ts
-#EXTINF:-1,ES: Canal+ DeCasa
-http://51.255.76.67:1557/live/4444/4444/3686.ts
-#EXTINF:-1,ES: Canal Cocina
-http://51.255.76.67:1557/live/4444/4444/3684.ts
-#EXTINF:-1,ES: Movistar MotoGP
-http://51.255.76.67:1557/live/4444/4444/3680.ts
-#EXTINF:-1,ES: Movistar F1
-http://51.255.76.67:1557/live/4444/4444/3681.ts
-#EXTINF:-1,ES: Andalucia Tv
-http://51.255.76.67:1557/live/4444/4444/3670.ts
-#EXTINF:-1,ES: RealMadrid TV
-http://51.255.76.67:1557/live/4444/4444/1589.ts
-#EXTINF:-1,ES: Taquilla 1
-http://51.255.76.67:1557/live/4444/4444/2628.ts
-#EXTINF:-1,ES: Taquilla 2
-http://51.255.76.67:1557/live/4444/4444/2629.ts
-#EXTINF:-1,ES: Taquilla 3
-http://51.255.76.67:1557/live/4444/4444/2630.ts
-#EXTINF:-1,ES: Taquilla 4
-http://51.255.76.67:1557/live/4444/4444/2631.ts
-#EXTINF:-1,ES: Taquilla 5
-http://51.255.76.67:1557/live/4444/4444/3655.ts
-#EXTINF:-1,ES: Taquilla 6
-http://51.255.76.67:1557/live/4444/4444/2632.ts
-#EXTINF:-1,ES: Taquilla 7
-http://51.255.76.67:1557/live/4444/4444/3656.ts
-#EXTINF:-1,ES: Taquilla 8
-http://51.255.76.67:1557/live/4444/4444/2633.ts
-#EXTINF:-1,ES: Taquilla 9
-http://51.255.76.67:1557/live/4444/4444/3657.ts
-#EXTINF:-1,ES: Taquilla 10
-http://51.255.76.67:1557/live/4444/4444/3658.ts
-#EXTINF:-1,ES: EUROSPORT
-http://51.255.76.67:1557/live/4444/4444/2161.ts
-#EXTINF:-1,ES: Canal  Deportes
-http://51.255.76.67:1557/live/4444/4444/2149.ts
-#EXTINF:-1,ES: Bein Sport Espagne
-http://51.255.76.67:1557/live/4444/4444/2143.ts
-#EXTINF:-1,ES: Barca TV
-http://51.255.76.67:1557/live/4444/4444/1585.ts
-#EXTINF:-1,ES HD: Canal Futbol HD
-http://pro.satlover.com:58080/live/tudor/tudor/2035.ts
-#EXTINF:-1,ES HD: Bein Liga HD
-http://pro.satlover.com:58080/live/tudor/tudor/2034.ts
-#EXTINF:-1,ES HD: Bein Sport HD
-http://pro.satlover.com:58080/live/tudor/tudor/2033.ts
-#EXTINF:-1,ES HD: Eurosport HD
-http://pro.satlover.com:58080/live/tudor/tudor/2027.ts
-#EXTINF:-1,ES HD: Canal Deportes HD
-http://pro.satlover.com:58080/live/tudor/tudor/2036.ts
-#EXTINF:-1,ES HD: CANAL DEPORTES 2 HD
-http://pro.satlover.com:58080/live/tudor/tudor/2037.ts
-#EXTINF:-1,ES HD: CANAL Golf HD
-http://pro.satlover.com:58080/live/tudor/tudor/2038.ts
-#EXTINF:-1,ES HD: Movistar GP HD
-http://pro.satlover.com:58080/live/tudor/tudor/2040.ts
-#EXTINF:-1,ES HD: MoviStar F1 HD
-http://pro.satlover.com:58080/live/tudor/tudor/2062.ts
-#EXTINF:-1,ES HD: Canal Accion HD
-http://pro.satlover.com:58080/live/tudor/tudor/2045.ts
-#EXTINF:-1,ES HD: Canal Comedia HD
-http://pro.satlover.com:58080/live/tudor/tudor/2044.ts
-#EXTINF:-1,ES HD: Canal Dcine HD
-http://pro.satlover.com:58080/live/tudor/tudor/2043.ts
-#EXTINF:-1,ES HD: CANAL XTRA HD
-http://pro.satlover.com:58080/live/tudor/tudor/2042.ts
-#EXTINF:-1,ES HD: Canal Estrenos HD
-http://pro.satlover.com:58080/live/tudor/tudor/2041.ts
-#EXTINF:-1,ES HD: CANAL  TOROS HD
-http://pro.satlover.com:58080/live/tudor/tudor/2039.ts
-#EXTINF:-1,ES HD: CANAL SERIES HD
-http://pro.satlover.com:58080/live/tudor/tudor/2046.ts
-#EXTINF:-1,ES HD: CANAL SERIES Xtra HD
-http://pro.satlover.com:58080/live/tudor/tudor/2047.ts
-#EXTINF:-1,ES HD: HOLLYWOOD HD
-http://pro.satlover.com:58080/live/tudor/tudor/2050.ts
-#EXTINF:-1,ES HD: FOX HD
-http://pro.satlover.com:58080/live/tudor/tudor/2048.ts
-#EXTINF:-1,ES HD: FOX LIFE HD
-http://pro.satlover.com:58080/live/tudor/tudor/2049.ts
-#EXTINF:-1,ES HD: AXN HD
-http://pro.satlover.com:58080/live/tudor/tudor/2053.ts
-#EXTINF:-1,ES HD: AXN WHITE HD
-http://pro.satlover.com:58080/live/tudor/tudor/2054.ts
-#EXTINF:-1,ES HD: AMC HD
-http://pro.satlover.com:58080/live/tudor/tudor/2055.ts
-#EXTINF:-1,ES HD: SYFY HD
-http://pro.satlover.com:58080/live/tudor/tudor/2056.ts
-#EXTINF:-1,ES HD: TCM HD
-http://pro.satlover.com:58080/live/tudor/tudor/2058.ts
-#EXTINF:-1,ES HD: VIAJAR HD
-http://pro.satlover.com:58080/live/tudor/tudor/2059.ts
-#EXTINF:-1,ES HD: CALLE 13 HD
-http://pro.satlover.com:58080/live/tudor/tudor/2052.ts
-#EXTINF:-1,ES HD: COSMO HD
-http://pro.satlover.com:58080/live/tudor/tudor/2051.ts
-#EXTINF:-1,ES HD: TELEDEPORTE HD
-http://pro.satlover.com:58080/live/tudor/tudor/2032.ts
-#EXTINF:-1,ES HD: LA SEXTA HD
-http://pro.satlover.com:58080/live/tudor/tudor/2031.ts
-#EXTINF:-1,ES HD: TELECINCO HD
-http://pro.satlover.com:58080/live/tudor/tudor/2030.ts
-#EXTINF:-1,ES HD: CUATRO HD
-http://pro.satlover.com:58080/live/tudor/tudor/2029.ts
-#EXTINF:-1,ES HD: ANTENA3 HD
-http://pro.satlover.com:58080/live/tudor/tudor/2028.ts
-#EXTINF:-1,ES HD: NICKELODEON HD
-http://pro.satlover.com:58080/live/tudor/tudor/2057.ts
-#EXTINF:-1,ES HD: NATIONAL GEOGRAPHIC HD
-http://pro.satlover.com:58080/live/tudor/tudor/2061.ts
-#EXTINF:-1,ES HD: NAT GEO WILD HD
-http://pro.satlover.com:58080/live/tudor/tudor/2060.ts
-#EXTINF:-1,ES: beIN SPORT ES
-http://pro.satlover.com:58080/live/tudor/tudor/1714.ts
-#EXTINF:-1,ES: CANAL+ LIGA
-http://pro.satlover.com:58080/live/tudor/tudor/361.ts
-#EXTINF:-1,ES: CANAL+ GOLF
-http://pro.satlover.com:58080/live/tudor/tudor/362.ts
-#EXTINF:-1,ES: C+ DEPORTES
-http://pro.satlover.com:58080/live/tudor/tudor/363.ts
-#EXTINF:-1,ES: Canal + Futbol
-http://pro.satlover.com:58080/live/tudor/tudor/364.ts
-#EXTINF:-1,ES: Canal+ Deportes 2
-http://pro.satlover.com:58080/live/tudor/tudor/365.ts
-#EXTINF:-1,ES: MoviStar F1
-http://pro.satlover.com:58080/live/tudor/tudor/366.ts
-#EXTINF:-1,ES: MoviStar Moto Gp HD
-http://pro.satlover.com:58080/live/tudor/tudor/367.ts
-#EXTINF:-1,ES: Teledeporte
-http://pro.satlover.com:58080/live/tudor/tudor/375.ts
-#EXTINF:-1,ES: Eurosport ES
-http://pro.satlover.com:58080/live/tudor/tudor/376.ts
-#EXTINF:-1,ES: Canal+ Liga 2 HD
-http://pro.satlover.com:58080/live/tudor/tudor/377.ts
-#EXTINF:-1,ES: Canal Deporte Olampico HD
-http://pro.satlover.com:58080/live/tudor/tudor/379.ts
-#EXTINF:-1,ES: Real MadridTV
-http://pro.satlover.com:58080/live/tudor/tudor/378.ts
-#EXTINF:-1,ES: Barca TV
-http://pro.satlover.com:58080/live/tudor/tudor/380.ts
-#EXTINF:-1,ES: NonStop People
-http://pro.satlover.com:58080/live/tudor/tudor/381.ts
-#EXTINF:-1,ES: Calle 13
-http://pro.satlover.com:58080/live/tudor/tudor/382.ts
-#EXTINF:-1,ES: #O HD
-http://pro.satlover.com:58080/live/tudor/tudor/383.ts
-#EXTINF:-1,ES: CANAL+ 1
-http://pro.satlover.com:58080/live/tudor/tudor/384.ts
-#EXTINF:-1,ES: Canal+ Series Xtra
-http://pro.satlover.com:58080/live/tudor/tudor/385.ts
-#EXTINF:-1,ES: C+ ACCIAN
-http://pro.satlover.com:58080/live/tudor/tudor/386.ts
-#EXTINF:-1,ES: CANAL+ Estrenos
-http://pro.satlover.com:58080/live/tudor/tudor/387.ts
-#EXTINF:-1,ES: C+ COMEDIA
-http://pro.satlover.com:58080/live/tudor/tudor/388.ts
-#EXTINF:-1,ES: DCINE
-http://pro.satlover.com:58080/live/tudor/tudor/389.ts
-#EXTINF:-1,ES: C+ Toros HD
-http://pro.satlover.com:58080/live/tudor/tudor/398.ts
-#EXTINF:-1,ES: HOLLYWOOD
-http://pro.satlover.com:58080/live/tudor/tudor/390.ts
-#EXTINF:-1,ES: Fox
-http://pro.satlover.com:58080/live/tudor/tudor/393.ts
-#EXTINF:-1,ES: AXN
-http://pro.satlover.com:58080/live/tudor/tudor/394.ts
-#EXTINF:-1,ES: AXN White
-http://pro.satlover.com:58080/live/tudor/tudor/391.ts
-#EXTINF:-1,ES: SYFY
-http://pro.satlover.com:58080/live/tudor/tudor/392.ts
-#EXTINF:-1,ES: Comedia Central
-http://pro.satlover.com:58080/live/tudor/tudor/395.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/91.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Divinity
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/95.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES: Energy
-http://pro.satlover.com:58080/live/tudor/tudor/397.ts
-#EXTINF:-1,ES: TeleVisa HD
-http://pro.satlover.com:58080/live/tudor/tudor/396.ts
-#EXTINF:-1,ES: La 1 HD
-http://pro.satlover.com:58080/live/tudor/tudor/371.ts
-#EXTINF:-1,ES: La2
-http://pro.satlover.com:58080/live/tudor/tudor/372.ts
-#EXTINF:-1,ES: Anime TV
-http://pro.satlover.com:58080/live/tudor/tudor/373.ts
-#EXTINF:-1,ES: La Sexta
-http://pro.satlover.com:58080/live/tudor/tudor/374.ts
-#EXTINF:-1,ES: TV GALICIA
-http://pro.satlover.com:58080/live/tudor/tudor/399.ts
-#EXTINF:-1,ES: TV3 CAT
-http://pro.satlover.com:58080/live/tudor/tudor/400.ts
-#EXTINF:-1,ES: 40 TV
-http://pro.satlover.com:58080/live/tudor/tudor/401.ts
-#EXTINF:-1,ES: Canal Cocina
-http://pro.satlover.com:58080/live/tudor/tudor/402.ts
-#EXTINF:-1,ES: Antena 3 HD
-http://pro.satlover.com:58080/live/tudor/tudor/403.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/94.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Paramount Channel
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/115.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Discovery Dmax
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/153.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Somos
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/216.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Sundance
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/215.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C-I
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/214.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/93.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/190.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Andalucia TV
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/98.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: ASTURIAS
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/167.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*******  CINE ******
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal #0
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/102.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal   Accion
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/105.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal   Estrenos
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/104.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Dcine
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/108.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: M Cine Ñ
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/106.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal  Comedia
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/111.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/110.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/119.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/121.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Hollywood HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/116.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/117.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: DARK
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/127.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: XTRM
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/128.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,******** SERIES *******
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/168.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal  Series
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/113.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Movistar  Xtra HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/112.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Series Xtra
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/114.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/120.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/122.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/123.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: AXN White
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/124.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Fox HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/125.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/126.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Cosmopolitan HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/103.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: SyFy
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/130.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,***** INFANTILES *****
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/44.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES: Disney Channel
-http://pro.satlover.com:58080/live/tudor/tudor/368.ts
-#EXTINF:-1,ES: Disney Junior
-http://pro.satlover.com:58080/live/tudor/tudor/369.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/158.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES: Disney XD
-http://pro.satlover.com:58080/live/tudor/tudor/370.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/159.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/160.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Baby
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/161.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Nick Jr.
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/164.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/162.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/163.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/165.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,********** DOCUMENTALES ******
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/54.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Cocina
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/149.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: De Casa
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/147.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Odisea
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/146.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Caza y Pesca
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/145.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Iberalia TV
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/144.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Viajar HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/157.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/148.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/101.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/154.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: National Geographic HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/150.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: National Geographic Wild
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/152.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: A & E
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/155.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,****** DEPORTES ******
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/28.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Movistar  Formula 1
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/131.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Movistar Moto GP
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/132.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Movistar  Futbol
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/133.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Movistar  Deportes 1
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/140.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Movistar  Deportes 2
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/141.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: BeIN Sports
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/138.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Bein Sport La Liga HD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/139.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: La Liga
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/134.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: LA LIGA SD
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/207.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Gol TV
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/135.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Movistar  Golf
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/142.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Toros TV
+plugin://plugin.video.f4mTester/?url=http://192.99.200.119:8000/live/abc/abc/156.ts&amp;streamtype=TSDOWNLOADER
+
 
 
 #EXTINF:-1,[COLOR skyblue][I][B]---------------LISTA 2-----------------------------------------[/B][/I][/COLOR]
