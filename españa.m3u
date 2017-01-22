@@ -1,90 +1,138 @@
 #EXTM3U
 
-#EXTINF:-1,ESP:TELECINCO-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3927.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:LA-SEXTA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3928.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:CALLE-13-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3929.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-SERIES-XTRA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3930.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-LIGA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3931.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-GOLF-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3933.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-DEPORTES-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3935.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-DCINE-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3937.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-COMEDIA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3938.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-ACCION-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3939.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-XTRA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3940.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:AXN-WHITE-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3942.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:ANTENA-3-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/3943.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:AMC
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6697.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:ANTENA-3-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6687.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:AXN-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6693.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:Axn-White-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6694.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:Calle-13-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6700.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:Clan-TVE
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6714.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:COSMO-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6702.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:CUATRO-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6688.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:DISNEY-CHANNEL-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6718.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:DISNEY-JUNIOR
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6717.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:DISNEY-XD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6716.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:Fox-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6691.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:FOX-LIFE-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6692.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:HOLLYWOOD-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6701.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:LA-SEXTA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6690.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M ACCION-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6703.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M COMEDIA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6704.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M DCINE-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6705.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M ESTRENOS-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6710.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M Golf-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6713.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M XTRA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6707.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M-Dcine-Espanol
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6706.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:M.Series-Xtra
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6708.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:NAT-GEO-WILD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6719.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:NATIONAL-GEOGRAPHIC
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6720.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:Nova
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6699.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:REAL-MADRID-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6712.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:SyFy
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6698.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:TCM-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6696.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES*:TELECINCO-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/monir/monir/6689.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,SP Viajar - SP Viajar
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1829.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP TVI Inter - SP TVI Inter
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1825.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1824.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP TNT - SP TNT
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1823.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Teledeporte - SP Teledeporte
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1822.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Telecino - SP Telecino
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1821.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TCM_SPAIN
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1890.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SyFy_SPAIN
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1889.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein SPAIN
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1888.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1827.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP NGC Wild - SP NGC Wild
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1851.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP NGC - SP NGC
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1852.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Neox - SP Neox
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1830.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP MTV Espana - SP MTV Espana
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1850.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Moto GP - SP Moto GP
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1867.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Mezzo - SP Mezzo
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1861.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Ltc - SP Ltc
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1866.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP La Sexta - SP La Sexta
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1846.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP La 2 - SP La 2
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1847.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP La 1 - SP La 1
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1854.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Hollywood - SP Hollywood
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1855.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Historia - SP Historia
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1856.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Fox News - SP Fox News
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP FDF - SP FDF
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1858.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Energy - SP Energy
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1864.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Divinity - SP Divinity
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1863.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Disney xd - SP Disney xd
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1862.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Disney Ch - SP Disney Ch
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1820.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Discovery - SP Discovery
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1837.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1840.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Cuatro - SP Cuatro
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1871.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Comedy Central - SP Comedy Central
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1833.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Comedia HD - SP Comedia HD
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1859.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Classica - SP Classica
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1836.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Clan TVe - SP Clan TVe
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1848.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal Sur - SP Canal Sur
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1841.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal Panda - SP Canal Panda
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1839.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1842.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1870.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1869.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1868.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Calle 13 - SP Calle 13
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1843.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Toros - SP C  Toros
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1828.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1874.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Series - SP C  Series
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1834.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Liga - SP C  Liga
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1878.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,C+Golf _SPAIN
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1887.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1832.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,C+Footbol_SPAIN
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1886.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,C+Estrenos_SPAIN
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1885.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1882.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1883.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Deportes - SP C  Deportes
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1884.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1838.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1831.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Boing - SP Boing
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1881.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Bein Sports - SP Bein Sports
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1826.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1845.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Barca Tv - SP Barca Tv
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1860.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Baby Tv - SP Baby Tv
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1844.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP AXN HD - SP AXN HD
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1853.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Antena 3 - SP Antena 3
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1872.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP AMC - SP AMC
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1880.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP AE - SP AE
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1875.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP 40 TV - SP 40 TV
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1877.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP 24 Horas - SP 24 Horas
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1876.ts&amp;streamtype=TSDOWNLOADER
