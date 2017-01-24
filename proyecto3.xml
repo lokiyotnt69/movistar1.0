@@ -6,13 +6,13 @@
   
   
         <item> 
-            <title>---Romania---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=---romania1.0---</link> 
+            <title>---TorosTv---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=---torostv--</link> 
         </item> 
 		
         <item> 
-            <title>--Canal Futbol HD---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2035.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Canal Futbol HD---</link> 
+            <title>--MoviStar F1 HD---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=---MoviStar F1 HD---</link> 
         </item> 
         <item> 
             <title>--Bein Liga HD---</title> 
@@ -20,5 +20,13 @@
         </item> 
 		<item> 
             <title>--Movistar GP HD---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2040.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Movistar GP HD---</link> 
+        </item> 
+		<item> 
+            <title>--Canal Accion HD---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2045.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Canal Accion HD---</link> 
+        </item> 
+		<item> 
+            <title>-----</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2040.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Movistar GP HD---</link> 
         </item> 
