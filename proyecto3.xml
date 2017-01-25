@@ -27,7 +27,7 @@
             <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
         </item>
 		<item> 
-            <title>[COLOR red] BEIN LIGA[/COLOR]</title> 
+            <title>[COLOR blue] BEIN LIGA[/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2034.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA</link> 
         </item>		
 		<item> 
@@ -36,11 +36,11 @@
         </item> 		
         <item> 
             <title>[COLOR red] CANAL + ESTRENOS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2041.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR red] CANAL+ DCINE HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DCINE HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2043.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DCINE HD</link> 
         </item>		
 		<item> 
             <title>[COLOR blue] CANAL + ACCION HD [/COLOR]</title> 
