@@ -6,8 +6,8 @@
   
         
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] TELECINCO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
         </item>		
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
