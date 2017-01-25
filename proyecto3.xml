@@ -33,16 +33,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=--SYFY---</link> 
         </item> 
 		<item> 
-            <title>[COLOR red]Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=--FOX--</link> 
-        </item> 
-         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=-----</link> 
+            <title>[COLOR red] HOLLYWOOD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=--HOLLYWOOD---</link> 
         </item> 
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=-----</link> 
+            <title>[COLOR red]CANAL+ LIGA  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=--CANAL+ LIGA---</link> 
         </item> 		
         <item> 
             <title></title> 
