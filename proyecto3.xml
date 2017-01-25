@@ -33,22 +33,26 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=--SYFY---</link> 
         </item> 
 		<item> 
-            <title>[COLOR red] FOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
-        </item> 
-        <item> 
             <title>[COLOR red]CANAL+ LIGA  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL + LIGA</link> 
         </item> 		
-        <item> 
-            <title>[COLOR red]CANAL+ 1  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ 1</link> 
-        </item> 
-		<item> 
+       	<item> 
             <title>[COLOR red] Canal+ Series Xtra [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Series Xtra</link> 
         </item> 
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=-----</link> 
+            <title>[COLOR red] CANAL ACCION [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
+        </item> 
+		<item> 
+            <title>[COLOR red] AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+		<item> 
+            <title>[COLOR red]ANIMETV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIME TV</link> 
+        </item> 
+		<item> 
+            <title>[COLOR red] CANAL COCINA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/402.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
         </item> 
