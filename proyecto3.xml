@@ -4,29 +4,18 @@
 
   <streamingInfos>
   
-       <item> 
-            <title>[COLOR red] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/daren/daren/3784.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] HOLLYWOOD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/daren/daren/3791.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
-        </item>
-        <item> 
-            <title>[COLOR red] Toros Tv[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/daren/daren/2374.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros tv</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] FOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/daren/daren/2375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>		
 		<item> 
-            <title>[COLOR red] ESTRENOS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/daren/daren/2363.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESTRENOS</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] CANAL+XTRA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/daren/daren/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+XTRA</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
