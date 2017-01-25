@@ -10,6 +10,30 @@
             <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
         </item>		
 		<item> 
+            <title>[COLOR red] SYFY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] PARAMOUNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] MOVISTAR F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1</link> 
+        </item>		
+		<item> 
+            <title>[COLOR red] LA LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] MOTO GP[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
