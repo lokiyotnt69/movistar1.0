@@ -45,14 +45,7 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
         </item> 
 		<item> 
-            <title>[COLOR red] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
-        </item> 
-		<item> 
             <title>[COLOR red]ANIMETV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIME TV</link> 
         </item> 
-		<item> 
-            <title>[COLOR red] CANAL COCINA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/402.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
-        </item> 
+		
