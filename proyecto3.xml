@@ -38,16 +38,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] CANAL ESTRENOS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] CANAL+ DCINE HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DCINE HD</link> 
         </item>		
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red]  CANAL  ACCION HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvlibero.dyndns.org:8000/live/veljifrei/gnciBLIvjT/3764.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= CANAL  ACCION HD</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
