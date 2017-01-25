@@ -30,12 +30,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] BEIN SPORT[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
         </item>		
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] TOROSTV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
