@@ -47,5 +47,12 @@
 		<item> 
             <title>[COLOR red]ANIMETV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIME TV</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] ES #0 HD[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24975.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES #0 HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] 24 HORAS[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24976.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS</link> 
         </item> 
-		
