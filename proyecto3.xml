@@ -23,7 +23,7 @@
         </item>		
 		<item> 
             <title>[COLOR red] LA LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA</link> 
         </item> 		
         <item> 
             <title>[COLOR red] MOTO GP[/COLOR]</title> 
@@ -35,7 +35,7 @@
         </item>		
 		<item> 
             <title>[COLOR red] TOROSTV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item> 		
         <item> 
             <title>[COLOR red] CANAL + ESTRENOS [/COLOR]</title> 
