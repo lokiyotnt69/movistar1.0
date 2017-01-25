@@ -11,8 +11,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] PARAMOUNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/Lista104/104/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT</link> 
+            <title>[COLOR red]LIGA2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.198.175:7879/live/Karim/karim/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGA2</link> 
         </item>
 		<item> 
             <title>[COLOR red] MOVISTAR F1 [/COLOR]</title> 
@@ -32,7 +32,7 @@
         </item>		
 		<item> 
             <title>[COLOR red] TOROSTV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item> 		
         <item> 
             <title>[COLOR red] CANAL + ESTRENOS [/COLOR]</title> 
