@@ -33,14 +33,22 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=--SYFY---</link> 
         </item> 
 		<item> 
-            <title>[COLOR red] CAZA Y PESCA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.198.175:7879/live/Karim/karim/1250.ts&amp;streamtype=TSDOWNLOADER&amp;name=--CAZA Y PESCA---</link> 
+            <title>[COLOR red] FOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
         </item> 
         <item> 
             <title>[COLOR red]CANAL+ LIGA  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=--CANAL+ LIGA---</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL + LIGA</link> 
         </item> 		
         <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=---TorosTv---</link> 
+            <title>[COLOR red]CANAL+ 1  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ 1</link> 
+        </item> 
+		<item> 
+            <title>[COLOR red] Canal+ Series Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Series Xtra</link> 
+        </item> 
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=-----</link> 
         </item> 
