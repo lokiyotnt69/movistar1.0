@@ -4,8 +4,14 @@
 
   <streamingInfos>
   
-  
-        
+        <item> 
+            <title>[COLOR red] SYFY HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/25093.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] TELECINCO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/25095.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item>	
         <item> 
             <title>[COLOR red] BEIN LIGA HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2034.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Bein Liga HD---</link> 
