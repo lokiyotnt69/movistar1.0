@@ -18,10 +18,7 @@
             <title>--MoviStar F1---</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=---MoviStar F1---</link> 
         </item> 
-		<item> 
-            <title>--Eurosport HD---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2027.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Eurosport HD---</link> 
-        </item> 
+		 
 		<item> 
             <title>---Canal Deportes HD---</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=--Canal Deportes HD---</link> 
@@ -35,11 +32,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=--MoviStar Moto Gp HD---</link> 
         </item> 
 		<item> 
-            <title>------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=-----</link> 
+            <title>[COLOR red] CanalPlus Accion[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/bilal/bilal/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=---CanalPlus Accion--</link> 
         </item> 
 		
         <item> 
-            <title>-----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=------</link> 
+            <title>--torostv---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=---TorosTv---</link> 
         </item> 
