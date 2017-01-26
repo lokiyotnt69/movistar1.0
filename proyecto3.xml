@@ -43,8 +43,40 @@
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15420.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] LA SEXTA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15422.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] NEOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24770.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] NOVA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11681.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] MEGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24735.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] FDF [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11708.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]Movistar Estrenos HD  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/18428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Movistar Estrenos  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15425.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos </link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Movistar Acción HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] HDCanal  COMEDIA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24759.ts&amp;streamtype=TSDOWNLOADER&amp;name=HDCanal  COMEDIA HD</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
@@ -67,40 +99,8 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] DARK [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/6332.ts&amp;streamtype=TSDOWNLOADER&amp;name=DARK</link> 
         </item>
 		
 		
