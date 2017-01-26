@@ -149,34 +149,30 @@
         <item> 
             <title>[COLOR red] Paramount Channel [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] FOX UHD[/COLOR] </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX UHD</link> 
-        </item> 		
+        </item>				
         <item> 
             <title>[COLOR red] Fox HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11743.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] SyFy [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11677.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] HD SYFY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24765.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD SYFY</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11672.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] HD TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24764.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD TNT</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
