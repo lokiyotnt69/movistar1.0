@@ -117,11 +117,7 @@
         <item> 
             <title>[COLOR red] XTRM [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/6338.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] TAQUILLAS DE CINE [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24054.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLAS DE CINE </link> 
-        </item> 		
+        </item>	 		
         <item> 
             <title>[COLOR red] Canal Sur Andalucía[/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11745.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Sur Andalucía</link> 
@@ -134,7 +130,90 @@
             <title>[COLOR red] ONDA CADIZ [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24706.ts&amp;streamtype=TSDOWNLOADER&amp;name=ONDA CADIZ</link> 
         </item>
-		
+		<item> 
+            <title>[COLOR red] TAQUILLAS DE CINE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24054.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLAS DE CINE </link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Asalto en paris [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/movie/lorenzo/lorenzo/24228.mp4&amp;streamtype=TSDOWNLOADER&amp;name=Asalto en paris </link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
 		
 		
 		
