@@ -4,15 +4,7 @@
 
   <streamingInfos>
   
-        
-		<item> 
-            <title>[COLOR blue] CANAL+ DCINE HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DCINE HD</link> 
-        </item>		
-		<item> 
-            <title>[COLOR blue] CANAL + ACCION HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/900.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL  ACCION HD</link> 
-        </item> 		
+ 
         <item> 
             <title>[COLOR red] CANAL + ESTRENOS [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24755.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
@@ -119,8 +111,8 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Torostv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24490.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
@@ -135,12 +127,12 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] DIVINITY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11712.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] ONDA CADIZ [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24706.ts&amp;streamtype=TSDOWNLOADER&amp;name=ONDA CADIZ</link> 
         </item>
 		
 		
