@@ -5,21 +5,8 @@
   <streamingInfos>
   
         
-		
 		<item> 
-            <title>[COLOR red] SYFY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam1/adam1/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
-        </item>        	
-		<item> 
-            <title>[COLOR red] TOROSTV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam1/adam1/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] CANAL + ESTRENOS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam1/adam1/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] CANAL+ DCINE HD [/COLOR]</title> 
+            <title>[COLOR blue] CANAL+ DCINE HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DCINE HD</link> 
         </item>		
 		<item> 
@@ -27,8 +14,13 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/900.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL  ACCION HD</link> 
         </item> 		
         <item> 
+            <title>[COLOR red] CANAL + ESTRENOS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24755.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
+        </item>
+				
+        <item> 
             <title>[COLOR red] Mega [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam1/adam1/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11694.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
         </item>
 		
 		
