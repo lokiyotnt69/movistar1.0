@@ -65,8 +65,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/321.ts&amp;streamtype=TSDOWNLOADER&amp;name= Taquilla 2</link> 
         </item> 		
         <item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] LaLiga_TV_Bar.HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga_TV_Bar.HD</link> 
         </item>
 		<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
