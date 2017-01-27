@@ -183,12 +183,36 @@
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Caza y Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11725.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Iberalia TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iberalia TV</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Iberalia TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iberalia TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Canal Cocina [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24797.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] HISTORIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11704.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Crimen + Investigación [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/18423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crimen + Investigación</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Odisea [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] NAT GEO WILD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15427.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
@@ -210,6 +234,21 @@
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-		
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
 		
 		
