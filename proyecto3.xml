@@ -13,6 +13,22 @@
             <link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
         </item>
 		<item> 
+            <title>[COLOR blue] Cuatro [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR blue] Telecinco [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
+        </item>
+		<item> 
+            <title>[COLOR blue] La Sexta [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR blue] Andalucia TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia TV</link> 
+        </item>
+		<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
@@ -25,23 +41,7 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+            <title>[COLOR blue]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
  
