@@ -83,74 +83,30 @@
 		<item> 
             <title>[COLOR blue] Canal Panda Spain [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda Spain</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  Taquilla 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name= Taquilla 1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] NOVA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.155.131:8000/live/60073/60073/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+            <title>[COLOR yellow] Taquilla 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] HOLLYWOODHD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.155.131:8000/live/60073/60073/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOODHD</link> 
+            <title>[COLOR yellow] Taquilla 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] M.MOTOGP HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.MOTOGP HD</link> 
+            <title>[COLOR yellow] Canal+ Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Liga</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] #0 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/967.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD</link> 
+            <title>[COLOR yellow] Canal+ Deportes HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Deportes HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] ES: #0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #0</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  24 HORAS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] TV3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LA SEXTA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LA SEXTA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ANTENA 3 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal+ Accion [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Accion</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
