@@ -2,16 +2,15 @@
 
 #EXTINF:-1,[COLOR yellow][I][B]-------------------------LA LIGA-----------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,SP: CANAL  LIGA HD
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2665.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Canal  Liga 2 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2719.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP: Canal  Liga
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2710.ts&amp;streamtype=TSDOWNLOADER
 
 
-#EXTINF:-1,BEIN SPAIN
-plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1888.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP C  Liga - SP C  Liga
-plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1878.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP Bein Sports - SP Bein Sports
-plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1826.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPAIN
-plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1888.ts&amp;streamtype=TSDOWNLOADER
+
 
 
 #EXTINF:-1,[COLOR yellow][I][B]------------------------------------------------[/B][/I][/COLOR]
