@@ -7,8 +7,8 @@
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow] CANAL  LIGA HD  [/COLOR]
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2665.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] Canal  Liga  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2710.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]   [/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]   [/COLOR]
@@ -17,7 +17,8 @@ plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 
 
-
+	 
+         
 
 
 
