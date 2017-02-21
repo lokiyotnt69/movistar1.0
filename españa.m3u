@@ -3,371 +3,985 @@
 
 
 
-#EXTINF:-1,[COLOR red][I][B]----------5-1-2017-----------LISTA 1 MOVISTAR-----------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]----------20-1-2017-----------LISTA 25 Servers MOVISTAR-----------------------------[/B][/I][/COLOR]
 
 
 
 
+#EXTINF:-1 group-title="S-1-mydream4",#0 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1690.m3u8
+#EXTINF:-1 group-title="S-1-mydream4", -Hollywood-Spain-HD (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1783.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Axn (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1691.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Barca.Tv (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1686.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Beinsport (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1687.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Calle13 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1692.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Casa Y Pesca (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1688.m3u8
+#EXTINF:-1 group-title="S-1-mydream4", c  Futbol (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1800.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Cuatro (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1697.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Fox (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1694.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Hollywood (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1700.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",La1 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1699.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",La2 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1698.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",La Sextra (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1696.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Accion (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1709.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Comidia (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1710.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Dcine (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1711.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Deportes1 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1701.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Estrenos (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1704.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Futbol (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1702.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.LaLiga1 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1703.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Series (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1705.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Series.xtra (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1706.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Toros (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1707.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",M.Xtra (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1708.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Nat Geo (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1689.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Real Madrid (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1685.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Syfy (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1693.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla1 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1684.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla2 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1683.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla3 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1682.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla4 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1681.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla5 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1680.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla6 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1679.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla7 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1678.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Taquilla8 (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1677.m3u8
+#EXTINF:-1 group-title="S-1-mydream4",Tnt (s-1)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1695.m3u8
+#EXTINF:0 group-title="S-2-mydream4",== S-2-mydream4 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-2-mydream4",#0 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1690.m3u8
+#EXTINF:-1 group-title="S-2-mydream4", -Hollywood-Spain-HD (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1783.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Axn (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1691.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Barca.Tv (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1686.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Beinsport (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1687.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Calle13 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1692.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Casa Y Pesca (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1688.m3u8
+#EXTINF:-1 group-title="S-2-mydream4", c  Futbol (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1800.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Cuatro (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1697.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Fox (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1694.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Hollywood (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1700.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",La1 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1699.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",La2 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1698.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",La Sextra (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1696.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Accion (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1709.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Comidia (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1710.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Dcine (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1711.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Deportes1 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1701.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Estrenos (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1704.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Futbol (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1702.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.LaLiga1 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1703.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Series (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1705.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Series.xtra (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1706.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Toros (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1707.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",M.Xtra (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1708.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Nat Geo (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1689.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Real Madrid (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1685.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Syfy (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1693.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla1 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1684.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla2 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1683.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla3 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1682.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla4 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1681.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla5 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1680.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla6 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1679.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla7 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1678.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Taquilla8 (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1677.m3u8
+#EXTINF:-1 group-title="S-2-mydream4",Tnt (s-2)
+http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1695.m3u8
+#EXTINF:0 group-title="S-3-aliptv",== S-3-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 1 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/914.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 2 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/976.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 3 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/977.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 4 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/978.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 5 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/979.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 6 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/980.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 7 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/981.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 8 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/982.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 9 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/983.ts
+#EXTINF:-1 group-title="S-3-aliptv",Taquilla 10 (ts)(s-3)
+http://aliptv.info:16000/live/hema/hema/984.ts
+#EXTINF:0 group-title="S-4-aliptv",== S-4-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 1 (s-4)
+http://aliptv.info:16000/live/elska/elska/914.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 2 (s-4)
+http://aliptv.info:16000/live/elska/elska/976.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 3 (s-4)
+http://aliptv.info:16000/live/elska/elska/977.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 4 (s-4)
+http://aliptv.info:16000/live/elska/elska/978.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 5 (s-4)
+http://aliptv.info:16000/live/elska/elska/979.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 6 (s-4)
+http://aliptv.info:16000/live/elska/elska/980.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 7 (s-4)
+http://aliptv.info:16000/live/elska/elska/981.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 8 (s-4)
+http://aliptv.info:16000/live/elska/elska/982.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 9 (s-4)
+http://aliptv.info:16000/live/elska/elska/983.m3u8
+#EXTINF:-1 group-title="S-4-aliptv",Taquilla 10 (s-4)
+http://aliptv.info:16000/live/elska/elska/984.m3u8
+#EXTINF:0 group-title="S-5-aliptv",== S-5-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 1 (s-5)
+http://aliptv.info:16000/live/peter/peter/914.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 2 (s-5)
+http://aliptv.info:16000/live/peter/peter/976.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 3 (s-5)
+http://aliptv.info:16000/live/peter/peter/977.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 4 (s-5)
+http://aliptv.info:16000/live/peter/peter/978.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 5 (s-5)
+http://aliptv.info:16000/live/peter/peter/979.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 6 (s-5)
+http://aliptv.info:16000/live/peter/peter/980.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 7 (s-5)
+http://aliptv.info:16000/live/peter/peter/981.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 8 (s-5)
+http://aliptv.info:16000/live/peter/peter/982.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 9 (s-5)
+http://aliptv.info:16000/live/peter/peter/983.m3u8
+#EXTINF:-1 group-title="S-5-aliptv",Taquilla 10 (s-5)
+http://aliptv.info:16000/live/peter/peter/984.m3u8
+#EXTINF:0 group-title="S-6-aliptv",== S-6-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 1 (s-6)
+http://aliptv.info:16000/live/90909/90909/914.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 2 (s-6)
+http://aliptv.info:16000/live/90909/90909/976.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 3 (s-6)
+http://aliptv.info:16000/live/90909/90909/977.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 4 (s-6)
+http://aliptv.info:16000/live/90909/90909/978.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 5 (s-6)
+http://aliptv.info:16000/live/90909/90909/979.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 6 (s-6)
+http://aliptv.info:16000/live/90909/90909/980.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 7 (s-6)
+http://aliptv.info:16000/live/90909/90909/981.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 8 (s-6)
+http://aliptv.info:16000/live/90909/90909/982.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 9 (s-6)
+http://aliptv.info:16000/live/90909/90909/983.m3u8
+#EXTINF:-1 group-title="S-6-aliptv",Taquilla 10 (s-6)
+http://aliptv.info:16000/live/90909/90909/984.m3u8
+#EXTINF:0 group-title="S-7-aliptv",== S-7-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 1 (s-7)
+http://aliptv.info:16000/live/33333/33333/914.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 2 (s-7)
+http://aliptv.info:16000/live/33333/33333/976.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 3 (s-7)
+http://aliptv.info:16000/live/33333/33333/977.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 4 (s-7)
+http://aliptv.info:16000/live/33333/33333/978.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 5 (s-7)
+http://aliptv.info:16000/live/33333/33333/979.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 6 (s-7)
+http://aliptv.info:16000/live/33333/33333/980.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 7 (s-7)
+http://aliptv.info:16000/live/33333/33333/981.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 8 (s-7)
+http://aliptv.info:16000/live/33333/33333/982.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 9 (s-7)
+http://aliptv.info:16000/live/33333/33333/983.m3u8
+#EXTINF:-1 group-title="S-7-aliptv",Taquilla 10 (s-7)
+http://aliptv.info:16000/live/33333/33333/984.m3u8
+#EXTINF:0 group-title="S-8-aliptv",== S-8-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 1 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/914.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 2 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/976.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 3 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/977.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 4 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/978.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 5 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/979.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 6 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/980.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 7 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/981.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 8 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/982.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 9 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/983.m3u8
+#EXTINF:-1 group-title="S-8-aliptv",Taquilla 10 (s-8)
+http://aliptv.info:16000/live/44445555/44445555/984.m3u8
+#EXTINF:0 group-title="S-9-aliptv",== S-9-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 1 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/914.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 2 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/976.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 3 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/977.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 4 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/978.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 5 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/979.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 6 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/980.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 7 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/981.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 8 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/982.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 9 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/983.m3u8
+#EXTINF:-1 group-title="S-9-aliptv",Taquilla 10 (s-9)
+http://aliptv.info:16000/live/admin2/admin2/984.m3u8
+#EXTINF:0 group-title="S-10-aliptv",== S-10-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 1 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/914.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 2 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/976.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 3 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/977.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 4 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/978.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 5 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/979.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 6 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/980.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 7 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/981.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 8 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/982.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 9 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/983.m3u8
+#EXTINF:-1 group-title="S-10-aliptv",Taquilla 10 (s-10)
+http://aliptv.info:16000/live/admin3/admin3/984.m3u8
+#EXTINF:0 group-title="S-11-aliptv",== S-11-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 1 (s-11)
+http://aliptv.info:16000/live/33333/33333/914.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 2 (s-11)
+http://aliptv.info:16000/live/33333/33333/976.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 3 (s-11)
+http://aliptv.info:16000/live/33333/33333/977.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 4 (s-11)
+http://aliptv.info:16000/live/33333/33333/978.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 5 (s-11)
+http://aliptv.info:16000/live/33333/33333/979.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 6 (s-11)
+http://aliptv.info:16000/live/33333/33333/980.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 7 (s-11)
+http://aliptv.info:16000/live/33333/33333/981.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 8 (s-11)
+http://aliptv.info:16000/live/33333/33333/982.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 9 (s-11)
+http://aliptv.info:16000/live/33333/33333/983.m3u8
+#EXTINF:-1 group-title="S-11-aliptv",Taquilla 10 (s-11)
+http://aliptv.info:16000/live/33333/33333/984.m3u8
+#EXTINF:0 group-title="S-12-aliptv",== S-12-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 1 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/914.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 2 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/976.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 3 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/977.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 4 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/978.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 5 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/979.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 6 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/980.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 7 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/981.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 8 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/982.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 9 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/983.m3u8
+#EXTINF:-1 group-title="S-12-aliptv",Taquilla 10 (s-12)
+http://aliptv.info:16000/live/alaa/alaa/984.m3u8
+#EXTINF:0 group-title="S-13-aliptv",== S-13-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 1 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/914.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 2 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/976.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 3 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/977.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 4 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/978.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 5 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/979.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 6 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/980.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 7 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/981.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 8 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/982.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 9 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/983.m3u8
+#EXTINF:-1 group-title="S-13-aliptv",Taquilla 10 (s-13)
+http://aliptv.info:16000/live/admin5/admin5/984.m3u8
+#EXTINF:0 group-title="S-14-www",== S-14-www ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-14-www",Antena3 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2298.m3u8
+#EXTINF:-1 group-title="S-14-www",BarcaTV (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2724.m3u8
+#EXTINF:-1 group-title="S-14-www",BeinLaLiga (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2585.m3u8
+#EXTINF:-1 group-title="S-14-www",BeinLaLiga1 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2767.m3u8
+#EXTINF:-1 group-title="S-14-www",Calle13HD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2600.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal-Accion (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2299.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal-Comedea (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2297.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal-Dcin (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2296.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal-ESTRENO (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2352.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal-Golf (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2300.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal-TOROS (s-14)
+http://www.vips2016.com:8088/live/ali/ali/1243.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal-Xtra (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2301.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal2HD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2599.m3u8
+#EXTINF:-1 group-title="S-14-www",CanalFutbal (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2247.m3u8
+#EXTINF:-1 group-title="S-14-www",CanalHD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2584.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal Deportes (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2248.m3u8
+#EXTINF:-1 group-title="S-14-www",Canal LIGA (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2246.m3u8
+#EXTINF:-1 group-title="S-14-www",DisneyXD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2583.m3u8
+#EXTINF:-1 group-title="S-14-www",Disney Channel (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2722.m3u8
+#EXTINF:-1 group-title="S-14-www",Disney Junior (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2721.m3u8
+#EXTINF:-1 group-title="S-14-www",FoxLifeHD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2582.m3u8
+#EXTINF:-1 group-title="S-14-www",Fox Movie HD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2381.m3u8
+#EXTINF:-1 group-title="S-14-www",Hollywood Spain (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2384.m3u8
+#EXTINF:-1 group-title="S-14-www",LA1 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2383.m3u8
+#EXTINF:-1 group-title="S-14-www",LA2 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2727.m3u8
+#EXTINF:-1 group-title="S-14-www",LaSextaHD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2598.m3u8
+#EXTINF:-1 group-title="S-14-www",NatGeoWild (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2581.m3u8
+#EXTINF:-1 group-title="S-14-www",National-Geo (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2302.m3u8
+#EXTINF:-1 group-title="S-14-www",Nickelodeon (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2580.m3u8
+#EXTINF:-1 group-title="S-14-www",NOVA (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2579.m3u8
+#EXTINF:-1 group-title="S-14-www",Real Madrid (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2382.m3u8
+#EXTINF:-1 group-title="S-14-www",Ribera (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2771.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla1 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2358.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla2 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2359.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla3 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2360.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla4 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2361.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla5 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2362.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla6 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2357.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla7 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2356.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla8 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2355.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla9 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2354.m3u8
+#EXTINF:-1 group-title="S-14-www",Taquilla10 (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2353.m3u8
+#EXTINF:-1 group-title="S-14-www",TELECINCO (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2351.m3u8
+#EXTINF:-1 group-title="S-14-www",Tele Uno (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2770.m3u8
+#EXTINF:-1 group-title="S-14-www",TVE1 HD (s-14)
+http://www.vips2016.com:8088/live/ali/ali/2597.m3u8
+#EXTINF:0 group-title="S-15-aliptv",== S-15-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 1 (s-15)
+http://aliptv.info:16000/live/90909/90909/914.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 2 (s-15)
+http://aliptv.info:16000/live/90909/90909/976.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 3 (s-15)
+http://aliptv.info:16000/live/90909/90909/977.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 4 (s-15)
+http://aliptv.info:16000/live/90909/90909/978.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 5 (s-15)
+http://aliptv.info:16000/live/90909/90909/979.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 6 (s-15)
+http://aliptv.info:16000/live/90909/90909/980.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 7 (s-15)
+http://aliptv.info:16000/live/90909/90909/981.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 8 (s-15)
+http://aliptv.info:16000/live/90909/90909/982.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 9 (s-15)
+http://aliptv.info:16000/live/90909/90909/983.m3u8
+#EXTINF:-1 group-title="S-15-aliptv",Taquilla 10 (s-15)
+http://aliptv.info:16000/live/90909/90909/984.m3u8
+#EXTINF:0 group-title="S-16-aliptv",== S-16-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 1 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/914.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 2 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/976.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 3 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/977.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 4 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/978.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 5 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/979.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 6 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/980.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 7 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/981.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 8 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/982.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 9 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/983.m3u8
+#EXTINF:-1 group-title="S-16-aliptv",Taquilla 10 (s-16)
+http://aliptv.info:16000/live/admin8/admin8/984.m3u8
+#EXTINF:0 group-title="S-17-aliptv",== S-17-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 1 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/914.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 2 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/976.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 3 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/977.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 4 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/978.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 5 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/979.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 6 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/980.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 7 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/981.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 8 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/982.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 9 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/983.m3u8
+#EXTINF:-1 group-title="S-17-aliptv",Taquilla 10 (s-17)
+http://aliptv.info:16000/live/admin9/admin9/984.m3u8
+#EXTINF:0 group-title="S-18-aliptv",== S-18-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 1 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/914.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 2 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/976.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 3 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/977.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 4 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/978.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 5 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/979.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 6 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/980.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 7 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/981.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 8 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/982.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 9 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/983.m3u8
+#EXTINF:-1 group-title="S-18-aliptv",Taquilla 10 (s-18)
+http://aliptv.info:16000/live/admin10/admin10/984.m3u8
+#EXTINF:0 group-title="S-19-aliptv",== S-19-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 1 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/914.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 2 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/976.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 3 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/977.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 4 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/978.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 5 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/979.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 6 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/980.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 7 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/981.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 8 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/982.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 9 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/983.m3u8
+#EXTINF:-1 group-title="S-19-aliptv",Taquilla 10 (s-19)
+http://aliptv.info:16000/live/admin6/admin6/984.m3u8
+#EXTINF:0 group-title="S-20-aliptv",== S-20-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 1 (s-20)
+http://aliptv.info:16000/live/baher/baher/914.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 2 (s-20)
+http://aliptv.info:16000/live/baher/baher/976.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 3 (s-20)
+http://aliptv.info:16000/live/baher/baher/977.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 4 (s-20)
+http://aliptv.info:16000/live/baher/baher/978.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 5 (s-20)
+http://aliptv.info:16000/live/baher/baher/979.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 6 (s-20)
+http://aliptv.info:16000/live/baher/baher/980.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 7 (s-20)
+http://aliptv.info:16000/live/baher/baher/981.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 8 (s-20)
+http://aliptv.info:16000/live/baher/baher/982.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 9 (s-20)
+http://aliptv.info:16000/live/baher/baher/983.m3u8
+#EXTINF:-1 group-title="S-20-aliptv",Taquilla 10 (s-20)
+http://aliptv.info:16000/live/baher/baher/984.m3u8
+#EXTINF:0 group-title="S-21-aliptv",== S-21-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 1 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/914.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 2 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/976.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 3 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/977.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 4 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/978.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 5 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/979.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 6 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/980.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 7 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/981.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 8 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/982.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 9 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/983.m3u8
+#EXTINF:-1 group-title="S-21-aliptv",Taquilla 10 (s-21)
+http://aliptv.info:16000/live/44445555/44445555/984.m3u8
+#EXTINF:0 group-title="S-22-aliptv",== S-22-aliptv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 1 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/914.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 2 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/976.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 3 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/977.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 4 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/978.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 5 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/979.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 6 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/980.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 7 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/981.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 8 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/982.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 9 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/983.m3u8
+#EXTINF:-1 group-title="S-22-aliptv",Taquilla 10 (s-22)
+http://aliptv.info:16000/live/ahmed/ahmed/984.m3u8
+#EXTINF:0 group-title="S-23-tv",== S-23-tv ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-23-tv",ANTENA3 HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/526.m3u8
+#EXTINF:-1 group-title="S-23-tv",AXN HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/553.m3u8
+#EXTINF:-1 group-title="S-23-tv",CANAL ACTION HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/552.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal COMEDIA HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/551.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal DCINE HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/550.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal DEPORTES 2 HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/549.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal DEPORTES HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/548.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal ESTRENOS HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/547.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal FUTBOL HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/546.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal GOLF HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/545.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal LIGA 2 HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/544.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal LIGA HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/543.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal SERIES HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/542.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal TOROS HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/541.m3u8
+#EXTINF:-1 group-title="S-23-tv",Canal XTRA HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/540.m3u8
+#EXTINF:-1 group-title="S-23-tv",CUATRO HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/527.m3u8
+#EXTINF:-1 group-title="S-23-tv",DISCOVERY CHANNEL HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/538.m3u8
+#EXTINF:-1 group-title="S-23-tv",DISCOVERY CI (s-23)
+http://tv.jebbari.com:8000/live/1/2/537.m3u8
+#EXTINF:-1 group-title="S-23-tv",DISNEY JUNIOR (s-23)
+http://tv.jebbari.com:8000/live/1/2/535.m3u8
+#EXTINF:-1 group-title="S-23-tv",DISNEY XD (s-23)
+http://tv.jebbari.com:8000/live/1/2/534.m3u8
+#EXTINF:-1 group-title="S-23-tv",DISNE CHANNEL HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/536.m3u8
+#EXTINF:-1 group-title="S-23-tv",FOX HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/533.m3u8
+#EXTINF:-1 group-title="S-23-tv",FOX LIFE HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/532.m3u8
+#EXTINF:-1 group-title="S-23-tv",HISTORIA (s-23)
+http://tv.jebbari.com:8000/live/1/2/531.m3u8
+#EXTINF:-1 group-title="S-23-tv",HOLLYWOOD HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/530.m3u8
+#EXTINF:-1 group-title="S-23-tv",LA 1 HD\ (s-23)
+http://tv.jebbari.com:8000/live/1/2/524.m3u8
+#EXTINF:-1 group-title="S-23-tv",LA 2 HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/525.m3u8
+#EXTINF:-1 group-title="S-23-tv",LA SEXTA HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/529.m3u8
+#EXTINF:-1 group-title="S-23-tv",TELECINCO HD (s-23)
+http://tv.jebbari.com:8000/live/1/2/528.m3u8
+#EXTINF:0 group-title="S-24-s1",== S-24-s1 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-24-s1", #0 HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3974.m3u8
+#EXTINF:-1 group-title="S-24-s1", 24h (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3975.m3u8
+#EXTINF:-1 group-title="S-24-s1", 40TV (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3976.m3u8
+#EXTINF:-1 group-title="S-24-s1", 360 TV (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4970.m3u8
+#EXTINF:-1 group-title="S-24-s1", A&E (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3977.m3u8
+#EXTINF:-1 group-title="S-24-s1", AMC HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3978.m3u8
+#EXTINF:-1 group-title="S-24-s1", ANTENA 3 HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3979.m3u8
+#EXTINF:-1 group-title="S-24-s1", Antena 3 Internacional HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4971.m3u8
+#EXTINF:-1 group-title="S-24-s1", AXN HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3980.m3u8
+#EXTINF:-1 group-title="S-24-s1", AXN WHITE (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3981.m3u8
+#EXTINF:-1 group-title="S-24-s1", Azteca 13 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4972.m3u8
+#EXTINF:-1 group-title="S-24-s1", BABY (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3982.m3u8
+#EXTINF:-1 group-title="S-24-s1", BARCATV (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3983.m3u8
+#EXTINF:-1 group-title="S-24-s1", beIN Sport Ñ HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3984.m3u8
+#EXTINF:-1 group-title="S-24-s1", BOING (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3985.m3u8
+#EXTINF:-1 group-title="S-24-s1", CALLE13 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3991.m3u8
+#EXTINF:-1 group-title="S-24-s1", Canal COCINA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4001.m3u8
+#EXTINF:-1 group-title="S-24-s1", Canal DECASA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4002.m3u8
+#EXTINF:-1 group-title="S-24-s1", Canal DE LA ESTRELLAS (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3999.m3u8
+#EXTINF:-1 group-title="S-24-s1", CANAL HISTORIA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4018.m3u8
+#EXTINF:-1 group-title="S-24-s1", Canal ODISEA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4003.m3u8
+#EXTINF:-1 group-title="S-24-s1", Canal PANDA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4000.m3u8
+#EXTINF:-1 group-title="S-24-s1", CAZAYPESCA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4004.m3u8
+#EXTINF:-1 group-title="S-24-s1", CBN Español (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4973.m3u8
+#EXTINF:-1 group-title="S-24-s1", CLANTVE (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4005.m3u8
+#EXTINF:-1 group-title="S-24-s1", COMEDY CENTRAL (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4006.m3u8
+#EXTINF:-1 group-title="S-24-s1", COSMOPOLITAN HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4007.m3u8
+#EXTINF:-1 group-title="S-24-s1", CRIMEN INVESTIGACIÓN (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4008.m3u8
+#EXTINF:-1 group-title="S-24-s1", CUATRO HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4009.m3u8
+#EXTINF:-1 group-title="S-24-s1", DISCOVERY (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4011.m3u8
+#EXTINF:-1 group-title="S-24-s1", DISNEY (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4012.m3u8
+#EXTINF:-1 group-title="S-24-s1", DIVINITY (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4013.m3u8
+#EXTINF:-1 group-title="S-24-s1", Efekto TV HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4974.m3u8
+#EXTINF:-1 group-title="S-24-s1", ENERGY (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4014.m3u8
+#EXTINF:-1 group-title="S-24-s1", EUROSPORT1 HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4015.m3u8
+#EXTINF:-1 group-title="S-24-s1", FOX HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4016.m3u8
+#EXTINF:-1 group-title="S-24-s1", FOX LIFE HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4017.m3u8
+#EXTINF:-1 group-title="S-24-s1", HOLLYWOOD HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4019.m3u8
+#EXTINF:-1 group-title="S-24-s1", LA1 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4021.m3u8
+#EXTINF:-1 group-title="S-24-s1", LA2 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4022.m3u8
+#EXTINF:-1 group-title="S-24-s1", LaLiga TV HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4388.m3u8
+#EXTINF:-1 group-title="S-24-s1", LA SEXTA HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4020.m3u8
+#EXTINF:-1 group-title="S-24-s1", Latina TV (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4975.m3u8
+#EXTINF:-1 group-title="S-24-s1", LTC (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4023.m3u8
+#EXTINF:-1 group-title="S-24-s1", MEGA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4024.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar ACCION HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3993.m3u8
+#EXTINF:-1 group-title="S-24-s1", MOVISTAR CINE Ñ (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4010.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar COMEDIA HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3994.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar DCINE HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3995.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar DEPORTES 1 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3986.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar DEPORTES 2 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3987.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar ESTRENOS (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3996.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar F1 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4025.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar FUTBOL (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3988.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar GOLF (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3989.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar MOTOGP (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4026.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar SERIES HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3997.m3u8
+#EXTINF:-1 group-title="S-24-s1", Movistar TOROS (s-24)
+http://s1.finoip.com:20000/live/mark/mark/3998.m3u8
+#EXTINF:-1 group-title="S-24-s1", MTV ESPANA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4027.m3u8
+#EXTINF:-1 group-title="S-24-s1", NATGEOGRAPH (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4030.m3u8
+#EXTINF:-1 group-title="S-24-s1", NAT GEO HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4028.m3u8
+#EXTINF:-1 group-title="S-24-s1", NAT GEO WILD HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4029.m3u8
+#EXTINF:-1 group-title="S-24-s1", NEOX (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4031.m3u8
+#EXTINF:-1 group-title="S-24-s1", Nickelodeon HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4032.m3u8
+#EXTINF:-1 group-title="S-24-s1", NONSTOPEOPLE (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4033.m3u8
+#EXTINF:-1 group-title="S-24-s1", NOVA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4034.m3u8
+#EXTINF:-1 group-title="S-24-s1", Orbe 21 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4976.m3u8
+#EXTINF:-1 group-title="S-24-s1", PARAMOUNT CHANNEL (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4035.m3u8
+#EXTINF:-1 group-title="S-24-s1", Proyecto 40 (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4977.m3u8
+#EXTINF:-1 group-title="S-24-s1", Real Madrid TV (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4318.m3u8
+#EXTINF:-1 group-title="S-24-s1", SOL MUSICA (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4036.m3u8
+#EXTINF:-1 group-title="S-24-s1", SYFY HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4037.m3u8
+#EXTINF:-1 group-title="S-24-s1", TCM (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4038.m3u8
+#EXTINF:-1 group-title="S-24-s1", TELECINCO HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4039.m3u8
+#EXTINF:-1 group-title="S-24-s1", TELEDEPORTE (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4040.m3u8
+#EXTINF:-1 group-title="S-24-s1", TNT HD (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4041.m3u8
+#EXTINF:-1 group-title="S-24-s1", VIAJAR (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4042.m3u8
+#EXTINF:-1 group-title="S-24-s1", Willax TV (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4978.m3u8
+#EXTINF:-1 group-title="S-24-s1", Win Sports (s-24)
+http://s1.finoip.com:20000/live/mark/mark/4979.m3u8
+#EXTINF:0 group-title="S-25-IPTV",== S-25-IPTV ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 group-title="S-25-IPTV",-24-Horas (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1473.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-AMC (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1477.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Andalucia-TV (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/374.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-ANTENA-3 (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/200.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-AXN (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/503.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Axn-White (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/702.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Barca-TV (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/206.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Calle-13 (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/203.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Clan-TVE (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1478.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-COMEDY-CENTRAL (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/510.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-COSMO (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/711.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-CUATRO (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/491.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Discovery (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1490.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-DISNEY-CHANNEL (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/509.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-DISNEY-JUNIOR (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/704.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-DISNEY-XD (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/705.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Eurosport 1 (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1482.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Fox (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/335.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-FOX-LIFE (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/213.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-HOLLYWOOD (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/214.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Iberalia-TV (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1484.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-LA-1 (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/199.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-LA-2 (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/701.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-LA-SEXTA (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/202.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+ACCION (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/284.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+Cocina (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/209.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+COMEDIA (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/283.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+DCINE (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/282.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+ESTRENOS (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/888.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+Golf (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/208.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+SERIES (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/275.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M+XTRA (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/285.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M-Dcine-Espanol (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1480.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M.Deportes (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1481.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M.FUTBOL (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/889.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M.MOTOGP (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/500.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M.MOVISTAR-F1 (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/499.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M.Series-Xtra (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1475.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-M.TOROS (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/205.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-NAT-GEO-WILD (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/709.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-NATIONAL-GEOGRAPHIC (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/710.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-Nova (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1487.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-REAL-MADRID (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/367.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-SyFy (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1474.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-TCM (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/496.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-TELECINCO (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/201.m3u8
+#EXTINF:-1 group-title="S-25-IPTV",-TNT (s-25)
+http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/495.m3u8
 
-#EXTINF:-1,SP:HWD HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2707.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2623.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TVN Chile HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2629.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TVE LA 2
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2624.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TVE LA 1
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2625.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Tve 24
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2673.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TVE 1 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2674.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TV Galicia
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2630.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TELEVISA HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2675.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Teledeporte
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2676.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2626.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Sport CDO HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2631.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: SEVILLA FC
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2677.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Real Madrid
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2632.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NOVA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2686.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NICKELODEON
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2687.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NICK JUNIOR
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2688.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: National Geographic Wild
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2633.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC CHANNEL
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2627.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2689.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NAT GEO WILD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2690.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MTV ROCKS
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2691.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movies Star Moto Gp
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2634.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movie Star F1
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2635.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: La Sexta HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2692.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: LA SEXTA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2693.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2678.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2679.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: ITV HD Chile
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2636.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: History HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2637.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2694.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: GOL TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2628.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: FOX LIFE
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2695.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2661.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: FOX
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2696.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Fdf
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2697.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Eurosport
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2698.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Energy
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2699.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: DISTRITO COMEDIA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2662.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2700.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2701.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2702.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Discovery Channel
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2638.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: DCINE ESPANOL
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2703.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CUATRO
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2704.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Cosmo
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2639.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2705.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Chile La Red
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2640.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CBN en Espaol
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2641.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CAZA Y PESCA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2706.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2642.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Sevilla
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2643.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL SERIES HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2668.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL ODISEA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2664.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Musica
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2644.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Deportes HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2721.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2645.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Costa
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2646.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Cocina
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2647.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Baby
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2648.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal 7 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2649.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal 41 Mar Del
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2650.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal 3 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2651.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal 2 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2652.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal 13
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2653.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal 1
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2717.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL  Xtra HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2667.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  TOROS
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2718.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  Series Xtra
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2708.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  Series HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2709.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL  LIGA HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2665.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  Liga 2 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2719.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  Liga
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2710.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL  HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2711.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  GOLF
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2712.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL  FUTBOL HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2669.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  Estrenos
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2720.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  Deportes
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2713.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL  DCINE HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2670.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  DCINE
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2663.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  Comedia
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2715.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal  ACCION
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2716.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CANAL  1
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2666.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: CALLE 13
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2722.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Boing
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2723.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Blica Dominicana
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2654.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2655.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Barca TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2680.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Azteca Noticias
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2656.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AXN WHITE
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2724.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2671.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2725.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Atreseries HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2714.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: ANTENNA 3 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2672.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Antena 3 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2726.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Anime TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2657.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Andalucia TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2658.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: 360 TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2659.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: 3/24
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2660.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Teleticino
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2622.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Viajar
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/514.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Tve 24
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/524.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: TV Canaria
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/515.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/540.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Telemadrid Spain
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/507.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/538.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/532.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Super 3 CAT
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/508.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: RT EspaÃ±ol
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/523.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/564.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Proyecto 40
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/530.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/512.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Odissea
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/510.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/546.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/539.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: National Geografic
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/549.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Mega
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/526.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Levante TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/522.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: La sexta
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/536.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: La 2
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/504.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: LA 1 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/503.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/502.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Intereconomia
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/516.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Iberalia TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/521.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Hollywood
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/555.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: History
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/545.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Galicia TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/533.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: FOX LIFE ( Local )
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/541.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/542.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Fdf
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/520.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Extremadura Tv
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/534.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Esport 3 Cat
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/509.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Esperanza TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/547.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/535.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/528.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/544.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Cosmo HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/519.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/551.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: CLAN TVE
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/517.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: CAZA Y PESCA
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/525.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Castilla y la mancha Spain
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/513.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Canal SUR A
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/518.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Canal Cocina
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/531.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Canal 24 Horas
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/506.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Canal   DCINE
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/556.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/548.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: C  BEIN MAX 3 (only matches)
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/563.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: C  BEIN MAX 2 (only matches)
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/562.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: C  BEIN MAX 1 (only matches)
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/561.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/552.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Barca tv
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/565.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Axn White
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/554.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/553.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Antena 3
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/543.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/550.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: Amc
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/537.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/527.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: 40 TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/529.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES: 13 TV
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/511.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: #0 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4765.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4766.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4767.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: BEIN SPORTS
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4768.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C   XTRA HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4769.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  ACCION HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4770.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  COMEDIA HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4771.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  DCINE HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4772.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4773.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  DEPORTES HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4774.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  ESTRENOS HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4775.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  FUTBOL HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4776.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  GOLF HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4777.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  LIGA 2 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4778.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  LIGA HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4779.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  SERIES HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4780.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  SERIES XTRA HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4781.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: C  TOROS HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4782.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4783.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: LA 1 HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4784.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: LA SEXTA HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4785.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: TELECINCO HD
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4786.ts&amp;streamtype=TSDOWNLOADER
