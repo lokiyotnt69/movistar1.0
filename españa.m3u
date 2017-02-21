@@ -985,3 +985,328 @@ http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/201.m3u8
 #EXTINF:-1 group-title="S-25-IPTV",-TNT (s-25)
 http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/495.m3u8
 
+
+
+
+#EXTINF:-1 group-title="España",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="España",Antena 3 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 group-title="España",BYU Television internacional HD
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:-1 group-title="España",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 group-title="España",Canal Sur TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title="España",El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1 group-title="España",Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 group-title="España",LA 10 
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1 group-title="España",LA 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 group-title="España",Intereconomía
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:-1 group-title="España",La sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 group-title="España",MEGA 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 group-title="España",TV Sevillana
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]----------20-1-2017-----------LISTA 2Server MOVISTAR-----------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 group-title="SERVER 17", 40 TV 
+http://pro213.com:80/live/beppe/beppe2/2423.m3u8
+#EXTINF:-1 group-title="SERVER 17", 40 TV 
+http://pro213.com:80/live/beppe/beppe2/2423.m3u8
+#EXTINF:-1 group-title="SERVER 17", AMC 
+http://pro213.com:80/live/beppe/beppe2/2434.m3u8
+#EXTINF:-1 group-title="SERVER 17", AMC 
+http://pro213.com:80/live/beppe/beppe2/2434.m3u8
+#EXTINF:-1 group-title="SERVER 17", AMC HD 
+http://pro213.com:80/live/beppe/beppe2/2435.m3u8
+#EXTINF:-1 group-title="SERVER 17", AMC HD 
+http://pro213.com:80/live/beppe/beppe2/2435.m3u8
+#EXTINF:-1 group-title="SERVER 17", Andalucia TV 
+http://pro213.com:80/live/beppe/beppe2/1921.m3u8
+#EXTINF:-1 group-title="SERVER 17", Andalucia TV 
+http://pro213.com:80/live/beppe/beppe2/1921.m3u8
+#EXTINF:-1 group-title="SERVER 17", Antena 3 
+http://pro213.com:80/live/beppe/beppe2/1770.m3u8
+#EXTINF:-1 group-title="SERVER 17", Antena 3 
+http://pro213.com:80/live/beppe/beppe2/1770.m3u8
+#EXTINF:-1 group-title="SERVER 17", antena3 HD 
+http://pro213.com:80/live/beppe/beppe2/3135.m3u8
+#EXTINF:-1 group-title="SERVER 17", antena3 HD 
+http://pro213.com:80/live/beppe/beppe2/3135.m3u8
+#EXTINF:-1 group-title="SERVER 17", AXNSpain 
+http://pro213.com:80/live/beppe/beppe2/1772.m3u8
+#EXTINF:-1 group-title="SERVER 17", AXNSpain 
+http://pro213.com:80/live/beppe/beppe2/1772.m3u8
+#EXTINF:-1 group-title="SERVER 17", Axn White 
+http://pro213.com:80/live/beppe/beppe2/1786.m3u8
+#EXTINF:-1 group-title="SERVER 17", Axn White 
+http://pro213.com:80/live/beppe/beppe2/1786.m3u8
+#EXTINF:-1 group-title="SERVER 17", Baby TV 
+http://pro213.com:80/live/beppe/beppe2/2527.m3u8
+#EXTINF:-1 group-title="SERVER 17", Baby TV 
+http://pro213.com:80/live/beppe/beppe2/2527.m3u8
+#EXTINF:-1 group-title="SERVER 17", BARCA TV 
+http://pro213.com:80/live/beppe/beppe2/2445.m3u8
+#EXTINF:-1 group-title="SERVER 17", BARCA TV 
+http://pro213.com:80/live/beppe/beppe2/2445.m3u8
+#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 
+http://pro213.com:80/live/beppe/beppe2/2516.m3u8
+#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 
+http://pro213.com:80/live/beppe/beppe2/2516.m3u8
+#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 1 
+http://pro213.com:80/live/beppe/beppe2/2517.m3u8
+#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 1 
+http://pro213.com:80/live/beppe/beppe2/2517.m3u8
+#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 2 
+http://pro213.com:80/live/beppe/beppe2/2438.m3u8
+#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 2 
+http://pro213.com:80/live/beppe/beppe2/2438.m3u8
+#EXTINF:-1 group-title="SERVER 17", Beinsport HD 
+http://pro213.com:80/live/beppe/beppe2/2515.m3u8
+#EXTINF:-1 group-title="SERVER 17", Beinsport HD 
+http://pro213.com:80/live/beppe/beppe2/2515.m3u8
+#EXTINF:-1 group-title="SERVER 17", CALLE13 
+http://pro213.com:80/live/beppe/beppe2/2422.m3u8
+#EXTINF:-1 group-title="SERVER 17", CALLE13 
+http://pro213.com:80/live/beppe/beppe2/2422.m3u8
+#EXTINF:-1 group-title="SERVER 17", Canal Cocina 
+http://pro213.com:80/live/beppe/beppe2/2430.m3u8
+#EXTINF:-1 group-title="SERVER 17", Canal Cocina 
+http://pro213.com:80/live/beppe/beppe2/2430.m3u8
+#EXTINF:-1 group-title="SERVER 17", CANAL MUSICA 
+http://pro213.com:80/live/beppe/beppe2/2428.m3u8
+#EXTINF:-1 group-title="SERVER 17", CANAL MUSICA 
+http://pro213.com:80/live/beppe/beppe2/2428.m3u8
+#EXTINF:-1 group-title="SERVER 17", CASA Y PESCA 
+http://pro213.com:80/live/beppe/beppe2/2429.m3u8
+#EXTINF:-1 group-title="SERVER 17", CASA Y PESCA 
+http://pro213.com:80/live/beppe/beppe2/2429.m3u8
+#EXTINF:-1 group-title="SERVER 17", COSMO 
+http://pro213.com:80/live/beppe/beppe2/1919.m3u8
+#EXTINF:-1 group-title="SERVER 17", COSMO 
+http://pro213.com:80/live/beppe/beppe2/1919.m3u8
+#EXTINF:-1 group-title="SERVER 17", CUATRO HD 
+http://pro213.com:80/live/beppe/beppe2/2510.m3u8
+#EXTINF:-1 group-title="SERVER 17", CUATRO HD 
+http://pro213.com:80/live/beppe/beppe2/2510.m3u8
+#EXTINF:-1 group-title="SERVER 17", CUATRO SD 
+http://pro213.com:80/live/beppe/beppe2/1769.m3u8
+#EXTINF:-1 group-title="SERVER 17", CUATRO SD 
+http://pro213.com:80/live/beppe/beppe2/1769.m3u8
+#EXTINF:-1 group-title="SERVER 17", DISCOVERY CHANNEL HD 
+http://pro213.com:80/live/beppe/beppe2/2724.m3u8
+#EXTINF:-1 group-title="SERVER 17", DISCOVERY CHANNEL HD 
+http://pro213.com:80/live/beppe/beppe2/2724.m3u8
+#EXTINF:-1 group-title="SERVER 17", Disney channel 
+http://pro213.com:80/live/beppe/beppe2/1793.m3u8
+#EXTINF:-1 group-title="SERVER 17", Disney channel 
+http://pro213.com:80/live/beppe/beppe2/1793.m3u8
+#EXTINF:-1 group-title="SERVER 17", DISNEY JUNIOR 
+http://pro213.com:80/live/beppe/beppe2/1917.m3u8
+#EXTINF:-1 group-title="SERVER 17", DISNEY JUNIOR 
+http://pro213.com:80/live/beppe/beppe2/1917.m3u8
+#EXTINF:-1 group-title="SERVER 17", ENERGY 
+http://pro213.com:80/live/beppe/beppe2/2530.m3u8
+#EXTINF:-1 group-title="SERVER 17", ENERGY 
+http://pro213.com:80/live/beppe/beppe2/2530.m3u8
+#EXTINF:-1 group-title="SERVER 17", Eurosport 
+http://pro213.com:80/live/beppe/beppe2/1906.m3u8
+#EXTINF:-1 group-title="SERVER 17", Eurosport 
+http://pro213.com:80/live/beppe/beppe2/1906.m3u8
+#EXTINF:-1 group-title="SERVER 17", FOX 
+http://pro213.com:80/live/beppe/beppe2/1790.m3u8
+#EXTINF:-1 group-title="SERVER 17", FOX 
+http://pro213.com:80/live/beppe/beppe2/1790.m3u8
+#EXTINF:-1 group-title="SERVER 17", FOX Life 
+http://pro213.com:80/live/beppe/beppe2/1771.m3u8
+#EXTINF:-1 group-title="SERVER 17", FOX Life 
+http://pro213.com:80/live/beppe/beppe2/1771.m3u8
+#EXTINF:-1 group-title="SERVER 17", GOL TV 
+http://pro213.com:80/live/beppe/beppe2/2514.m3u8
+#EXTINF:-1 group-title="SERVER 17", GOL TV 
+http://pro213.com:80/live/beppe/beppe2/2514.m3u8
+#EXTINF:-1 group-title="SERVER 17", History 
+http://pro213.com:80/live/beppe/beppe2/1928.m3u8
+#EXTINF:-1 group-title="SERVER 17", History 
+http://pro213.com:80/live/beppe/beppe2/1928.m3u8
+#EXTINF:-1 group-title="SERVER 17", Hollywood HD 
+http://pro213.com:80/live/beppe/beppe2/1773.m3u8
+#EXTINF:-1 group-title="SERVER 17", Hollywood HD 
+http://pro213.com:80/live/beppe/beppe2/1773.m3u8
+#EXTINF:-1 group-title="SERVER 17", La 1 
+http://pro213.com:80/live/beppe/beppe2/2531.m3u8
+#EXTINF:-1 group-title="SERVER 17", La 1 
+http://pro213.com:80/live/beppe/beppe2/2531.m3u8
+#EXTINF:-1 group-title="SERVER 17", La 2 
+http://pro213.com:80/live/beppe/beppe2/2532.m3u8
+#EXTINF:-1 group-title="SERVER 17", La 2 
+http://pro213.com:80/live/beppe/beppe2/2532.m3u8
+#EXTINF:-1 group-title="SERVER 17", LaSextaHD 
+http://pro213.com:80/live/beppe/beppe2/1768.m3u8
+#EXTINF:-1 group-title="SERVER 17", LaSextaHD 
+http://pro213.com:80/live/beppe/beppe2/1768.m3u8
+#EXTINF:-1 group-title="SERVER 17", MEGA 
+http://pro213.com:80/live/beppe/beppe2/2721.m3u8
+#EXTINF:-1 group-title="SERVER 17", MEGA 
+http://pro213.com:80/live/beppe/beppe2/2721.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR 0# HD 
+http://pro213.com:80/live/beppe/beppe2/2512.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR 0# HD 
+http://pro213.com:80/live/beppe/beppe2/2512.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR ACCION 
+http://pro213.com:80/live/beppe/beppe2/2425.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR ACCION 
+http://pro213.com:80/live/beppe/beppe2/2425.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR COMEDIA HD 
+http://pro213.com:80/live/beppe/beppe2/2524.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR COMEDIA HD 
+http://pro213.com:80/live/beppe/beppe2/2524.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR DCINE Ñ 
+http://pro213.com:80/live/beppe/beppe2/2529.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR DCINE Ñ 
+http://pro213.com:80/live/beppe/beppe2/2529.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 
+http://pro213.com:80/live/beppe/beppe2/2432.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 
+http://pro213.com:80/live/beppe/beppe2/2432.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 2 
+http://pro213.com:80/live/beppe/beppe2/2518.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 2 
+http://pro213.com:80/live/beppe/beppe2/2518.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR ESTRENOS 
+http://pro213.com:80/live/beppe/beppe2/2427.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR ESTRENOS 
+http://pro213.com:80/live/beppe/beppe2/2427.m3u8
+#EXTINF:-1 group-title="SERVER 17", Movistar F1 
+http://pro213.com:80/live/beppe/beppe2/1915.m3u8
+#EXTINF:-1 group-title="SERVER 17", Movistar F1 
+http://pro213.com:80/live/beppe/beppe2/1915.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR FUTBOL 
+http://pro213.com:80/live/beppe/beppe2/2519.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR FUTBOL 
+http://pro213.com:80/live/beppe/beppe2/2519.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR GOLF 
+http://pro213.com:80/live/beppe/beppe2/1903.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR GOLF 
+http://pro213.com:80/live/beppe/beppe2/1903.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR LA LIGA 
+http://pro213.com:80/live/beppe/beppe2/1785.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR LA LIGA 
+http://pro213.com:80/live/beppe/beppe2/1785.m3u8
+#EXTINF:-1 group-title="SERVER 17", Movistar moto gp 
+http://pro213.com:80/live/beppe/beppe2/1916.m3u8
+#EXTINF:-1 group-title="SERVER 17", Movistar moto gp 
+http://pro213.com:80/live/beppe/beppe2/1916.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR PARTIDAZO 
+http://pro213.com:80/live/beppe/beppe2/1765.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR PARTIDAZO 
+http://pro213.com:80/live/beppe/beppe2/1765.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES HD 
+http://pro213.com:80/live/beppe/beppe2/2522.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES HD 
+http://pro213.com:80/live/beppe/beppe2/2522.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES XTRA 
+http://pro213.com:80/live/beppe/beppe2/2426.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES XTRA 
+http://pro213.com:80/live/beppe/beppe2/2426.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR XTRA HD 
+http://pro213.com:80/live/beppe/beppe2/3137.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR XTRA HD 
+http://pro213.com:80/live/beppe/beppe2/3137.m3u8
+#EXTINF:-1 group-title="SERVER 17", Nat Geo Wild 
+http://pro213.com:80/live/beppe/beppe2/1789.m3u8
+#EXTINF:-1 group-title="SERVER 17", Nat Geo Wild 
+http://pro213.com:80/live/beppe/beppe2/1789.m3u8
+#EXTINF:-1 group-title="SERVER 17", NATIONAL GEOGRAPHIC 
+http://pro213.com:80/live/beppe/beppe2/2421.m3u8
+#EXTINF:-1 group-title="SERVER 17", NATIONAL GEOGRAPHIC 
+http://pro213.com:80/live/beppe/beppe2/2421.m3u8
+#EXTINF:-1 group-title="SERVER 17", Odisea HD 
+http://pro213.com:80/live/beppe/beppe2/1912.m3u8
+#EXTINF:-1 group-title="SERVER 17", Odisea HD 
+http://pro213.com:80/live/beppe/beppe2/1912.m3u8
+#EXTINF:-1 group-title="SERVER 17", REAL MADRID TV 
+http://pro213.com:80/live/beppe/beppe2/2436.m3u8
+#EXTINF:-1 group-title="SERVER 17", REAL MADRID TV 
+http://pro213.com:80/live/beppe/beppe2/2436.m3u8
+#EXTINF:-1 group-title="SERVER 17", SyFy HD 
+http://pro213.com:80/live/beppe/beppe2/1791.m3u8
+#EXTINF:-1 group-title="SERVER 17", SyFy HD 
+http://pro213.com:80/live/beppe/beppe2/1791.m3u8
+#EXTINF:-1 group-title="SERVER 17", TCM 
+http://pro213.com:80/live/beppe/beppe2/2528.m3u8
+#EXTINF:-1 group-title="SERVER 17", TCM 
+http://pro213.com:80/live/beppe/beppe2/2528.m3u8
+#EXTINF:-1 group-title="SERVER 17", TELECINCO 
+http://pro213.com:80/live/beppe/beppe2/1767.m3u8
+#EXTINF:-1 group-title="SERVER 17", TELECINCO 
+http://pro213.com:80/live/beppe/beppe2/1767.m3u8
+#EXTINF:-1 group-title="SERVER 17", TELECINCO HD 
+http://pro213.com:80/live/beppe/beppe2/2511.m3u8
+#EXTINF:-1 group-title="SERVER 17", TELECINCO HD 
+http://pro213.com:80/live/beppe/beppe2/2511.m3u8
+#EXTINF:-1 group-title="SERVER 17", TNT HD 
+http://pro213.com:80/live/beppe/beppe2/1788.m3u8
+#EXTINF:-1 group-title="SERVER 17", TNT HD 
+http://pro213.com:80/live/beppe/beppe2/1788.m3u8
+#EXTINF:-1 group-title="SERVER 17", TVE 
+http://pro213.com:80/live/beppe/beppe2/2420.m3u8
+#EXTINF:-1 group-title="SERVER 17", TVE 
+http://pro213.com:80/live/beppe/beppe2/2420.m3u8
+#EXTINF:-1 group-title="SERVER 17", TVE 2 
+http://pro213.com:80/live/beppe/beppe2/1918.m3u8
+#EXTINF:-1 group-title="SERVER 17", TVE 2 
+http://pro213.com:80/live/beppe/beppe2/1918.m3u8
+#EXTINF:-1 group-title="SERVER 17", TVE 24 Hora 
+http://pro213.com:80/live/beppe/beppe2/1923.m3u8
+#EXTINF:-1 group-title="SERVER 17", TVE 24 Hora 
+http://pro213.com:80/live/beppe/beppe2/1923.m3u8
+#EXTINF:-1 group-title="SERVER 17",Y Baby TV 
+http://pro213.com:80/live/beppe/beppe2/3837.m3u8
+#EXTINF:-1 group-title="SERVER 17",Y Baby TV 
+http://pro213.com:80/live/beppe/beppe2/3837.m3u8
+#EXTINF:-1 group-title="SERVER 17",Y Home Plus 
+http://pro213.com:80/live/beppe/beppe2/3325.m3u8
+#EXTINF:-1 group-title="SERVER 17",Y Home Plus 
+http://pro213.com:80/live/beppe/beppe2/3325.m3u8
+#EXTINF:-1 group-title="SERVER 17",Yes: Nickelodeon 
+http://pro213.com:80/live/beppe/beppe2/3839.m3u8
+#EXTINF:-1 group-title="SERVER 17",Yes: Nickelodeon 
+http://pro213.com:80/live/beppe/beppe2/3839.m3u8
+#EXTINF:-1 group-title="SERVER 17",Y VIVA 
+http://pro213.com:80/live/beppe/beppe2/3330.m3u8
+#EXTINF:-1 group-title="SERVER 17",Y VIVA 
+http://pro213.com:80/live/beppe/beppe2/3330.m3u8
+#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
+http://pro213.com:80/live/beppe/beppe2/1907.m3u8
+#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
+http://pro213.com:80/live/beppe/beppe2/1907.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
+http://pro213.com:80/live/beppe/beppe2/2525.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
+http://pro213.com:80/live/beppe/beppe2/2525.m3u8
+#EXTINF:-1 group-title="SERVER 17", Viajar HD 
+http://pro213.com:80/live/beppe/beppe2/1909.m3u8
+#EXTINF:-1 group-title="SERVER 17", Viajar HD 
+http://pro213.com:80/live/beppe/beppe2/1909.m3u8
+#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
+http://pro213.com:80/live/beppe/beppe2/1907.m3u8
+#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
+http://pro213.com:80/live/beppe/beppe2/1907.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
+http://pro213.com:80/live/beppe/beppe2/2525.m3u8
+#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
+http://pro213.com:80/live/beppe/beppe2/2525.m3u8
+#EXTINF:-1 group-title="SERVER 17", Viajar HD 
+http://pro213.com:80/live/beppe/beppe2/1909.m3u8
+#EXTINF:-1 group-title="SERVER 17", Viajar HD 
+http://pro213.com:80/live/beppe/beppe2/1909.m3u8
