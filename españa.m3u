@@ -3,1310 +3,421 @@
 
 
 
-#EXTINF:-1,[COLOR red][I][B]----------20-1-2017-----------LISTA 25 Servers MOVISTAR-----------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]----------22-1-2017----------- MOVISTAR-----------------------------[/B][/I][/COLOR]
 
 
 
-
-#EXTINF:-1 group-title="S-1-mydream4",#0 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1690.m3u8
-#EXTINF:-1 group-title="S-1-mydream4", -Hollywood-Spain-HD (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1783.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Axn (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1691.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Barca.Tv (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1686.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Beinsport (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1687.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Calle13 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1692.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Casa Y Pesca (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1688.m3u8
-#EXTINF:-1 group-title="S-1-mydream4", c  Futbol (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1800.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Cuatro (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1697.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Fox (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1694.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Hollywood (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1700.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",La1 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1699.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",La2 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1698.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",La Sextra (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1696.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Accion (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1709.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Comidia (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1710.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Dcine (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1711.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Deportes1 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1701.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Estrenos (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1704.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Futbol (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1702.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.LaLiga1 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1703.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Series (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1705.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Series.xtra (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1706.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Toros (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1707.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",M.Xtra (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1708.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Nat Geo (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1689.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Real Madrid (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1685.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Syfy (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1693.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla1 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1684.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla2 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1683.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla3 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1682.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla4 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1681.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla5 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1680.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla6 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1679.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla7 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1678.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Taquilla8 (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1677.m3u8
-#EXTINF:-1 group-title="S-1-mydream4",Tnt (s-1)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1695.m3u8
-#EXTINF:0 group-title="S-2-mydream4",== S-2-mydream4 ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-2-mydream4",#0 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1690.m3u8
-#EXTINF:-1 group-title="S-2-mydream4", -Hollywood-Spain-HD (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1783.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Axn (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1691.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Barca.Tv (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1686.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Beinsport (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1687.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Calle13 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1692.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Casa Y Pesca (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1688.m3u8
-#EXTINF:-1 group-title="S-2-mydream4", c  Futbol (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1800.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Cuatro (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1697.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Fox (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1694.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Hollywood (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1700.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",La1 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1699.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",La2 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1698.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",La Sextra (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1696.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Accion (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1709.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Comidia (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1710.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Dcine (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1711.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Deportes1 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1701.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Estrenos (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1704.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Futbol (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1702.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.LaLiga1 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1703.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Series (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1705.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Series.xtra (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1706.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Toros (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1707.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",M.Xtra (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1708.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Nat Geo (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1689.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Real Madrid (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1685.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Syfy (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1693.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla1 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1684.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla2 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1683.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla3 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1682.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla4 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1681.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla5 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1680.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla6 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1679.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla7 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1678.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Taquilla8 (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1677.m3u8
-#EXTINF:-1 group-title="S-2-mydream4",Tnt (s-2)
-http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1695.m3u8
-#EXTINF:0 group-title="S-3-aliptv",== S-3-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 1 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/914.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 2 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/976.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 3 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/977.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 4 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/978.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 5 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/979.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 6 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/980.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 7 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/981.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 8 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/982.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 9 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/983.ts
-#EXTINF:-1 group-title="S-3-aliptv",Taquilla 10 (ts)(s-3)
-http://aliptv.info:16000/live/hema/hema/984.ts
-#EXTINF:0 group-title="S-4-aliptv",== S-4-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 1 (s-4)
-http://aliptv.info:16000/live/elska/elska/914.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 2 (s-4)
-http://aliptv.info:16000/live/elska/elska/976.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 3 (s-4)
-http://aliptv.info:16000/live/elska/elska/977.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 4 (s-4)
-http://aliptv.info:16000/live/elska/elska/978.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 5 (s-4)
-http://aliptv.info:16000/live/elska/elska/979.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 6 (s-4)
-http://aliptv.info:16000/live/elska/elska/980.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 7 (s-4)
-http://aliptv.info:16000/live/elska/elska/981.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 8 (s-4)
-http://aliptv.info:16000/live/elska/elska/982.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 9 (s-4)
-http://aliptv.info:16000/live/elska/elska/983.m3u8
-#EXTINF:-1 group-title="S-4-aliptv",Taquilla 10 (s-4)
-http://aliptv.info:16000/live/elska/elska/984.m3u8
-#EXTINF:0 group-title="S-5-aliptv",== S-5-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 1 (s-5)
-http://aliptv.info:16000/live/peter/peter/914.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 2 (s-5)
-http://aliptv.info:16000/live/peter/peter/976.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 3 (s-5)
-http://aliptv.info:16000/live/peter/peter/977.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 4 (s-5)
-http://aliptv.info:16000/live/peter/peter/978.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 5 (s-5)
-http://aliptv.info:16000/live/peter/peter/979.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 6 (s-5)
-http://aliptv.info:16000/live/peter/peter/980.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 7 (s-5)
-http://aliptv.info:16000/live/peter/peter/981.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 8 (s-5)
-http://aliptv.info:16000/live/peter/peter/982.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 9 (s-5)
-http://aliptv.info:16000/live/peter/peter/983.m3u8
-#EXTINF:-1 group-title="S-5-aliptv",Taquilla 10 (s-5)
-http://aliptv.info:16000/live/peter/peter/984.m3u8
-#EXTINF:0 group-title="S-6-aliptv",== S-6-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 1 (s-6)
-http://aliptv.info:16000/live/90909/90909/914.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 2 (s-6)
-http://aliptv.info:16000/live/90909/90909/976.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 3 (s-6)
-http://aliptv.info:16000/live/90909/90909/977.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 4 (s-6)
-http://aliptv.info:16000/live/90909/90909/978.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 5 (s-6)
-http://aliptv.info:16000/live/90909/90909/979.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 6 (s-6)
-http://aliptv.info:16000/live/90909/90909/980.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 7 (s-6)
-http://aliptv.info:16000/live/90909/90909/981.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 8 (s-6)
-http://aliptv.info:16000/live/90909/90909/982.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 9 (s-6)
-http://aliptv.info:16000/live/90909/90909/983.m3u8
-#EXTINF:-1 group-title="S-6-aliptv",Taquilla 10 (s-6)
-http://aliptv.info:16000/live/90909/90909/984.m3u8
-#EXTINF:0 group-title="S-7-aliptv",== S-7-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 1 (s-7)
-http://aliptv.info:16000/live/33333/33333/914.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 2 (s-7)
-http://aliptv.info:16000/live/33333/33333/976.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 3 (s-7)
-http://aliptv.info:16000/live/33333/33333/977.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 4 (s-7)
-http://aliptv.info:16000/live/33333/33333/978.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 5 (s-7)
-http://aliptv.info:16000/live/33333/33333/979.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 6 (s-7)
-http://aliptv.info:16000/live/33333/33333/980.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 7 (s-7)
-http://aliptv.info:16000/live/33333/33333/981.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 8 (s-7)
-http://aliptv.info:16000/live/33333/33333/982.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 9 (s-7)
-http://aliptv.info:16000/live/33333/33333/983.m3u8
-#EXTINF:-1 group-title="S-7-aliptv",Taquilla 10 (s-7)
-http://aliptv.info:16000/live/33333/33333/984.m3u8
-#EXTINF:0 group-title="S-8-aliptv",== S-8-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 1 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/914.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 2 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/976.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 3 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/977.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 4 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/978.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 5 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/979.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 6 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/980.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 7 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/981.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 8 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/982.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 9 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/983.m3u8
-#EXTINF:-1 group-title="S-8-aliptv",Taquilla 10 (s-8)
-http://aliptv.info:16000/live/44445555/44445555/984.m3u8
-#EXTINF:0 group-title="S-9-aliptv",== S-9-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 1 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/914.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 2 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/976.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 3 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/977.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 4 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/978.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 5 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/979.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 6 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/980.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 7 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/981.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 8 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/982.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 9 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/983.m3u8
-#EXTINF:-1 group-title="S-9-aliptv",Taquilla 10 (s-9)
-http://aliptv.info:16000/live/admin2/admin2/984.m3u8
-#EXTINF:0 group-title="S-10-aliptv",== S-10-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 1 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/914.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 2 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/976.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 3 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/977.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 4 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/978.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 5 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/979.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 6 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/980.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 7 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/981.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 8 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/982.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 9 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/983.m3u8
-#EXTINF:-1 group-title="S-10-aliptv",Taquilla 10 (s-10)
-http://aliptv.info:16000/live/admin3/admin3/984.m3u8
-#EXTINF:0 group-title="S-11-aliptv",== S-11-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 1 (s-11)
-http://aliptv.info:16000/live/33333/33333/914.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 2 (s-11)
-http://aliptv.info:16000/live/33333/33333/976.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 3 (s-11)
-http://aliptv.info:16000/live/33333/33333/977.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 4 (s-11)
-http://aliptv.info:16000/live/33333/33333/978.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 5 (s-11)
-http://aliptv.info:16000/live/33333/33333/979.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 6 (s-11)
-http://aliptv.info:16000/live/33333/33333/980.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 7 (s-11)
-http://aliptv.info:16000/live/33333/33333/981.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 8 (s-11)
-http://aliptv.info:16000/live/33333/33333/982.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 9 (s-11)
-http://aliptv.info:16000/live/33333/33333/983.m3u8
-#EXTINF:-1 group-title="S-11-aliptv",Taquilla 10 (s-11)
-http://aliptv.info:16000/live/33333/33333/984.m3u8
-#EXTINF:0 group-title="S-12-aliptv",== S-12-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 1 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/914.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 2 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/976.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 3 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/977.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 4 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/978.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 5 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/979.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 6 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/980.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 7 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/981.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 8 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/982.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 9 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/983.m3u8
-#EXTINF:-1 group-title="S-12-aliptv",Taquilla 10 (s-12)
-http://aliptv.info:16000/live/alaa/alaa/984.m3u8
-#EXTINF:0 group-title="S-13-aliptv",== S-13-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 1 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/914.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 2 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/976.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 3 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/977.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 4 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/978.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 5 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/979.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 6 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/980.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 7 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/981.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 8 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/982.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 9 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/983.m3u8
-#EXTINF:-1 group-title="S-13-aliptv",Taquilla 10 (s-13)
-http://aliptv.info:16000/live/admin5/admin5/984.m3u8
-#EXTINF:0 group-title="S-14-www",== S-14-www ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-14-www",Antena3 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2298.m3u8
-#EXTINF:-1 group-title="S-14-www",BarcaTV (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2724.m3u8
-#EXTINF:-1 group-title="S-14-www",BeinLaLiga (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2585.m3u8
-#EXTINF:-1 group-title="S-14-www",BeinLaLiga1 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2767.m3u8
-#EXTINF:-1 group-title="S-14-www",Calle13HD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2600.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal-Accion (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2299.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal-Comedea (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2297.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal-Dcin (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2296.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal-ESTRENO (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2352.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal-Golf (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2300.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal-TOROS (s-14)
-http://www.vips2016.com:8088/live/ali/ali/1243.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal-Xtra (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2301.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal2HD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2599.m3u8
-#EXTINF:-1 group-title="S-14-www",CanalFutbal (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2247.m3u8
-#EXTINF:-1 group-title="S-14-www",CanalHD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2584.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal Deportes (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2248.m3u8
-#EXTINF:-1 group-title="S-14-www",Canal LIGA (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2246.m3u8
-#EXTINF:-1 group-title="S-14-www",DisneyXD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2583.m3u8
-#EXTINF:-1 group-title="S-14-www",Disney Channel (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2722.m3u8
-#EXTINF:-1 group-title="S-14-www",Disney Junior (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2721.m3u8
-#EXTINF:-1 group-title="S-14-www",FoxLifeHD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2582.m3u8
-#EXTINF:-1 group-title="S-14-www",Fox Movie HD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2381.m3u8
-#EXTINF:-1 group-title="S-14-www",Hollywood Spain (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2384.m3u8
-#EXTINF:-1 group-title="S-14-www",LA1 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2383.m3u8
-#EXTINF:-1 group-title="S-14-www",LA2 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2727.m3u8
-#EXTINF:-1 group-title="S-14-www",LaSextaHD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2598.m3u8
-#EXTINF:-1 group-title="S-14-www",NatGeoWild (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2581.m3u8
-#EXTINF:-1 group-title="S-14-www",National-Geo (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2302.m3u8
-#EXTINF:-1 group-title="S-14-www",Nickelodeon (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2580.m3u8
-#EXTINF:-1 group-title="S-14-www",NOVA (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2579.m3u8
-#EXTINF:-1 group-title="S-14-www",Real Madrid (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2382.m3u8
-#EXTINF:-1 group-title="S-14-www",Ribera (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2771.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla1 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2358.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla2 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2359.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla3 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2360.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla4 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2361.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla5 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2362.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla6 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2357.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla7 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2356.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla8 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2355.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla9 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2354.m3u8
-#EXTINF:-1 group-title="S-14-www",Taquilla10 (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2353.m3u8
-#EXTINF:-1 group-title="S-14-www",TELECINCO (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2351.m3u8
-#EXTINF:-1 group-title="S-14-www",Tele Uno (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2770.m3u8
-#EXTINF:-1 group-title="S-14-www",TVE1 HD (s-14)
-http://www.vips2016.com:8088/live/ali/ali/2597.m3u8
-#EXTINF:0 group-title="S-15-aliptv",== S-15-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 1 (s-15)
-http://aliptv.info:16000/live/90909/90909/914.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 2 (s-15)
-http://aliptv.info:16000/live/90909/90909/976.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 3 (s-15)
-http://aliptv.info:16000/live/90909/90909/977.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 4 (s-15)
-http://aliptv.info:16000/live/90909/90909/978.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 5 (s-15)
-http://aliptv.info:16000/live/90909/90909/979.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 6 (s-15)
-http://aliptv.info:16000/live/90909/90909/980.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 7 (s-15)
-http://aliptv.info:16000/live/90909/90909/981.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 8 (s-15)
-http://aliptv.info:16000/live/90909/90909/982.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 9 (s-15)
-http://aliptv.info:16000/live/90909/90909/983.m3u8
-#EXTINF:-1 group-title="S-15-aliptv",Taquilla 10 (s-15)
-http://aliptv.info:16000/live/90909/90909/984.m3u8
-#EXTINF:0 group-title="S-16-aliptv",== S-16-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 1 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/914.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 2 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/976.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 3 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/977.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 4 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/978.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 5 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/979.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 6 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/980.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 7 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/981.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 8 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/982.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 9 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/983.m3u8
-#EXTINF:-1 group-title="S-16-aliptv",Taquilla 10 (s-16)
-http://aliptv.info:16000/live/admin8/admin8/984.m3u8
-#EXTINF:0 group-title="S-17-aliptv",== S-17-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 1 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/914.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 2 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/976.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 3 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/977.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 4 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/978.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 5 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/979.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 6 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/980.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 7 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/981.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 8 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/982.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 9 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/983.m3u8
-#EXTINF:-1 group-title="S-17-aliptv",Taquilla 10 (s-17)
-http://aliptv.info:16000/live/admin9/admin9/984.m3u8
-#EXTINF:0 group-title="S-18-aliptv",== S-18-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 1 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/914.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 2 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/976.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 3 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/977.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 4 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/978.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 5 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/979.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 6 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/980.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 7 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/981.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 8 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/982.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 9 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/983.m3u8
-#EXTINF:-1 group-title="S-18-aliptv",Taquilla 10 (s-18)
-http://aliptv.info:16000/live/admin10/admin10/984.m3u8
-#EXTINF:0 group-title="S-19-aliptv",== S-19-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 1 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/914.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 2 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/976.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 3 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/977.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 4 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/978.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 5 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/979.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 6 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/980.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 7 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/981.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 8 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/982.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 9 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/983.m3u8
-#EXTINF:-1 group-title="S-19-aliptv",Taquilla 10 (s-19)
-http://aliptv.info:16000/live/admin6/admin6/984.m3u8
-#EXTINF:0 group-title="S-20-aliptv",== S-20-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 1 (s-20)
-http://aliptv.info:16000/live/baher/baher/914.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 2 (s-20)
-http://aliptv.info:16000/live/baher/baher/976.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 3 (s-20)
-http://aliptv.info:16000/live/baher/baher/977.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 4 (s-20)
-http://aliptv.info:16000/live/baher/baher/978.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 5 (s-20)
-http://aliptv.info:16000/live/baher/baher/979.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 6 (s-20)
-http://aliptv.info:16000/live/baher/baher/980.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 7 (s-20)
-http://aliptv.info:16000/live/baher/baher/981.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 8 (s-20)
-http://aliptv.info:16000/live/baher/baher/982.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 9 (s-20)
-http://aliptv.info:16000/live/baher/baher/983.m3u8
-#EXTINF:-1 group-title="S-20-aliptv",Taquilla 10 (s-20)
-http://aliptv.info:16000/live/baher/baher/984.m3u8
-#EXTINF:0 group-title="S-21-aliptv",== S-21-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 1 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/914.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 2 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/976.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 3 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/977.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 4 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/978.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 5 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/979.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 6 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/980.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 7 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/981.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 8 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/982.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 9 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/983.m3u8
-#EXTINF:-1 group-title="S-21-aliptv",Taquilla 10 (s-21)
-http://aliptv.info:16000/live/44445555/44445555/984.m3u8
-#EXTINF:0 group-title="S-22-aliptv",== S-22-aliptv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 1 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/914.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 2 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/976.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 3 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/977.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 4 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/978.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 5 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/979.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 6 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/980.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 7 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/981.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 8 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/982.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 9 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/983.m3u8
-#EXTINF:-1 group-title="S-22-aliptv",Taquilla 10 (s-22)
-http://aliptv.info:16000/live/ahmed/ahmed/984.m3u8
-#EXTINF:0 group-title="S-23-tv",== S-23-tv ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-23-tv",ANTENA3 HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/526.m3u8
-#EXTINF:-1 group-title="S-23-tv",AXN HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/553.m3u8
-#EXTINF:-1 group-title="S-23-tv",CANAL ACTION HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/552.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal COMEDIA HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/551.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal DCINE HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/550.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal DEPORTES 2 HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/549.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal DEPORTES HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/548.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal ESTRENOS HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/547.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal FUTBOL HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/546.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal GOLF HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/545.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal LIGA 2 HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/544.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal LIGA HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/543.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal SERIES HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/542.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal TOROS HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/541.m3u8
-#EXTINF:-1 group-title="S-23-tv",Canal XTRA HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/540.m3u8
-#EXTINF:-1 group-title="S-23-tv",CUATRO HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/527.m3u8
-#EXTINF:-1 group-title="S-23-tv",DISCOVERY CHANNEL HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/538.m3u8
-#EXTINF:-1 group-title="S-23-tv",DISCOVERY CI (s-23)
-http://tv.jebbari.com:8000/live/1/2/537.m3u8
-#EXTINF:-1 group-title="S-23-tv",DISNEY JUNIOR (s-23)
-http://tv.jebbari.com:8000/live/1/2/535.m3u8
-#EXTINF:-1 group-title="S-23-tv",DISNEY XD (s-23)
-http://tv.jebbari.com:8000/live/1/2/534.m3u8
-#EXTINF:-1 group-title="S-23-tv",DISNE CHANNEL HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/536.m3u8
-#EXTINF:-1 group-title="S-23-tv",FOX HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/533.m3u8
-#EXTINF:-1 group-title="S-23-tv",FOX LIFE HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/532.m3u8
-#EXTINF:-1 group-title="S-23-tv",HISTORIA (s-23)
-http://tv.jebbari.com:8000/live/1/2/531.m3u8
-#EXTINF:-1 group-title="S-23-tv",HOLLYWOOD HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/530.m3u8
-#EXTINF:-1 group-title="S-23-tv",LA 1 HD\ (s-23)
-http://tv.jebbari.com:8000/live/1/2/524.m3u8
-#EXTINF:-1 group-title="S-23-tv",LA 2 HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/525.m3u8
-#EXTINF:-1 group-title="S-23-tv",LA SEXTA HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/529.m3u8
-#EXTINF:-1 group-title="S-23-tv",TELECINCO HD (s-23)
-http://tv.jebbari.com:8000/live/1/2/528.m3u8
-#EXTINF:0 group-title="S-24-s1",== S-24-s1 ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-24-s1", #0 HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3974.m3u8
-#EXTINF:-1 group-title="S-24-s1", 24h (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3975.m3u8
-#EXTINF:-1 group-title="S-24-s1", 40TV (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3976.m3u8
-#EXTINF:-1 group-title="S-24-s1", 360 TV (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4970.m3u8
-#EXTINF:-1 group-title="S-24-s1", A&E (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3977.m3u8
-#EXTINF:-1 group-title="S-24-s1", AMC HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3978.m3u8
-#EXTINF:-1 group-title="S-24-s1", ANTENA 3 HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3979.m3u8
-#EXTINF:-1 group-title="S-24-s1", Antena 3 Internacional HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4971.m3u8
-#EXTINF:-1 group-title="S-24-s1", AXN HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3980.m3u8
-#EXTINF:-1 group-title="S-24-s1", AXN WHITE (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3981.m3u8
-#EXTINF:-1 group-title="S-24-s1", Azteca 13 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4972.m3u8
-#EXTINF:-1 group-title="S-24-s1", BABY (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3982.m3u8
-#EXTINF:-1 group-title="S-24-s1", BARCATV (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3983.m3u8
-#EXTINF:-1 group-title="S-24-s1", beIN Sport Ñ HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3984.m3u8
-#EXTINF:-1 group-title="S-24-s1", BOING (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3985.m3u8
-#EXTINF:-1 group-title="S-24-s1", CALLE13 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3991.m3u8
-#EXTINF:-1 group-title="S-24-s1", Canal COCINA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4001.m3u8
-#EXTINF:-1 group-title="S-24-s1", Canal DECASA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4002.m3u8
-#EXTINF:-1 group-title="S-24-s1", Canal DE LA ESTRELLAS (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3999.m3u8
-#EXTINF:-1 group-title="S-24-s1", CANAL HISTORIA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4018.m3u8
-#EXTINF:-1 group-title="S-24-s1", Canal ODISEA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4003.m3u8
-#EXTINF:-1 group-title="S-24-s1", Canal PANDA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4000.m3u8
-#EXTINF:-1 group-title="S-24-s1", CAZAYPESCA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4004.m3u8
-#EXTINF:-1 group-title="S-24-s1", CBN Español (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4973.m3u8
-#EXTINF:-1 group-title="S-24-s1", CLANTVE (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4005.m3u8
-#EXTINF:-1 group-title="S-24-s1", COMEDY CENTRAL (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4006.m3u8
-#EXTINF:-1 group-title="S-24-s1", COSMOPOLITAN HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4007.m3u8
-#EXTINF:-1 group-title="S-24-s1", CRIMEN INVESTIGACIÓN (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4008.m3u8
-#EXTINF:-1 group-title="S-24-s1", CUATRO HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4009.m3u8
-#EXTINF:-1 group-title="S-24-s1", DISCOVERY (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4011.m3u8
-#EXTINF:-1 group-title="S-24-s1", DISNEY (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4012.m3u8
-#EXTINF:-1 group-title="S-24-s1", DIVINITY (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4013.m3u8
-#EXTINF:-1 group-title="S-24-s1", Efekto TV HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4974.m3u8
-#EXTINF:-1 group-title="S-24-s1", ENERGY (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4014.m3u8
-#EXTINF:-1 group-title="S-24-s1", EUROSPORT1 HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4015.m3u8
-#EXTINF:-1 group-title="S-24-s1", FOX HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4016.m3u8
-#EXTINF:-1 group-title="S-24-s1", FOX LIFE HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4017.m3u8
-#EXTINF:-1 group-title="S-24-s1", HOLLYWOOD HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4019.m3u8
-#EXTINF:-1 group-title="S-24-s1", LA1 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4021.m3u8
-#EXTINF:-1 group-title="S-24-s1", LA2 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4022.m3u8
-#EXTINF:-1 group-title="S-24-s1", LaLiga TV HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4388.m3u8
-#EXTINF:-1 group-title="S-24-s1", LA SEXTA HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4020.m3u8
-#EXTINF:-1 group-title="S-24-s1", Latina TV (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4975.m3u8
-#EXTINF:-1 group-title="S-24-s1", LTC (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4023.m3u8
-#EXTINF:-1 group-title="S-24-s1", MEGA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4024.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar ACCION HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3993.m3u8
-#EXTINF:-1 group-title="S-24-s1", MOVISTAR CINE Ñ (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4010.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar COMEDIA HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3994.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar DCINE HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3995.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar DEPORTES 1 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3986.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar DEPORTES 2 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3987.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar ESTRENOS (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3996.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar F1 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4025.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar FUTBOL (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3988.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar GOLF (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3989.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar MOTOGP (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4026.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar SERIES HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3997.m3u8
-#EXTINF:-1 group-title="S-24-s1", Movistar TOROS (s-24)
-http://s1.finoip.com:20000/live/mark/mark/3998.m3u8
-#EXTINF:-1 group-title="S-24-s1", MTV ESPANA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4027.m3u8
-#EXTINF:-1 group-title="S-24-s1", NATGEOGRAPH (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4030.m3u8
-#EXTINF:-1 group-title="S-24-s1", NAT GEO HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4028.m3u8
-#EXTINF:-1 group-title="S-24-s1", NAT GEO WILD HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4029.m3u8
-#EXTINF:-1 group-title="S-24-s1", NEOX (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4031.m3u8
-#EXTINF:-1 group-title="S-24-s1", Nickelodeon HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4032.m3u8
-#EXTINF:-1 group-title="S-24-s1", NONSTOPEOPLE (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4033.m3u8
-#EXTINF:-1 group-title="S-24-s1", NOVA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4034.m3u8
-#EXTINF:-1 group-title="S-24-s1", Orbe 21 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4976.m3u8
-#EXTINF:-1 group-title="S-24-s1", PARAMOUNT CHANNEL (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4035.m3u8
-#EXTINF:-1 group-title="S-24-s1", Proyecto 40 (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4977.m3u8
-#EXTINF:-1 group-title="S-24-s1", Real Madrid TV (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4318.m3u8
-#EXTINF:-1 group-title="S-24-s1", SOL MUSICA (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4036.m3u8
-#EXTINF:-1 group-title="S-24-s1", SYFY HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4037.m3u8
-#EXTINF:-1 group-title="S-24-s1", TCM (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4038.m3u8
-#EXTINF:-1 group-title="S-24-s1", TELECINCO HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4039.m3u8
-#EXTINF:-1 group-title="S-24-s1", TELEDEPORTE (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4040.m3u8
-#EXTINF:-1 group-title="S-24-s1", TNT HD (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4041.m3u8
-#EXTINF:-1 group-title="S-24-s1", VIAJAR (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4042.m3u8
-#EXTINF:-1 group-title="S-24-s1", Willax TV (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4978.m3u8
-#EXTINF:-1 group-title="S-24-s1", Win Sports (s-24)
-http://s1.finoip.com:20000/live/mark/mark/4979.m3u8
-#EXTINF:0 group-title="S-25-IPTV",== S-25-IPTV ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 group-title="S-25-IPTV",-24-Horas (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1473.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-AMC (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1477.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Andalucia-TV (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/374.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-ANTENA-3 (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/200.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-AXN (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/503.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Axn-White (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/702.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Barca-TV (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/206.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Calle-13 (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/203.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Clan-TVE (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1478.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-COMEDY-CENTRAL (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/510.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-COSMO (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/711.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-CUATRO (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/491.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Discovery (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1490.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-DISNEY-CHANNEL (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/509.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-DISNEY-JUNIOR (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/704.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-DISNEY-XD (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/705.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Eurosport 1 (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1482.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Fox (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/335.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-FOX-LIFE (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/213.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-HOLLYWOOD (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/214.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Iberalia-TV (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1484.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-LA-1 (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/199.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-LA-2 (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/701.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-LA-SEXTA (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/202.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+ACCION (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/284.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+Cocina (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/209.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+COMEDIA (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/283.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+DCINE (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/282.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+ESTRENOS (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/888.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+Golf (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/208.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+SERIES (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/275.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M+XTRA (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/285.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M-Dcine-Espanol (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1480.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M.Deportes (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1481.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M.FUTBOL (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/889.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M.MOTOGP (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/500.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M.MOVISTAR-F1 (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/499.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M.Series-Xtra (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1475.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-M.TOROS (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/205.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-NAT-GEO-WILD (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/709.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-NATIONAL-GEOGRAPHIC (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/710.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-Nova (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1487.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-REAL-MADRID (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/367.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-SyFy (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1474.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-TCM (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/496.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-TELECINCO (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/201.m3u8
-#EXTINF:-1 group-title="S-25-IPTV",-TNT (s-25)
-http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/495.m3u8
-
-
-
-
-#EXTINF:-1 group-title="España",Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="España",Antena 3 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 group-title="España",BYU Television internacional HD
-http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
-#EXTINF:-1 group-title="España",Canal Antiestres
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="España",Canal Sur TV
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1 group-title="España",El Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
-#EXTINF:-1 group-title="España",Euronews en Español
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 group-title="España",LA 10 
-rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1 group-title="España",LA 2 
-http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-#EXTINF:-1 group-title="España",Intereconomía
-http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
-#EXTINF:-1 group-title="España",La sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 group-title="España",MEGA 
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 group-title="España",TV Sevillana
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
-
-
-#EXTINF:-1,[COLOR red][I][B]----------20-1-2017-----------LISTA 2Server MOVISTAR-----------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1 group-title="SERVER 17", 40 TV 
-http://pro213.com:80/live/beppe/beppe2/2423.m3u8
-#EXTINF:-1 group-title="SERVER 17", 40 TV 
-http://pro213.com:80/live/beppe/beppe2/2423.m3u8
-#EXTINF:-1 group-title="SERVER 17", AMC 
-http://pro213.com:80/live/beppe/beppe2/2434.m3u8
-#EXTINF:-1 group-title="SERVER 17", AMC 
-http://pro213.com:80/live/beppe/beppe2/2434.m3u8
-#EXTINF:-1 group-title="SERVER 17", AMC HD 
-http://pro213.com:80/live/beppe/beppe2/2435.m3u8
-#EXTINF:-1 group-title="SERVER 17", AMC HD 
-http://pro213.com:80/live/beppe/beppe2/2435.m3u8
-#EXTINF:-1 group-title="SERVER 17", Andalucia TV 
-http://pro213.com:80/live/beppe/beppe2/1921.m3u8
-#EXTINF:-1 group-title="SERVER 17", Andalucia TV 
-http://pro213.com:80/live/beppe/beppe2/1921.m3u8
-#EXTINF:-1 group-title="SERVER 17", Antena 3 
-http://pro213.com:80/live/beppe/beppe2/1770.m3u8
-#EXTINF:-1 group-title="SERVER 17", Antena 3 
-http://pro213.com:80/live/beppe/beppe2/1770.m3u8
-#EXTINF:-1 group-title="SERVER 17", antena3 HD 
-http://pro213.com:80/live/beppe/beppe2/3135.m3u8
-#EXTINF:-1 group-title="SERVER 17", antena3 HD 
-http://pro213.com:80/live/beppe/beppe2/3135.m3u8
-#EXTINF:-1 group-title="SERVER 17", AXNSpain 
-http://pro213.com:80/live/beppe/beppe2/1772.m3u8
-#EXTINF:-1 group-title="SERVER 17", AXNSpain 
-http://pro213.com:80/live/beppe/beppe2/1772.m3u8
-#EXTINF:-1 group-title="SERVER 17", Axn White 
-http://pro213.com:80/live/beppe/beppe2/1786.m3u8
-#EXTINF:-1 group-title="SERVER 17", Axn White 
-http://pro213.com:80/live/beppe/beppe2/1786.m3u8
-#EXTINF:-1 group-title="SERVER 17", Baby TV 
-http://pro213.com:80/live/beppe/beppe2/2527.m3u8
-#EXTINF:-1 group-title="SERVER 17", Baby TV 
-http://pro213.com:80/live/beppe/beppe2/2527.m3u8
-#EXTINF:-1 group-title="SERVER 17", BARCA TV 
-http://pro213.com:80/live/beppe/beppe2/2445.m3u8
-#EXTINF:-1 group-title="SERVER 17", BARCA TV 
-http://pro213.com:80/live/beppe/beppe2/2445.m3u8
-#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 
-http://pro213.com:80/live/beppe/beppe2/2516.m3u8
-#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 
-http://pro213.com:80/live/beppe/beppe2/2516.m3u8
-#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 1 
-http://pro213.com:80/live/beppe/beppe2/2517.m3u8
-#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 1 
-http://pro213.com:80/live/beppe/beppe2/2517.m3u8
-#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 2 
-http://pro213.com:80/live/beppe/beppe2/2438.m3u8
-#EXTINF:-1 group-title="SERVER 17", BEIN LA LIGA 2 
-http://pro213.com:80/live/beppe/beppe2/2438.m3u8
-#EXTINF:-1 group-title="SERVER 17", Beinsport HD 
-http://pro213.com:80/live/beppe/beppe2/2515.m3u8
-#EXTINF:-1 group-title="SERVER 17", Beinsport HD 
-http://pro213.com:80/live/beppe/beppe2/2515.m3u8
-#EXTINF:-1 group-title="SERVER 17", CALLE13 
-http://pro213.com:80/live/beppe/beppe2/2422.m3u8
-#EXTINF:-1 group-title="SERVER 17", CALLE13 
-http://pro213.com:80/live/beppe/beppe2/2422.m3u8
-#EXTINF:-1 group-title="SERVER 17", Canal Cocina 
-http://pro213.com:80/live/beppe/beppe2/2430.m3u8
-#EXTINF:-1 group-title="SERVER 17", Canal Cocina 
-http://pro213.com:80/live/beppe/beppe2/2430.m3u8
-#EXTINF:-1 group-title="SERVER 17", CANAL MUSICA 
-http://pro213.com:80/live/beppe/beppe2/2428.m3u8
-#EXTINF:-1 group-title="SERVER 17", CANAL MUSICA 
-http://pro213.com:80/live/beppe/beppe2/2428.m3u8
-#EXTINF:-1 group-title="SERVER 17", CASA Y PESCA 
-http://pro213.com:80/live/beppe/beppe2/2429.m3u8
-#EXTINF:-1 group-title="SERVER 17", CASA Y PESCA 
-http://pro213.com:80/live/beppe/beppe2/2429.m3u8
-#EXTINF:-1 group-title="SERVER 17", COSMO 
-http://pro213.com:80/live/beppe/beppe2/1919.m3u8
-#EXTINF:-1 group-title="SERVER 17", COSMO 
-http://pro213.com:80/live/beppe/beppe2/1919.m3u8
-#EXTINF:-1 group-title="SERVER 17", CUATRO HD 
-http://pro213.com:80/live/beppe/beppe2/2510.m3u8
-#EXTINF:-1 group-title="SERVER 17", CUATRO HD 
-http://pro213.com:80/live/beppe/beppe2/2510.m3u8
-#EXTINF:-1 group-title="SERVER 17", CUATRO SD 
-http://pro213.com:80/live/beppe/beppe2/1769.m3u8
-#EXTINF:-1 group-title="SERVER 17", CUATRO SD 
-http://pro213.com:80/live/beppe/beppe2/1769.m3u8
-#EXTINF:-1 group-title="SERVER 17", DISCOVERY CHANNEL HD 
-http://pro213.com:80/live/beppe/beppe2/2724.m3u8
-#EXTINF:-1 group-title="SERVER 17", DISCOVERY CHANNEL HD 
-http://pro213.com:80/live/beppe/beppe2/2724.m3u8
-#EXTINF:-1 group-title="SERVER 17", Disney channel 
-http://pro213.com:80/live/beppe/beppe2/1793.m3u8
-#EXTINF:-1 group-title="SERVER 17", Disney channel 
-http://pro213.com:80/live/beppe/beppe2/1793.m3u8
-#EXTINF:-1 group-title="SERVER 17", DISNEY JUNIOR 
-http://pro213.com:80/live/beppe/beppe2/1917.m3u8
-#EXTINF:-1 group-title="SERVER 17", DISNEY JUNIOR 
-http://pro213.com:80/live/beppe/beppe2/1917.m3u8
-#EXTINF:-1 group-title="SERVER 17", ENERGY 
-http://pro213.com:80/live/beppe/beppe2/2530.m3u8
-#EXTINF:-1 group-title="SERVER 17", ENERGY 
-http://pro213.com:80/live/beppe/beppe2/2530.m3u8
-#EXTINF:-1 group-title="SERVER 17", Eurosport 
-http://pro213.com:80/live/beppe/beppe2/1906.m3u8
-#EXTINF:-1 group-title="SERVER 17", Eurosport 
-http://pro213.com:80/live/beppe/beppe2/1906.m3u8
-#EXTINF:-1 group-title="SERVER 17", FOX 
-http://pro213.com:80/live/beppe/beppe2/1790.m3u8
-#EXTINF:-1 group-title="SERVER 17", FOX 
-http://pro213.com:80/live/beppe/beppe2/1790.m3u8
-#EXTINF:-1 group-title="SERVER 17", FOX Life 
-http://pro213.com:80/live/beppe/beppe2/1771.m3u8
-#EXTINF:-1 group-title="SERVER 17", FOX Life 
-http://pro213.com:80/live/beppe/beppe2/1771.m3u8
-#EXTINF:-1 group-title="SERVER 17", GOL TV 
-http://pro213.com:80/live/beppe/beppe2/2514.m3u8
-#EXTINF:-1 group-title="SERVER 17", GOL TV 
-http://pro213.com:80/live/beppe/beppe2/2514.m3u8
-#EXTINF:-1 group-title="SERVER 17", History 
-http://pro213.com:80/live/beppe/beppe2/1928.m3u8
-#EXTINF:-1 group-title="SERVER 17", History 
-http://pro213.com:80/live/beppe/beppe2/1928.m3u8
-#EXTINF:-1 group-title="SERVER 17", Hollywood HD 
-http://pro213.com:80/live/beppe/beppe2/1773.m3u8
-#EXTINF:-1 group-title="SERVER 17", Hollywood HD 
-http://pro213.com:80/live/beppe/beppe2/1773.m3u8
-#EXTINF:-1 group-title="SERVER 17", La 1 
-http://pro213.com:80/live/beppe/beppe2/2531.m3u8
-#EXTINF:-1 group-title="SERVER 17", La 1 
-http://pro213.com:80/live/beppe/beppe2/2531.m3u8
-#EXTINF:-1 group-title="SERVER 17", La 2 
-http://pro213.com:80/live/beppe/beppe2/2532.m3u8
-#EXTINF:-1 group-title="SERVER 17", La 2 
-http://pro213.com:80/live/beppe/beppe2/2532.m3u8
-#EXTINF:-1 group-title="SERVER 17", LaSextaHD 
-http://pro213.com:80/live/beppe/beppe2/1768.m3u8
-#EXTINF:-1 group-title="SERVER 17", LaSextaHD 
-http://pro213.com:80/live/beppe/beppe2/1768.m3u8
-#EXTINF:-1 group-title="SERVER 17", MEGA 
-http://pro213.com:80/live/beppe/beppe2/2721.m3u8
-#EXTINF:-1 group-title="SERVER 17", MEGA 
-http://pro213.com:80/live/beppe/beppe2/2721.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR 0# HD 
-http://pro213.com:80/live/beppe/beppe2/2512.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR 0# HD 
-http://pro213.com:80/live/beppe/beppe2/2512.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR ACCION 
-http://pro213.com:80/live/beppe/beppe2/2425.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR ACCION 
-http://pro213.com:80/live/beppe/beppe2/2425.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR COMEDIA HD 
-http://pro213.com:80/live/beppe/beppe2/2524.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR COMEDIA HD 
-http://pro213.com:80/live/beppe/beppe2/2524.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR DCINE Ñ 
-http://pro213.com:80/live/beppe/beppe2/2529.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR DCINE Ñ 
-http://pro213.com:80/live/beppe/beppe2/2529.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 
-http://pro213.com:80/live/beppe/beppe2/2432.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 
-http://pro213.com:80/live/beppe/beppe2/2432.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 2 
-http://pro213.com:80/live/beppe/beppe2/2518.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR DEPORTE 2 
-http://pro213.com:80/live/beppe/beppe2/2518.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR ESTRENOS 
-http://pro213.com:80/live/beppe/beppe2/2427.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR ESTRENOS 
-http://pro213.com:80/live/beppe/beppe2/2427.m3u8
-#EXTINF:-1 group-title="SERVER 17", Movistar F1 
-http://pro213.com:80/live/beppe/beppe2/1915.m3u8
-#EXTINF:-1 group-title="SERVER 17", Movistar F1 
-http://pro213.com:80/live/beppe/beppe2/1915.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR FUTBOL 
-http://pro213.com:80/live/beppe/beppe2/2519.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR FUTBOL 
-http://pro213.com:80/live/beppe/beppe2/2519.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR GOLF 
-http://pro213.com:80/live/beppe/beppe2/1903.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR GOLF 
-http://pro213.com:80/live/beppe/beppe2/1903.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR LA LIGA 
-http://pro213.com:80/live/beppe/beppe2/1785.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR LA LIGA 
-http://pro213.com:80/live/beppe/beppe2/1785.m3u8
-#EXTINF:-1 group-title="SERVER 17", Movistar moto gp 
-http://pro213.com:80/live/beppe/beppe2/1916.m3u8
-#EXTINF:-1 group-title="SERVER 17", Movistar moto gp 
-http://pro213.com:80/live/beppe/beppe2/1916.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR PARTIDAZO 
-http://pro213.com:80/live/beppe/beppe2/1765.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR PARTIDAZO 
-http://pro213.com:80/live/beppe/beppe2/1765.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES HD 
-http://pro213.com:80/live/beppe/beppe2/2522.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES HD 
-http://pro213.com:80/live/beppe/beppe2/2522.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES XTRA 
-http://pro213.com:80/live/beppe/beppe2/2426.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR SERIES XTRA 
-http://pro213.com:80/live/beppe/beppe2/2426.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR XTRA HD 
-http://pro213.com:80/live/beppe/beppe2/3137.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR XTRA HD 
-http://pro213.com:80/live/beppe/beppe2/3137.m3u8
-#EXTINF:-1 group-title="SERVER 17", Nat Geo Wild 
-http://pro213.com:80/live/beppe/beppe2/1789.m3u8
-#EXTINF:-1 group-title="SERVER 17", Nat Geo Wild 
-http://pro213.com:80/live/beppe/beppe2/1789.m3u8
-#EXTINF:-1 group-title="SERVER 17", NATIONAL GEOGRAPHIC 
-http://pro213.com:80/live/beppe/beppe2/2421.m3u8
-#EXTINF:-1 group-title="SERVER 17", NATIONAL GEOGRAPHIC 
-http://pro213.com:80/live/beppe/beppe2/2421.m3u8
-#EXTINF:-1 group-title="SERVER 17", Odisea HD 
-http://pro213.com:80/live/beppe/beppe2/1912.m3u8
-#EXTINF:-1 group-title="SERVER 17", Odisea HD 
-http://pro213.com:80/live/beppe/beppe2/1912.m3u8
-#EXTINF:-1 group-title="SERVER 17", REAL MADRID TV 
-http://pro213.com:80/live/beppe/beppe2/2436.m3u8
-#EXTINF:-1 group-title="SERVER 17", REAL MADRID TV 
-http://pro213.com:80/live/beppe/beppe2/2436.m3u8
-#EXTINF:-1 group-title="SERVER 17", SyFy HD 
-http://pro213.com:80/live/beppe/beppe2/1791.m3u8
-#EXTINF:-1 group-title="SERVER 17", SyFy HD 
-http://pro213.com:80/live/beppe/beppe2/1791.m3u8
-#EXTINF:-1 group-title="SERVER 17", TCM 
-http://pro213.com:80/live/beppe/beppe2/2528.m3u8
-#EXTINF:-1 group-title="SERVER 17", TCM 
-http://pro213.com:80/live/beppe/beppe2/2528.m3u8
-#EXTINF:-1 group-title="SERVER 17", TELECINCO 
-http://pro213.com:80/live/beppe/beppe2/1767.m3u8
-#EXTINF:-1 group-title="SERVER 17", TELECINCO 
-http://pro213.com:80/live/beppe/beppe2/1767.m3u8
-#EXTINF:-1 group-title="SERVER 17", TELECINCO HD 
-http://pro213.com:80/live/beppe/beppe2/2511.m3u8
-#EXTINF:-1 group-title="SERVER 17", TELECINCO HD 
-http://pro213.com:80/live/beppe/beppe2/2511.m3u8
-#EXTINF:-1 group-title="SERVER 17", TNT HD 
-http://pro213.com:80/live/beppe/beppe2/1788.m3u8
-#EXTINF:-1 group-title="SERVER 17", TNT HD 
-http://pro213.com:80/live/beppe/beppe2/1788.m3u8
-#EXTINF:-1 group-title="SERVER 17", TVE 
-http://pro213.com:80/live/beppe/beppe2/2420.m3u8
-#EXTINF:-1 group-title="SERVER 17", TVE 
-http://pro213.com:80/live/beppe/beppe2/2420.m3u8
-#EXTINF:-1 group-title="SERVER 17", TVE 2 
-http://pro213.com:80/live/beppe/beppe2/1918.m3u8
-#EXTINF:-1 group-title="SERVER 17", TVE 2 
-http://pro213.com:80/live/beppe/beppe2/1918.m3u8
-#EXTINF:-1 group-title="SERVER 17", TVE 24 Hora 
-http://pro213.com:80/live/beppe/beppe2/1923.m3u8
-#EXTINF:-1 group-title="SERVER 17", TVE 24 Hora 
-http://pro213.com:80/live/beppe/beppe2/1923.m3u8
-#EXTINF:-1 group-title="SERVER 17",Y Baby TV 
-http://pro213.com:80/live/beppe/beppe2/3837.m3u8
-#EXTINF:-1 group-title="SERVER 17",Y Baby TV 
-http://pro213.com:80/live/beppe/beppe2/3837.m3u8
-#EXTINF:-1 group-title="SERVER 17",Y Home Plus 
-http://pro213.com:80/live/beppe/beppe2/3325.m3u8
-#EXTINF:-1 group-title="SERVER 17",Y Home Plus 
-http://pro213.com:80/live/beppe/beppe2/3325.m3u8
-#EXTINF:-1 group-title="SERVER 17",Yes: Nickelodeon 
-http://pro213.com:80/live/beppe/beppe2/3839.m3u8
-#EXTINF:-1 group-title="SERVER 17",Yes: Nickelodeon 
-http://pro213.com:80/live/beppe/beppe2/3839.m3u8
-#EXTINF:-1 group-title="SERVER 17",Y VIVA 
-http://pro213.com:80/live/beppe/beppe2/3330.m3u8
-#EXTINF:-1 group-title="SERVER 17",Y VIVA 
-http://pro213.com:80/live/beppe/beppe2/3330.m3u8
-#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
-http://pro213.com:80/live/beppe/beppe2/1907.m3u8
-#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
-http://pro213.com:80/live/beppe/beppe2/1907.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
-http://pro213.com:80/live/beppe/beppe2/2525.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
-http://pro213.com:80/live/beppe/beppe2/2525.m3u8
-#EXTINF:-1 group-title="SERVER 17", Viajar HD 
-http://pro213.com:80/live/beppe/beppe2/1909.m3u8
-#EXTINF:-1 group-title="SERVER 17", Viajar HD 
-http://pro213.com:80/live/beppe/beppe2/1909.m3u8
-#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
-http://pro213.com:80/live/beppe/beppe2/1907.m3u8
-#EXTINF:-1 group-title="SERVER 17", COMEDY CENTRAL HD 
-http://pro213.com:80/live/beppe/beppe2/1907.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
-http://pro213.com:80/live/beppe/beppe2/2525.m3u8
-#EXTINF:-1 group-title="SERVER 17", MOVISTAR TOROS HD 
-http://pro213.com:80/live/beppe/beppe2/2525.m3u8
-#EXTINF:-1 group-title="SERVER 17", Viajar HD 
-http://pro213.com:80/live/beppe/beppe2/1909.m3u8
-#EXTINF:-1 group-title="SERVER 17", Viajar HD 
-http://pro213.com:80/live/beppe/beppe2/1909.m3u8
+#EXTINF:-1,Movistar+
+http://79.150.155.48:4022/udp/239.0.0.77:8208
+#EXTINF:-1,Movistar+ HD
+http://79.150.155.48:4022/udp/239.0.5.185:8208
+#EXTINF:-1,TVE 1
+http://79.150.155.48:4022/udp/239.0.0.76:8208
+#EXTINF:-1,TVE 1 HD
+http://79.150.155.48:4022/udp/239.0.0.185:8208
+#EXTINF:-1,TVE 2
+http://79.150.155.48:4022/udp/239.0.0.2:8208
+#EXTINF:-1,Antena 3
+http://79.150.155.48:4022/udp/239.0.0.3:8208
+#EXTINF:-1,Antena 3 HD
+http://79.150.155.48:4022/udp/239.0.0.186:8208
+#EXTINF:-1,Cuatro
+http://79.150.155.48:4022/udp/239.0.0.4:8208
+#EXTINF:-1,Cuatro HD
+http://79.150.155.48:4022/udp/239.0.0.177:8208
+#EXTINF:-1,Telecinco
+http://79.150.155.48:4022/udp/239.0.0.5:8208
+#EXTINF:-1,Telecinco HD
+http://79.150.155.48:4022/udp/239.0.0.176:8208
+#EXTINF:-1,La Sexta
+http://79.150.155.48:4022/udp/239.0.0.58:8208
+#EXTINF:-1,La Sexta HD
+http://79.150.155.48:4022/udp/239.0.0.187:8208
+#EXTINF:-1,#0
+http://79.150.155.48:4022/udp/239.0.0.108:8208
+#EXTINF:-1,#0 HD
+http://79.150.155.48:4022/udp/239.0.5.187:8208
+#EXTINF:-1,7 Region de Murcia
+http://79.150.155.48:4022/udp/239.0.0.87:8208
+#EXTINF:-1,Aragon TV
+http://79.150.155.48:4022/udp/239.0.0.88:8208
+#EXTINF:-1,Canal Sur
+http://79.150.155.48:4022/udp/239.0.0.49:8208
+#EXTINF:-1,Castilla y Leon 7
+http://79.150.155.48:4022/udp/239.0.0.109:8208
+#EXTINF:-1,CMT
+http://79.150.155.48:4022/udp/239.0.0.55:8208
+#EXTINF:-1,ETB 1
+http://79.150.155.48:4022/udp/239.0.0.35:8208
+#EXTINF:-1,Extremadura TV
+http://79.150.155.48:4022/udp/239.0.0.73:8208
+#EXTINF:-1,IB3
+http://79.150.155.48:4022/udp/239.0.0.56:8208
+#EXTINF:-1,Telemadrid
+http://79.150.155.48:4022/udp/239.0.0.25:8208
+#EXTINF:-1,TV Canaria
+http://79.150.155.48:4022/udp/239.0.0.54:8208
+#EXTINF:-1,TV Galicia
+http://79.150.155.48:4022/udp/239.0.0.53:8208
+#EXTINF:-1,TV Mediterraneo
+http://79.150.155.48:4022/udp/239.0.3.34:8208
+#EXTINF:-1,TV Princ de Asturias
+http://79.150.155.48:4022/udp/239.0.0.86:8208
+#EXTINF:-1,TV3
+http://79.150.155.48:4022/udp/239.0.0.23:8208
+#EXTINF:-1,TV3 HD
+http://79.150.155.48:4022/udp/239.0.5.186:8208
+#EXTINF:-1,8 TV
+http://79.150.155.48:4022/udp/239.0.0.82:8208
+#EXTINF:-1,Canal Sur 2
+http://79.150.155.48:4022/udp/239.0.0.50:8208
+#EXTINF:-1,ETB 2
+http://79.150.155.48:4022/udp/239.0.0.36:8208
+#EXTINF:-1,La Otra
+http://79.150.155.48:4022/udp/239.0.0.26:8208
+#EXTINF:-1,Series
+http://79.150.155.48:4022/udp/239.0.3.32:8208
+#EXTINF:-1,Series HD
+http://79.150.155.48:4022/udp/239.0.0.184:8208
+#EXTINF:-1,Movistar Series
+http://79.150.155.48:4022/udp/239.0.5.4:8208
+#EXTINF:-1,Movistar Series HD
+http://79.150.155.48:4022/udp/239.0.5.250:8208
+#EXTINF:-1,Movistar Series Xtra
+http://79.150.155.48:4022/udp/239.0.3.20:8208
+#EXTINF:-1,Movistar Series Xtra HD
+http://79.150.155.48:4022/udp/239.0.5.83:8208
+#EXTINF:-1,FOX
+http://79.150.155.48:4022/udp/239.0.0.74:8208
+#EXTINF:-1,FOX HD
+http://79.150.155.48:4022/udp/239.0.9.134:8208
+#EXTINF:-1,AXN
+http://79.150.155.48:4022/udp/239.0.0.14:8208
+#EXTINF:-1,AXN HD
+http://79.150.155.48:4022/udp/239.0.9.131:8208
+#EXTINF:-1,TNT
+http://79.150.155.48:4022/udp/239.0.0.44:8208
+#EXTINF:-1,TNT HD
+http://79.150.155.48:4022/udp/239.0.5.87:8208
+#EXTINF:-1,Comedy Central
+http://79.150.155.48:4022/udp/239.0.0.68:8208
+#EXTINF:-1,Comedy Central HD
+http://79.150.155.48:4022/udp/239.0.0.174:8208
+#EXTINF:-1,Calle 13
+http://79.150.155.48:4022/udp/239.0.0.13:8208
+#EXTINF:-1,Calle 13 HD
+http://79.150.155.48:4022/udp/239.0.5.74:8208
+#EXTINF:-1,Cosmo
+http://79.150.155.48:4022/udp/239.0.0.15:8208
+#EXTINF:-1,Cosmo HD
+http://79.150.155.48:4022/udp/239.0.5.71:8208
+#EXTINF:-1,AMC
+http://79.150.155.48:4022/udp/239.0.0.8:8208
+#EXTINF:-1,AMC HD
+http://79.150.155.48:4022/udp/239.0.9.132:8208
+#EXTINF:-1,FOX Life
+http://79.150.155.48:4022/udp/239.0.0.112:8208
+#EXTINF:-1,FOX Life HD
+http://79.150.155.48:4022/udp/239.0.5.86:8208
+#EXTINF:-1,AXN White
+http://79.150.155.48:4022/udp/239.0.0.62:8208
+#EXTINF:-1,AXN White HD
+http://79.150.155.48:4022/udp/239.0.5.79:8208
+#EXTINF:-1,SyFy
+http://79.150.155.48:4022/udp/239.0.0.111:8208
+#EXTINF:-1,SyFy HD
+http://79.150.155.48:4022/udp/239.0.5.75:8208
+#EXTINF:-1,Non Stop People
+http://79.150.155.48:4022/udp/239.0.0.212:8208
+#EXTINF:-1,Non Stop People HD
+http://79.150.155.48:4022/udp/239.0.5.170:8208
+#EXTINF:-1,MTV
+http://79.150.155.48:4022/udp/239.0.0.211:8208
+#EXTINF:-1,FDF
+http://79.150.155.48:4022/udp/239.0.0.84:8208
+#EXTINF:-1,Neox
+http://79.150.155.48:4022/udp/239.0.0.107:8208
+#EXTINF:-1,Atreseries
+http://79.150.155.48:4022/udp/239.0.3.29:8208
+#EXTINF:-1,Atreseries HD
+http://79.150.155.48:4022/udp/239.0.0.181:8208
+#EXTINF:-1,Cine
+http://79.150.155.48:4022/udp/239.0.3.30:8208
+#EXTINF:-1,Cine HD
+http://79.150.155.48:4022/udp/239.0.0.178:8208
+#EXTINF:-1,Movistar Estrenos
+http://79.150.155.48:4022/udp/239.0.3.40:8208
+#EXTINF:-1,Movistar Estrenos HD
+http://79.150.155.48:4022/udp/239.0.5.111:8208
+#EXTINF:-1,Movistar Xtra
+http://79.150.155.48:4022/udp/239.0.3.41:8208
+#EXTINF:-1,Movistar Xtra HD
+http://79.150.155.48:4022/udp/239.0.5.112:8208
+#EXTINF:-1,Movistar Accion
+http://79.150.155.48:4022/udp/239.0.3.42:8208
+#EXTINF:-1,Movistar Accion HD
+http://79.150.155.48:4022/udp/239.0.5.113:8208
+#EXTINF:-1,Movistar Comedia
+http://79.150.155.48:4022/udp/239.0.3.43:8208
+#EXTINF:-1,Movistar Comedia HD
+http://79.150.155.48:4022/udp/239.0.5.114:8208
+#EXTINF:-1,Movistar DCine
+http://79.150.155.48:4022/udp/239.0.3.44:8208
+#EXTINF:-1,Movistar DCine HD
+http://79.150.155.48:4022/udp/239.0.5.115:8208
+#EXTINF:-1,DCine Espanol
+http://79.150.155.48:4022/udp/239.0.3.45:8208
+#EXTINF:-1,TCM
+http://79.150.155.48:4022/udp/239.0.6.5:8208
+#EXTINF:-1,TCM HD
+http://79.150.155.48:4022/udp/239.0.5.89:8208
+#EXTINF:-1,Hollywood
+http://79.150.155.48:4022/udp/239.0.0.16:8208
+#EXTINF:-1,Hollywood HD
+http://79.150.155.48:4022/udp/239.0.5.76:8208
+#EXTINF:-1,Sundance
+http://79.150.155.48:4022/udp/239.0.0.102:8208
+#EXTINF:-1,Sundance HD
+http://79.150.155.48:4022/udp/239.0.5.72:8208
+#EXTINF:-1,Paramount
+http://79.150.155.48:4022/udp/239.0.0.90:8208
+#EXTINF:-1,DARK
+http://79.150.155.48:4022/udp/239.0.0.39:8208
+#EXTINF:-1,13 TV
+http://79.150.155.48:4022/udp/239.0.0.91:8208
+#EXTINF:-1,Ten
+http://79.150.155.48:4022/udp/239.0.0.34:8208
+#EXTINF:-1,Deportes
+http://79.150.155.48:4022/udp/239.0.3.33:8208
+#EXTINF:-1,Deportes HD
+http://79.150.155.48:4022/udp/239.0.0.180:8208
+#EXTINF:-1,Movistar Futbol
+http://79.150.155.48:4022/udp/239.0.6.8:8208
+#EXTINF:-1,Movistar Futbol HD
+http://79.150.155.48:4022/udp/239.0.6.14:8208
+#EXTINF:-1,Movistar Partidazo
+http://79.150.155.48:4022/udp/239.0.4.129:8208
+#EXTINF:-1,Movistar Partidazo HD
+http://79.150.155.48:4022/udp/239.0.5.84:8208
+#EXTINF:-1,beIN La Liga
+http://79.150.155.48:4022/udp/239.0.0.46:8208
+#EXTINF:-1,beIN La Liga HD
+http://79.150.155.48:4022/udp/239.0.5.106:8208
+#EXTINF:-1,beIN La Liga 1
+http://79.150.155.48:4022/udp/239.0.0.47:8208
+#EXTINF:-1,beIN La Liga 1 HD
+http://79.150.155.48:4022/udp/239.0.5.179:8208
+#EXTINF:-1,beIN La Liga 2
+http://79.150.155.48:4022/udp/239.0.0.67:8208
+#EXTINF:-1,beIN La Liga 2 HD
+http://79.150.155.48:4022/udp/239.0.5.180:8208
+#EXTINF:-1,beIN SPORTS
+http://79.150.155.48:4022/udp/239.0.3.100:8208
+#EXTINF:-1,beIN SPORTS HD
+http://79.150.155.48:4022/udp/239.0.9.80:8208
+#EXTINF:-1,Futbol Replay
+http://79.150.155.48:4022/udp/239.0.0.97:8208
+#EXTINF:-1,beIN MAX 1
+http://79.150.155.48:4022/udp/239.0.6.7:8208
+#EXTINF:-1,beIN MAX 1 HD
+http://79.150.155.48:4022/udp/239.0.5.177:8208
+#EXTINF:-1,beIN MAX 2
+http://79.150.155.48:4022/udp/239.0.6.13:8208
+#EXTINF:-1,Movistar Deportes 1
+http://79.150.155.48:4022/udp/239.0.4.193:8208
+#EXTINF:-1,Movistar Deportes 1 HD
+http://79.150.155.48:4022/udp/239.0.5.248:8208
+#EXTINF:-1,Movistar Deportes 2
+http://79.150.155.48:4022/udp/239.0.5.5:8208
+#EXTINF:-1,Movistar Deportes 2 HD
+http://79.150.155.48:4022/udp/239.0.5.245:8208
+#EXTINF:-1,Movistar F1
+http://79.150.155.48:4022/udp/239.0.0.210:8208
+#EXTINF:-1,Movistar F1 HD
+http://79.150.155.48:4022/udp/239.0.5.246:8208
+#EXTINF:-1,Movistar MotoGP
+http://79.150.155.48:4022/udp/239.0.3.38:8208
+#EXTINF:-1,Movistar MotoGP HD
+http://79.150.155.48:4022/udp/239.0.5.107:8208
+#EXTINF:-1,Movistar Golf
+http://79.150.155.48:4022/udp/239.0.5.2:8208
+#EXTINF:-1,Movistar Golf HD
+http://79.150.155.48:4022/udp/239.0.5.249:8208
+#EXTINF:-1,EuroSport
+http://79.150.155.48:4022/udp/239.0.0.18:8208
+#EXTINF:-1,EuroSport HD New
+http://79.150.155.48:4022/udp/239.0.9.144:8208
+#EXTINF:-1,EuroSport HD Old
+http://79.150.155.48:4022/udp/239.0.9.135:8208
+#EXTINF:-1,EuroSport 2
+http://79.150.155.48:4022/udp/239.0.0.37:8208
+#EXTINF:-1,EuroSport 2 HD
+http://79.150.155.48:4022/udp/239.0.5.105:8208
+#EXTINF:-1,GOL
+http://79.150.155.48:4022/udp/239.0.0.7:8208
+#EXTINF:-1,GOL HD
+http://79.150.155.48:4022/udp/239.0.5.189:8208
+#EXTINF:-1,Teledeporte
+http://79.150.155.48:4022/udp/239.0.0.79:8208
+#EXTINF:-1,Teledeporte HD
+http://79.150.155.48:4022/udp/239.0.0.188:8208
+#EXTINF:-1,Iberalia
+http://79.150.155.48:4022/udp/239.0.5.6:8208
+#EXTINF:-1,Multideporte 1
+http://79.150.155.48:4022/udp/239.0.7.1:8208
+#EXTINF:-1,National Geographic
+http://79.150.155.48:4022/udp/239.0.0.103:8208
+#EXTINF:-1,National Geographic HD
+http://79.150.155.48:4022/udp/239.0.5.78:8208
+#EXTINF:-1,Nat Geo Wild
+http://79.150.155.48:4022/udp/239.0.0.89:8208
+#EXTINF:-1,Nat Geo Wild HD
+http://79.150.155.48:4022/udp/239.0.9.136:8208
+#EXTINF:-1,Historia
+http://79.150.155.48:4022/udp/239.0.0.19:8208
+#EXTINF:-1,Discovery Channel
+http://79.150.155.48:4022/udp/239.0.0.21:8208
+#EXTINF:-1,Discovery Channel HD
+http://79.150.155.48:4022/udp/239.0.5.77:8208
+#EXTINF:-1,Odisea
+http://79.150.155.48:4022/udp/239.0.0.22:8208
+#EXTINF:-1,Odisea HD
+http://79.150.155.48:4022/udp/239.0.5.82:8208
+#EXTINF:-1,A&ampE
+http://79.150.155.48:4022/udp/239.0.0.38:8208
+#EXTINF:-1,Viajar
+http://79.150.155.48:4022/udp/239.0.0.20:8208
+#EXTINF:-1,Viajar HD
+http://79.150.155.48:4022/udp/239.0.5.73:8208
+#EXTINF:-1,Discovery MAX
+http://79.150.155.48:4022/udp/239.0.0.32:8208
+#EXTINF:-1,CCTV-E
+http://79.150.155.48:4022/udp/239.0.0.65:8208
+#EXTINF:-1,Cocina
+http://79.150.155.48:4022/udp/239.0.0.27:8208
+#EXTINF:-1,Decasa
+http://79.150.155.48:4022/udp/239.0.0.71:8208
+#EXTINF:-1,DKISS
+http://79.150.155.48:4022/udp/239.0.0.6:8208
+#EXTINF:-1,Crimen e Investigacion
+http://79.150.155.48:4022/udp/239.0.0.57:8208
+#EXTINF:-1,Divinity
+http://79.150.155.48:4022/udp/239.0.0.48:8208
+#EXTINF:-1,Nova
+http://79.150.155.48:4022/udp/239.0.0.106:8208
+#EXTINF:-1,MEGA
+http://79.150.155.48:4022/udp/239.0.3.31:8208
+#EXTINF:-1,BeMad
+http://79.150.155.48:4022/udp/239.0.0.17:8208
+#EXTINF:-1,BeMad HD
+http://79.150.155.48:4022/udp/239.0.0.182:8208
+#EXTINF:-1,Energy
+http://79.150.155.48:4022/udp/239.0.0.59:8208
+#EXTINF:-1,Garage TV
+http://79.150.155.48:4022/udp/239.0.0.99:8208
+#EXTINF:-1,Baby TV
+http://79.150.155.48:4022/udp/239.0.0.113:8208
+#EXTINF:-1,Disney Junior
+http://79.150.155.48:4022/udp/239.0.0.10:8208
+#EXTINF:-1,Canal Panda
+http://79.150.155.48:4022/udp/239.0.0.117:8208
+#EXTINF:-1,Nick Jr
+http://79.150.155.48:4022/udp/239.0.0.115:8208
+#EXTINF:-1,Nickelodeon
+http://79.150.155.48:4022/udp/239.0.0.69:8208
+#EXTINF:-1,Disney XD
+http://79.150.155.48:4022/udp/239.0.0.11:8208
+#EXTINF:-1,Disney Channel
+http://79.150.155.48:4022/udp/239.0.0.64:8208
+#EXTINF:-1,Disney Channel HD
+http://79.150.155.48:4022/udp/239.0.0.173:8208
+#EXTINF:-1,Boing
+http://79.150.155.48:4022/udp/239.0.0.66:8208
+#EXTINF:-1,Clan TVE
+http://79.150.155.48:4022/udp/239.0.0.80:8208
+#EXTINF:-1,40 TV
+http://79.150.155.48:4022/udp/239.0.0.12:8208
+#EXTINF:-1,VH1
+http://79.150.155.48:4022/udp/239.0.0.75:8208
+#EXTINF:-1,Canal 24 Horas
+http://79.150.155.48:4022/udp/239.0.0.78:8208
+#EXTINF:-1,BBC world
+http://79.150.155.48:4022/udp/239.0.0.30:8208
+#EXTINF:-1,CNN International
+http://79.150.155.48:4022/udp/239.0.0.40:8208
+#EXTINF:-1,Fox News
+http://79.150.155.48:4022/udp/239.0.7.65:8208
+#EXTINF:-1,Euronews
+http://79.150.155.48:4022/udp/239.0.0.28:8208
+#EXTINF:-1,Al Jazeera
+http://79.150.155.48:4022/udp/239.0.7.66:8208
+#EXTINF:-1,France 24
+http://79.150.155.48:4022/udp/239.0.7.67:8208
+#EXTINF:-1,Russia Today
+http://79.150.155.48:4022/udp/239.0.7.68:8208
+#EXTINF:-1,CNBC Europe
+http://79.150.155.48:4022/udp/239.0.7.69:8208
+#EXTINF:-1,TV5 Monde Europe
+http://79.150.155.48:4022/udp/239.0.0.31:8208
+#EXTINF:-1,Bloomberg
+http://79.150.155.48:4022/udp/239.0.0.29:8208
+#EXTINF:-1,Intereconomia TV
+http://79.150.155.48:4022/udp/239.0.0.63:8208
+#EXTINF:-1,I24 News
+http://79.150.155.48:4022/udp/239.0.0.220:8208
+#EXTINF:-1,CNC World
+http://79.150.155.48:4022/udp/239.0.0.221:8208
+#EXTINF:-1,Canal Orbe 21
+http://79.150.155.48:4022/udp/239.0.0.45:8208
+#EXTINF:-1,Andalucia TV
+http://79.150.155.48:4022/udp/239.0.0.1:8208
+#EXTINF:-1,Galicia TV Europa
+http://79.150.155.48:4022/udp/239.0.3.37:8208
+#EXTINF:-1,TV3CAT
+http://79.150.155.48:4022/udp/239.0.3.36:8208
+#EXTINF:-1,ETB Sat
+http://79.150.155.48:4022/udp/239.0.0.60:8208
+#EXTINF:-1,Aragon TV Int
+http://79.150.155.48:4022/udp/239.0.0.81:8208
+#EXTINF:-1,Super 3/33
+http://79.150.155.48:4022/udp/239.0.0.24:8208
+#EXTINF:-1,Esport3
+http://79.150.155.48:4022/udp/239.0.0.51:8208
+#EXTINF:-1,3/24
+http://79.150.155.48:4022/udp/239.0.0.61:8208
+#EXTINF:-1,Xarxa Televisions
+http://79.150.155.48:4022/udp/239.0.0.9:8208
+#EXTINF:-1,Multifutbol 1
+http://79.150.155.48:4022/udp/239.0.0.92:8208
+#EXTINF:-1,Multifutbol 2
+http://79.150.155.48:4022/udp/239.0.0.93:8208
+#EXTINF:-1,Multifutbol 3
+http://79.150.155.48:4022/udp/239.0.0.94:8208
+#EXTINF:-1,Multifutbol 4
+http://79.150.155.48:4022/udp/239.0.0.95:8208
+#EXTINF:-1,Multifutbol 5
+http://79.150.155.48:4022/udp/239.0.0.96:8208
+#EXTINF:-1,beIN La Liga 3
+http://79.150.155.48:4022/udp/239.0.0.70:8208
+#EXTINF:-1,beIN La Liga 3 HD
+http://79.150.155.48:4022/udp/239.0.5.181:8208
+#EXTINF:-1,beIN La Liga 4
+http://79.150.155.48:4022/udp/239.0.0.72:8208
+#EXTINF:-1,beIN MAX 3
+http://79.150.155.48:4022/udp/239.0.0.216:8208
+#EXTINF:-1,beIN MAX 4
+http://79.150.155.48:4022/udp/239.0.0.217:8208
+#EXTINF:-1,Multideporte 2
+http://79.150.155.48:4022/udp/239.0.7.2:8208
+#EXTINF:-1,Multideporte 3
+http://79.150.155.48:4022/udp/239.0.7.3:8208
+#EXTINF:-1,Multideporte 4
+http://79.150.155.48:4022/udp/239.0.7.4:8208
+#EXTINF:-1,Multideporte 5
+http://79.150.155.48:4022/udp/239.0.7.5:8208
+#EXTINF:-1,Multideporte 6
+http://79.150.155.48:4022/udp/239.0.7.132:8208
+#EXTINF:-1,Multideporte 7
+http://79.150.155.48:4022/udp/239.0.7.133:8208
+#EXTINF:-1,La Tienda en Casa
+http://79.150.155.48:4022/udp/239.0.0.98:8208
