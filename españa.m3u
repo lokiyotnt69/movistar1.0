@@ -2,57 +2,313 @@
 
 
 
-#EXTINF:-1, liga
-acestream://ce497ea6f0235b7f5d20bad7b0237f96470bcdee
-
-#EXTINF:-1,UFC 203
-
-acestream://c3f48ba4acf2991f921d7d010675860f81488f20
-
-#EXTINF:-1,UFC 203 LQ
-
-acestream://ef7e9ef97a286ee8f506f6d4610a64b004797423
-
-#EXTINF:-1,Eurosport 1 
-
-acestream://f4be760d580745f0f091820865796d9956e498d1
-
-#EXTINF:-1,Eurosport 1 HD 
-
-acestream://dc4e5852037820e32b7fe05b4f851bb74ed77074
-
-#EXTINF:-1,Eurospоrt 2 
-
-acestream://43a83bc9077fb5d07875cd311e6fca7361c2afce
-
-#EXTINF:-1,Extreme Sports 
-
-acestream://32c17f6938c515bfa07814a5753699e1aca90745
-
-#EXTINF:-1,Fast and FunBox HD 
-
-acestream://f3d691c85d79512f3ad1c177434d6add00ab6eee
-
-#EXTINF:-1,Idman TV 
-
-acestream://6acb7d0e8adac089f5b76ca4cede3cbfe15a1e03
-
-#EXTINF:-1,Viasat Fotboll 
-
-acestream://cf3408c0f386fed77b6c263d3918408810610f64
-
-#EXTINF:-1,Viasat Fotboll HD 
-
-acestream://9bd11f8ee0fc3ff43d95336951e114f75a9c1906
-
-#EXTINF:-1,Viasat Hockey 
-
-acestream://c3dbf1fc829e76e5f18e37354f454c2546558673
-
-#EXTINF:-1,Viasat Hockey HD 
-
-acestream://652e4173f0817440422f6cd78ed266c8119fba67
-
-#EXTINF:-1,Viasat Motor 
-
-acestream://44682f2cef0d96026851082b69bed5bf6dedcbf7
+EXTINF:-1,SP: LA 1
+http://worldcs.info:8080/live/alberto/alberto/33.ts
+#EXTINF:-1,SP: LA 2
+http://worldcs.info:8080/live/alberto/alberto/34.ts
+#EXTINF:-1,SP: ANTENA 3 HD
+http://worldcs.info:8080/live/alberto/alberto/13640.ts
+#EXTINF:-1,SP: ANTENA 3
+http://worldcs.info:8080/live/alberto/alberto/407.ts
+#EXTINF:-1,SP: CUATRO HD
+http://worldcs.info:8080/live/alberto/alberto/13671.ts
+#EXTINF:-1,SP: CUATRO
+http://worldcs.info:8080/live/alberto/alberto/24.ts
+#EXTINF:-1,SP: TELECINCO HD
+http://worldcs.info:8080/live/alberto/alberto/7209.ts
+#EXTINF:-1,SP: TELECINCO
+http://worldcs.info:8080/live/alberto/alberto/44.ts
+#EXTINF:-1,SP: LA SEXTA HD
+http://worldcs.info:8080/live/alberto/alberto/408.ts
+#EXTINF:-1,SP: LA SEXTA
+http://worldcs.info:8080/live/alberto/alberto/35.ts
+#EXTINF:-1,SP: NEOX
+http://worldcs.info:8080/live/alberto/alberto/7194.ts
+#EXTINF:-1,SP: NOVA
+http://worldcs.info:8080/live/alberto/alberto/42.ts
+#EXTINF:-1,SP: MEGA TV
+http://worldcs.info:8080/live/alberto/alberto/7200.ts
+#EXTINF:-1,SP: FDF
+http://worldcs.info:8080/live/alberto/alberto/404.ts
+#EXTINF:-1,SP: DIVINITY
+http://worldcs.info:8080/live/alberto/alberto/7196.ts
+#EXTINF:-1,SP: ENERGY
+http://worldcs.info:8080/live/alberto/alberto/405.ts
+#EXTINF:-1,SP: ANDALUCIA TV
+http://worldcs.info:8080/live/alberto/alberto/7195.ts
+#EXTINF:-1,SP: TV GALICIA
+http://worldcs.info:8080/live/alberto/alberto/410.ts
+#EXTINF:-1,---------- MOVISTAR + ----------
+http://worldcs.info:8080/live/alberto/alberto/13658.ts
+#EXTINF:-1,SP: #0 HD
+http://worldcs.info:8080/live/alberto/alberto/13606.ts
+#EXTINF:-1,SP: #0
+http://worldcs.info:8080/live/alberto/alberto/7262.ts
+#EXTINF:-1,---------- CINE ----------
+http://worldcs.info:8080/live/alberto/alberto/13651.ts
+#EXTINF:-1,SP: MULTICINE
+http://worldcs.info:8080/live/alberto/alberto/13916.ts
+#EXTINF:-1,SP: M. ESTRENOS HD
+http://worldcs.info:8080/live/alberto/alberto/425.ts
+#EXTINF:-1,SP: M. ESTRENOS
+http://worldcs.info:8080/live/alberto/alberto/9.ts
+#EXTINF:-1,SP: M. ACCION HD
+http://worldcs.info:8080/live/alberto/alberto/13603.ts
+#EXTINF:-1,SP: M. ACCION
+http://worldcs.info:8080/live/alberto/alberto/5.ts
+#EXTINF:-1,SP: M. COMEDIA HD
+http://worldcs.info:8080/live/alberto/alberto/7211.ts
+#EXTINF:-1,SP: M. COMEDIA
+http://worldcs.info:8080/live/alberto/alberto/6.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://worldcs.info:8080/live/alberto/alberto/7210.ts
+#EXTINF:-1,SP: M. DCINE
+http://worldcs.info:8080/live/alberto/alberto/25.ts
+#EXTINF:-1,SP: M. XTRA HD
+http://worldcs.info:8080/live/alberto/alberto/13625.ts
+#EXTINF:-1,SP: M. XTRA
+http://worldcs.info:8080/live/alberto/alberto/16.ts
+#EXTINF:-1,SP: M CINE ESPANOL
+http://worldcs.info:8080/live/alberto/alberto/7224.ts
+#EXTINF:-1,---------- SERIES ----------
+http://worldcs.info:8080/live/alberto/alberto/13652.ts
+#EXTINF:-1,SP: M. SERIES HD
+http://worldcs.info:8080/live/alberto/alberto/13605.ts
+#EXTINF:-1,SP: M. SERIES
+http://worldcs.info:8080/live/alberto/alberto/13.ts
+#EXTINF:-1,SP: M. SERIES XTRA HD
+http://worldcs.info:8080/live/alberto/alberto/13628.ts
+#EXTINF:-1,SP: M. SERIES XTRA
+http://worldcs.info:8080/live/alberto/alberto/14.ts
+#EXTINF:-1,SP: COMEDY CENTRAL HD
+http://worldcs.info:8080/live/alberto/alberto/13634.ts
+#EXTINF:-1,SP: COMEDIA CENTRAL
+http://worldcs.info:8080/live/alberto/alberto/7216.ts
+#EXTINF:-1,SP: HOLLYWOOD HD
+http://worldcs.info:8080/live/alberto/alberto/13593.ts
+#EXTINF:-1,SP: CANAL HOLLYWOOD
+http://worldcs.info:8080/live/alberto/alberto/32.ts
+#EXTINF:-1,SP: PARAMOUNT
+http://worldcs.info:8080/live/alberto/alberto/7212.ts
+#EXTINF:-1,SP: FOX HD
+http://worldcs.info:8080/live/alberto/alberto/13594.ts
+#EXTINF:-1,SP: FOX
+http://worldcs.info:8080/live/alberto/alberto/29.ts
+#EXTINF:-1,SP: FOX LIFE HD
+http://worldcs.info:8080/live/alberto/alberto/13622.ts
+#EXTINF:-1,SP: FOX LIFE
+http://worldcs.info:8080/live/alberto/alberto/30.ts
+#EXTINF:-1,SP: AMC HD
+http://worldcs.info:8080/live/alberto/alberto/13702.ts
+#EXTINF:-1,SP: AMC
+http://worldcs.info:8080/live/alberto/alberto/13665.ts
+#EXTINF:-1,SP: AXN HD
+http://worldcs.info:8080/live/alberto/alberto/13589.ts
+#EXTINF:-1,SP: AXN
+http://worldcs.info:8080/live/alberto/alberto/3.ts
+#EXTINF:-1,SP: AXN WHITE HD
+http://worldcs.info:8080/live/alberto/alberto/13624.ts
+#EXTINF:-1,SP: AXN WHITE
+http://worldcs.info:8080/live/alberto/alberto/4.ts
+#EXTINF:-1,SP: SYFY HD
+http://worldcs.info:8080/live/alberto/alberto/13633.ts
+#EXTINF:-1,SP:  SYFY
+http://worldcs.info:8080/live/alberto/alberto/48.ts
+#EXTINF:-1,SP: TNT HD
+http://worldcs.info:8080/live/alberto/alberto/13592.ts
+#EXTINF:-1,SP: TNT
+http://worldcs.info:8080/live/alberto/alberto/46.ts
+#EXTINF:-1,SP: TCM HD
+http://worldcs.info:8080/live/alberto/alberto/13604.ts
+#EXTINF:-1,SP: TCM
+http://worldcs.info:8080/live/alberto/alberto/43.ts
+#EXTINF:-1,SP: SUDANCE
+http://worldcs.info:8080/live/alberto/alberto/13691.ts
+#EXTINF:-1,SP: CALLE 13 HD
+http://worldcs.info:8080/live/alberto/alberto/13645.ts
+#EXTINF:-1,SP: CALLE 13
+http://worldcs.info:8080/live/alberto/alberto/17.ts
+#EXTINF:-1,SP: A&E
+http://worldcs.info:8080/live/alberto/alberto/2.ts
+#EXTINF:-1,---------- EXTRA ----------
+http://worldcs.info:8080/live/alberto/alberto/13660.ts
+#EXTINF:-1,SP: TOROS HD
+http://worldcs.info:8080/live/alberto/alberto/13602.ts
+#EXTINF:-1,SP: TOROS
+http://worldcs.info:8080/live/alberto/alberto/15.ts
+#EXTINF:-1,SP: CAZA Y PESCA
+http://worldcs.info:8080/live/alberto/alberto/21.ts
+#EXTINF:-1,SP: IBERALIA TV
+http://worldcs.info:8080/live/alberto/alberto/13936.ts
+#EXTINF:-1,---------- DOCUMENTALES ----------
+http://worldcs.info:8080/live/alberto/alberto/13654.ts
+#EXTINF:-1,SP: HISTORIA
+http://worldcs.info:8080/live/alberto/alberto/31.ts
+#EXTINF:-1,SP: CANAL ODISEA
+http://worldcs.info:8080/live/alberto/alberto/7225.ts
+#EXTINF:-1,SP: NAT GEO HD
+http://worldcs.info:8080/live/alberto/alberto/13590.ts
+#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
+http://worldcs.info:8080/live/alberto/alberto/38.ts
+#EXTINF:-1,SP: NAT GEO WILD
+http://worldcs.info:8080/live/alberto/alberto/39.ts
+#EXTINF:-1,SP: VIAJAR HD
+http://worldcs.info:8080/live/alberto/alberto/13623.ts
+#EXTINF:-1,SP: CRIME & INVESTIGATION
+http://worldcs.info:8080/live/alberto/alberto/7226.ts
+#EXTINF:-1,SP: DISCOVERY
+http://worldcs.info:8080/live/alberto/alberto/13692.ts
+#EXTINF:-1,SP: NON STOP PEOPLE
+http://worldcs.info:8080/live/alberto/alberto/13935.ts
+#EXTINF:-1,---------- MUSICA ----------
+http://worldcs.info:8080/live/alberto/alberto/13656.ts
+#EXTINF:-1,SP: SOL MUSICA
+http://worldcs.info:8080/live/alberto/alberto/411.ts
+#EXTINF:-1,SP: MEZZO
+http://worldcs.info:8080/live/alberto/alberto/13701.ts
+#EXTINF:-1,SP: VH1
+http://worldcs.info:8080/live/alberto/alberto/47.ts
+#EXTINF:-1,SP: 40TV
+http://worldcs.info:8080/live/alberto/alberto/426.ts
+#EXTINF:-1,SP: LOS 40
+http://worldcs.info:8080/live/alberto/alberto/13915.ts
+#EXTINF:-1,SP: MTV
+http://worldcs.info:8080/live/alberto/alberto/13667.ts
+#EXTINF:-1,---------- ESTILO DE VIDA ----------
+http://worldcs.info:8080/live/alberto/alberto/13659.ts
+#EXTINF:-1,SP: COSMO HD
+http://worldcs.info:8080/live/alberto/alberto/13629.ts
+#EXTINF:-1,SP: CANAL COCINA
+http://worldcs.info:8080/live/alberto/alberto/7201.ts
+#EXTINF:-1,SP: CANAL DECASA
+http://worldcs.info:8080/live/alberto/alberto/1760.ts
+#EXTINF:-1,SP: CANAL ORBE 21
+http://worldcs.info:8080/live/alberto/alberto/13937.ts
+#EXTINF:-1,SP: 24 HORAS
+http://worldcs.info:8080/live/alberto/alberto/13939.ts
+#EXTINF:-1,---------- INFANTILES ----------
+http://worldcs.info:8080/live/alberto/alberto/13655.ts
+#EXTINF:-1,SP: DISNEY CHANNEL
+http://worldcs.info:8080/live/alberto/alberto/26.ts
+#EXTINF:-1,SP: DISNEY JUNIOR
+http://worldcs.info:8080/live/alberto/alberto/27.ts
+#EXTINF:-1,SP: DISNEY XD
+http://worldcs.info:8080/live/alberto/alberto/28.ts
+#EXTINF:-1,SP: NICK JR
+http://worldcs.info:8080/live/alberto/alberto/41.ts
+#EXTINF:-1,SP: CLAN TV
+http://worldcs.info:8080/live/alberto/alberto/413.ts
+#EXTINF:-1,SP: BOING
+http://worldcs.info:8080/live/alberto/alberto/409.ts
+#EXTINF:-1,SP: NICKELODEON
+http://worldcs.info:8080/live/alberto/alberto/40.ts
+#EXTINF:-1,SP: BABY TV
+http://worldcs.info:8080/live/alberto/alberto/13666.ts
+#EXTINF:-1,SP: CANAL PANDA
+http://worldcs.info:8080/live/alberto/alberto/13669.ts
+#EXTINF:-1,---------- DEPORTES ----------
+http://worldcs.info:8080/live/alberto/alberto/13653.ts
+#EXTINF:-1,SP: LA LIGA HD
+http://worldcs.info:8080/live/alberto/alberto/13932.ts
+#EXTINF:-1,SP: LA LIGA TV BAR HD
+http://worldcs.info:8080/live/alberto/alberto/13933.ts
+#EXTINF:-1,SP: LA LIGA TV BAR SD
+http://worldcs.info:8080/live/alberto/alberto/12.ts
+#EXTINF:-1,SP: LA LIGA BAR TV 1
+http://worldcs.info:8080/live/alberto/alberto/13940.ts
+#EXTINF:-1,SP: GOL TV
+http://worldcs.info:8080/live/alberto/alberto/13934.ts
+#EXTINF:-1,SP: M. PARTIDAZO HD
+http://worldcs.info:8080/live/alberto/alberto/13649.ts
+#EXTINF:-1,SP: M. PARTIDAZO SD
+http://worldcs.info:8080/live/alberto/alberto/9190.ts
+#EXTINF:-1,SP: M.  FUTBOL HD
+http://worldcs.info:8080/live/alberto/alberto/13596.ts
+#EXTINF:-1,SP: M. FUTBOL
+http://worldcs.info:8080/live/alberto/alberto/10.ts
+#EXTINF:-1,SP: M. DEPORTES 1 HD
+http://worldcs.info:8080/live/alberto/alberto/13600.ts
+#EXTINF:-1,SP: M.  DEPORTES
+http://worldcs.info:8080/live/alberto/alberto/419.ts
+#EXTINF:-1,SP: M. DEPORTES 2 HD
+http://worldcs.info:8080/live/alberto/alberto/13627.ts
+#EXTINF:-1,SP: M. DEPORTES 2
+http://worldcs.info:8080/live/alberto/alberto/7197.ts
+#EXTINF:-1,SP: M. GOLF HD
+http://worldcs.info:8080/live/alberto/alberto/7202.ts
+#EXTINF:-1,SP: M. GOLF
+http://worldcs.info:8080/live/alberto/alberto/11.ts
+#EXTINF:-1,SP: M. F1 HD
+http://worldcs.info:8080/live/alberto/alberto/13642.ts
+#EXTINF:-1,SP: M. F1
+http://worldcs.info:8080/live/alberto/alberto/5963.ts
+#EXTINF:-1,SP:  M. MOTO GP HD
+http://worldcs.info:8080/live/alberto/alberto/13641.ts
+#EXTINF:-1,SP: M. MOTO GP
+http://worldcs.info:8080/live/alberto/alberto/5962.ts
+#EXTINF:-1,SP: Eurosport 1 HD
+http://worldcs.info:8080/live/alberto/alberto/13587.ts
+#EXTINF:-1,SP: EUROSPORT 1
+http://worldcs.info:8080/live/alberto/alberto/13668.ts
+#EXTINF:-1,SP: EUROSPORT 2
+http://worldcs.info:8080/live/alberto/alberto/13670.ts
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://worldcs.info:8080/live/alberto/alberto/5983.ts
+#EXTINF:-1,SP: BEIN SPORTS
+http://worldcs.info:8080/live/alberto/alberto/587.ts
+#EXTINF:-1,SP: LA LIGA
+http://worldcs.info:8080/live/alberto/alberto/13914.ts
+#EXTINF:-1,SP: LA LIGA TV 1 SD
+http://worldcs.info:8080/live/alberto/alberto/13700.ts
+#EXTINF:-1,SP: LA LIGA TV 2 SD
+http://worldcs.info:8080/live/alberto/alberto/13699.ts
+#EXTINF:-1,SP: LA LIGA TV 3 SD
+http://worldcs.info:8080/live/alberto/alberto/13698.ts
+#EXTINF:-1,SP: LA LIGA TV 4 SD
+http://worldcs.info:8080/live/alberto/alberto/13697.ts
+#EXTINF:-1,SP: LA LIGA TV 5 SD
+http://worldcs.info:8080/live/alberto/alberto/13696.ts
+#EXTINF:-1,SP: LA LIGA TV 6 SD
+http://worldcs.info:8080/live/alberto/alberto/13695.ts
+#EXTINF:-1,SP: LA LIGA TV 7 SD
+http://worldcs.info:8080/live/alberto/alberto/13694.ts
+#EXTINF:-1,SP: LA LIGA TV 8 SD
+http://worldcs.info:8080/live/alberto/alberto/13693.ts
+#EXTINF:-1,SP: BEIN MAX 1 HD
+http://worldcs.info:8080/live/alberto/alberto/13646.ts
+#EXTINF:-1,SP: BEIN MAX 2 HD
+http://worldcs.info:8080/live/alberto/alberto/13647.ts
+#EXTINF:-1,SP: BEIN MAX 3 HD
+http://worldcs.info:8080/live/alberto/alberto/13648.ts
+#EXTINF:-1,SP: BEIN MAX 1
+http://worldcs.info:8080/live/alberto/alberto/13948.ts
+#EXTINF:-1,SP: BEIN MAX 2
+http://worldcs.info:8080/live/alberto/alberto/13947.ts
+#EXTINF:-1,SP: BEIN MAX 3
+http://worldcs.info:8080/live/alberto/alberto/13946.ts
+#EXTINF:-1,SP: BEIN MAX 4
+http://worldcs.info:8080/live/alberto/alberto/13945.ts
+#EXTINF:-1,SP: BEIN MAX 5
+http://worldcs.info:8080/live/alberto/alberto/13944.ts
+#EXTINF:-1,SP: BEIN MAX 6
+http://worldcs.info:8080/live/alberto/alberto/13943.ts
+#EXTINF:-1,SP: BEIN MAX 7
+http://worldcs.info:8080/live/alberto/alberto/13942.ts
+#EXTINF:-1,SP: BEIN MAX 8
+http://worldcs.info:8080/live/alberto/alberto/13941.ts
+#EXTINF:-1,SP: MULTIDEPORTES 1
+http://worldcs.info:8080/live/alberto/alberto/16837.ts
+#EXTINF:-1,SP: MULTIDEPORTES 2
+http://worldcs.info:8080/live/alberto/alberto/16838.ts
+#EXTINF:-1,SP: MULTIDEPORTES 3
+http://worldcs.info:8080/live/alberto/alberto/16839.ts
+#EXTINF:-1,SP: MULTIDEPORTES 4
+http://worldcs.info:8080/live/alberto/alberto/16840.ts
+#EXTINF:-1,SP: BARCA TV
+http://worldcs.info:8080/live/alberto/alberto/7213.ts
+#EXTINF:-1,SP: REAL MADRID
+http://worldcs.info:8080/live/alberto/alberto/422.ts
+#EXTINF:-1,SP: TELEDEPORTES
+http://worldcs.info:8080/live/alberto/alberto/13917.ts
+#EXTINF:-1,SP: MEGA
+http://worldcs.info:8080/live/alberto/alberto/14118.ts
