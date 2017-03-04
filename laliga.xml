@@ -3,61 +3,31 @@
 
 
   <streamingInfos>
-  
-  
-  <item> 
-            <title>[COLOR yellow]  Bein Sports HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16538.ts&amp;streamtype=TSDOWNLOADER&amp;name= Bein Sports HD</link> 
+		
+		
+		
+		
+		<item> 
+            <title>[COLOR yellow] *** DEPORTES *** [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/17224.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Bein Sports La Liga HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports La Liga HD</link> 
+            <title>[COLOR yellow] La Liga- [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/38663.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga-</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Bein Sports  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/38658.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Eurosport 1 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/13173.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] Fox Sports 2 (ES) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16541.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 2 (ES)</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Gol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16514.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar Futbol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16510.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar Deportes 1 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 1 HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar Deportes 2 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 2 HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar F1 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16508.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1 HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Movistar MotoGP HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16507.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar MotoGP HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Teledeporte [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/13155.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Toros TV HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] La Liga TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvip2016.ddns.net:8000/live/nicole/nicole/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] beIN La Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvip2016.ddns.net:8000/live/nicole/nicole/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN La Liga</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
