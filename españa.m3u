@@ -2,321 +2,503 @@
 
 
 
-EXTINF:-1,SP: LA 1
-http://worldcs.info:8080/live/alberto/alberto/33.ts
-#EXTINF:-1,SP: LA 2
-http://worldcs.info:8080/live/alberto/alberto/34.ts
-#EXTINF:-1,SP: ANTENA 3 HD
-http://worldcs.info:8080/live/alberto/alberto/13640.ts
-#EXTINF:-1,SP: ANTENA 3
-http://worldcs.info:8080/live/alberto/alberto/407.ts
-#EXTINF:-1,SP: CUATRO HD
-http://worldcs.info:8080/live/alberto/alberto/13671.ts
-#EXTINF:-1,SP: CUATRO
-http://worldcs.info:8080/live/alberto/alberto/24.ts
-#EXTINF:-1,SP: TELECINCO HD
-http://worldcs.info:8080/live/alberto/alberto/7209.ts
-#EXTINF:-1,SP: TELECINCO
-http://worldcs.info:8080/live/alberto/alberto/44.ts
-#EXTINF:-1,SP: LA SEXTA HD
-http://worldcs.info:8080/live/alberto/alberto/408.ts
-#EXTINF:-1,SP: LA SEXTA
-http://worldcs.info:8080/live/alberto/alberto/35.ts
-#EXTINF:-1,SP: NEOX
-http://worldcs.info:8080/live/alberto/alberto/7194.ts
-#EXTINF:-1,SP: NOVA
-http://worldcs.info:8080/live/alberto/alberto/42.ts
-#EXTINF:-1,SP: MEGA TV
-http://worldcs.info:8080/live/alberto/alberto/7200.ts
-#EXTINF:-1,SP: FDF
-http://worldcs.info:8080/live/alberto/alberto/404.ts
-#EXTINF:-1,SP: DIVINITY
-http://worldcs.info:8080/live/alberto/alberto/7196.ts
-#EXTINF:-1,SP: ENERGY
-http://worldcs.info:8080/live/alberto/alberto/405.ts
-#EXTINF:-1,SP: ANDALUCIA TV
-http://worldcs.info:8080/live/alberto/alberto/7195.ts
-#EXTINF:-1,SP: TV GALICIA
-http://worldcs.info:8080/live/alberto/alberto/410.ts
-
-
-#EXTINF:-1,---------- MOVISTAR + ----------
-http://worldcs.info:8080/live/alberto/alberto/13658.ts
-#EXTINF:-1,SP: #0 HD
-http://worldcs.info:8080/live/alberto/alberto/13606.ts
-#EXTINF:-1,SP: #0
-http://worldcs.info:8080/live/alberto/alberto/7262.ts
-#EXTINF:-1,---------- CINE ----------
-http://worldcs.info:8080/live/alberto/alberto/13651.ts
-#EXTINF:-1,SP: MULTICINE
-http://worldcs.info:8080/live/alberto/alberto/13916.ts
-#EXTINF:-1,SP: M. ESTRENOS HD
-http://worldcs.info:8080/live/alberto/alberto/425.ts
-#EXTINF:-1,SP: M. ESTRENOS
-http://worldcs.info:8080/live/alberto/alberto/9.ts
-#EXTINF:-1,SP: M. ACCION HD
-http://worldcs.info:8080/live/alberto/alberto/13603.ts
-#EXTINF:-1,SP: M. ACCION
-http://worldcs.info:8080/live/alberto/alberto/5.ts
-#EXTINF:-1,SP: M. COMEDIA HD
-http://worldcs.info:8080/live/alberto/alberto/7211.ts
-#EXTINF:-1,SP: M. COMEDIA
-http://worldcs.info:8080/live/alberto/alberto/6.ts
-#EXTINF:-1,SP: M. DCINE HD
-http://worldcs.info:8080/live/alberto/alberto/7210.ts
-#EXTINF:-1,SP: M. DCINE
-http://worldcs.info:8080/live/alberto/alberto/25.ts
-#EXTINF:-1,SP: M. XTRA HD
-http://worldcs.info:8080/live/alberto/alberto/13625.ts
-#EXTINF:-1,SP: M. XTRA
-http://worldcs.info:8080/live/alberto/alberto/16.ts
-#EXTINF:-1,SP: M CINE ESPANOL
-http://worldcs.info:8080/live/alberto/alberto/7224.ts
-#EXTINF:-1,---------- SERIES ----------
-http://worldcs.info:8080/live/alberto/alberto/13652.ts
-#EXTINF:-1,SP: M. SERIES HD
-http://worldcs.info:8080/live/alberto/alberto/13605.ts
-#EXTINF:-1,SP: M. SERIES
-http://worldcs.info:8080/live/alberto/alberto/13.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD
-http://worldcs.info:8080/live/alberto/alberto/13628.ts
-#EXTINF:-1,SP: M. SERIES XTRA
-http://worldcs.info:8080/live/alberto/alberto/14.ts
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-http://worldcs.info:8080/live/alberto/alberto/13634.ts
-#EXTINF:-1,SP: COMEDIA CENTRAL
-http://worldcs.info:8080/live/alberto/alberto/7216.ts
-#EXTINF:-1,SP: HOLLYWOOD HD
-http://worldcs.info:8080/live/alberto/alberto/13593.ts
-#EXTINF:-1,SP: CANAL HOLLYWOOD
-http://worldcs.info:8080/live/alberto/alberto/32.ts
-#EXTINF:-1,SP: PARAMOUNT
-http://worldcs.info:8080/live/alberto/alberto/7212.ts
-#EXTINF:-1,SP: FOX HD
-http://worldcs.info:8080/live/alberto/alberto/13594.ts
-#EXTINF:-1,SP: FOX
-http://worldcs.info:8080/live/alberto/alberto/29.ts
-#EXTINF:-1,SP: FOX LIFE HD
-http://worldcs.info:8080/live/alberto/alberto/13622.ts
-#EXTINF:-1,SP: FOX LIFE
-http://worldcs.info:8080/live/alberto/alberto/30.ts
-#EXTINF:-1,SP: AMC HD
-http://worldcs.info:8080/live/alberto/alberto/13702.ts
-#EXTINF:-1,SP: AMC
-http://worldcs.info:8080/live/alberto/alberto/13665.ts
-#EXTINF:-1,SP: AXN HD
-http://worldcs.info:8080/live/alberto/alberto/13589.ts
-#EXTINF:-1,SP: AXN
-http://worldcs.info:8080/live/alberto/alberto/3.ts
-#EXTINF:-1,SP: AXN WHITE HD
-http://worldcs.info:8080/live/alberto/alberto/13624.ts
-#EXTINF:-1,SP: AXN WHITE
-http://worldcs.info:8080/live/alberto/alberto/4.ts
-#EXTINF:-1,SP: SYFY HD
-http://worldcs.info:8080/live/alberto/alberto/13633.ts
-#EXTINF:-1,SP:  SYFY
-http://worldcs.info:8080/live/alberto/alberto/48.ts
-#EXTINF:-1,SP: TNT HD
-http://worldcs.info:8080/live/alberto/alberto/13592.ts
-#EXTINF:-1,SP: TNT
-http://worldcs.info:8080/live/alberto/alberto/46.ts
-#EXTINF:-1,SP: TCM HD
-http://worldcs.info:8080/live/alberto/alberto/13604.ts
-#EXTINF:-1,SP: TCM
-http://worldcs.info:8080/live/alberto/alberto/43.ts
-#EXTINF:-1,SP: SUDANCE
-http://worldcs.info:8080/live/alberto/alberto/13691.ts
-#EXTINF:-1,SP: CALLE 13 HD
-http://worldcs.info:8080/live/alberto/alberto/13645.ts
-#EXTINF:-1,SP: CALLE 13
-http://worldcs.info:8080/live/alberto/alberto/17.ts
-#EXTINF:-1,SP: A&E
-http://worldcs.info:8080/live/alberto/alberto/2.ts
-#EXTINF:-1,---------- EXTRA ----------
-http://worldcs.info:8080/live/alberto/alberto/13660.ts
-#EXTINF:-1,SP: TOROS HD
-http://worldcs.info:8080/live/alberto/alberto/13602.ts
-#EXTINF:-1,SP: TOROS
-http://worldcs.info:8080/live/alberto/alberto/15.ts
-#EXTINF:-1,SP: CAZA Y PESCA
-http://worldcs.info:8080/live/alberto/alberto/21.ts
-#EXTINF:-1,SP: IBERALIA TV
-http://worldcs.info:8080/live/alberto/alberto/13936.ts
-#EXTINF:-1,---------- DOCUMENTALES ----------
-http://worldcs.info:8080/live/alberto/alberto/13654.ts
-#EXTINF:-1,SP: HISTORIA
-http://worldcs.info:8080/live/alberto/alberto/31.ts
-#EXTINF:-1,SP: CANAL ODISEA
-http://worldcs.info:8080/live/alberto/alberto/7225.ts
-#EXTINF:-1,SP: NAT GEO HD
-http://worldcs.info:8080/live/alberto/alberto/13590.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-http://worldcs.info:8080/live/alberto/alberto/38.ts
-#EXTINF:-1,SP: NAT GEO WILD
-http://worldcs.info:8080/live/alberto/alberto/39.ts
-#EXTINF:-1,SP: VIAJAR HD
-http://worldcs.info:8080/live/alberto/alberto/13623.ts
-#EXTINF:-1,SP: CRIME & INVESTIGATION
-http://worldcs.info:8080/live/alberto/alberto/7226.ts
-#EXTINF:-1,SP: DISCOVERY
-http://worldcs.info:8080/live/alberto/alberto/13692.ts
-#EXTINF:-1,SP: NON STOP PEOPLE
-http://worldcs.info:8080/live/alberto/alberto/13935.ts
-#EXTINF:-1,---------- MUSICA ----------
-http://worldcs.info:8080/live/alberto/alberto/13656.ts
-#EXTINF:-1,SP: SOL MUSICA
-http://worldcs.info:8080/live/alberto/alberto/411.ts
-#EXTINF:-1,SP: MEZZO
-http://worldcs.info:8080/live/alberto/alberto/13701.ts
-#EXTINF:-1,SP: VH1
-http://worldcs.info:8080/live/alberto/alberto/47.ts
-#EXTINF:-1,SP: 40TV
-http://worldcs.info:8080/live/alberto/alberto/426.ts
-#EXTINF:-1,SP: LOS 40
-http://worldcs.info:8080/live/alberto/alberto/13915.ts
-#EXTINF:-1,SP: MTV
-http://worldcs.info:8080/live/alberto/alberto/13667.ts
-#EXTINF:-1,---------- ESTILO DE VIDA ----------
-http://worldcs.info:8080/live/alberto/alberto/13659.ts
-#EXTINF:-1,SP: COSMO HD
-http://worldcs.info:8080/live/alberto/alberto/13629.ts
-#EXTINF:-1,SP: CANAL COCINA
-http://worldcs.info:8080/live/alberto/alberto/7201.ts
-#EXTINF:-1,SP: CANAL DECASA
-http://worldcs.info:8080/live/alberto/alberto/1760.ts
-#EXTINF:-1,SP: CANAL ORBE 21
-http://worldcs.info:8080/live/alberto/alberto/13937.ts
-#EXTINF:-1,SP: 24 HORAS
-http://worldcs.info:8080/live/alberto/alberto/13939.ts
-
-
-
-
-#EXTINF:-1,---------- INFANTILES ----------
-
-
-http://worldcs.info:8080/live/alberto/alberto/13655.ts
-#EXTINF:-1,SP: DISNEY CHANNEL
-http://worldcs.info:8080/live/alberto/alberto/26.ts
-#EXTINF:-1,SP: DISNEY JUNIOR
-http://worldcs.info:8080/live/alberto/alberto/27.ts
-#EXTINF:-1,SP: DISNEY XD
-http://worldcs.info:8080/live/alberto/alberto/28.ts
-#EXTINF:-1,SP: NICK JR
-http://worldcs.info:8080/live/alberto/alberto/41.ts
-#EXTINF:-1,SP: CLAN TV
-http://worldcs.info:8080/live/alberto/alberto/413.ts
-#EXTINF:-1,SP: BOING
-http://worldcs.info:8080/live/alberto/alberto/409.ts
-#EXTINF:-1,SP: NICKELODEON
-http://worldcs.info:8080/live/alberto/alberto/40.ts
-#EXTINF:-1,SP: BABY TV
-http://worldcs.info:8080/live/alberto/alberto/13666.ts
-#EXTINF:-1,SP: CANAL PANDA
-http://worldcs.info:8080/live/alberto/alberto/13669.ts
-#EXTINF:-1,---------- DEPORTES ----------
-http://worldcs.info:8080/live/alberto/alberto/13653.ts
-#EXTINF:-1,SP: LA LIGA HD
-http://worldcs.info:8080/live/alberto/alberto/13932.ts
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-http://worldcs.info:8080/live/alberto/alberto/13933.ts
-#EXTINF:-1,SP: LA LIGA TV BAR SD
-http://worldcs.info:8080/live/alberto/alberto/12.ts
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-http://worldcs.info:8080/live/alberto/alberto/13940.ts
-#EXTINF:-1,SP: GOL TV
-http://worldcs.info:8080/live/alberto/alberto/13934.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD
-http://worldcs.info:8080/live/alberto/alberto/13649.ts
-#EXTINF:-1,SP: M. PARTIDAZO SD
-http://worldcs.info:8080/live/alberto/alberto/9190.ts
-#EXTINF:-1,SP: M.  FUTBOL HD
-http://worldcs.info:8080/live/alberto/alberto/13596.ts
-#EXTINF:-1,SP: M. FUTBOL
-http://worldcs.info:8080/live/alberto/alberto/10.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-http://worldcs.info:8080/live/alberto/alberto/13600.ts
-#EXTINF:-1,SP: M.  DEPORTES
-http://worldcs.info:8080/live/alberto/alberto/419.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-http://worldcs.info:8080/live/alberto/alberto/13627.ts
-#EXTINF:-1,SP: M. DEPORTES 2
-http://worldcs.info:8080/live/alberto/alberto/7197.ts
-#EXTINF:-1,SP: M. GOLF HD
-http://worldcs.info:8080/live/alberto/alberto/7202.ts
-#EXTINF:-1,SP: M. GOLF
-http://worldcs.info:8080/live/alberto/alberto/11.ts
-#EXTINF:-1,SP: M. F1 HD
-http://worldcs.info:8080/live/alberto/alberto/13642.ts
-#EXTINF:-1,SP: M. F1
-http://worldcs.info:8080/live/alberto/alberto/5963.ts
-#EXTINF:-1,SP:  M. MOTO GP HD
-http://worldcs.info:8080/live/alberto/alberto/13641.ts
-#EXTINF:-1,SP: M. MOTO GP
-http://worldcs.info:8080/live/alberto/alberto/5962.ts
-#EXTINF:-1,SP: Eurosport 1 HD
-http://worldcs.info:8080/live/alberto/alberto/13587.ts
-#EXTINF:-1,SP: EUROSPORT 1
-http://worldcs.info:8080/live/alberto/alberto/13668.ts
-#EXTINF:-1,SP: EUROSPORT 2
-http://worldcs.info:8080/live/alberto/alberto/13670.ts
-#EXTINF:-1,SP: BEIN SPORTS HD
-http://worldcs.info:8080/live/alberto/alberto/5983.ts
-#EXTINF:-1,SP: BEIN SPORTS
-http://worldcs.info:8080/live/alberto/alberto/587.ts
-#EXTINF:-1,SP: LA LIGA
-http://worldcs.info:8080/live/alberto/alberto/13914.ts
-#EXTINF:-1,SP: LA LIGA TV 1 SD
-http://worldcs.info:8080/live/alberto/alberto/13700.ts
-#EXTINF:-1,SP: LA LIGA TV 2 SD
-http://worldcs.info:8080/live/alberto/alberto/13699.ts
-#EXTINF:-1,SP: LA LIGA TV 3 SD
-http://worldcs.info:8080/live/alberto/alberto/13698.ts
-#EXTINF:-1,SP: LA LIGA TV 4 SD
-http://worldcs.info:8080/live/alberto/alberto/13697.ts
-#EXTINF:-1,SP: LA LIGA TV 5 SD
-http://worldcs.info:8080/live/alberto/alberto/13696.ts
-#EXTINF:-1,SP: LA LIGA TV 6 SD
-http://worldcs.info:8080/live/alberto/alberto/13695.ts
-#EXTINF:-1,SP: LA LIGA TV 7 SD
-http://worldcs.info:8080/live/alberto/alberto/13694.ts
-#EXTINF:-1,SP: LA LIGA TV 8 SD
-http://worldcs.info:8080/live/alberto/alberto/13693.ts
-#EXTINF:-1,SP: BEIN MAX 1 HD
-http://worldcs.info:8080/live/alberto/alberto/13646.ts
-#EXTINF:-1,SP: BEIN MAX 2 HD
-http://worldcs.info:8080/live/alberto/alberto/13647.ts
-#EXTINF:-1,SP: BEIN MAX 3 HD
-http://worldcs.info:8080/live/alberto/alberto/13648.ts
-#EXTINF:-1,SP: BEIN MAX 1
-http://worldcs.info:8080/live/alberto/alberto/13948.ts
-#EXTINF:-1,SP: BEIN MAX 2
-http://worldcs.info:8080/live/alberto/alberto/13947.ts
-#EXTINF:-1,SP: BEIN MAX 3
-http://worldcs.info:8080/live/alberto/alberto/13946.ts
-#EXTINF:-1,SP: BEIN MAX 4
-http://worldcs.info:8080/live/alberto/alberto/13945.ts
-#EXTINF:-1,SP: BEIN MAX 5
-http://worldcs.info:8080/live/alberto/alberto/13944.ts
-#EXTINF:-1,SP: BEIN MAX 6
-http://worldcs.info:8080/live/alberto/alberto/13943.ts
-#EXTINF:-1,SP: BEIN MAX 7
-http://worldcs.info:8080/live/alberto/alberto/13942.ts
-#EXTINF:-1,SP: BEIN MAX 8
-http://worldcs.info:8080/live/alberto/alberto/13941.ts
-#EXTINF:-1,SP: MULTIDEPORTES 1
-http://worldcs.info:8080/live/alberto/alberto/16837.ts
-#EXTINF:-1,SP: MULTIDEPORTES 2
-http://worldcs.info:8080/live/alberto/alberto/16838.ts
-#EXTINF:-1,SP: MULTIDEPORTES 3
-http://worldcs.info:8080/live/alberto/alberto/16839.ts
-#EXTINF:-1,SP: MULTIDEPORTES 4
-http://worldcs.info:8080/live/alberto/alberto/16840.ts
-#EXTINF:-1,SP: BARCA TV
-http://worldcs.info:8080/live/alberto/alberto/7213.ts
-#EXTINF:-1,SP: REAL MADRID
-http://worldcs.info:8080/live/alberto/alberto/422.ts
-#EXTINF:-1,SP: TELEDEPORTES
-http://worldcs.info:8080/live/alberto/alberto/13917.ts
-#EXTINF:-1,SP: MEGA
-http://worldcs.info:8080/live/alberto/alberto/14118.ts
+#EXTINF:-1,Movistar+
+http://79.153.198.139:8082/udp/239.0.0.77:8208
+#EXTINF:-1,Movistar+ HD
+http://79.153.198.139:8082/udp/239.0.5.185:8208
+#EXTINF:-1,TVE 1
+http://79.153.198.139:8082/udp/239.0.0.76:8208
+#EXTINF:-1,TVE 1 HD
+http://79.153.198.139:8082/udp/239.0.0.185:8208
+#EXTINF:-1,TVE 2
+http://79.153.198.139:8082/udp/239.0.0.2:8208
+#EXTINF:-1,Antena 3
+http://79.153.198.139:8082/udp/239.0.0.3:8208
+#EXTINF:-1,Antena 3 HD
+http://79.153.198.139:8082/udp/239.0.0.186:8208
+#EXTINF:-1,Cuatro
+http://79.153.198.139:8082/udp/239.0.0.4:8208
+#EXTINF:-1,Cuatro HD
+http://79.153.198.139:8082/udp/239.0.0.177:8208
+#EXTINF:-1,Telecinco
+http://79.153.198.139:8082/udp/239.0.0.5:8208
+#EXTINF:-1,Telecinco HD
+http://79.153.198.139:8082/udp/239.0.0.176:8208
+#EXTINF:-1,La Sexta
+http://79.153.198.139:8082/udp/239.0.0.58:8208
+#EXTINF:-1,La Sexta HD
+http://79.153.198.139:8082/udp/239.0.0.187:8208
+#EXTINF:-1,#0
+http://79.153.198.139:8082/udp/239.0.0.108:8208
+#EXTINF:-1,#0 HD
+http://79.153.198.139:8082/udp/239.0.5.187:8208
+#EXTINF:-1,7 Region de Murcia
+http://79.153.198.139:8082/udp/239.0.0.87:8208
+#EXTINF:-1,Aragon TV
+http://79.153.198.139:8082/udp/239.0.0.88:8208
+#EXTINF:-1,Canal Sur
+http://79.153.198.139:8082/udp/239.0.0.49:8208
+#EXTINF:-1,Castilla y Leon 7
+http://79.153.198.139:8082/udp/239.0.0.109:8208
+#EXTINF:-1,CMT
+http://79.153.198.139:8082/udp/239.0.0.55:8208
+#EXTINF:-1,ETB 1
+http://79.153.198.139:8082/udp/239.0.0.35:8208
+#EXTINF:-1,Extremadura TV
+http://79.153.198.139:8082/udp/239.0.0.73:8208
+#EXTINF:-1,IB3
+http://79.153.198.139:8082/udp/239.0.0.56:8208
+#EXTINF:-1,Telemadrid
+http://79.153.198.139:8082/udp/239.0.0.25:8208
+#EXTINF:-1,TV Canaria
+http://79.153.198.139:8082/udp/239.0.0.54:8208
+#EXTINF:-1,TV Galicia
+http://79.153.198.139:8082/udp/239.0.0.53:8208
+#EXTINF:-1,TV Mediterraneo
+http://79.153.198.139:8082/udp/239.0.3.34:8208
+#EXTINF:-1,TV Princ de Asturias
+http://79.153.198.139:8082/udp/239.0.0.86:8208
+#EXTINF:-1,TV3
+http://79.153.198.139:8082/udp/239.0.0.23:8208
+#EXTINF:-1,TV3 HD
+http://79.153.198.139:8082/udp/239.0.5.186:8208
+#EXTINF:-1,8 TV
+http://79.153.198.139:8082/udp/239.0.0.82:8208
+#EXTINF:-1,Canal Sur 2
+http://79.153.198.139:8082/udp/239.0.0.50:8208
+#EXTINF:-1,ETB 2
+http://79.153.198.139:8082/udp/239.0.0.36:8208
+#EXTINF:-1,La Otra
+http://79.153.198.139:8082/udp/239.0.0.26:8208
+#EXTINF:-1,Series
+http://79.153.198.139:8082/udp/239.0.3.32:8208
+#EXTINF:-1,Series HD
+http://79.153.198.139:8082/udp/239.0.0.184:8208
+#EXTINF:-1,Movistar Series
+http://79.153.198.139:8082/udp/239.0.5.4:8208
+#EXTINF:-1,Movistar Series HD
+http://79.153.198.139:8082/udp/239.0.5.250:8208
+#EXTINF:-1,Movistar Series Xtra
+http://79.153.198.139:8082/udp/239.0.3.20:8208
+#EXTINF:-1,Movistar Series Xtra HD
+http://79.153.198.139:8082/udp/239.0.5.83:8208
+#EXTINF:-1,FOX
+http://79.153.198.139:8082/udp/239.0.0.74:8208
+#EXTINF:-1,FOX HD
+http://79.153.198.139:8082/udp/239.0.9.134:8208
+#EXTINF:-1,AXN
+http://79.153.198.139:8082/udp/239.0.0.14:8208
+#EXTINF:-1,AXN HD
+http://79.153.198.139:8082/udp/239.0.9.131:8208
+#EXTINF:-1,TNT
+http://79.153.198.139:8082/udp/239.0.0.44:8208
+#EXTINF:-1,TNT HD
+http://79.153.198.139:8082/udp/239.0.5.87:8208
+#EXTINF:-1,Comedy Central
+http://79.153.198.139:8082/udp/239.0.0.68:8208
+#EXTINF:-1,Comedy Central HD
+http://79.153.198.139:8082/udp/239.0.0.174:8208
+#EXTINF:-1,Calle 13
+http://79.153.198.139:8082/udp/239.0.0.13:8208
+#EXTINF:-1,Calle 13 HD
+http://79.153.198.139:8082/udp/239.0.5.74:8208
+#EXTINF:-1,Cosmo
+http://79.153.198.139:8082/udp/239.0.0.15:8208
+#EXTINF:-1,Cosmo HD
+http://79.153.198.139:8082/udp/239.0.5.71:8208
+#EXTINF:-1,AMC
+http://79.153.198.139:8082/udp/239.0.0.8:8208
+#EXTINF:-1,AMC HD
+http://79.153.198.139:8082/udp/239.0.9.132:8208
+#EXTINF:-1,FOX Life
+http://79.153.198.139:8082/udp/239.0.0.112:8208
+#EXTINF:-1,FOX Life HD
+http://79.153.198.139:8082/udp/239.0.5.86:8208
+#EXTINF:-1,AXN White
+http://79.153.198.139:8082/udp/239.0.0.62:8208
+#EXTINF:-1,AXN White HD
+http://79.153.198.139:8082/udp/239.0.5.79:8208
+#EXTINF:-1,SyFy
+http://79.153.198.139:8082/udp/239.0.0.111:8208
+#EXTINF:-1,SyFy HD
+http://79.153.198.139:8082/udp/239.0.5.75:8208
+#EXTINF:-1,Non Stop People
+http://79.153.198.139:8082/udp/239.0.0.212:8208
+#EXTINF:-1,Non Stop People HD
+http://79.153.198.139:8082/udp/239.0.5.170:8208
+#EXTINF:-1,MTV
+http://79.153.198.139:8082/udp/239.0.0.211:8208
+#EXTINF:-1,FDF
+http://79.153.198.139:8082/udp/239.0.0.84:8208
+#EXTINF:-1,Neox
+http://79.153.198.139:8082/udp/239.0.0.107:8208
+#EXTINF:-1,Atreseries
+http://79.153.198.139:8082/udp/239.0.3.29:8208
+#EXTINF:-1,Atreseries HD
+http://79.153.198.139:8082/udp/239.0.0.181:8208
+#EXTINF:-1,Cine
+http://79.153.198.139:8082/udp/239.0.3.30:8208
+#EXTINF:-1,Cine HD
+http://79.153.198.139:8082/udp/239.0.0.178:8208
+#EXTINF:-1,Movistar Estrenos
+http://79.153.198.139:8082/udp/239.0.3.40:8208
+#EXTINF:-1,Movistar Estrenos HD
+http://79.153.198.139:8082/udp/239.0.5.111:8208
+#EXTINF:-1,Movistar Xtra
+http://79.153.198.139:8082/udp/239.0.3.41:8208
+#EXTINF:-1,Movistar Xtra HD
+http://79.153.198.139:8082/udp/239.0.5.112:8208
+#EXTINF:-1,Movistar Accion
+http://79.153.198.139:8082/udp/239.0.3.42:8208
+#EXTINF:-1,Movistar Accion HD
+http://79.153.198.139:8082/udp/239.0.5.113:8208
+#EXTINF:-1,Movistar Comedia
+http://79.153.198.139:8082/udp/239.0.3.43:8208
+#EXTINF:-1,Movistar Comedia HD
+http://79.153.198.139:8082/udp/239.0.5.114:8208
+#EXTINF:-1,Movistar DCine
+http://79.153.198.139:8082/udp/239.0.3.44:8208
+#EXTINF:-1,Movistar DCine HD
+http://79.153.198.139:8082/udp/239.0.5.115:8208
+#EXTINF:-1,DCine Espanol
+http://79.153.198.139:8082/udp/239.0.3.45:8208
+#EXTINF:-1,TCM
+http://79.153.198.139:8082/udp/239.0.6.5:8208
+#EXTINF:-1,TCM HD
+http://79.153.198.139:8082/udp/239.0.5.89:8208
+#EXTINF:-1,Hollywood
+http://79.153.198.139:8082/udp/239.0.0.16:8208
+#EXTINF:-1,Hollywood HD
+http://79.153.198.139:8082/udp/239.0.5.76:8208
+#EXTINF:-1,Sundance
+http://79.153.198.139:8082/udp/239.0.0.102:8208
+#EXTINF:-1,Sundance HD
+http://79.153.198.139:8082/udp/239.0.5.72:8208
+#EXTINF:-1,Paramount
+http://79.153.198.139:8082/udp/239.0.0.90:8208
+#EXTINF:-1,DARK
+http://79.153.198.139:8082/udp/239.0.0.39:8208
+#EXTINF:-1,13 TV
+http://79.153.198.139:8082/udp/239.0.0.91:8208
+#EXTINF:-1,Ten
+http://79.153.198.139:8082/udp/239.0.0.34:8208
+#EXTINF:-1,Deportes
+http://79.153.198.139:8082/udp/239.0.3.33:8208
+#EXTINF:-1,Deportes HD
+http://79.153.198.139:8082/udp/239.0.0.180:8208
+#EXTINF:-1,Movistar Futbol
+http://79.153.198.139:8082/udp/239.0.6.8:8208
+#EXTINF:-1,Movistar Futbol HD
+http://79.153.198.139:8082/udp/239.0.6.14:8208
+#EXTINF:-1,Movistar Partidazo
+http://79.153.198.139:8082/udp/239.0.4.129:8208
+#EXTINF:-1,Movistar Partidazo HD
+http://79.153.198.139:8082/udp/239.0.5.84:8208
+#EXTINF:-1,beIN La Liga
+http://79.153.198.139:8082/udp/239.0.0.46:8208
+#EXTINF:-1,beIN La Liga HD
+http://79.153.198.139:8082/udp/239.0.5.106:8208
+#EXTINF:-1,beIN La Liga 1
+http://79.153.198.139:8082/udp/239.0.0.47:8208
+#EXTINF:-1,beIN La Liga 1 HD
+http://79.153.198.139:8082/udp/239.0.5.179:8208
+#EXTINF:-1,beIN La Liga 2
+http://79.153.198.139:8082/udp/239.0.0.67:8208
+#EXTINF:-1,beIN La Liga 2 HD
+http://79.153.198.139:8082/udp/239.0.5.180:8208
+#EXTINF:-1,beIN SPORTS
+http://79.153.198.139:8082/udp/239.0.3.100:8208
+#EXTINF:-1,beIN SPORTS HD
+http://79.153.198.139:8082/udp/239.0.9.80:8208
+#EXTINF:-1,Futbol Replay
+http://79.153.198.139:8082/udp/239.0.0.97:8208
+#EXTINF:-1,beIN MAX 1
+http://79.153.198.139:8082/udp/239.0.6.7:8208
+#EXTINF:-1,beIN MAX 1 HD
+http://79.153.198.139:8082/udp/239.0.5.177:8208
+#EXTINF:-1,beIN MAX 2
+http://79.153.198.139:8082/udp/239.0.6.13:8208
+#EXTINF:-1,Movistar Deportes 1
+http://79.153.198.139:8082/udp/239.0.4.193:8208
+#EXTINF:-1,Movistar Deportes 1 HD
+http://79.153.198.139:8082/udp/239.0.5.248:8208
+#EXTINF:-1,Movistar Deportes 2
+http://79.153.198.139:8082/udp/239.0.5.5:8208
+#EXTINF:-1,Movistar Deportes 2 HD
+http://79.153.198.139:8082/udp/239.0.5.245:8208
+#EXTINF:-1,Movistar F1
+http://79.153.198.139:8082/udp/239.0.0.210:8208
+#EXTINF:-1,Movistar F1 HD
+http://79.153.198.139:8082/udp/239.0.5.246:8208
+#EXTINF:-1,Movistar MotoGP
+http://79.153.198.139:8082/udp/239.0.3.38:8208
+#EXTINF:-1,Movistar MotoGP HD
+http://79.153.198.139:8082/udp/239.0.5.107:8208
+#EXTINF:-1,Movistar Golf
+http://79.153.198.139:8082/udp/239.0.5.2:8208
+#EXTINF:-1,Movistar Golf HD
+http://79.153.198.139:8082/udp/239.0.5.249:8208
+#EXTINF:-1,EuroSport
+http://79.153.198.139:8082/udp/239.0.0.18:8208
+#EXTINF:-1,EuroSport HD New
+http://79.153.198.139:8082/udp/239.0.9.144:8208
+#EXTINF:-1,EuroSport HD Old
+http://79.153.198.139:8082/udp/239.0.9.135:8208
+#EXTINF:-1,EuroSport 2
+http://79.153.198.139:8082/udp/239.0.0.37:8208
+#EXTINF:-1,EuroSport 2 HD
+http://79.153.198.139:8082/udp/239.0.5.105:8208
+#EXTINF:-1,GOL
+http://79.153.198.139:8082/udp/239.0.0.7:8208
+#EXTINF:-1,GOL HD
+http://79.153.198.139:8082/udp/239.0.5.189:8208
+#EXTINF:-1,Teledeporte
+http://79.153.198.139:8082/udp/239.0.0.79:8208
+#EXTINF:-1,Teledeporte HD
+http://79.153.198.139:8082/udp/239.0.0.188:8208
+#EXTINF:-1,Iberalia
+http://79.153.198.139:8082/udp/239.0.5.6:8208
+#EXTINF:-1,Multideporte 1
+http://79.153.198.139:8082/udp/239.0.7.1:8208
+#EXTINF:-1,National Geographic
+http://79.153.198.139:8082/udp/239.0.0.103:8208
+#EXTINF:-1,National Geographic HD
+http://79.153.198.139:8082/udp/239.0.5.78:8208
+#EXTINF:-1,Nat Geo Wild
+http://79.153.198.139:8082/udp/239.0.0.89:8208
+#EXTINF:-1,Nat Geo Wild HD
+http://79.153.198.139:8082/udp/239.0.9.136:8208
+#EXTINF:-1,Historia
+http://79.153.198.139:8082/udp/239.0.0.19:8208
+#EXTINF:-1,Discovery Channel
+http://79.153.198.139:8082/udp/239.0.0.21:8208
+#EXTINF:-1,Discovery Channel HD
+http://79.153.198.139:8082/udp/239.0.5.77:8208
+#EXTINF:-1,Odisea
+http://79.153.198.139:8082/udp/239.0.0.22:8208
+#EXTINF:-1,Odisea HD
+http://79.153.198.139:8082/udp/239.0.5.82:8208
+#EXTINF:-1,A&ampampampE
+http://79.153.198.139:8082/udp/239.0.0.38:8208
+#EXTINF:-1,Viajar
+http://79.153.198.139:8082/udp/239.0.0.20:8208
+#EXTINF:-1,Viajar HD
+http://79.153.198.139:8082/udp/239.0.5.73:8208
+#EXTINF:-1,Discovery MAX
+http://79.153.198.139:8082/udp/239.0.0.32:8208
+#EXTINF:-1,CCTV-E
+http://79.153.198.139:8082/udp/239.0.0.65:8208
+#EXTINF:-1,Cocina
+http://79.153.198.139:8082/udp/239.0.0.27:8208
+#EXTINF:-1,Decasa
+http://79.153.198.139:8082/udp/239.0.0.71:8208
+#EXTINF:-1,DKISS
+http://79.153.198.139:8082/udp/239.0.0.6:8208
+#EXTINF:-1,Crimen e Investigacion
+http://79.153.198.139:8082/udp/239.0.0.57:8208
+#EXTINF:-1,Divinity
+http://79.153.198.139:8082/udp/239.0.0.48:8208
+#EXTINF:-1,Nova
+http://79.153.198.139:8082/udp/239.0.0.106:8208
+#EXTINF:-1,MEGA
+http://79.153.198.139:8082/udp/239.0.3.31:8208
+#EXTINF:-1,BeMad
+http://79.153.198.139:8082/udp/239.0.0.17:8208
+#EXTINF:-1,BeMad HD
+http://79.153.198.139:8082/udp/239.0.0.182:8208
+#EXTINF:-1,Energy
+http://79.153.198.139:8082/udp/239.0.0.59:8208
+#EXTINF:-1,Garage TV
+http://79.153.198.139:8082/udp/239.0.0.99:8208
+#EXTINF:-1,Baby TV
+http://79.153.198.139:8082/udp/239.0.0.113:8208
+#EXTINF:-1,Disney Junior
+http://79.153.198.139:8082/udp/239.0.0.10:8208
+#EXTINF:-1,Canal Panda
+http://79.153.198.139:8082/udp/239.0.0.117:8208
+#EXTINF:-1,Nick Jr
+http://79.153.198.139:8082/udp/239.0.0.115:8208
+#EXTINF:-1,Nickelodeon
+http://79.153.198.139:8082/udp/239.0.0.69:8208
+#EXTINF:-1,Disney XD
+http://79.153.198.139:8082/udp/239.0.0.11:8208
+#EXTINF:-1,Disney Channel
+http://79.153.198.139:8082/udp/239.0.0.64:8208
+#EXTINF:-1,Disney Channel HD
+http://79.153.198.139:8082/udp/239.0.0.173:8208
+#EXTINF:-1,Boing
+http://79.153.198.139:8082/udp/239.0.0.66:8208
+#EXTINF:-1,Clan TVE
+http://79.153.198.139:8082/udp/239.0.0.80:8208
+#EXTINF:-1,40 TV
+http://79.153.198.139:8082/udp/239.0.0.12:8208
+#EXTINF:-1,VH1
+http://79.153.198.139:8082/udp/239.0.0.75:8208
+#EXTINF:-1,Canal 24 Horas
+http://79.153.198.139:8082/udp/239.0.0.78:8208
+#EXTINF:-1,BBC world
+http://79.153.198.139:8082/udp/239.0.0.30:8208
+#EXTINF:-1,CNN International
+http://79.153.198.139:8082/udp/239.0.0.40:8208
+#EXTINF:-1,Fox News
+http://79.153.198.139:8082/udp/239.0.7.65:8208
+#EXTINF:-1,Euronews
+http://79.153.198.139:8082/udp/239.0.0.28:8208
+#EXTINF:-1,Al Jazeera
+http://79.153.198.139:8082/udp/239.0.7.66:8208
+#EXTINF:-1,France 24
+http://79.153.198.139:8082/udp/239.0.7.67:8208
+#EXTINF:-1,Russia Today
+http://79.153.198.139:8082/udp/239.0.7.68:8208
+#EXTINF:-1,CNBC Europe
+http://79.153.198.139:8082/udp/239.0.7.69:8208
+#EXTINF:-1,TV5 Monde Europe
+http://79.153.198.139:8082/udp/239.0.0.31:8208
+#EXTINF:-1,Bloomberg
+http://79.153.198.139:8082/udp/239.0.0.29:8208
+#EXTINF:-1,Intereconomia TV
+http://79.153.198.139:8082/udp/239.0.0.63:8208
+#EXTINF:-1,I24 News
+http://79.153.198.139:8082/udp/239.0.0.220:8208
+#EXTINF:-1,CNC World
+http://79.153.198.139:8082/udp/239.0.0.221:8208
+#EXTINF:-1,Canal Orbe 21
+http://79.153.198.139:8082/udp/239.0.0.45:8208
+#EXTINF:-1,Andalucia TV
+http://79.153.198.139:8082/udp/239.0.0.1:8208
+#EXTINF:-1,Galicia TV Europa
+http://79.153.198.139:8082/udp/239.0.3.37:8208
+#EXTINF:-1,TV3CAT
+http://79.153.198.139:8082/udp/239.0.3.36:8208
+#EXTINF:-1,ETB Sat
+http://79.153.198.139:8082/udp/239.0.0.60:8208
+#EXTINF:-1,Aragon TV Int
+http://79.153.198.139:8082/udp/239.0.0.81:8208
+#EXTINF:-1,Super 3/33
+http://79.153.198.139:8082/udp/239.0.0.24:8208
+#EXTINF:-1,Esport3
+http://79.153.198.139:8082/udp/239.0.0.51:8208
+#EXTINF:-1,3/24
+http://79.153.198.139:8082/udp/239.0.0.61:8208
+#EXTINF:-1,Xarxa Televisions
+http://79.153.198.139:8082/udp/239.0.0.9:8208
+#EXTINF:-1,Multifutbol 1
+http://79.153.198.139:8082/udp/239.0.0.92:8208
+#EXTINF:-1,Multifutbol 2
+http://79.153.198.139:8082/udp/239.0.0.93:8208
+#EXTINF:-1,Multifutbol 3
+http://79.153.198.139:8082/udp/239.0.0.94:8208
+#EXTINF:-1,Multifutbol 4
+http://79.153.198.139:8082/udp/239.0.0.95:8208
+#EXTINF:-1,Multifutbol 5
+http://79.153.198.139:8082/udp/239.0.0.96:8208
+#EXTINF:-1,beIN La Liga 3
+http://79.153.198.139:8082/udp/239.0.0.70:8208
+#EXTINF:-1,beIN La Liga 3 HD
+http://79.153.198.139:8082/udp/239.0.5.181:8208
+#EXTINF:-1,beIN La Liga 4
+http://79.153.198.139:8082/udp/239.0.0.72:8208
+#EXTINF:-1,beIN MAX 3
+http://79.153.198.139:8082/udp/239.0.0.216:8208
+#EXTINF:-1,beIN MAX 4
+http://79.153.198.139:8082/udp/239.0.0.217:8208
+#EXTINF:-1,Multideporte 2
+http://79.153.198.139:8082/udp/239.0.7.2:8208
+#EXTINF:-1,Multideporte 3
+http://79.153.198.139:8082/udp/239.0.7.3:8208
+#EXTINF:-1,Multideporte 4
+http://79.153.198.139:8082/udp/239.0.7.4:8208
+#EXTINF:-1,Multideporte 5
+http://79.153.198.139:8082/udp/239.0.7.5:8208
+#EXTINF:-1,Multideporte 6
+http://79.153.198.139:8082/udp/239.0.7.132:8208
+#EXTINF:-1,Multideporte 7
+http://79.153.198.139:8082/udp/239.0.7.133:8208
+#EXTINF:-1,La Tienda en Casa
+http://79.153.198.139:8082/udp/239.0.0.98:8208
+#EXTINF:-1,BEIN SPORT
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/115.ts
+#EXTINF:-1,XTRA
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/88.ts
+#EXTINF:-1,TOROS
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/97.ts
+#EXTINF:-1,TNT
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/111.ts
+#EXTINF:-1,TELECINCO
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/101.ts
+#EXTINF:-1,SYFY
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/90.ts
+#EXTINF:-1,SERIES XTRA
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/107.ts
+#EXTINF:-1,SERIES
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/106.ts
+#EXTINF:-1,NICKELODEON
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/112.ts
+#EXTINF:-1,NAT GEO WILD
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/103.ts
+#EXTINF:-1,NAT GEO
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/102.ts
+#EXTINF:-1,MTV
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/113.ts
+#EXTINF:-1,MOTOGP
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/94.ts
+#EXTINF:-1,LA LIGA TV
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/91.ts
+#EXTINF:-1,LA 1
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/98.ts
+#EXTINF:-1,IBERALIA
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/105.ts
+#EXTINF:-1,HOLLYWOOD
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/89.ts
+#EXTINF:-1,HISTORIA
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/104.ts
+#EXTINF:-1,GOLF
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/95.ts
+#EXTINF:-1,GOL TV
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/93.ts
+#EXTINF:-1,FOX LIFE
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/108.ts
+#EXTINF:-1,BEIN SPORT LIGA
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/92.ts
+#EXTINF:-1,BARÇA TV
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/96.ts
+#EXTINF:-1,AXN WHITE
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/110.ts
+#EXTINF:-1,AXN
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/109.ts
+#EXTINF:-1,ANTENA 3
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/99.ts
+#EXTINF:-1,FOX HD
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/86.ts
+#EXTINF:-1,FUTBOL
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/84.ts
+#EXTINF:-1,F1
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/83.ts
+#EXTINF:-1,EUROSPORT
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/82.ts
+#EXTINF:-1,ESTRENOS
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/79.ts
+#EXTINF:-1,DISNEY XD
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/76.ts
+#EXTINF:-1,DISNEY JR
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/75.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/73.ts
+#EXTINF:-1,DEPORTE 2
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/72.ts
+#EXTINF:-1,DEPORTE 1
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/71.ts
+#EXTINF:-1,DCINE
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/70.ts
+#EXTINF:-1,CUATRO
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/69.ts
+#EXTINF:-1,COSMO
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/67.ts
+#EXTINF:-1,COMEDIA
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/65.ts
+#EXTINF:-1,CAZA Y PESCA
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/61.ts
+#EXTINF:-1,ACCION
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/56.ts
+#EXTINF:-1,CALLE 13
+http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/55.ts
