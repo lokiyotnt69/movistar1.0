@@ -281,3 +281,283 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 #EXTINF:-1, VIRGINTV
 http://wow01.105.net/live/virgin1/playlist.m3u8
+
+
+#EXTINF:-1, group-title="MEXICO",
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/14/cest.png", Canal de las estrellas
+http://www.ftvcanal.tk/tp.php?tvcanal=102
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/forotv.png", Foro TV
+http://www.ftvcanal.tk/tp.php?tvcanal=104
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/5hd.png", Canal 5
+http://www.ftvcanal.tk/tp.php?tvcanal=105
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/14/az7.png", Azteca 7
+http://www.ftvcanal.tk/tp.php?tvcanal=107
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/galatv.png", Gala TV HD
+http://www.ftvcanal.tk/tp.php?tvcanal=109
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/10/07/once.png", Once TV
+http://www.ftvcanal.tk/tp.php?tvcanal=111
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/14/aztrece.png", Azteca 13
+http://www.ftvcanal.tk/tp.php?tvcanal=113
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/p40.png", Proyecto 40
+http://www.ftvcanal.tk/tp.php?tvcanal=140s
+#EXTINF:-1, tvg-logo="http://puu.sh/q8sLF/beeb9d54a2.png", Canal 12 Tijuana
+http://www.ftvcanal.tk/tp.php?tvcanal=1871
+ 
+ 
+#EXTINF:-1, group-title="INFANTILES",
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/boomerang.png",Boomerang
+http://www.ftvcanal.tk/tp.php?tvcanal=324
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cbee.png",CBeebies
+http://www.ftvcanal.tk/tp.php?tvcanal=305
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cn.png",Cartoon Network
+http://www.ftvcanal.tk/tp.php?tvcanal=320
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/discoverykids.png",Discovery Kids
+http://www.ftvcanal.tk/tp.php?tvcanal=303
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/10/19/disneychanneln.png",Disney Channel
+http://www.ftvcanal.tk/tp.php?tvcanal=312
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disnerjunior.png",Disney Jr
+http://www.ftvcanal.tk/tp.php?tvcanal=308
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disneyxdesp.png",Disney XD
+http://www.ftvcanal.tk/tp.php?tvcanal=322
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/28/nickhd.png",Nick HD
+http://www.ftvcanal.tk/tp.php?tvcanal=315
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nickjr.png",Nick Jr
+http://www.ftvcanal.tk/tp.php?tvcanal=310
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/28/nicktoon.png",Nick Toons
+http://www.ftvcanal.tk/tp.php?tvcanal=314
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png",Nickelodeon (Nick)
+http://www.ftvcanal.tk/tp.php?tvcanal=317
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tiin.png",TIIN
+http://www.ftvcanal.tk/tp.php?tvcanal=325
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tooncast.png",Tooncast
+http://www.ftvcanal.tk/tp.php?tvcanal=328
+#EXTINF:-1, tvg-logo="http://puu.sh/thT2W/d43810554c.png",Once Ninos
+http://www.ftvcanal.tk/?sv=2&tvcanal=OnceNinos&f=tvcanal.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1, group-title="CINE",
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/10/19/amc.png",AMC
+http://www.ftvcanal.tk/tp.php?tvcanal=444
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2016/02/27/azcine.png",Az Cinéma
+http://www.ftvcanal.tk/tp.php?tvcanal=425
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2016/02/13/cinecanal.png",Cinecanal (W)
+http://www.ftvcanal.tk/tp.php?tvcanal=480
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2016/02/13/cinecanalhd.png",Cinecanal HD
+http://www.ftvcanal.tk/tp.php?tvcanal=430
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/10/19/cinemax1.png",Cinemax (O)
+http://www.ftvcanal.tk/tp.php?tvcanal=481
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/depeli.png",De Película HD
+http://www.ftvcanal.tk/tp.php?tvcanal=442
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/02/27/fox1hdSYXQn.png",Fox 1 HD
+http://www.ftvcanal.tk/tp.php?tvcanal=415
+#EXTINF:-1, tvg-logo="http://puu.sh/mb4fc/e2d14330d9.png",Fox 1 (este)
+http://www.ftvcanal.tk/?sv=2&tvcanal=Fox1Este&f=tvcanal.m3u8
+ 
+ 
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/02/27/foxactionoZOcL.png",Fox Action HD
+http://www.ftvcanal.tk/tp.php?tvcanal=416
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/02/27/foxcinema.png",Fox Cinéma
+http://www.ftvcanal.tk/tp.php?tvcanal=421
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/02/27/foxclassics.png",Fox Classics
+http://www.ftvcanal.tk/tp.php?tvcanal=424
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/02/27/FOXMOVIESHD.png",Fox Movies HD
+http://www.ftvcanal.tk/tp.php?tvcanal=417
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/goldenedge.png",Golden Edge
+http://www.ftvcanal.tk/tp.php?tvcanal=484
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/golden.png",Golden HD
+http://www.ftvcanal.tk/tp.php?tvcanal=436
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/29/spacec.png",Space
+http://www.ftvcanal.tk/tp.php?tvcanal=491
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/14/spacehd.png",Space HD
+http://www.ftvcanal.tk/tp.php?tvcanal=445
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/stuuni.png",Studio Universal
+http://www.ftvcanal.tk/tp.php?tvcanal=492
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2016/02/13/tcm.png",TCM
+http://www.ftvcanal.tk/tp.php?tvcanal=496
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/14/tnt.png",TNT
+http://www.ftvcanal.tk/tp.php?tvcanal=482
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tnthd.png",TNT HD
+http://www.ftvcanal.tk/tp.php?tvcanal=435
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/filmezone.png",The Film Zone HD
+http://www.ftvcanal.tk/tp.php?tvcanal=440
+#EXTINF:-1, tvg-logo="http://x.cdn.entutele.com/media/channels/medium/isat.gif",I.Sat
+http://www.ftvcanal.tk/tp.php?tvcanal=495
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tcm.gif",TCM
+http://www.ftvcanal.tk/tp.php?tvcanal=496
+ 
+#EXTINF:-1, tvg-logo="http://puu.sh/pIeaf/23e6946023.png", Cine Latino
+http://www.ftvcanal.tk/?sv=2&tvcanal=CineLatino&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/mw4XE/6a57b1ac9a.png", Golden Multiplex
+http://www.ftvcanal.tk/?sv=2&tvcanal=GoldenMultiplex&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/mbMeZ/0502ebe188.png", Golden Premier
+http://www.ftvcanal.tk/?sv=2&tvcanal=GoldenPremier&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/mbMih/f670253ae9.png", Golden Premier 2
+http://www.ftvcanal.tk/?sv=2&tvcanal=GoldenPremier2&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-w.gif", HBO
+http://www.ftvcanal.tk/?sv=2&tvcanal=HBO&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif", HBO 2
+http://www.ftvcanal.tk/?sv=2&tvcanal=HBO2&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif", HBO Family
+http://www.ftvcanal.tk/?sv=2&tvcanal=HBOFamily&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif", HBO Plus
+http://www.ftvcanal.tk/?sv=2&tvcanal=HBOPlus&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif", HBO Plus OP2
+http://latino-webtv.ml:8880/pixtv/hbo_plus/master.m3u8
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-plus-e.gif", HBO Plus Este
+http://www.ftvcanal.tk/?sv=2&tvcanal=HBOPlusEste&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif", HBO Signature
+http://www.ftvcanal.tk/?sv=2&tvcanal=HBOSignature&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/max-prime-e.gif", Max Prime
+http://www.ftvcanal.tk/?sv=2&tvcanal=MaxPrime&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/max-up.gif", Max Up
+http://www.ftvcanal.tk/?sv=2&tvcanal=MaxUp&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/pIdJh/69253eb40c.png", MP
+http://www.ftvcanal.tk/?sv=2&tvcanal=MultiPremier&f=tvcanal.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1, group-title="MUNDO Y CULTURA",
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/sony-hd.gif",Sony HD
+http://www.ftvcanal.tk/tp.php?tvcanal=203
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/warner-hd.gif",Warner HD
+http://www.ftvcanal.tk/tp.php?tvcanal=205
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx-hd.gif",FX HD
+http://www.ftvcanal.tk/tp.php?tvcanal=209
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae-hd.gif",A&E HD
+http://www.ftvcanal.tk/tp.php?tvcanal=211
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/axn-hd.gif",AXN HD
+http://www.ftvcanal.tk/tp.php?tvcanal=213
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/trutv-hd.gif",TruTV HD
+http://www.ftvcanal.tk/tp.php?tvcanal=215
+#EXTINF:-1, tvg-logo="http://x.cdn.entutele.com/media/channels/medium/comedy-central-hd.gif",Comedy Central HD
+http://www.ftvcanal.tk/tp.php?tvcanal=217
+#EXTINF:-1, tvg-logo="http://x.cdn.entutele.com/media/channels/medium/unicable-hd.gif",Unicable HD
+http://www.ftvcanal.tk/tp.php?tvcanal=218
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/mas-chic.gif",Mas Chic
+http://www.ftvcanal.tk/tp.php?tvcanal=221
+#EXTINF:-1, tvg-logo="http://x.cdn.entutele.com/media/channels/medium/az-corazon.gif",AZ Corazon
+http://www.ftvcanal.tk/tp.php?tvcanal=250
+#EXTINF:-1, tvg-logo="http://abdavega.playlatinohd.com/logos/entretenimiento/fox.png",FOX
+http://www.ftvcanal.tk/tp.php?tvcanal=251
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif",BBC Entertainment
+http://www.ftvcanal.tk/tp.php?tvcanal=253
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif",Universal Channel
+http://www.ftvcanal.tk/tp.php?tvcanal=256
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-gourmet.gif",El Gourment
+http://www.ftvcanal.tk/tp.php?tvcanal=268
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/distrito-comedia.gif",Distrito Comedia
+http://www.ftvcanal.tk/tp.php?tvcanal=272
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif",TBS
+http://www.ftvcanal.tk/tp.php?tvcanal=273
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif",Tlnovelas
+http://www.ftvcanal.tk/tp.php?tvcanal=275
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif",AZ Mundo
+http://www.ftvcanal.tk/tp.php?tvcanal=276
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/mundo-fox.gif",Mundo Fox
+http://www.ftvcanal.tk/?sv=2&tvcanal=MundoFox&f=tvcanal.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/06/02/wobi.jpg",WOBI_TV
+http://www.ftvcanal.tk/tp.php?tvcanal=387
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tlc.png",TLC
+http://www.ftvcanal.tk/tp.php?tvcanal=386
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/03/30/discowor.png",Discovery_World_HD
+http://www.ftvcanal.tk/tp.php?tvcanal=356
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/28/historyhd.png",History_HD
+http://www.ftvcanal.tk/tp.php?tvcanal=353
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/h2.gif", History 2
+http://www.ftvcanal.tk/?sv=2&tvcanal=H2&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/natwild.png",NatGeo_Wild_HD
+http://www.ftvcanal.tk/tp.php?tvcanal=355
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/hhd.png",Home_and_Health
+http://www.ftvcanal.tk/tp.php?tvcanal=374
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/idd.png",Investigacion Discovery
+http://www.ftvcanal.tk/tp.php?tvcanal=263
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/03/30/teatherdisc.png",Discovery Theater_HD
+http://www.ftvcanal.tk/tp.php?tvcanal=351
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/turbo.png",Discovery_Turbo
+http://www.ftvcanal.tk/tp.php?tvcanal=383
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/sci.png",Discovery_Science
+http://www.ftvcanal.tk/tp.php?tvcanal=381
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/discv.png",Discovery_Civilization
+http://www.ftvcanal.tk/tp.php?tvcanal=382
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/10/02/lifetime.png",Lifetime
+http://www.ftvcanal.tk/tp.php?tvcanal=379
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/animalplanet.png",Animal_Planet
+http://www.ftvcanal.tk/tp.php?tvcanal=373
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/natgreo.png",NatGeo
+http://www.ftvcanal.tk/tp.php?tvcanal=377
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/dc.png",Discovery_Channel
+http://www.ftvcanal.tk/tp.php?tvcanal=371
+#EXTINF:-1, tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif",Telemundo
+http://www.ftvcanal.tk/?sv=2&tvcanal=Telemundo&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/lifetime.gif",Life Time
+http://www.ftvcanal.tk/tp.php?tvcanal=379
+ 
+ 
+#EXTINF:-1, group-title="DEPORTES",
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/05/24/f1.png",Canal F1
+http://www.ftvcanal.tk/tp.php?tvcanal=511
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2015/02/26/espnplus1jpg103x103cropq100.jpg",ESPN+
+http://www.ftvcanal.tk/tp.php?tvcanal=516
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsports.png",Fox_Sports
+http://www.ftvcanal.tk/tp.php?tvcanal=522
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsp2.png",Fox_Sports_2
+http://www.ftvcanal.tk/tp.php?tvcanal=527
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/09/27/espnhd.png",ESPN
+http://www.ftvcanal.tk/tp.php?tvcanal=558
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn2.png",ESPN_2
+http://www.ftvcanal.tk/tp.php?tvcanal=561
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn3.png",ESPN_3
+http://www.ftvcanal.tk/tp.php?tvcanal=520
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/amysports.png",AyM_Sports
+http://www.ftvcanal.tk/tp.php?tvcanal=576
+#EXTINF:-1, tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Sports.png",PXs
+http://www.ftvcanal.tk/tp.php?tvcanal=528
+#EXTINF:-1, tvg-logo="http://puu.sh/mbLqS/76e86da5c3.png", Bein Sports
+http://www.ftvcanal.tk/?sv=2&tvcanal=BeinSports&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/tq915/768d317827.png", BT Sport 1
+http://www.ftvcanal.tk/?sv=2&tvcanal=BTSport1&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-sports-3.gif", Fos Sports 3
+http://www.ftvcanal.tk/?sv=2&tvcanal=FoxSports3&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/nfl-network.gif", NFL Network
+http://www.ftvcanal.tk/?sv=2&tvcanal=NFLNetwork&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/tq8Y9/15062b7122.png", SKY Sports 1
+http://www.ftvcanal.tk/?sv=2&tvcanal=SKYSports1&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png", TDN
+http://www.ftvcanal.tk/?sv=2&tvcanal=TDN&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/univision-tdn.gif", Univision TDN
+http://www.ftvcanal.tk/?sv=2&tvcanal=UnivisionTDN&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/mbLoc/e5d45c354b.png", UFC Networks
+http://www.ftvcanal.tk/?sv=2&tvcanal=UFC&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/tdSaI/025a963e05.png", Univision Deportes
+http://www.ftvcanal.tk/?sv=2&tvcanal=UnivisionDeportes&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/p9MDp/5a6d5fec70.png", WWE Netwoks
+http://www.ftvcanal.tk/?sv=2&tvcanal=WWENetwork&f=tvcanal.m3u8
+ 
+ 
+ 
+#EXTINF:-1, group-title="MUSICA",
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/mtv-live-hd.gif",MTV Live HD
+http://www.ftvcanal.tk/tp.php?tvcanal=701
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/telehit-hd.gif",Telehit HD
+http://www.ftvcanal.tk/tp.php?tvcanal=702
+#EXTINF:-1, tvg-logo="http://x.cdn.entutele.com/media/channels/medium/vh1-hd.gif",VH1 HD
+http://www.ftvcanal.tk/tp.php?tvcanal=703
+#EXTINF:-1, tvg-logo="http://x.cdn.entutele.com/media/channels/medium/vh1-hd.gif",mtv
+http://www.ftvcanal.tk/tp.php?tvcanal=726
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ritmoson-latino.gif", Ritmoson Latino
+http://www.ftvcanal.tk/tp.php?tvcanal=731
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/bandamax.gif",Bandamax
+http://www.ftvcanal.tk/tp.php?tvcanal=732
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/telehit.gif",Telehit
+http://www.ftvcanal.tk/tp.php?tvcanal=733
+#EXTINF:-1, tvg-logo="http://puu.sh/sNDfb/ad0d96fe7e.png", Claro Musica
+http://www.ftvcanal.tk/?sv=2&tvcanal=ClaroMusica&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://puu.sh/t2MKt/e44f974ba3.png", Exa TV
+http://www.ftvcanal.tk/?sv=2&tvcanal=ExaTV&f=tvcanal.m3u8
+#EXTINF:-1, tvg-logo="http://y.cdn.entutele.com/media/channels/medium/htv.gif",HTV
+http://www.ftvcanal.tk/?sv=2&tvcanal=HTV&f=tvcanal.m3u8
+
