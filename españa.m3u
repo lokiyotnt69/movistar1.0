@@ -2,42 +2,64 @@
 
 
 
-#EXTINF:-1,A24 (ARGENTINA) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/4.ts 
-#EXTINF:-1,ABC FAMILY (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/5.ts 
-#EXTINF:-1,ACTIONMAX EAST (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/6.ts 
-#EXTINF:-1,AMC (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/7.ts 
-#EXTINF:-1,AMC EAST (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/8.ts 
-#EXTINF:-1,AMERICA (ARGENTINA) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/9.ts 
-#EXTINF:-1,AMERICA PERU (PERU) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/10.ts 
-#EXTINF:-1,AMERICAN HEROES CHANNEL (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/11.ts 
-#EXTINF:-1,ANIMAL PLANET (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/12.ts 
-#EXTINF:-1,ANIMAL PLANET (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/13.ts 
-#EXTINF:-1,ANTENA 3 (SPAIN) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/14.ts 
-#EXTINF:-1,ASTRO SUPERSPORT 1 (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/15.ts 
-#EXTINF:-1,ASTRO SUPERSPORT 2 (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/16.ts
-#EXTINF:-1,ASTRO SUPERSPORT 3 (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/17.ts
-#EXTINF:-1,ATV (PERU) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/18.ts 
-#EXTINF:-1,AXN (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/19.ts 
-#EXTINF:-1,AYM SPORTS (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/20.ts 
-#EXTINF:-1,AZTECA 7 HD (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/21.ts
- #EXTINF:-1,AZTECA CINEMA (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/22.ts
- #EXTINF:-1,AZTECA CLIC (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/23.ts 
- #EXTINF:-1,AZTECA CORAZÃ“N (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/24.ts 
- #EXTINF:-1,AZTECA MUNDO (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/25.ts 
- #EXTINF:-1,AZTECA NOTICIAS (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/26.ts 
- #EXTINF:-1,AZTECA TRECE HD (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/27.ts 
- #EXTINF:-1,BABY TV (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/348.ts 
- #EXTINF:-1,BANDAMAX (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/28.ts
- #EXTINF:-1,BBC AMERICA (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/29.ts 
- #EXTINF:-1,BBC CBEEBIES (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/30.ts 
- #EXTINF:-1,BBC ENTERTAINMENT (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/31.ts
- #EXTINF:-1,BBC ONE (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/32.ts
- #EXTINF:-1,BEIÃ‘ SPORTS (SPAIN) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/335.ts 
- #EXTINF:-1,BEINSPORTS EN ESPAÃ±OL (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/33.ts 
- #EXTINF:-1,BOOMERANG (LATINO) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/34.ts 
- #EXTINF:-1,BOOMERANG USA (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/35.ts
- #EXTINF:-1,BOXNATION (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/36.ts 
- #EXTINF:-1,BT SPORT 1 (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/37.ts 
- #EXTINF:-1,BT SPORT 2 (INGLES) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/38.ts 
- #EXTINF:-1,C5N (ARGENTINA) http://americaiptv.xyz:8462/live/nQAbOze4/nQAbOze4/39.ts 
+
  
+ 
+ 
+#EXTINF:-1, Partidos de Eliminatorias
+http://iphone-streaming.ustream.tv/uhls/23092636/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Galardon Deportes
+http://iphone-streaming.ustream.tv/uhls/6583000/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Movistar Estrenos
+http://cdn1.elitegol.xyz/verliga/3/playlist.m3u8
+#EXTINF:-1,Movistar Comedia
+http://cdn1.elitegol.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1,Movistar Accion
+http://cdn1.elitegol.xyz/verliga/5/playlist.m3u8
+#EXTINF:-1,Movistar Cine
+http://cdn1.elitegol.xyz/verliga/7/playlist.m3u8
+#EXTINF:-1,Tnt
+http://cdn1.elitegol.xyz/verliga/9/playlist.m3u8
+#EXTINF:-1,Movistar Axn
+http://cdn1.elitegol.xyz/verliga/10/playlist.m3u8
+#EXTINF:-1, Fox
+http://cdn1.elitegol.xyz/verliga/28/playlist.m3u8
+#EXTINF:-1, Calle 13
+http://cdn1.elitegol.xyz/verliga/18/playlist.m3u8
+#EXTINF:-1,SyFy
+http://cdn1.elitegol.xyz/verliga/19/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://cdn1.elitegol.xyz/verliga/20/playlist.m3u8
+#EXTINF:-1,AMC
+http://cdn1.elitegol.xyz/verliga/26/playlist.m3u8
+#EXTINF:-1,DMAX
+http://cdn1.elitegol.xyz/verliga/27/playlist.m3u8
+#EXTINF:-1,#0 Series
+http://cdn1.elitegol.xyz/verliga/24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400", NATURALEZA
+#EXTINF:-1, Nathional Geografic
+http://cdn1.elitegol.xyz/verliga/12/playlist.m3u8
+#EXTINF:-1,NatGeo Wild
+http://cdn1.elitegol.xyz/verliga/13/playlist.m3u8
+#EXTINF:-1,Caza y Pezca
+http://cdn1.elitegol.xyz/verliga/15/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400", VARIOS
+#EXTINF:-1,Infantil
+http://cdn1.elitegol.xyz/verliga/8/playlist.m3u8
+#EXTINF:1, PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:1, TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,NickJunior
+http://edge1.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8
+#EXTINF:-0,Panda
+http://edge1.livesports.pw/live/verpanda09f8f91b6bfd8e414/index.m3u8
+#EXTINF:-1 tvg-logo="http://d2mhmd1y9dvsiv.cloudfront.net/wp-content/themes/lacuarta/img/logo_lacuartatv.png" group-title="zona ocio",
+#EXTINF:-1 tvg-logo="http://www.iptvchile.xyz/logos/mixpeliculas.png" group-title="zona ocio", vitato tv
+http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.iptvchile.xyz/logos/mixpeliculas.png" group-title="zona ocio", vitato tv series
+http://iphone-streaming.ustream.tv/uhls/22671982/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/Tv/anime.png" group-title="zona ocio" ,CANAL ANIME
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/Tv/CinemaTvPlay.png" group-title="zona ocio", Cinema Tv Play
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
