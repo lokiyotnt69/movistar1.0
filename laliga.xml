@@ -20,6 +20,54 @@
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/38658.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] LA LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/40660.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] La Liga BAR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35778.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga BAR</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] beIN La liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35530.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN La liga</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BEIN SPORTS LA LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35413.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS LA LIGA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Movistar  Deportes 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35613.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Deportes 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Deportes 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35614.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes 2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Movistar  Golf [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35617.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Golf</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] EUROSPORT 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39087.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] EUROSPORT 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39086.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BARCA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39084.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] RED BULL TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39085.ts&amp;streamtype=TSDOWNLOADER&amp;name=RED BULL TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
