@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",#0
 http://37.187.128.169:8000/live/app/channel/2.ts
 
