@@ -1,268 +1,152 @@
 #EXTM3U
 
-
-#EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",#0
-http://37.187.128.169:8000/live/app/channel/2.ts
-
-#EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",estrenos
-http://149.202.26.88:8000/live/app/channel/1.ts
-
-
-#EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",DCine
-http://149.202.26.88:8000/live/app/channel/2.ts
-
-#EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",Accion
-http://149.202.26.88:8000/live/app/channel/3.ts
-
-#EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",comedia        
-http://149.202.26.88:8000/live/app/channel/4.ts
-
-#EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",xtra
-http://149.202.26.88:8000/live/app/channel/5.ts
-
-#EXTINF:-0 group-title="MOPI+CINE" tvg-logo="Canal+HD.png",hollywood
-http://149.202.26.88:8000/live/app/channel/6.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",syfy
-http://149.202.26.88:8000/live/app/channel/7.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",calle13
-http://149.202.26.88:8000/live/app/channel/8.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",SERIES
-http://149.202.26.88:8000/live/app/channel/9.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",SERIES XTRA
-http://149.202.26.88:8000/live/app/channel/10.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",Fox
-http://149.202.26.88:8000/live/app/channel/11.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",FoxLife
-http://149.202.26.88:8000/live/app/channel/12.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",axn
-http://149.202.26.88:8000/live/app/channel/13.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",axnWhite
-http://149.202.26.88:8000/live/app/channel/14.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",cosmo
-http://149.202.26.88:8000/live/app/channel/15.ts
-
-#EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",Tnt
-http://149.202.26.88:8000/live/app/channel/16.ts
-#EXTINF:-0 group-title="TDT" tvg-logo="euronews.png",euronews
-http://stream-08.vty.dailymotion.com/45/dm/1/x2j7hpf/live.isml/events(live-1474414749)/live-audio=128000-video=1200000.m3u8
-
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Canal+HD.png",La1
-http://176.31.194.243:8000/live/app/channel/17.ts
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Formula 1.png",La 1
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-
-
-#EXTINF:-0 group-title="TDT" tvg-logo="La nueve.png",LA 2
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="TDP.png",TELEDEPORTE
-http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_1.m3u8
-
-
-#EXTINF:-0 group-title="TDT" tvg-logo="24H.png",24H
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Antena 3.jpg",ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Antena 3.jpg",ANTENA 3 SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Antena 3.jpg",ANTENA 3 SERIES
-http://videog3-live.hds.adaptive.level3.net/hls-live/video-geoa3series/_definst_/live/stream4.m3u8
-
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Canal+HD.png",Cuatro
-http://176.31.194.243:8000/live/app/channel/18.ts
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Canal+HD.png",Tele5
-http://176.31.194.243:8000/live/app/channel/19.ts
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Telecinco.png",TELECINCO
-http://mediasethls-lh.akamaihd.net/i/telecinco/telecinco_g@393107/index_350_av-p.m3u8
-
-
-
-#EXTINF:-0 group-title="TDT" tvg-logo="La Sexta.jpg",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="mega.jpg",MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Energy.jpg",ENERGY
-http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="divinity.jpg",DIVINITY
-http://mediasethls-lh.akamaihd.net/i/mitele/divinity_g@393139/index_500_av-p.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Bemad.jpg",BE MAD
-http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="Intereconomia.jpg",Intereconomia
-http://edge3.adnstream.com:81/hls/intereconomia.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="13 Tv.jpg",13tv
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist.m3u8
-
-#EXTINF:-0 group-title="TDT" tvg-logo="LD Tv.jpg",VIRAL TV(Antes LD TV)
-http://stream-02.vty.dailymotion.com/09/dm/1/xnm032/live.isml/events(live-1472015098)/live-audio=64000-video=400000.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="telemadrid.jpg",telemadrid
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="laotra.jpg",laotra
-http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="etb.jpg",etb
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-b.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="etb.jpg",cyltv
-http://cdn.s2.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="rtvcm.jpg",castilla-la mancha TV
-http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="rtvc.jpg",TV Canaria
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1496603936_b480000_sles.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="andaluciatelevision.jpg",andaluciatelevision
-http://195.10.10.221/rtva/andaluciatelevision-iphone/stream.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="TV3.jpg",TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b798000_DVR.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="RTP Asturias.jpg",RTP Asturias
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="extremadura tv.jpg",extremadura tv
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live/stream1.m3u8
-
-#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="ANDALUCIA TV.jpg",ANDALUCIA TV
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF: 0, MENTES PELIGROSAS
-https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF: 0, Intrusos
-https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
-#EXTINF: 0, INDESTRUCTIBLES 3
-https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
-#EXTINF: 0, FRANCOTIRADOR
-https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
-#EXTINF: 0, FOCUS
-https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
-#EXTINF: 0, RESUCITADOS
-https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
-#EXTINF: 0, ROBOCOP
-https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
-#EXTINF: 0, DESTINO JUPITER
-https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", El Oso Ted 2
-http://www.spruto.tv/get_file/8/54eead2810be3356606a670111d3e620/121000/121206/121206.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://boomgers.com/wp-content/uploads/2014/11/BOOMGERS201412200666.jpg", LA FAMILIA BELIER
-http://www.spruto.tv/get_file/5/8482fe3ac7d43d34b62ea8a0f6732482/119000/119843/119843.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://cdn-static.denofgeek.com/sites/denofgeek/files/styles/insert_main_wide_image/public/7/85//the_gunman_poster.jpg", THE GUNMAN: EN LA MIRA (SUBTITULADA)
-http://www.spruto.tv/get_file/5/4b884c2c374315966a3dc6c6c1e5c154/120000/120002/120002.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://sim1.subirimagenes.net/img/2013/10/27/13102711275393325.jpg", EL GUARDIAN DEL ZOOLOGICO
-http://www.spruto.tv/get_file/5/1c88902145180aba5d3c2f6b30d5901f/117000/117502/117502.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://diariodelcineasta.com/wp-content/uploads/2015/04/Lo-mejor-de-m%C3%AD-pel%C3%ADculas.jpg", LO MEJOR DE MI
-http://www.spruto.tv/get_file/2/79c5438e510dda5b41ed2404773c1149/106000/106212/106212.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/perdiendo-el-norte/7859863-5-esl-ES/Perdiendo-el-norte.jpg", PERDIENDO EL NORTE
-http://www.spruto.tv/get_file/5/6a25b4ae49ab17330c8f5a55e6448f97/118000/118625/118625.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://s14.postimg.org/zbdoz5c41/Barely_Lethal_2015_WEBDL.jpg", BARELY LETHAL (2015)
-http://www.spruto.tv/get_file/5/5d592f0ec74f0cf1a0e0849f11801959/118000/118673/118673.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.amarokfilms.com.mx/wp-content/uploads/2015/03/cartas-al-cielo-poster.jpg", CARTAS AL CIELO (SUB)
-http://www.spruto.tv/get_file/5/8cec12f20eca7429c55c12f62c6f7a51/116000/116979/116979.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://m1.paperblog.com/i/268/2689833/trailer-un-golpe-talento-million-dollar-arm-e-L-JGdUig.jpeg", UN GOLPE DE TALENTO
-http://www.spruto.tv/get_file/1/33c9ff846b086894fff296005063e462/85000/85864/85864.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://istoreimg.com/upload/big/2014/09/06/5409c70028ac0.jpg", UN DESMADRE DE MADRES
-http://www.spruto.tv/get_file/8/8927506a0be81c88d283929f0bf73c09/120000/120485/120485.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg", Home
-https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!112&authkey=!ABenJqI3IzNanmk&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg", Mad max 2015
-https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!107&authkey=!AEMysKzq6Wemb-U&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg", Poltergeist Latino
-https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!110&authkey=!AICYek9DfCi0oB8&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg", Poltergeist Subtitulada
-https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!108&authkey=!AHiH5DJB8xmyTb8&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg", Amenaza Red
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!135&authkey=!ABC6TrspLhFSq54&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg", Apartamento 5
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.yaske.to/upload/images/b5256ba875f02caba2a7c83e6fa7a101.jpg",RESUCITADOS
-https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.yaske.to/upload/images/4c03b56d1e0fe0f95ab7de3f222fc28a.jpg",Ex-Machina
-https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!176&authkey=!AIRwBJU0o_MhpvQ&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://yaske.net/upload/images/thumb3-bienvenidos_al_ayer-969213792-large-1392945113.jpg", Bienvenidos al Ayer
-https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!174&authkey=!AKAn1h6osTFl6bo&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://1.bp.blogspot.com/_SpC74qbLg-k/TBj5_GJaE8I/AAAAAAAAA80/0XYD9p-2QN0/s1600/EL+CUARTO+CONTACTO.jpg",El Cuarto Contacto
-https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!175&authkey=!AKXyRZbeVHorkbk&ithint=video%2cavi
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.cinemum.net/IMAGES/MOVIES/GNOMEO-AND-JULIET-POSTER.jpg",Gnomeo y Julieta
-http://www.spruto.tv/get_file/7/4aec99b76a012347d0fbffbefa066e3f/78000/78054/78054.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.megawarez.org/wp-content/uploads/2014/11/Guardianes-de-la-Galaxia-poster-cartel-cover-latino.jpg",Guardianes de la galaxia
-http://www.spruto.tv/get_file/2/f816c627e7201fa2276615accd59ca10/89000/89980/89980.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://www.hijos-del-atomo.com/wp-content/uploads/2014/07/Exodus_1Sht_CampD_Span.jpg",Exodo, Dioses y reyes
-http://www.spruto.tv/get_file/2/6341b20b890e1070ba117f6a3d02e5b4/103000/103117/103117.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://static1.squarespace.com/static/53323bb4e4b0cebc6a28ffa2/t/55053f41e4b0595113f1543a/1426407236825/",Infernal
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIepExCIehamN4A&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i.imgur.com/N4TvAtk.jpg",El experimento de la QUIJA 2 sub
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2450&authkey=!AF7G4ZbSdU3D420&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.elseptimoarte.net/carteles/el_jugador_33465.jpg",The Gambler SUBTITULADA
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2454&authkey=!AE2KTz2rJDp70tA&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.impawards.com/2015/posters/survivor.jpg",Survivor
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2449&authkey=!AD1O3Od95uKTY-w&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://1.bp.blogspot.com/-8VsASEw0e_U/VN6s-j3dkFI/AAAAAAABGp4/yuSAwEO2A0g/s1600/We-Are-Still-Here-poster.jpg",We are still Here
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2448&authkey=!APjzTu7GtTz6lsU&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.movie-poster-artwork-finder.com/posters/titanic-poster-artwork-leonardo-dicaprio-kate-winslet-billy-zane.jpg",TITANIC
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1148&authkey=!AJ-o1Hy47aeMgZk&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/7c/35/df/7c35dfe2a932a5dd558ade30986a28ff.jpg",El conjuro
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1147&authkey=!ADRe_Le39Oru38w&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.cosmicbooknews.com/sites/default/files/imagecache/673/wysiwyg_imageupload/1/marvel-avengers-rdj.jpg",Avenger 2 Subtitulada
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1143&authkey=!AMboOQkcc6UMhIM&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.filmtory14.com/wp-content/uploads/2014/04/Austin-Powers-International-Man-of-Mystery-1997.jpg",Austin Power 1
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1142&authkey=!AJtosBGUIqMvVBo&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i2.listal.com/image/120165/936full-austin-powers3A-the-spy-who-shagged-me-poster.jpg",Austin Power 2
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1145&authkey=!ABNcPVtgsvDWSss&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://sunny.fm/wp-content/uploads/2014/01/austin-powers-in-goldmember-movie-poster-1781.jpg",Austin Power 3
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1144&authkey=!ACsWdU4LIGicVuk&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.impawards.com/2014/posters/transcendence_ver11.jpg",Transcendence
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1141&authkey=!AIxkpPC-qxPB_iU&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://gnula.nu/wp-content/uploads/2015/06/The_Vatican_Exorcisms_poster_usa.jpg",Vatican Exorcism
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://revistatoma.files.wordpress.com/2014/06/bm_spanish_online_1sht1.jpg", Birdman
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!128&authkey=!AAwSV_Y3StoXnJo&ithint=file%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://2.bp.blogspot.com/-rsp2BD0xGfI/VOeCKdxxQvI/AAAAAAAAeyc/NccttLBBzqg/s1600/Negocios_Fuera_de_Control_Poster_Latino_JPosters.jpg", Negocios Fuera de Control
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!115&authkey=!AP9bcrKZxPVw2fY&ithint=file%2cmkv
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.filmandtvnow.com/wp-content/uploads/2015/04/ANDRS_1SHT_MAIN_INTL_2764x4096_master.jpg", SAN ANDRES 2015
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2447&authkey=!AMJkVqQNejwk2wc&ithint=video%2cMP4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.mediakali.com/image/cache/data/DVD%20Movies/Brian/Kingsman%20POSTER-150x225.jpg", KINGSMAN EL SERVICIO SECRETO
-https://onedrive.live.com/download.aspx?resid=2007D2A43F96AD1F!573&authkey=!AKUy3JW79sOWB28&ithint=video%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.ropeofsilicon.com/wp-content/uploads/2014/11/chappie-internation-poster.jpg", CHAPIE
-http://www.spruto.tv/get_file/5/c0e48113fc2ef52a45381d909a729b4a/116000/116862/116862.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i0.wp.com/cine3.com/wp-content/uploads/2014/10/dictadura-perfecta-movie-poster.jpg?fit=1030%2C9999", LA DICTADURA PERFECTA
-http://www.spruto.tv/get_file/2/588e561ff46cf4866914b732c8ad294b/105000/105729/105729.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://www.movieposter.com/posters/archive/main/148/MPW-74017", TED
-http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/86752.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.impawards.com/2014/posters/whiplash_ver3_xlg.jpg", WHIPLASH
-http://www.spruto.tv/get_file/2/16128b39ee17c57b4586edf1557cfe8c/103000/103899/103899.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://aquipelis.net/wp-content/uploads/2014/05/30624d1f619ee05abf00-160x230-160x230.jpg", Un desmadre de viaje
-http://www.spruto.tv/get_file/1/710c1bf6d11b4b1a7b3487e204786a01/86000/86444/86444.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://image.uamedia.info/0/67/78/80_0_662270.jpg", Juego Letal
-http://www.spruto.tv/get_file/1/9f880630e6efcf793c81ac19f6b9c630/86000/86643/86643.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://img.aullidos.com/imagenes/caratulas/destino-jupiter-new.JPG", DESTINO JUPITER
-https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.vepeliculas.net/imagenes/mentes-peligrosas.jpg", MENTES PELIGROSAS
-https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i4.mirror.co.uk/incoming/article2691231.ece/ALTERNATES/s615b/robocop-poster.jpg", ROBOCOP 2015
-https://ia800305.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:0 type="stream" , LA 1
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/490.ts
+#EXTINF:0 type="stream" , LA 2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/489.ts
+#EXTINF:0 type="stream" , ANTENA 3
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/545.ts
+#EXTINF:0 type="stream" , Atreseries
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/912.ts
+#EXTINF:0 type="stream" , Cuatro
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/817.ts
+#EXTINF:0 type="stream" , TELECINCO
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/818.ts
+#EXTINF:0 type="stream" , lasexta
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/527.ts
+#EXTINF:0 type="stream" , FDF
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1868.ts
+#EXTINF:0 type="stream" , 7 Region de Murcia
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1007.ts
+#EXTINF:0 type="stream" , Neox
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1002.ts
+#EXTINF:0 type="stream" , Nova
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1003.ts
+#EXTINF:0 type="stream" , ENERGY
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1383.ts
+#EXTINF:0 type="stream" , DIVINITY
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1384.ts
+#EXTINF:0 type="stream" , MTV ES
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1865.ts
+#EXTINF:0 type="stream" , Clan TVE
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1866.ts
+#EXTINF:0 type="stream" , Mega
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/526.ts
+#EXTINF:0 type="stream" , tv3cat
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1376.ts
+#EXTINF:0 type="stream" , Canal Sur Andalusia
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1377.ts
+#EXTINF:0 type="stream" , Canal sur 2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1430.ts
+#EXTINF:0 type="stream" , Telemadrid
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1429.ts
+#EXTINF:0 type="stream" , 8 TV
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1380.ts
+#EXTINF:0 type="stream" , 3 24
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1381.ts
+#EXTINF:0 type="stream" , Canal 40
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1378.ts
+#EXTINF:0 type="stream" , 24 horas
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1389.ts
+#EXTINF:0 type="stream" , intereconomia
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1005.ts
+#EXTINF:0 type="stream" , Canal Costa
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1004.ts
+#EXTINF:0 type="stream" , 13 TV
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1006.ts
+#EXTINF:0 type="stream" , TVG
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/530.ts
+#EXTINF:0 type="stream" , C+Liga
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/534.ts
+#EXTINF:0 type="stream" , Bein La Liga
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1410.ts
+#EXTINF:0 type="stream" , C+ Fútbol
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/535.ts
+#EXTINF:0 type="stream" , C+ Partidazo
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1386.ts
+#EXTINF:0 type="stream" , C+Deportes
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/536.ts
+#EXTINF:0 type="stream" , C+Deportes 2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1817.ts
+#EXTINF:0 type="stream" , Barça TV
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/542.ts
+#EXTINF:0 type="stream" , R. MADRID TV
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/491.ts
+#EXTINF:0 type="stream" , teledeporte
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1379.ts
+#EXTINF:0 type="stream" , Movistar F1
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1246.ts
+#EXTINF:0 type="stream" , Movistar MotoGP
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1247.ts
+#EXTINF:0 type="stream" , Bein Sports
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1302.ts
+#EXTINF:0 type="stream" , C+ GOLF HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1549.ts
+#EXTINF:0 type="stream" , C+ TOROS HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1453.ts
+#EXTINF:0 type="stream" , 0 # HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/815.ts
+#EXTINF:0 type="stream" , C+ Estrenos
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/814.ts
+#EXTINF:0 type="stream" , C+ DCine
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/539.ts
+#EXTINF:0 type="stream" , C+ comedia
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/540.ts
+#EXTINF:0 type="stream" , C+ Acción
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/541.ts
+#EXTINF:0 type="stream" , C+ SERIES HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/532.ts
+#EXTINF:0 type="stream" , M.Series Xtra
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1991.ts
+#EXTINF:0 type="stream" , Hollywood
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/529.ts
+#EXTINF:0 type="stream" , C+ Xtra
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/531.ts
+#EXTINF:0 type="stream" , Fox
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/488.ts
+#EXTINF:0 type="stream" , FOX LIFE HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1108.ts
+#EXTINF:0 type="stream" , Cosmo HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/816.ts
+#EXTINF:0 type="stream" , TNT
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1016.ts
+#EXTINF:0 type="stream" , AMC
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1388.ts
+#EXTINF:0 type="stream" , SYFY HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/487.ts
+#EXTINF:0 type="stream" , Calle 13
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/538.ts
+#EXTINF:0 type="stream" , AXN WHITE HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/543.ts
+#EXTINF:0 type="stream" , AXN HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/544.ts
+#EXTINF:0 type="stream" , TCM HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1819.ts
+#EXTINF:0 type="stream" , Comedy  Central HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1820.ts
+#EXTINF:0 type="stream" , Viajar
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1382.ts
+#EXTINF:0 type="stream" , HISTORIA
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1387.ts
+#EXTINF:0 type="stream" , AyE
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1385.ts
+#EXTINF:0 type="stream" , Nat Geographic
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1109.ts
+#EXTINF:0 type="stream" , NAT GEO WILD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/924.ts
+#EXTINF:0 type="stream" , CAZA Y PESCA
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/981.ts
+#EXTINF:0 type="stream" , Odisea
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/915.ts
+#EXTINF:0 type="stream" , Canal Cocina
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1818.ts
+#EXTINF:0 type="stream" , --------PPV ES---------
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1897.ts
+#EXTINF:0 type="stream" , Taquilla 1
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1896.ts
+#EXTINF:0 type="stream" , Disney Xd SP
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1992.ts
+#EXTINF:0 type="stream" , Disney Channel ES
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1990.ts
+#EXTINF:0 type="stream" , DISNEY JR
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/874.ts
