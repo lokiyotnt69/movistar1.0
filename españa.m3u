@@ -51,3 +51,103 @@ http://149.202.26.88:8000/live/app/channel/15.ts
 
 #EXTINF:-0 group-title="MOPI+SERIES" tvg-logo="Canal+HD.png",Tnt
 http://149.202.26.88:8000/live/app/channel/16.ts
+#EXTINF:-0 group-title="TDT" tvg-logo="euronews.png",euronews
+http://stream-08.vty.dailymotion.com/45/dm/1/x2j7hpf/live.isml/events(live-1474414749)/live-audio=128000-video=1200000.m3u8
+
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Canal+HD.png",La1
+http://176.31.194.243:8000/live/app/channel/17.ts
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Formula 1.png",La 1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+
+
+#EXTINF:-0 group-title="TDT" tvg-logo="La nueve.png",LA 2
+http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="TDP.png",TELEDEPORTE
+http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_1.m3u8
+
+
+#EXTINF:-0 group-title="TDT" tvg-logo="24H.png",24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Antena 3.jpg",ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Antena 3.jpg",ANTENA 3 SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Antena 3.jpg",ANTENA 3 SERIES
+http://videog3-live.hds.adaptive.level3.net/hls-live/video-geoa3series/_definst_/live/stream4.m3u8
+
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Canal+HD.png",Cuatro
+http://176.31.194.243:8000/live/app/channel/18.ts
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Canal+HD.png",Tele5
+http://176.31.194.243:8000/live/app/channel/19.ts
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Telecinco.png",TELECINCO
+http://mediasethls-lh.akamaihd.net/i/telecinco/telecinco_g@393107/index_350_av-p.m3u8
+
+
+
+#EXTINF:-0 group-title="TDT" tvg-logo="La Sexta.jpg",LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="mega.jpg",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Energy.jpg",ENERGY
+http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="divinity.jpg",DIVINITY
+http://mediasethls-lh.akamaihd.net/i/mitele/divinity_g@393139/index_500_av-p.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Bemad.jpg",BE MAD
+http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="Intereconomia.jpg",Intereconomia
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="13 Tv.jpg",13tv
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-0 group-title="TDT" tvg-logo="LD Tv.jpg",VIRAL TV(Antes LD TV)
+http://stream-02.vty.dailymotion.com/09/dm/1/xnm032/live.isml/events(live-1472015098)/live-audio=64000-video=400000.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="telemadrid.jpg",telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="laotra.jpg",laotra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="etb.jpg",etb
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-b.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="etb.jpg",cyltv
+http://cdn.s2.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="rtvcm.jpg",castilla-la mancha TV
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="rtvc.jpg",TV Canaria
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1496603936_b480000_sles.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="andaluciatelevision.jpg",andaluciatelevision
+http://195.10.10.221/rtva/andaluciatelevision-iphone/stream.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="TV3.jpg",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b798000_DVR.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="RTP Asturias.jpg",RTP Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="extremadura tv.jpg",extremadura tv
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live/stream1.m3u8
+
+#EXTINF:-0 group-title="AUTONOMICOS" tvg-logo="ANDALUCIA TV.jpg",ANDALUCIA TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
