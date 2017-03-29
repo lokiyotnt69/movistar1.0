@@ -1,137 +1,220 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1,#0  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/152.m3u8
-#EXTINF:-1,AMC Spain  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2756.m3u8
-#EXTINF:-1,Antena 3  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/971.m3u8
-#EXTINF:-1,AXN  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1601.m3u8
-#EXTINF:-1,Barca TV  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1037.m3u8
-#EXTINF:-1,Bein LaLiga  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1590.m3u8
-#EXTINF:-1,Bein SPORT  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/578.m3u8
-#EXTINF:-1,Boing  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1540.m3u8
-#EXTINF:-1,Calle 13  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1039.m3u8
-#EXTINF:-1,VTV Uruguay  
-http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:16274/chunklist_w885735016_b4000000.m3u8
-#EXTINF:-1,Clan  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1541.m3u8
-#EXTINF:-1,Cuatro  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/153.m3u8
-#EXTINF:-1,VTV Uruguay  
-http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:16274/chunklist_w2135034631_b4000000.m3u8
-#EXTINF:-1,Discovery  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1600.m3u8
-#EXTINF:-1,Disney  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1539.m3u8
-#EXTINF:-1,Disney Junior  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1538.m3u8
-#EXTINF:-1,Disney XD  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1537.m3u8
-#EXTINF:-1,ES-Partidazo  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2757.m3u8
-#EXTINF:-1,Eurosport1  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1596.m3u8
-#EXTINF:-1,FDF  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2754.m3u8
-#EXTINF:-1,Fox    
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1592.m3u8
-#EXTINF:-1,GOL TV  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2753.m3u8
-#EXTINF:-1,Hollywood  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/157.m3u8
-#EXTINF:-1,La1  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/536.m3u8
-#EXTINF:-1,La2  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/537.m3u8
-#EXTINF:-1,la Liga    
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/32.m3u8
-#EXTINF:-1,La sexta  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/970.m3u8
-#EXTINF:-1,M  Accion  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/159.m3u8
-#EXTINF:-1,M Comedia  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/155.m3u8
-#EXTINF:-1,M DCINE  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/156.m3u8
-#EXTINF:-1,M Deportes1  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/34.m3u8
-#EXTINF:-1,M Deportes2  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1591.m3u8
-#EXTINF:-1,Mega  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/925.m3u8
-#EXTINF:-1,M Estrenos  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/31.m3u8
-#EXTINF:-1,M Formula1  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1595.m3u8
-#EXTINF:-1,M Futbol    
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/33.m3u8
-#EXTINF:-1,M Golf  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1598.m3u8
-#EXTINF:-1,M MotoGP  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1594.m3u8
-#EXTINF:-1,M Serie  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/35.m3u8
-#EXTINF:-1,Nat geo  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/558.m3u8
-#EXTINF:-1,Nat Geo Wild  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2755.m3u8
-#EXTINF:-1,Neox  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/930.m3u8
-#EXTINF:-1,Nickelodeon  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1536.m3u8
-#EXTINF:-1,Nova  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/924.m3u8
-#EXTINF:-1,Odisea  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/154.m3u8
-#EXTINF:-1,Real Madrid TV  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1038.m3u8
-#EXTINF:-1,Syfy  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/929.m3u8
-#EXTINF:-1,Taquilla1  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1706.m3u8
-#EXTINF:-1 ,Taquilla2  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1589.m3u8
-#EXTINF:-1,Taquilla3  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1584.m3u8
-#EXTINF:-1,Taquilla4  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1503.m3u8
-#EXTINF:-1,Taquilla5  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1502.m3u8
-#EXTINF:-1,Tele5  
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/36.m3u8
-#EXTINF:0,CANAL DEPORTES HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/469.ts
-#EXTINF:1,Gol Tv
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/466.ts
-#EXTINF:0,FOX SPORTS 2
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/473.ts
-#EXTINF:1,CANAL LIGA HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/468.ts
-#EXTINF:0,CANAL GOLF HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/470.ts
-#EXTINF:0,CANAL DEPORTES HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/471.ts
-#EXTINF:0,CANAL 1
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/482.ts
-#EXTINF:0,Calle 13
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/467.ts
-#EXTINF:0,DISCOVERY HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/484.ts
-
-
-
-
-
+#EXTINF:-1,UNIVISION
+http://iphone-streaming.ustream.tv/uhls/22534666/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1,AMERICA HD
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/1.m3u8
+#EXTINF:-1,Music Top HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Telesistema Canal 11
+http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
+#EXTINF:-1,Tele Antillas
+http://mek6.mekstream.com/teleantillas/live/chunklist_w1172948980.m3u8
+#EXTINF:-1,Telemax HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1,La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1,Canal Uno (Colombia)
+http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_p1500000.m3u8
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1,TyC Sports HD
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
+#EXTINF:-1,DMAX
+http://cdn3.elitegol.xyz/verliga/27/chunks.m3u8
+#EXTINF:-1,Rtv
+http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NIU
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,Multivision
+http://170.55.15.122:8000/play/a022
+#EXTINF:-1,Canal Capital
+http://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?&dnt=true
+#EXTINF:-1,VITATO TV
+http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Vitato Series
+http://iphone-streaming.ustream.tv/uhls/22671982/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NatGeo Wild España
+http://cdn3.elitegol.xyz/verliga/13/chunks.m3u8
+#EXTINF:-1,Movistar + Estrenos
+http://cdn3.elitegol.xyz/verliga/3/chunks.m3u8
+#EXTINF:-1,ufc(señal de pruebas)
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8
+#EXTINF:-1,Movistar + Comedia
+http://cdn3.elitegol.xyz/verliga/4/chunks.m3u8
+#EXTINF:-1,Movistar + Accion
+http://cdn3.elitegol.xyz/verliga/5/chunks.m3u8
+#EXTINF:-1,RCN (opc2)
+http://cdn3.elitegol.xyz/verliga/14/playlist.m3u8
+#EXTINF:-1,Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,CDF CHILE
+http://cdfhd-i.akamaihd.net/hls/live/259541/one/playlist_720.m3u8
+#EXTINF:-1,win sport colombia
+http://cdn1.elitegol.xyz/verliga/35/chunks.m3u8?
+#EXTINF:-1,CINEMAX LatinoAmerica
+http://cdn2.elitegol.xyz/verliga/20/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE3IDg6MzE6MDYgQU0maGFzaF92YWx1ZT1udnZXTU40Y2YrVmVXN3ZaK1RZTXJRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1,Axn España
+http://cdn2.elitegol.xyz/verliga/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE3IDg6MzM6MzMgQU0maGFzaF92YWx1ZT1OOTdXVUp4V2pEUEw2ZFc0c1lkZTZRPT0mdmFsaWRtaW51dGVzPTEw|User-Agent=iPad
+#EXTINF:-1,Caracol HD
+http://mdstrm.com/live-stream-playlist/582f4f6f246da2e008eda56d.m3u8
+#EXTINF:-1,Azteca noticias (TDT)
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:-1,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1,CUBAVISION
+http://170.55.15.122:8000/play/a01y
+#EXTINF:-1,DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+#EXTINF:-1,Fox hd (España)
+http://cdn3.elitegol.xyz/verliga/17/chunks.m3u8
+#EXTINF:-1,Gol tv
+http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1,Music Choice (Hip-Hop And R&B)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8
+#EXTINF:-1,Music Choice (Hit List)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
+#EXTINF:-1,Music Choice (Hit List)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
+#EXTINF:-1,Music Choice (Indie)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
+#EXTINF:-1,Music Choice (Metal)
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
+#EXTINF:-1,Music Choice (Pop Hits)
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
+#EXTINF:-1,Music Choice (R&B Soul)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
+#EXTINF:-1,Music Choice (Rock)
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
+#EXTINF:-1,Music Choice (Teen Beats)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
+#EXTINF:-1,Music Choice (Regional Mexicana)
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
+#EXTINF:-1,Music Choice (Musica Urbana)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
+#EXTINF:-1,Music Choice (Pop Latino)
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
+#EXTINF:-1,Music Choice (Tropicales)
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
+#EXTINF:-1,Music Choice (Kidz Only!)
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
+#EXTINF:-1,Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Rusia Today en Español
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1,TV Red Chile
+http://69.164.193.177:1935/live/myStream/chunklist.m3u8?wowzasessionid=2143164950
+#EXTINF:-1,Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,VTV2 CHILE
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1,A&E
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/ebdc67b274d0057855094b5536060efd686fb395/81.m3u8
+#EXTINF:-1,Distrito Comedia
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/cae9daab33347170b80920f034b5996b265da84b/224.m3u8
+#EXTINF:-1,Fox
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/c0a04a28e083b31f6917e4d42aeabdd839b81dda/228.m3u8
+#EXTINF:-1,Fox Life
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/65a86e1b661f476d0ca46cd9bd07c70b1d1a2a68/229.m3u8
+#EXTINF:-1,FX
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/6d235c3aa73f682972b1ccf4060941a5aa5c1fc5/230.m3u8
+#EXTINF:-1,MTV
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/a5bcfadd1a1dd23bf27a6888fbf81675466e6a83/285.m3u8
+#EXTINF:-1,Sony
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/977993eaca3ab8e52e3bff2f326523a345a76f56/1387.m3u8
+#EXTINF:-1,Syfy
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/94100f36debe949721f5eea3fc42e3090c11f4d9/240.m3u8
+#EXTINF:-1,tlnovelas
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/e4a6d5228b0941608bfc4f63e2712de26a8f1364/244.m3u8
+#EXTINF:-1,TNT Series
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/4f74f8d3d683f4718333af2b4d9d856d301f6161/117.m3u8
+#EXTINF:-1,Warner Bros
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/b84282ce2f405a615d039dd8baea076266cb60c1/251.m3u8
+#EXTINF:-1,Boomerang
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/75aa3d330bb234227283e0326fdcbbfcc5179c2e/122.m3u8
+#EXTINF:-1,Cartoon Network
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/36230c704845a0244dfa55c8ca56c660f3441f5b/123.m3u8
+#EXTINF:-1,Cbeibes
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/03c786dd77ef2ef066ddd2e80d334235ddf1f665/124.m3u8
+#EXTINF:-1,Discovery Kids
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/fcecb9f1b5c965c8f693bcaa56475b470022f763/125.m3u8
+#EXTINF:-1,Disney Channel
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/2ef6531969950629dffa3b2f5d1282c4f14e9c56/557.m3u8
+#EXTINF:-1,Disney JR
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/feece443ceafccdc587a07ebf0450a2eecc22f01/1383.m3u8
+#EXTINF:-1,Disney XD
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/ab942d29ae3eba7118d3234beede98ef9d57f839/127.m3u8
+#EXTINF:-1,Nick
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/f83468eddb12800021497d40a68523ae534836fe/129.m3u8
+#EXTINF:-1,Nick2
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/e51f132c196c1fdf8e92b5875f254add65e57e16/1384.m3u8
+#EXTINF:-1,Nick JR
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/5217c846b2630ac364e5dd3920ed860beaa3c039/130.m3u8
+#EXTINF:-1,Nicktoons
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/c346db20379a53d1342b0bf57a2debbebff5e305/1398.m3u8
+#EXTINF:-1,Tiin
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/6437a589d602174bbcc5b0ab76bbe9a3b9cbc8d0/1385.m3u8
+#EXTINF:-1,Tooncast
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/65c2cf2e7cb1f52895e2f1af55a05af6b49a232b/1386.m3u8
+#EXTINF:-1,Espn Mexico
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/75fb451ddf7119a576832636d9f7db3e61762491/942.m3u8
+#EXTINF:-1,Espn 2 Mexico
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/f82b2ab406253551543295348380a23a46b160c9/267.m3u8
+#EXTINF:-1,Espn 3 Mexico
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/e75bf692e069acbe99c229f91bbaffe0350a7214/268.m3u8
+#EXTINF:-1,Fox Sports Mexico
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/0d2cd41a2e884206bbb9ce146d39d565089874c2/269.m3u8
+#EXTINF:-1,Fox Sports 2 Mexico
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/6e85dc6fc2549dc4730003514cbc45bc0dea61e0/270.m3u8
+#EXTINF:-1,Animal Planet
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/6240dbe615aef525b8f099f321f3a5c9cb4520b5/263.m3u8
+#EXTINF:-1,Discovery Channel
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/6622afecd2ce353c472df0a9a71de0e416594b1b/941.m3u8
+#EXTINF:-1,Discovery Theater
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/fce6ade70842414c09bf49165c9fe943c87e8e59/257.m3u8
+#EXTINF:-1,Discovery Turbo
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/7c6eff65b126c0a948941fa200a06bbe91dc1f45/1394.m3u8
+#EXTINF:-1,Discovery World
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/d32effe7491abe02be1c07c2aaf7d6b5fbf2d631/265.m3u8
+#EXTINF:-1,History Channel
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/40048bc64c5ad52e273daa8d91e875775fdb795e/260.m3u8
+#EXTINF:-1,NatGeo
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/bfdf8bd0d7c285eb69f617113329d56690880553/261.m3u8
+ 
+#EXTINF:-1,NatGeo Wild
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/4a003ea808d0ea9a3c6a4ca39ea753b65816785f/262.m3u8
+#EXTINF:-1,AMC
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/fcca469d7ffd539fc48daf723af60f202a18094f/83.m3u8
+#EXTINF:-1,AXN
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/e0725592944d512fcdcf845b9af43d4535cad08d/82.m3u8
+#EXTINF:-1,Cinecanal
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/524b712686a24bf446c9fe82f745a4db3b788631/85.m3u8
+#EXTINF:-1,De Pelicula
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/192061123a4181db1a5f343bca6b3104e3599737/87.m3u8
+#EXTINF:-1,Fox1
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/68b97f866e86c7c29da9ab103ef9c71eefc3e4ce/89.m3u8
+#EXTINF:-1,Golden HD
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/c209c435bd318e95dd33e0cce59ff630d6b683f4/97.m3u8
+#EXTINF:-1,Golden Edge
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/64113ff5d8b6db70dad922d1171f2dacff7ca17f/98.m3u8
+#EXTINF:-1,Isat
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/51259f9346df2c5f99deebc517fdd335846b24fd/107.m3u8
+#EXTINF:-1,Space
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/d70c4241b72b11b638784d9b35a511e49855f14c/115.m3u8
+#EXTINF:-1,TNT
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/370ee5cb974f1a4d02e086e61978b1447902b680/116.m3u8
+#EXTINF:-1,Universal Channel
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/506dfa4b2295070e7866058c8a5ce0edcc26fa3f/7075a1cfe1ba019f7d2b381460b27d16516f1794/250.m3u8
+RAW Paste Data
 
 
 #EXTINF:-1 tvg-logo="http://puu.sh/reNQW/00bf0aa6a6.png", Fox
