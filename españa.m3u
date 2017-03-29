@@ -1,6 +1,114 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1,#0  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/152.m3u8
+#EXTINF:-1,AMC Spain  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2756.m3u8
+#EXTINF:-1,Antena 3  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/971.m3u8
+#EXTINF:-1,AXN  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1601.m3u8
+#EXTINF:-1,Barca TV  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1037.m3u8
+#EXTINF:-1,Bein LaLiga  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1590.m3u8
+#EXTINF:-1,Bein SPORT  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/578.m3u8
+#EXTINF:-1,Boing  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1540.m3u8
+#EXTINF:-1,Calle 13  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1039.m3u8
+#EXTINF:-1,VTV Uruguay  
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:16274/chunklist_w885735016_b4000000.m3u8
+#EXTINF:-1,Clan  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1541.m3u8
+#EXTINF:-1,Cuatro  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/153.m3u8
+#EXTINF:-1,VTV Uruguay  
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:16274/chunklist_w2135034631_b4000000.m3u8
+#EXTINF:-1,Discovery  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1600.m3u8
+#EXTINF:-1,Disney  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1539.m3u8
+#EXTINF:-1,Disney Junior  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1538.m3u8
+#EXTINF:-1,Disney XD  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1537.m3u8
+#EXTINF:-1,ES-Partidazo  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2757.m3u8
+#EXTINF:-1,Eurosport1  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1596.m3u8
+#EXTINF:-1,FDF  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2754.m3u8
+#EXTINF:-1,Fox    
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1592.m3u8
+#EXTINF:-1,GOL TV  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2753.m3u8
+#EXTINF:-1,Hollywood  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/157.m3u8
+#EXTINF:-1,La1  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/536.m3u8
+#EXTINF:-1,La2  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/537.m3u8
+#EXTINF:-1,la Liga    
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/32.m3u8
+#EXTINF:-1,La sexta  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/970.m3u8
+#EXTINF:-1,M  Accion  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/159.m3u8
+#EXTINF:-1,M Comedia  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/155.m3u8
+#EXTINF:-1,M DCINE  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/156.m3u8
+#EXTINF:-1,M Deportes1  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/34.m3u8
+#EXTINF:-1,M Deportes2  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1591.m3u8
+#EXTINF:-1,Mega  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/925.m3u8
+#EXTINF:-1,M Estrenos  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/31.m3u8
+#EXTINF:-1,M Formula1  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1595.m3u8
+#EXTINF:-1,M Futbol    
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/33.m3u8
+#EXTINF:-1,M Golf  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1598.m3u8
+#EXTINF:-1,M MotoGP  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1594.m3u8
+#EXTINF:-1,M Serie  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/35.m3u8
+#EXTINF:-1,Nat geo  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/558.m3u8
+#EXTINF:-1,Nat Geo Wild  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2755.m3u8
+#EXTINF:-1,Neox  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/930.m3u8
+#EXTINF:-1,Nickelodeon  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1536.m3u8
+#EXTINF:-1,Nova  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/924.m3u8
+#EXTINF:-1,Odisea  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/154.m3u8
+#EXTINF:-1,Real Madrid TV  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1038.m3u8
+#EXTINF:-1,Syfy  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/929.m3u8
+#EXTINF:-1,Taquilla1  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1706.m3u8
+#EXTINF:-1 ,Taquilla2  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1589.m3u8
+#EXTINF:-1,Taquilla3  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1584.m3u8
+#EXTINF:-1,Taquilla4  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1503.m3u8
+#EXTINF:-1,Taquilla5  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1502.m3u8
+#EXTINF:-1,Tele5  
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/36.m3u8
 #EXTINF:0,CANAL DEPORTES HD
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/469.ts
 #EXTINF:1,Gol Tv
