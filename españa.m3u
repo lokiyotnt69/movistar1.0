@@ -1,372 +1,85 @@
 #EXTM3U
 
 
+#EXTINF:-1, FOX
+http://edge3.livesports.pw/live/verfoxespana247756767558f/index.m3u8
+ 
+#EXTINF:-1, AXN
+http://edge10.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+ 
+#EXTINF:-1, TNT
+http://edge10.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+#EXTINF:-1, CALLE 13 UNIVERSAL
+http://edge10.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+#EXTINF:-1, TV 1
+http://edge1.livesports.pw/live/vertv1telefive432f9be3797/index.m3u8
+#EXTINF:-1, Tv 2
+http://edge1.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+#EXTINF:-1, Antena 3
+http://edge3.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
+#EXTINF:-1, Antena 3 series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, La 4
+http://edge1.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+#EXTINF:-1, Tele 5
+http://edge2.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+#EXTINF:-1, La sexta
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8
+#EXTINF:-1, Movistar 0
+http://edge3.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+#EXTINF:-1, Movistar series
+http://edge2.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTINF:-1, Movistar series extra
+http://edge2.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+#EXTINF:-1, comedia central
+http://edge1.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+#EXTINF:-1, Cosmo
+http://edge1.livesports.pw/live/vercosmos250d386e5f510f45/index.m3u8
+#EXTINF:-1, AMC
+http://edge11.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+#EXTINF:-1, Mtv
+http://edge11.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8
+#EXTINF:-1, Fdf
+http://cdn1.verliga.pw/live/fdf/index.m3u8
+#EXTINF:-1, neox
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/neox_bw2srx2/chunklist.m3u8?st=pdBLsvMMSu65k7LAyWl_SA&e=1490599564
+#EXTINF:-1, Energy
+http://edge2.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
+#EXTINF:-1, Movistar estrenos
+http://edge11.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+#EXTINF:-1, Movistar accion
+http://edge10.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+#EXTINF:-1, Movistar comedia
+http://edge2.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+#EXTINF:-1, Movistar de cine
+http://edge3.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+#EXTINF:-1, Movistar cine ñ
+http://edge2.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8
+#EXTINF:-1, Tcm
+http://edge3.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
+#EXTINF:-1, 13 tv
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:-1, Discovery max
+http://cdn1.elitegol.xyz/verliga/27/index.m3u8
+#EXTINF:-1, Crimen+investigacion
+http://edge10.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+#EXTINF:-1, Divinity
+http://edge11.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+#EXTINF:-1, Nova
+http://edge11.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+#EXTINF:-1, Mega
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Baby tv
+http://edge10.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
+#EXTINF:-1, Movistar futbol
+http://edge3.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+#EXTINF:-1, bein sport
+http://edge1.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="==== DEPORTES [ES] ====" tvg-logo="" group-title="=== DEPORTES [ES] ===",==== DEPORTES [ES] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15716.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="UFC Network [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",UFC Network [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15715.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="UFC Network" tvg-logo="" group-title="=== DEPORTES [ES] ===",UFC Network
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15714.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS en espanol [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",beIN SPORTS en espanol [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15713.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS en espanol" tvg-logo="" group-title="=== DEPORTES [ES] ===",beIN SPORTS en espanol
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15712.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bein LaLiga" tvg-logo="" group-title="=== DEPORTES [ES] ===",Bein LaLiga
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15711.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DirecTV Sports" tvg-logo="" group-title="=== DEPORTES [ES] ===",DirecTV Sports
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15710.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DirecTV Sports 2" tvg-logo="" group-title="=== DEPORTES [ES] ===",DirecTV Sports 2
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15709.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CNT Sport (Ecuador)" tvg-logo="" group-title="=== DEPORTES [ES] ===",CNT Sport (Ecuador)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15708.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Univision Deportes [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Univision Deportes [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15707.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Univision Deportes" tvg-logo="" group-title="=== DEPORTES [ES] ===",Univision Deportes
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15706.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Univision TDN" tvg-logo="" group-title="=== DEPORTES [ES] ===",Univision TDN
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15705.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TDN HD" tvg-logo="" group-title="=== DEPORTES [ES] ===",TDN HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15704.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Chivas TV [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Chivas TV [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15703.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN Deportes [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN Deportes [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15702.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN + [HQ]" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN + [HQ]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15701.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN [HQ]" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN [HQ]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15700.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15699.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN2 [HQ]" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN2 [HQ]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15698.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN 2
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15697.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 [HQ]" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN 3 [HQ]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15696.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN 3
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15695.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PXtv [HQ]" tvg-logo="" group-title="=== DEPORTES [ES] ===",PXtv [HQ]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15694.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AyM Sports [HQ]" tvg-logo="" group-title="=== DEPORTES [ES] ===",AyM Sports [HQ]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15693.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Golf Channel" tvg-logo="" group-title="=== DEPORTES [ES] ===",Golf Channel
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15692.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBC Universo HD" tvg-logo="" group-title="=== DEPORTES [ES] ===",NBC Universo HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15691.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Claro Sports" tvg-logo="" group-title="=== DEPORTES [ES] ===",Claro Sports
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15690.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Deportes [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",FOX Deportes [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15688.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15687.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15686.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports 2 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15685.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports 2
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15684.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3 [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports 3 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15683.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports 3
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15682.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== DEPORTES [CHILE] ====" tvg-logo="" group-title="=== DEPORTES [ES] ===",==== DEPORTES [CHILE] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15681.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Premium [HD] (Chile)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports Premium [HD] (Chile)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15680.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports [HD] (Chile)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports [HD] (Chile)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15679.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports (Chile)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports (Chile)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15678.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CDF Estadio [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",CDF Estadio [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15677.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CDF Premium" tvg-logo="" group-title="=== DEPORTES [ES] ===",CDF Premium
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15676.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CDO Premium" tvg-logo="" group-title="=== DEPORTES [ES] ===",CDO Premium
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15675.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== DEPORTES [ARGENTINA] ====" tvg-logo="" group-title="=== DEPORTES [ES] ===",==== DEPORTES [ARGENTINA] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15674.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports [HD] (Argentina)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports [HD] (Argentina)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15673.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports (Argentina)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports (Argentina)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15672.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 [HD] (Argentina)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports 2 [HD] (Argentina)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15671.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 (Argentina)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports 2 (Argentina)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15670.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3 (Argentina)" tvg-logo="" group-title="=== DEPORTES [ES] ===",Fox Sports 3 (Argentina)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15669.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN (Argentina)" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN (Argentina)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15668.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 (Argentina)" tvg-logo="" group-title="=== DEPORTES [ES] ===",ESPN 2 (Argentina)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15667.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TyC Sports [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",TyC Sports [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15666.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TyC Sports" tvg-logo="" group-title="=== DEPORTES [ES] ===",TyC Sports
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15665.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DXTV" tvg-logo="" group-title="=== DEPORTES [ES] ===",DXTV
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15664.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== DEPORTES [BRASIL] ====" tvg-logo="" group-title="=== DEPORTES [ES] ===",==== DEPORTES [BRASIL] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15663.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS [HD] (Brasil)" tvg-logo="" group-title="=== DEPORTES [ES] ===",FOX SPORTS [HD] (Brasil)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15662.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 [HD] (Brasil)" tvg-logo="" group-title="=== DEPORTES [ES] ===",FOX SPORTS 2 [HD] (Brasil)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15661.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== DEPORTES [ESPANA] ====" tvg-logo="" group-title="=== DEPORTES [ES] ===",==== DEPORTES [ESPANA] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15660.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="La Liga TV" tvg-logo="" group-title="=== DEPORTES [ES] ===",La Liga TV
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15659.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS" tvg-logo="" group-title="=== DEPORTES [ES] ===",beIN SPORTS
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15658.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Movistar+ Futbol" tvg-logo="" group-title="=== DEPORTES [ES] ===",Movistar+ Futbol
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15657.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Movistar+ Deportes" tvg-logo="" group-title="=== DEPORTES [ES] ===",Movistar+ Deportes
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15656.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Movistar+ Deportes2" tvg-logo="" group-title="=== DEPORTES [ES] ===",Movistar+ Deportes2
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15655.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Barca TV" tvg-logo="" group-title="=== DEPORTES [ES] ===",Barca TV
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15654.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="=== DEPORTES [ES] ===",Real Madrid TV
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15653.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Teledeporte" tvg-logo="" group-title="=== DEPORTES [ES] ===",Teledeporte
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15652.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Movistar+  F1 [HQ]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Movistar+  F1 [HQ]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15651.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== DEPORTES [URUGUAY] ====" tvg-logo="" group-title="=== DEPORTES [ES] ===",==== DEPORTES [URUGUAY] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15650.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="VTV [HD] (Uruguay)" tvg-logo="" group-title="=== DEPORTES [ES] ===",VTV [HD] (Uruguay)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15649.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="VTV (Uruguay)" tvg-logo="" group-title="=== DEPORTES [ES] ===",VTV (Uruguay)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15648.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="VTV Plus (Uruguay)" tvg-logo="" group-title="=== DEPORTES [ES] ===",VTV Plus (Uruguay)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15647.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== DEPORTES [SUR] ====" tvg-logo="" group-title="=== DEPORTES [ES] ===",==== DEPORTES [SUR] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15646.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Gol TV" tvg-logo="" group-title="=== DEPORTES [ES] ===",Gol TV
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15644.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Gol TV [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Gol TV [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15645.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CMD PERU" tvg-logo="" group-title="=== DEPORTES [ES] ===",CMD PERU
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15643.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="WinSports" tvg-logo="" group-title="=== DEPORTES [ES] ===",WinSports
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15642.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CDN SportsMax" tvg-logo="" group-title="=== DEPORTES [ES] ===",CDN SportsMax
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15641.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Šport TV 1 [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Šport TV 1 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15640.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Šport TV 2 [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Šport TV 2 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15639.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Šport TV 3 [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Šport TV 3 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15638.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Šport TV 4 [HD]" tvg-logo="" group-title="=== DEPORTES [ES] ===",Šport TV 4 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15637.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== SPORTS [EN] ====" tvg-logo="" group-title="=== SPORTS [EN] ===",==== SPORTS [EN] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15857.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",beIN SPORTS [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16388.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN  SPORTS" tvg-logo="" group-title="=== SPORTS [EN] ===",beIN  SPORTS
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16389.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BoxNation" tvg-logo="" group-title="=== SPORTS [EN] ===",BoxNation
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16387.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fight Network [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Fight Network [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16386.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fight Network" tvg-logo="" group-title="=== SPORTS [EN] ===",Fight Network
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16385.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MMA TV" tvg-logo="" group-title="=== SPORTS [EN] ===",MMA TV
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16384.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AXS TV" tvg-logo="" group-title="=== SPORTS [EN] ===",AXS TV
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16383.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="WWE [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",WWE [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16382.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="WWE" tvg-logo="" group-title="=== SPORTS [EN] ===",WWE
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16379.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="wapa2 HD DEPORTES" tvg-logo="" group-title="=== SPORTS [EN] ===",wapa2 HD DEPORTES
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16378.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MLB Network [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",MLB Network [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16377.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MLB Network" tvg-logo="" group-title="=== SPORTS [EN] ===",MLB Network
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16376.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NFL Network [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",NFL Network [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16375.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NFL Network" tvg-logo="" group-title="=== SPORTS [EN] ===",NFL Network
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16373.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBC Sports Alternate [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",NBC Sports Alternate [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16372.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CBS Sports Network [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",CBS Sports Network [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16370.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Spectrum Deportes" tvg-logo="" group-title="=== SPORTS [EN] ===",Spectrum Deportes
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16368.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPNews [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",ESPNews [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16367.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN Classic Sports" tvg-logo="" group-title="=== SPORTS [EN] ===",ESPN Classic Sports
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16365.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",ESPN [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16364.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 Alt. HD Ch.-2 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",ESPN 2 Alt. HD Ch.-2 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16361.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ESPNU [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",ESPNU [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16358.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport / ESPN" tvg-logo="" group-title="=== SPORTS [EN] ===",BT Sport / ESPN
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16355.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",BT Sport 1 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16353.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",BT Sport 2 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16352.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sports 3 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",BT Sports 3 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16350.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Mix" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky Sports Mix
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16348.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky Sports News [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16329.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 1 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky Sports 1 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16347.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 2 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky Sports 2 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16344.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 3 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky Sports 3 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16341.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 4 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky Sports 4 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16338.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 5 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky Sports 5 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16335.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky sports F1 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky sports F1 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16333.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sky sports F1" tvg-logo="" group-title="=== SPORTS [EN] ===",Sky sports F1
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16330.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Golf Channel [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Golf Channel [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16327.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Tennis Channel [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Tennis Channel [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16325.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="World Fishing Network" tvg-logo="" group-title="=== SPORTS [EN] ===",World Fishing Network
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16322.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="HLN us" tvg-logo="" group-title="=== SPORTS [EN] ===",HLN us
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16321.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NHL NETWORK" tvg-logo="" group-title="=== SPORTS [EN] ===",NHL NETWORK
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16320.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1 [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Eurosport 1 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16319.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="" group-title="=== SPORTS [EN] ===",Eurosport 2
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16317.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="At The Races" tvg-logo="" group-title="=== SPORTS [EN] ===",At The Races
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16316.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Premier Sports" tvg-logo="" group-title="=== SPORTS [EN] ===",Premier Sports
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16315.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Yankee Ent. & Sports (YES)" tvg-logo="" group-title="=== SPORTS [EN] ===",Yankee Ent. & Sports (YES)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16314.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Comcast SportsNet Washigton" tvg-logo="" group-title="=== SPORTS [EN] ===",Comcast SportsNet Washigton
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16313.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Comcast SportsNet Chicago" tvg-logo="" group-title="=== SPORTS [EN] ===",Comcast SportsNet Chicago
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16312.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Comcast SportsNet Boston" tvg-logo="" group-title="=== SPORTS [EN] ===",Comcast SportsNet Boston
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16311.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NESN" tvg-logo="" group-title="=== SPORTS [EN] ===",NESN
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16310.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SportsNet New York" tvg-logo="" group-title="=== SPORTS [EN] ===",SportsNet New York
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16309.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports Net [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sports Net [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16302.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports Net HD" tvg-logo="" group-title="=== SPORTS [EN] ===",Sports Net HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16308.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports Net One [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sports Net One [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16304.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports Net One" tvg-logo="" group-title="=== SPORTS [EN] ===",Sports Net One
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16306.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports Net Ontario [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sports Net Ontario [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16305.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sports Net Ontario" tvg-logo="" group-title="=== SPORTS [EN] ===",Sports Net Ontario
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16307.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sportsnet World [HD]" tvg-logo="" group-title="=== SPORTS [EN] ===",Sportsnet World [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16301.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sportsnet World" tvg-logo="" group-title="=== SPORTS [EN] ===",Sportsnet World
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16300.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN HD" tvg-logo="" group-title="=== SPORTS [EN] ===",TSN HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16294.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN" tvg-logo="" group-title="=== SPORTS [EN] ===",TSN
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16293.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN1" tvg-logo="" group-title="=== SPORTS [EN] ===",TSN1
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16295.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN2" tvg-logo="" group-title="=== SPORTS [EN] ===",TSN2
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16296.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN3" tvg-logo="" group-title="=== SPORTS [EN] ===",TSN3
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16297.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN4" tvg-logo="" group-title="=== SPORTS [EN] ===",TSN4
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16298.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN5" tvg-logo="" group-title="=== SPORTS [EN] ===",TSN5
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16299.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Willow Cricket" tvg-logo="" group-title="=== SPORTS [EN] ===",Willow Cricket
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/16303.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== NBA / PACK [EN] ====" tvg-logo="" group-title="=== NBA PACK [EN] ===",==== NBA / PACK [EN] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15871.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA TV [HD]" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA TV [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15870.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA PASS 1 [HD]" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA PASS 1 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15869.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA PASS 2 [HD]" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA PASS 2 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15868.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA PASS 3 [HD]" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA PASS 3 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15867.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA PASS 4 [HD]" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA PASS 4 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15866.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA PASS 5 [HD]" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA PASS 5 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15865.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA PASS 6 [HD]" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA PASS 6 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15864.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA GAME 1HD" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA GAME 1HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15863.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA GAME 2HD" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA GAME 2HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15862.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA GAME 3HD" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA GAME 3HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15861.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA GAME 4HD" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA GAME 4HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15860.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA GAME 5HD" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA GAME 5HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15859.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBA GAME 6HD" tvg-logo="" group-title="=== NBA PACK [EN] ===",NBA GAME 6HD
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15858.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="==== FS / PACK [EN] ====" tvg-logo="" group-title="=== FS PACK [EN] ===",==== FS / PACK [EN] ====
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15893.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 1" tvg-logo="" group-title="=== FS PACK [EN] ===",FOX SPORT 1
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15890.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" tvg-logo="" group-title="=== FS PACK [EN] ===",FOX SPORT 2
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15888.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 1 [HD]" tvg-logo="" group-title="=== FS PACK [EN] ===",FOX Sports 1 [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15892.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 1 [HD]*" tvg-logo="" group-title="=== FS PACK [EN] ===",FOX Sports 1 [HD]*
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15891.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 [HD]*" tvg-logo="" group-title="=== FS PACK [EN] ===",FOX Sports 2 [HD]*
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15889.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 [HD] ~" tvg-logo="" group-title="=== FS PACK [EN] ===",FOX Sports 2 [HD] ~
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15894.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Southeast" tvg-logo="" group-title="=== FS PACK [EN] ===",Fox Sports Southeast
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15883.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Southeast [HD]" tvg-logo="" group-title="=== FS PACK [EN] ===",Fox Sports Southeast [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15884.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Southwest [HD]" tvg-logo="" group-title="=== FS PACK [EN] ===",Fox Sports Southwest [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15882.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Sun" tvg-logo="" group-title="=== FS PACK [EN] ===",Fox Sports Sun
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15886.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Sun [HD]" tvg-logo="" group-title="=== FS PACK [EN] ===",Fox Sports Sun [HD]
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15887.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Prime Ticket" tvg-logo="" group-title="=== FS PACK [EN] ===",Prime Ticket
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15879.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS Arizona" tvg-logo="" group-title="=== FS PACK [EN] ===",FS Arizona
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15877.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS Carolinas (Alternate)" tvg-logo="" group-title="=== FS PACK [EN] ===",FS Carolinas (Alternate)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15880.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS Cincinnati" tvg-logo="" group-title="=== FS PACK [EN] ===",FS Cincinnati
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15874.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS Detroit" tvg-logo="" group-title="=== FS PACK [EN] ===",FS Detroit
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15875.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS Florida" tvg-logo="" group-title="=== FS PACK [EN] ===",FS Florida
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15878.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS New Orleans (Alternate)" tvg-logo="" group-title="=== FS PACK [EN] ===",FS New Orleans (Alternate)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15873.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS North" tvg-logo="" group-title="=== FS PACK [EN] ===",FS North
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15881.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS Ohio" tvg-logo="" group-title="=== FS PACK [EN] ===",FS Ohio
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15872.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS San Diego Alt. (Alternate)" tvg-logo="" group-title="=== FS PACK [EN] ===",FS San Diego Alt. (Alternate)
-http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15876.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FS West" tvg-logo="" group-title="=== FS PACK [EN] ===",FS West
+
+
+
+
 http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15885.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="█░24/7░█░SERIES░█" tvg-logo="" group-title="24/7 SERIES & MOVIES",█░24/7░█░SERIES░█
 http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/13063.m3u8
@@ -468,6 +181,10 @@ http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/13055.m3u8
 http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/13059.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RTU Noticias (rtunoticias)" tvg-logo="" group-title="24/7 SERIES & MOVIES",RTU Noticias (rtunoticias)
 http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/13054.m3u8
+
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="█░24/7░█░ENG░█" tvg-logo="" group-title="24/7 SERIES & MOVIES",█░24/7░█░ENG░█
 http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/13067.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ENG TV Show (improv_comedy2)" tvg-logo="" group-title="24/7 SERIES & MOVIES",ENG TV Show (improv_comedy2)
