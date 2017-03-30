@@ -1,6 +1,201 @@
 #EXTM3U
 
 
+
+
+######## Músicas ########
+ 
+#EXTINF:-1 tvg-logo="https://pixabay.com/static/uploads/photo/2016/01/09/08/07/book-1129923_960_720.png" group-title="MUSICA",### MUSICA ###
+http://127.0.0.1
+ 
+#EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2016/01/multi-show.jpg" group-title="MUSICA",Multishow
+rtmp://79.124.59.218/liveedge playpath=ch68-1 swfUrl=http://livecast.cc/live/js/jw5/player.swf?IGOR_RANGEL pageUrl=http://livecast.cc/ timeout=15 token=f2384139d80c71e8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1769365573/image.jpg" group-title="MUSICA", Hot Music
+http://wow01.105.net/live/rmc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-mH2Z-IkAjRg/VWs8vpgZ-9I/AAAAAAAAD7Y/DSnEcJs-tTE/s1600/eska%2Bpolo%2Btv.jpg" group-title="MUSICA", ESKA PARTY TV
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-mH2Z-IkAjRg/VWs8vpgZ-9I/AAAAAAAAD7Y/DSnEcJs-tTE/s1600/eska%2Bpolo%2Btv.jpg" group-title="MUSICA", ESKA PARTY TV HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+ 
+#EXTINF:-1 tvg-logo="http://tvtvtv.ru/icons/eska_rock_tv.png" group-title="MUSICA", ESKA Rocks
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+ 
+#EXTINF:-1 tvg-logo="http://tvtvtv.ru/icons/eska_rock_tv.png" group-title="MUSICA", Eska Rock HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_Eska_TV.png" group-title="MUSICA", Eska TV HD
+rtmp://stream.smcloud.net/live/eskatv
+ 
+#EXTINF:-1 tvg-logo="http://smilepolitely.com/images/sized/images/uploads_thumbnails/14093/best_music-800x400.png" group-title="MUSICA", Best Music 360p
+rtmp://stream.smcloud.net/live2/best/best_360p
+ 
+#EXTINF:-1 tvg-logo="http://smilepolitely.com/images/sized/images/uploads_thumbnails/14093/best_music-800x400.png" group-title="MUSICA", Best Music 720p
+rtmp://stream.smcloud.net/live2/best/best_720p
+ 
+#EXTINF:-1 tvg-logo="http://www.ourwebtv.com/Logos/Street%20Clip%20TV%20Germany.png" group-title="MUSICA", Street Clip TV
+rtmp://stream.streetclip.tv:1935/live/low-stream
+ 
+#EXTINF:-1 tvg-logo="http://www.companieshistory.com/wp-content/uploads/2014/04/Wawa.png" group-title="MUSICA", WAWA
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bY6Gurru770/AAAAAAAAAAI/AAAAAAAAADA/L8oiiLaSdcQ/s120-c/photo.jpg" group-title="MUSICA", Vox Music TV HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bY6Gurru770/AAAAAAAAAAI/AAAAAAAAADA/L8oiiLaSdcQ/s120-c/photo.jpg" group-title="MUSICA", Vox Music TV
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+ 
+#EXTINF:-1 tvg-logo="http://d.webgenerator24.pl/k/r//kh/fc/bdo875cow0owsock0gksc8c48cg.600.png" group-title="MUSICA", Polo TV
+rtmp://stream.smcloud.net/live/polotv
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-OqZCx6iZ4co/VmgIVBBqqFI/AAAAAAAAM78/0nsbJ7MJByg/s1600/polo_tv_pl_party.png" group-title="MUSICA", Polo Party TV
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_360p
+ 
+#EXTINF:-1 tvg-logo="http://tvtvtv.ru/icons/logo_327.png" group-title="MUSICA", Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ 
+#EXTINF:-1 tvg-logo="http://www.baloespublicitarios.com/v_portal/inc/imagen.asp?f=mtv_7218.gif&w=662&c=2" group-title="MUSICA",MTV
+rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live
+ 
+#EXTINF:-1 tvg-logo="http://www.baloespublicitarios.com/v_portal/inc/imagen.asp?f=mtv_7218.gif&w=662&c=2" group-title="MUSICA", MTV AM
+http://mtvam.ru/hlsam/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/MTV_Dance.svg/2000px-MTV_Dance.svg.png" group-title="MUSICA", MTV DANCE HD
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/558/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.numericable.tv/chaines/logo/110x85/50007.png" group-title="MUSICA", MTV HITS LATINO
+http://live.tvplayerlatino.com/lista_remota/src1/Q0g4R.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 1 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 2 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 3 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/4/6/46720/virgin.png" group-title="MUSICA",Virgin 1
+rtmp://tv.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/com/universalmind/swf/videoPlayerTV.swf?xmlPath=http://video.virginradioitaly.it/com/universalmind/tv/virgin/videoXML.xml pageUrl=http://www.vertvgratuita.com/cn/inicial2.htm
+ 
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/4/6/46720/virgin.png" group-title="MUSICA",Virgin 2
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/1280px-M6_Music_2012.png" group-title="MUSICA", M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png" group-title="MUSICA", RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.mytvbag.com/app/webroot/icons/channels/Heart%20TV1.png" group-title="MUSICA", Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://fancystreams.com/channelthumb/radio105.png" group-title="MUSICA", RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.streaming-hub.com/wp-content/uploads/2014/12/radio-monte-carlo.png" group-title="MUSICA", RADIO MONTE CARLO TV
+http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://spbtv.com/tafiimage/77.png" group-title="MUSICA", MIAMI TV MUSIC
+http://74.208.152.93/music/stream3/stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.roomy-tv.com/images/681.png" group-title="MUSICA", SUPERSONIC TV
+http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.web-n-app.de/wp-content/uploads/2014/04/electrosoundtv.png" group-title="MUSICA", Electrosound
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.djing.com/img/facebook.png" group-title="MUSICA", Djing Ibiza HD
+http://www.djing.com/tv/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.djing.com/img/facebook.png" group-title="MUSICA", Djing HD
+http://cdn.djing.com/tv/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/DJing-Underground.jpg" group-title="MUSICA", Djing Underground HD
+http://cdn.djing.com/tv/u-05.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2d/UTV_logo_2012.png" group-title="MUSICA", UTV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/1a62e626926751.55756a4b190d7.png" group-title="MUSICA", AFRO MUSIC
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.srhome.co.th/backend/data-file/subgroups/subgroups82_1.png" group-title="MUSICA", HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://spbtv.com/tafiimage/hardlife.png" group-title="MUSICA", HARD LIFE
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvpolsat.info/forum/attachments/tv_disco.png" group-title="MUSICA", TV Disco
+rtmp://edge2.popler.tv:1935/publishlive?play=123452 playpath=tvdisco swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf live=1 pageUrl=http://www.popler.tv/live/tvdisco
+ 
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/Logo_rouge_tv_transparenterecuadrado.png" group-title="MUSICA", ROUGE TV
+rtmp://rtmp.infomaniak.ch/livecast/rougetv
+ 
+#EXTINF:-1 tvg-logo="http://www.mabb.de/files/content/images/LOGOS/ALEX_Logo_pos_cmyk_png24_kf.png" group-title="MUSICA", ALEX BERLIN-Urban Music
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://freshtv.co.za/wp-content/uploads/2015/06/Logo-2015-130px.png" group-title="MUSICA", FRESH TV MUSIC
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.a-mazingshop.com/wp-content/uploads/2015/01/AMAZING-LOGO-BRANCO3.png" group-title="MUSICA", AMAZING
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ljudmila.org/subkulturni-azil/front/img/admin/image/logo-razni/sitv.600x470.png" group-title="MUSICA", SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://covers.eg-ad.fr/mfm-512x512-talentsdelatele.png" group-title="MUSICA", MFM TV HQ
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://dottoremercato.altervista.org/wp-content/uploads/2015/04/10425127_743430315753215_5677116141643620306_n-e1428656694193.png" group-title="MUSICA", FOR MUSIC TV
+rtmp://194.116.73.146/quartaretetv1 playpath=formusicweb swfUrl=http://www.quartarete.tv/player-licensed.swf live=1 pageUrl=http://www.formusic.tv/
+ 
+#EXTINF:-1 tvg-logo="http://static.ritalia.nohup.it/img/2013/logo_radioitalia_web.png" group-title="MUSICA", Radio Italia TV
+rtmp://cworigin.cdcache.net:1935/cworigin/_definst_/rilive
+ 
+#EXTINF:-1 tvg-logo="http://logos.kodibg.org/1hd.png" group-title="MUSICA", 1 HD MUSIC
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://logos.kodibg.org/1hd.png" group-title="MUSICA", 1 HD MUSIC SD
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.record-play.net/wp-content/uploads/2013/03/record-play-music-consultancy-for-atomic.png" group-title="MUSICA", ATOMIC
+rtmp://5.154.185.153/live/live.flv
+ 
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/1/1/11221/dream_tv.png" group-title="MUSICA", DREAM TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-1j3HGkaUezo/UMt4vZoYskI/AAAAAAAAAVo/BdfyRicP81c/s1600/logo_lg.png" group-title="MUSICA", HEAVY METAL TELEVISION
+rtmp://70.166.98.130:1935/hmtv/myStream
+ 
+#EXTINF:-1 tvg-logo="http://www.performaweb.com.br/blog/wp-content/uploads/2014/05/Vintage_radio.png" group-title="MUSICA", RADIOU TV
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+ 
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA", MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://www.proliftequipment.com/images/logos/tico.png" group-title="MUSICA", TICO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+ 
+#EXTINF:-1 tvg-logo="http://bavatuesdays.com/files/2014/09/icon_4661-1024x1024.png" group-title="MUSICA", VISUAL RADIO TV
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://portalservicios.emcali.net.co/img/canales-sd/cantinazo.jpg" group-title="MUSICA",  Canatinazo TV
+http://live.tvplayerlatino.com/lista_remota/src3/G8ML9.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.rinnovatief.nl/wp-content/uploads/2014/05/plus-logo-21-1024x304.jpg" group-title="MUSICA", PLUS
+http://over.ddns.net:65120/
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/22534666/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
