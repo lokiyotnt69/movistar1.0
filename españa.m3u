@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+
+#EXTINF:-1,BOX NATION
+http://149.202.207.8:8080/je3nNaM00tAaBuxxooNatn/Strm/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif" group-title="INFANTILES",Nick  (geo-mex)
 http://exabytetv.zapto.org/exabytetv-esgratis/total/3/GOKOQ-1011000110111010011000100111100-ExabyteTV/6058/visita-exabytetv.m3u8
 
