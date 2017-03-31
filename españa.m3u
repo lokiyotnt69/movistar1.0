@@ -1,3 +1,121 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES", bein n 1
+
+http://cdn7.verliga.pw/live/verliga3/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", M Futbol
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/33.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", bein n 2
+
+http://exabytetv.info/stalker-fashion.php?token=BPAIZ-1011000110110111011100001001001-ExabyteTV&canal=NTA4MQ==&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Bein sPORT
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/578.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", beIN Sports España
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1809.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Bein La Liga
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1835.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ES CANAL+ LIGA HD
+
+http://www.xa1q.com:8000/live/meddeb151/benothm/795.ts
+
+#EXTINF:-1 group-title="DEPORTES", Bein La Liga 
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1835.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", M Futbol
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/33.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", la Liga
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/32.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", GOL TV
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2753.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", Bein sPORT
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/578.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", Bein LaLiga
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1590.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", Barca TV 
+
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1037.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", LA SEXTA HD 
+
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3285.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", C LIGA HD 2
+
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", SP:canaplusdeportes 
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1794.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", SP:canalplusfutbol   
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1798.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", SP:canalplusextra   (s-4)
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1799.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", SP:beIN Sports España   (s-4)
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1809.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", SP:Bein La Liga   (s-4)
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1835.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", canaplusdeportes   (s-4)
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1794.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", canalplusfutbol   (s-4)
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1798.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://exabytetv.info/img/icon.png", beIN Sports España   (s-4)
+
+http://ip03.fox-cloud.co:80/live/spider_WYAhz6/ciH0kgSu/1809.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Real madriD
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORT
+
+http://exabytetv.info/stalker-fashion.php?token=BPAIZ-1011000110110111011100001001001-ExabyteTV&canal=NTA4MQ==&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT 2
+
+http://exabytetv.zapto.org/exabytetv-esgratis/broadcast/BPAIZ-1011000110110111011100001001001-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HBO
+
+http://exabytetv.zapto.org/exabytetv-esgratis/broadcast/BPAIZ-1011000110110111011100001001001-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9oYm8tZW4tdml2by5odG1s/visita-exabytetv.m3u8
+
 #EXTINF:0 type="favorites" channelId="1685" tvg-logo="http://www.formulatv.com/fotos/a/76000/76431/qzwcplqclcohve7l914cb7358cb821b_logo-factoria-de-ficcion.png" , FDF
 http://cdn2.verliga.pw/live/fdf/index.m3u8
  
