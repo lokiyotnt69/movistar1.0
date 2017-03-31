@@ -2,7 +2,461 @@
 
 
 
-
+#EXTINF:-1, Europa Fm
+http://icecast-streaming.nice264.com/europafm?hash=1479898610785.mp3
+ 
+#EXTINF:-1, Los 40
+http://17893.live.streamtheworld.com/LOS40.mp3
+ 
+#EXTINF:-1, Cadena Dial
+http://19113.live.streamtheworld.com/CADENADIAL.mp3
+ 
+#EXTINF:-1, Cadena 100
+http://195.10.2.98/cope/cadena100.mp3
+ 
+#EXTINF:-1, Radio 3
+http://radio3.rtveradio.cires21.com/radio3.mp3
+ 
+#EXTINF:-1, Rock Fm
+http://195.55.74.205/cope/rockfm.mp3
+ 
+#EXTINF:-1, Kiss Fm
+http://kissfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3?hash=1479900164262.mp3
+ 
+#EXTINF:-1, M80 Radio
+http://19373.live.streamtheworld.com/M80RADIO.mp3
+ 
+#EXTINF:-1, Melodia Fm
+http://icecast-streaming.nice264.com/melodiafm?hash=1479900324293.mp3
+ 
+#EXTINF:-1, Maxima Fm
+http://208.92.53.76:443/MAXIMAFM.mp3
+ 
+#EXTINF:-1, Megastar Fm
+http://195.55.74.206/cope/megastar.mp3
+ 
+#EXTINF:-1, Hit Fm
+http://kissfm.es.audio1.glb.ipercast.net:8000/hitfm.es/mp3
+ 
+#EXTINF:-1, Radiole
+http://17873.live.streamtheworld.com/RADIOLE.mp3
+ 
+#EXTINF:-1, Rne
+http://rne.rtveradio.cires21.com/rne.mp3
+ 
+#EXTINF:-1, Cadena Ser
+http://77.67.34.11/CADENASER.mp3
+ 
+#EXTINF:-1, Radio Sevilla - Cadena Ser
+http://17293.live.streamtheworld.com/SER_SEVILLA_SC
+ 
+#EXTINF:-1, Onda Cero
+http://icecast-streaming.nice264.com/ondacero
+ 
+#EXTINF:-1, Cope
+http://195.55.74.212/cope/net2.mp3
+ 
+#EXTINF:-1, Radio 5
+http://radio5.rtveradio.cires21.com/radio5.mp3
+ 
+#EXTINF:-1, Radio Marca
+http://radioweb.radiomarcabarcelona.com:9000/stream
+ 
+#EXTINF:-1, EsRadio
+http://livestreaming.esradio.fm/stream64.mp3
+ 
+#EXTINF:-1, EFE
+http://195.10.2.203/tunein/shoutcast.mp3
+ 
+#EXTINF:-1, Radio 4G
+http://195.10.10.223/radio4g/radiosigloxxi.mp3
+ 
+#EXTINF:-1, Radio Exterior
+http://radioexterior.rtveradio.cires21.com/radioexterior.mp3
+ 
+#EXTINF:-1, Radio Maria
+http://50.7.181.186:8060/;stream.nsv
+ 
+#EXTINF:-1, Canal Sur Radio
+http://195.55.74.212/rtva/canalsurradiogranada.mp3
+ 
+#EXTINF:-1, Canal Fiesta Radio
+http://195.10.2.99/rtva/canalfiestaradio_master.mp3
+ 
+#EXTINF:-1, Andalucia Información
+http://195.10.10.223/rtva/radioandalucia.mp3
+ 
+#EXTINF:-1, Flamenco Radio
+http://195.10.10.206/rtva/canalflamenco.mp3
+ 
+#EXTINF:-1, Onda Local
+http://sdst1001397.lcinternet.com:8320/ptp?hash=1479906792247.mp3
+ 
+#EXTINF:-1, Canal Extremadura
+http://hlsradio.canalextremadura.es/liveradio/streamrd01/chunklist_DVR.m3u8
+ 
+http://195.10.2.205/rtvcm/live2.mp3?hash=1479907096995.mp3
+ 
+#EXTINF:-1, Radio Galega
+http://85.91.64.29/radio_galega?1479907260311
+ 
+#EXTINF:-1, Radio Voz
+http://live.radiovoz.es/mp3/stream_cadena.mp3?hash=1479907390254.mp3
+ 
+#EXTINF:-1, Radio Galega Musica
+http://85.91.64.29/radio_galega_musica?1479907518342
+ 
+#EXTINF:-1, Son Galicia
+http://85.91.64.29/son_galicia_radio?1479907550744
+ 
+#EXTINF:-1, Radio Fusion
+http://srv0411.lcinternet.com:9005/stream
+ 
+#EXTINF:-1, Rtpa Asturias
+http://195.55.74.212/rtpa/live/radio.mp3?hash=1479907718254.mp3
+ 
+#EXTINF:-1, Radio Euskadig
+http://195.55.74.210/eitb/radioeuskadi.mp3?hash=1479907802251.mp3
+ 
+#EXTINF:-1, Euskadi Irratia
+http://195.55.74.211/eitb/euskadiirratia.mp3?hash=1479907951554.mp3
+ 
+#EXTINF:-1, Gaztea
+http://195.55.74.212/eitb/gaztea.mp3?hash=1479908047120.mp3
+ 
+#EXTINF:-1, Eitb Musika
+http://195.10.2.95/eitb/eitbmusika.mp3?hash=1479908079254.mp3
+ 
+#EXTINF:-1, Onda Vasca
+http://195.10.2.202/zeroa/shoutcast.mp3?hash=1479908250255.mp3
+ 
+#EXTINF:-1, Aragon Radio
+http://aragonradio.stream.flumotion.com/zaragoza/live-web/main.m3u8
+ 
+#EXTINF:-1, Catalunya Radio
+http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3?hash=1479908551789.mp3
+ 
+#EXTINF:-1, iCat.cat
+http://icatfm.ccma.audioemotion.stream.flumotion.com/ccma/icatfm.mp3?hash=1479908625461.mp3
+ 
+#EXTINF:-1, Ib3 Radio
+http://streaming01.ib3radio.com:8000/ib3radio.mp3?hash=1479908713102.mp3
+ 
+#EXTINF:-1, Canarias Radio
+http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8
+ 
+#EXTINF:-1, Onda 4
+http://tesla.eldialdigital.com:9400/;stream.mp3?hash=1479908861107.mp3
+ 
+#EXTINF:-1, Edenex
+http://tesla.eldialdigital.com:9300/;stream.nsv
+ 
+#EXTINF:-1, Betis Radio
+http://195.10.10.213/rbetis/live.mp3?GKID=8faddd6cb4e511e6854700163e914f69
+ 
+#EXTINF:-1, ROCK Cocktelera Blues
+http://streaming.radionomy.com/Cocktelera-Blues
+ 
+#EXTINF:-1, ROCK ABC Relax
+http://streaming.radionomy.com/ABCRelax
+ 
+#EXTINF:-1, ROCK Radio Sky-Music Jazz
+http://streaming.radionomy.com/RadioSky-Music
+ 
+#EXTINF:-1, ROCK Radio Jazz
+http://streaming.radionomy.com/1RadioJazz
+ 
+#EXTINF:-1, ROCK Antiguos, pero buenos
+http://streaming.radionomy.com/Antiguos--pero-buenos
+ 
+#EXTINF:-1, ROCK Blues Rock Legends
+http://streaming.shoutcast.com/BluesRockLegends
+ 
+#EXTINF:-1, ROCK Nostalgie Jazz
+http://185.52.127.131/fr/30641/mp3_128.mp3
+ 
+#EXTINF:-1, ROCK Blues and Rock Madrid
+http://streaming.radionomy.com/BluesandRockMadrid
+ 
+#EXTINF:-1, ROCK Big Blue Swing
+http://radio.bigblueswing.com:8002/;/;930338228887804stream.nsv
+ 
+#EXTINF:-1, ROCK Rock'n Bluesg
+http://stream3.laut.fm/rocknblues
+ 
+#EXTINF:-1, ROCK BLUESCLUB
+http://stream1.laut.fm/bluesclub
+ 
+#EXTINF:-1, ROCK Blues Music Fan Radio
+http://knight.wavestreamer.com:2970/Live
+ 
+#EXTINF:-1, ROCK Big R Radio - Blues FM
+http://107.155.111.234:8770/;834267.mp3/;327080865320343stream.nsv
+ 
+#EXTINF:-1, ROCK The 1920 Network
+http://the1920sradionetwork.mediaplayer.whro.org/128
+ 
+#EXTINF:-1, ROCK Jazz FM
+http://adsi-e-02-boh.sharp-stream.com/jazzfmmobile.mp3
+ 
+#EXTINF:-1, ROCK AZUR Blues
+http://streaming.radionomy.com/Azur-BLUES
+ 
+#EXTINF:-1, ROCK RMF Blues
+http://31.192.216.4:8000/rmf_blues
+ 
+#EXTINF:-1, ROCK 1.FM - Blues
+http://sc-blues.1.fm:8030/
+ 
+#EXTINF:-1, ROCK Skyline Radio & Soul
+http://onair11.xdevel.com:8116/;653284466773695stream.nsv
+ 
+#EXTINF:-1, ROCK Blues After Hours Radio
+http://london-dedicated.myautodj.com:8108/stream/1/
+ 
+#EXTINF:-1, ROCK Radio Positive
+http://streaming.shoutcast.com/RadioPositive
+ 
+#EXTINF:-1, ROCK MKM Radio - Jazz
+http://mkmradio.com:8030/;file.mp3/;028479311293454stream.nsv
+ 
+#EXTINF:-1, ROCK OÜI FM Blues'N'Rock
+http://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3
+ 
+#EXTINF:-1, ROCK Best Blues I Know
+http://streaming.radionomy.com/ABLUESDREAM-Classic-NewBlues24H
+ 
+ 
+#EXTINF:-1, Años 60 1000 Oldies Hits
+http://streaming.radionomy.com/1000Oldies
+ 
+#EXTINF:-1, Años 60 2 LOVE Radio
+http://streaming.radionomy.com/2LoveRadio
+ 
+#EXTINF:-1, Años 60 Golden 50/70s Hits
+http://streaming.radionomy.com/golden-50-70s-hits
+ 
+#EXTINF:-1, Años 60 Oldies but Goldies
+http://mp3channels.webradio.antenne.de/oldies-but-goldies
+ 
+#EXTINF:-1, Años 60 Todoexitos Oldies
+http://hertz.todoexitos.com:8208/;8278013348173263stream.nsv
+ 
+#EXTINF:-1, Años 60 Viejas Románticas
+http://streaming.radionomy.com/-A-ViejasRomanticas
+ 
+#EXTINF:-1, Años 60 Hits 50s
+http://streaming.radionomy.com/1HITS50s?lang=es-ES%2ces%3bq%3d0.8
+ 
+#EXTINF:-1, Años 60 Beatles Radio
+http://www.beatlesradio.com:8000/stream/1/
+ 
+#EXTINF:-1, Años 60 Radio El Vinilo
+http://streaming.radionomy.com/RadioElVinilo
+ 
+#EXTINF:-1, Años 60 Hits 60s
+http://streaming.radionomy.com/1HITS60s
+ 
+#EXTINF:-1, Años 60 Romantic Radio Paris
+http://streaming.radionomy.com/ROMANTICRADIOPARIS?lang=es-ES%2ces%3bq%3d0.8
+ 
+#EXTINF:-1,TODO RADIO Años 60 Radio 45
+http://streaming.elitecomunicacion.es:8010/;866343466933551stream.nsv
+ 
+#EXTINF:-1, Años 60 Oldieradio Florida
+http://camon01.dehost24.eu:9992/stream
+ 
+#EXTINF:-1, Años 60 101.ru: The Beatles
+http://ic3.101.ru:8000/m10_3
+ 
+#EXTINF:-1, Años 60 977 - 50s 60s Hits
+http://7579.live.streamtheworld.com:3690/977_OLDIES_SC
+ 
+#EXTINF:-1, Años 60 Golden Oldies Station
+http://streaming.radionomy.com/GoldenOldiesStation?lang=es-ES%2ces%3bq%3d0.8
+ 
+#EXTINF:-1, Años 60 Flower Power Radio
+http://50.7.129.122:8433/;856754086730877stream.nsv
+ 
+#EXTINF:-1, Años 60 57 Chevy Radio
+http://streaming.shoutcast.com/57ChevyRadio16?lang=es-ES%2ces%3bq%3d0.8
+ 
+#EXTINF:-1, Años 60 The Doo-Wop Express
+http://los.cdnstream.com/1136_128
+ 
+#EXTINF:-1, Años 60 Web Radio Classics
+http://199.180.72.2:8122/;6997749787739096stream.nsv
+ 
+#EXTINF:-1, Años 60 Topshelf Oldies
+http://s7.nexuscast.com:8002/;7747208908588386stream.nsv
+ 
+#EXTINF:-1, Años 60 The Oldies Channel
+http://wms-15.streamsrus.com:12010/;9956966067793482stream.nsv
+ 
+#EXTINF:-1, Años 60 Radio Oldies
+http://stream3.laut.fm/radio-oldies
+ 
+#EXTINF:-1, Años 60 British Invasion Radio
+http://streaming.radionomy.com/BritishInvasionRadio
+ 
+#EXTINF:-1, Años 60 Absolute Radio 60s
+http://icy-e-bab-02-gos.sharp-stream.com/absolute60s.mp3
+ 
+#EXTINF:-1, Años 60 RMF 60s
+http://31.192.216.10:8000/rmf_60s
+ 
+#EXTINF:-1, Años 60 American Graffiti
+http://streaming.radionomy.com/AMERICAN-GRAFFITI?lang=es-ES%2ces%3bq%3d0.8
+ 
+#EXTINF:-1, Años 60 Car Tunes Radio
+http://198.199.71.224:5000/1/;9743026562576813stream.nsv
+ 
+#EXTINF:-1, Años 60 Hotmixradio GOLDS
+http://streaming.hotmixradio.fm/hotmixradio-golds-128.mp3
+ 
+#EXTINF:-1, Años 60 Classic Rock Radio
+http://internetradio.salue.de:8000/classicrock.mp3
+ 
+#EXTINF:-1, Años 70 Café Romántico Radio
+http://streaming.radionomy.com/ROMANTICASINOLVIDABLES
+ 
+#EXTINF:-1, Años 70 1000 HITS Sweet Radio
+http://streaming.radionomy.com/1000-HITS-Sweet-Radio
+ 
+#EXTINF:-1, Años 70 Cristal Classic FM
+http://63.247.76.50:8030/;/;685949973092577stream.nsv
+ 
+#EXTINF:-1, Años 70 AQUA RADIO ONLINE
+http://streaming.radionomy.com/AQUA-RADIO-ONLINE
+ 
+#EXTINF:-1, Años 70 Hits 70s
+http://streaming.radionomy.com/1HITS70s?lang=es-ES%2ces%3bq%3d0.8
+ 
+#EXTINF:-1, Años 70 Nostalgie Disco Fever
+http://185.52.127.157/fr/30617/mp3_128.mp3
+ 
+#EXTINF:-1, Años 70 Túnel del Tiempo
+http://ample-zeno-04.radiojar.com/g8qpfftm2ewtv?rj-ttl=5&rj-token=AAABWKOICKPS1s9Ix0mzRLUWUL6rrg-dpnzXtl6XKhCHtLmPgRykPA
+ 
+#EXTINF:-1, Años 70 Spectrum FM Costa del Sol
+http://5.63.151.52:8097/;575921751218425stream.nsv
+ 
+#EXTINF:-1, Años 70 Feeling Floyd
+http://91.121.59.45:8013/stream
+ 
+#EXTINF:-1, Años 70 Energy FM Old School
+http://streaming.radionomy.com/EnergyFMoldschoolclassics
+ 
+#EXTINF:-1, Años 70 ABC Oldies
+http://188.165.237.19:8255/stream/1/
+ 
+#EXTINF:-1, Años 70 RMF 70s
+http://31.192.216.5:8000/rmf_70s
+ 
+#EXTINF:-1, Años 70 Album Radio Souvenirs
+http://streaming.radionomy.com/ALBUMRADIOSOUVENIRS?lang=es-ES%2ces%3bq%3d0.8
+ 
+#EXTINF:-1, Años 70 Virgin Rock 70
+http://icy.unitedradio.it/VirginRock70.mp3
+ 
+#EXTINF:-1, Años 70 70s 80s 90s RIW VINTAGE CHANNEL
+http://streaming.radionomy.com/70s-80s-90s-riw-vintage-channel
+ 
+#EXTINF:-1, Años 70 Carolina Classic Hits
+http://hemnos.cdnstream.com/1374_128new
+ 
+#EXTINF:-1, Años 70 Web Radio Classics
+http://199.180.72.2:8122/;7828189061637585stream.nsv
+ 
+#EXTINF:-1, Años 70 Topshelf Oldies
+http://s7.nexuscast.com:8002/;055239271214663stream.nsv
+ 
+#EXTINF:-1, Años 70 Funky Corner Radio
+http://s19.myradiostream.com:4744/;152511786281454stream.nsv
+ 
+#EXTINF:-1, Años 80 80 EXITS
+http://streaming.radionomy.com/80-EXITS
+ 
+#EXTINF:-1, Años 80 RAC105 105.0 FM
+http://streaming105.radiocat.net/;619641577493139stream.nsv
+ 
+#EXTINF:-1, Años 80 1000 HITS Sweet Radio
+http://streaming.radionomy.com/1000-HITS-Sweet-Radio
+ 
+#EXTINF:-1, Años 80 Hits 80s
+http://streaming.radionomy.com/1HITS80s
+ 
+#EXTINF:-1, Años 80 MDT Radio
+http://37.187.63.192:8020/mdtweb
+ 
+#EXTINF:-1, Años 80 181.fm - Awesome 80's
+http://mp3uplink.duplexfx.com:8000/
+ 
+#EXTINF:-1, Años 80 BigR - 80s Metal FM
+http://bigrradio.cdnstream1.com/5186_128
+ 
+#EXTINF:-1, Años 80 977 - 80's Hits
+http://7579.live.streamtheworld.com:443/977_80_SC
+ 
+#EXTINF:-1, MUSICA LATINA Loca FM
+http://5.39.66.128:8012/live
+ 
+#EXTINF:-1, MUSICA LATINA Swing Latinos
+http://ns6.emisionlocal.com:9004/;937104910482823stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA La Rancherita del Aire
+http://212.83.135.226:7326/;872767892061617stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA Bossa Nova Hits
+http://strm112.1.fm/bossanova_mobile_mp3
+ 
+#EXTINF:-1, MUSICA LATINA Fun Radio Fun Latino
+http://5.39.66.128:8012/live
+ 
+#EXTINF:-1, MUSICA LATINA Tropicalísima Bachata
+http://tropicalisima.net:8024/;stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA Mi Tierra FM
+http://server6.20comunicacion.com:8062/;475039148087637stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA Amor
+http://streaming.radionomy.com/Amor1043
+ 
+#EXTINF:-1, MUSICA LATINA La Radio de Moda
+http://eu1.fastcast4u.com:10846/;stream.nsv/;414882980508092stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA Panda Show Radio
+http://streaming.shoutcast.com/pandashowradio
+ 
+#EXTINF:-1, MUSICA LATINA Fiebre Sonidera
+http://65.60.62.181:9968/;061846153260578stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA Energia Estereo
+http://5.135.183.124:8001/stream
+ 
+#EXTINF:-1, MUSICA LATINA Cadena Latino
+http://185.23.192.118:8000/;5786405067637554stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA Bachata Dominicana
+http://streaming.radionomy.com/bachata-dominicana
+ 
+#EXTINF:-1, MUSICA LATINA Radio Mas Salsa
+http://stream3.laut.fm/radiomassalsa
+ 
+#EXTINF:-1, MUSICA LATINA Hola NY
+http://192.240.97.68:8032/;stream.mp3/;927083390828413stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA La Mejor
+http://198.154.246.178:8050/;stream/1/;50282007143605stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA La Mega
+http://5.135.183.124:8221/stream
+ 
+#EXTINF:-1, MUSICA LATINA Hard Salsa
+http://usa5.fastcast4u.com:6216/;?1401954632426.mp3/;8622088208799714stream.nsv
+ 
+#EXTINF:-1, MUSICA LATINA Disco Suave
+http://149.56.147.197:9309/stream
 
 
 #EXTINF:-1, Boomerang   [720x592]
