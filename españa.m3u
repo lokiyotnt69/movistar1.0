@@ -2,177 +2,65 @@
 
 
 
-#EXTINF:-1, LA 1
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-
-#EXTINF:-1, cuatro
-http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro
-#EXTINF:-1, Telecinco
-http://www.apps4two.com/apps/tvonline/rm2access.php?o=telecinco
-#EXTINF:-1, La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1, A3Series
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1, Nova
-http://a3live-lh.akamaihd.net/i/geonova_1@379404/index_2_av-b.m3u8
-#EXTINF:-1, Neox
-http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, Mega
-http://a3live-lh.akamaihd.net/i/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, Be Mad TV
-http://www.apps4two.com/apps/tvonline/rm2access.php?o=bemad
-#EXTINF:-1, Divinity
-http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity
-#EXTINF:-1, Paramount Channel
-http://paramount.live.flumotion.com/live/chunklist.m3u8
-#EXTINF:-1, Disney Channel
-https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
-#EXTINF:-1, 24h
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
-#EXTINF:-1, Teledeporte
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live.m3u8
-#EXTINF:-1, Teledeporte HD
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8
-#EXTINF:-1, TVE 60 aniversario
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
-#EXTINF:-1, DMax
-http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA 
-#EXTINF:-1, FDF
-http://cdn.sitenow.me/live/fdfhd_xrewtt/chunklist.m3u8
-#EXTINF:-1, Ten
-http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1 tvg-id="Globo.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO NORDESTE [COLOR gray] RedeCanais[/COLOR]
-http://tv.redecanais.com:1935/redecanaisglobo/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Globo.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO RJ [COLOR gray] Vertv.net[/COLOR]
-http://62.210.84.33:8081/look/globo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Globo.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO SP [COLOR gray] Vertv.net[/COLOR]
-http://62.210.84.33:8081/look/sptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Globo.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO NORDESTE
-http://wse2.transmissaodigital.com:1935/redecanaisglobo/redecanaisglobo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="SBT-HD.png" tvg-logo="http://goo.gl/nVXYOf" group-title="TV Aberta",SBT HD
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="SBT-HD.png" tvg-logo="http://goo.gl/nVXYOf" group-title="TV Aberta",SBT [COLOR gray] Vertv.net[/COLOR]
-http://217.23.2.169:8081/look/sbt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND [COLOR gray] Vertv.net[/COLOR]
-http://217.23.2.169:8081/look/band/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND
-rtmp://31.220.2.87/youcloud/ playpath=bandeirantes?IGOR_RANGEL  swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf  pageUrl=http://youcloud.tv/player?streamname=bandeirantes&width=468&height=360
-
-#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND-CE 
-rtmp://187.18.153.240/livepkgr/ playpath=nordestv1  swfUrl=http://tribunadoceara.uol.com.br/nordestv/wp-content/themes/2015_nordestv/js/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://tribunadoceara.uol.com.br/nordestv/ao-vivo/
-
-#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND [COLOR orange] HD[/COLOR]
-http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND
-http://173.212.216.7:8081/live/bandu/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND
-http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND
-http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD
-http://srv3.zoeweb.tv:1935/zw321/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD
-http://flash.midiaip.com.br:1935/tvvitoria/Sample1/live.m3u8
-
-#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD [COLOR gray] Vertv.net[/COLOR]
-http://173.212.216.7:8081/live/record/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD ES
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD
-http://flash.midiaip.com.br:1935/tvvitoria/Sample1/live.m3u8
-
-#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV-HD.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV [COLOR gray]HQ[/COLOR]
-rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
-
-#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="TV-Pampa.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV [COLOR gray]TV Pampa[/COLOR]
-rtmp://192.99.101.129:1935/rafael926 playpath=encoder  swfUrl=http://www.crosshost.com.br/playerflash/player.swf?IGOR_RANGEL  pageUrl=http://www.pampa.com.br/ver-tv.php
-
-#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV[COLOR gray] TV Arapuan[/COLOR]
-rtmp://mediacp.ciclanohost.com.br:1935/8064 playpath=8064  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?IGOR_RANGEL  pageUrl=http://www.tvonlinegratis.tv/canais/redetv-arapuan.php
-
-#EXTINF:-1 tvg-id="TV Gazeta.igor" tvg-logo="Tv-Gazeta.png" tvg-logo="http://goo.gl/e1Zuu6" group-title="TV Aberta",TV GAZETA
-http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
-
-#EXTINF:-1 tvg-id="Rede Vida.igor" tvg-logo="Rede-Vida.png" tvg-logo="http://goo.gl/9NZpPD"  group-title="TV Aberta",REDE VIDA
-rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?IGOR_RANGEL
-
-#EXTINF:-1 tvg-id="TV Cultura.igor" tvg-logo="TV-Cultura.png" tvg-logo="http://goo.gl/qytiM2"  group-title="TV Aberta",TV CULTURA
-rtmp://200.136.27.12/livepkgr/ playpath=tvcultura4  swfUrl=http://www.tv-msn.net/p.swf  pageUrl=http://www.tvhd.com.br/painel-beta/Cultura.htm
-
-#EXTINF:-1 tvg-id="TV Brasil.igor" tvg-logo="http://goo.gl/EjmPcA" group-title="TV Aberta",TV BRASIL
-rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1  swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf  pageUrl=http://livestreamtv.biz/ live=true timeout=15
-
-#EXTINF:-1 tvg-id="xxx" tvg-logo="https://goo.gl/3CWGTn" group-title="TV Aberta",TV EVANGELIZA
-rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
-
-#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="TvDiarios.png" tvg-logo="http://goo.gl/PcpnKs" group-title="TV Aberta",TV DIÀRIO DE CAMPOS
-rtmp://streaming49.sitehosting.com.br:1935/cadripaes/ playpath=cadripaes  swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf  pageUrl=http://www.sitehosting.com.br/controle/player.php?nome=cadripaes&servidor=streaming49.sitehosting.com.br&width=640&height=360&autostart=true&iframe=iframe&playerimg=http%3A%2F%2Fsitehosting.com.br%2Fimagens%2Fhospedagemestreaming.png%3Fe%3D2%26u%3Dcadripaes&playermovie=&skin=&versao=PREMIUM
-
-#EXTINF:-1 tvg-id="TV Escola.igor" tvg-logo="tvescola.png" tvg-logo="http://goo.gl/jPGsEs" group-title="TV Aberta",TV ESCOLA [COLOR orange]HD[/COLOR] 720p
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="Canal Futura.igor" tvg-logo="http://goo.gl/ghXOcq" group-title="TV Aberta",CANAL FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="xxx" tvg-logo="http://goo.gl/cT50g0" group-title="TV Aberta",TV CAMARA
-http://stream2.camara.leg.br:80/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="xxx" tvg-logo="http://goo.gl/cT50g0" group-title="TV Aberta",TV CAMARA Op2
-http://stream2.camara.leg.br:80/tv2/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TV Senado.igor" tvg-logo="TV-Senado.png" group-title="TV Aberta",TV SENADO
-mms://drix.senado.gov.br/tv3
-
-#EXTINF:-1 tvg-id="TV Assembléia" tvg-logo="TV-Alese.png" group-title="TV Aberta",TV ASSEMBLÉIA MG
-http://streaming.almg.gov.br/live/tvalmg2.m3u8
-
-#EXTINF:-1 tvg-id="TV Assembléia" tvg-logo="tv_aparecida.png" tvg-logo="http://goo.gl/PGmEcd" group-title="TV Aberta",TV APARECIDA
-rtmp://69.46.0.170/tvaparecida//tvaparecida.stream
-
-#EXTINF:-1 tvg-id="Tv Diario" tvg-logo="TV_DIÁRIO_DO_SERTÃO" group-title="TV Aberta",TV DIÁRIO DO SERTÃO
-rtmp://wz3.dnip.com.br:1935/pdsertaotv/ playpath=pdsertaotv.sdp  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?IGOR_RANGEL  pageUrl=http://www.tvonlinegratis.tv/canais/tvdiario-do-sertao.php
-
-#EXTINF:-1 tvg-id="TVS.ttwrs" tvg-logo="TV-Seculo-21.png" group-title="TV Aberta",TV SÉCULO 21
-http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8
-
-#EXTINF:-1 tvg-id="TVCOM SC.ttwrs" tvg-logo="TV-COM.png" group-title="TV Aberta",TV COM (SC)
-rtmp://322747t.lp.azioncdn.net:1935/2747t playpath=a/mp4:access_options/rtmp-live/tvcom-sc.sdp swfUrl=http://videos.clicrbs.com.br/sc/tvcom/swf/ACTPlayer.swf pageUrl=http://videos.clicrbs.com.br/sc/tvcom/videonews/15681/
-
-#EXTINF:-1 tvg-id="TVCOM RS.ttwrs" tvg-logo="TV-COM.png" group-title="TV Aberta",TV COM (RS)
-rtmp://32747t.lp.azioncdn.net:1935/2747t playpath=2747t/a/mp4:access_options/rtmp-live/tvcom.sdp swfUrl=http://videos.clicrbs.com.br/rs/tvcom/swf/ACTPlayer.swf pageUrl=http://videos.clicrbs.com.br/rs/tvcom/videonews/1443/
-
-#EXTINF:-1 tvg-id="Canal do Boi.igor" tvg-logo="Canal_do_Bo.png.png" group-title="TV Aberta",CANAL DO BOI
-rtmp://srvvenus.canaldoboi.com/livecb playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1
+#EXTINF:-1,# 0 HD
+http://163.172.213.25:8000/live/demo/demo/10.m3u8
+#EXTINF:-1,M. ESTRENOS HD
+http://163.172.213.25:8000/live/demo/demo/35.m3u8
+#EXTINF:-1,M. ACCION HD
+http://163.172.213.25:8000/live/demo/demo/37.m3u8
+#EXTINF:-1,M. DCINE HD
+http://163.172.213.25:8000/live/demo/demo/39.m3u8
+#EXTINF:-1,M. COMEDIA HD
+http://163.172.213.25:8000/live/demo/demo/38.m3u8
+#EXTINF:-1,M. CINE Ñ
+http://163.172.213.25:8000/live/demo/demo/106.m3u8
+#EXTINF:-1,CANAL HOLLYWOOD
+http://163.172.213.25:8000/live/demo/demo/41.m3u8
+#EXTINF:-1,DARK
+http://163.172.213.25:8000/live/demo/demo/43.m3u8
+#EXTINF:-1,XTRM
+http://163.172.213.25:8000/live/demo/demo/44.m3u8
+#EXTINF:-1,SOMOS
+http://163.172.213.25:8000/live/demo/demo/45.m3u8
+#EXTINF:-1,LIFE TV
+http://163.172.213.25:8000/live/demo/demo/112.m3u8
+#EXTINF:-1,SUNDANCE
+http://163.172.213.25:8000/live/demo/demo/42.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://163.172.213.25:8000/live/demo/demo/47.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://163.172.213.25:8000/live/demo/demo/19.m3u8
+#EXTINF:-1,COSMOPOLITAN HD
+http://163.172.213.25:8000/live/demo/demo/21.m3u8
+#EXTINF:-1,--------SERIES--------
+http://163.172.213.25:8000/live/demo/demo/81.m3u8
+#EXTINF:-1,SYFY
+http://163.172.213.25:8000/live/demo/demo/26.m3u8
+#EXTINF:-1,SYFY HD
+http://163.172.213.25:8000/live/demo/demo/339.m3u8
+#EXTINF:-1,TNT
+http://163.172.213.25:8000/live/demo/demo/18.m3u8
+#EXTINF:-1,TCM
+http://163.172.213.25:8000/live/demo/demo/40.m3u8
+#EXTINF:-1,FOX HD
+http://163.172.213.25:8000/live/demo/demo/15.m3u8
+#EXTINF:-1,FOX
+http://163.172.213.25:8000/live/demo/demo/391.m3u8
+#EXTINF:-1,CALLE 13
+http://163.172.213.25:8000/live/demo/demo/20.m3u8
+#EXTINF:-1,CALLE 13 HD
+http://163.172.213.25:8000/live/demo/demo/340.m3u8
+#EXTINF:-1,FOX LIFE
+http://163.172.213.25:8000/live/demo/demo/165.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://163.172.213.25:8000/live/demo/demo/113.m3u8
+#EXTINF:-1,AXN HD
+http://163.172.213.25:8000/live/demo/demo/16.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://163.172.213.25:8000/live/demo/demo/25.m3u8
+#EXTINF:-1,AMC
+http://163.172.213.25:8000/live/demo/demo/22.m3u8
+#EXTINF:-1,M. SERIES XTRA
+http://163.172.213.25:8000/live/demo/demo/13.m3u8
+#EXTINF:-1,M. SERIES XTRA HD
+http://163.172.213.25:8000/live/demo/demo/14.m3u8
