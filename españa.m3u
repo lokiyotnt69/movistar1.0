@@ -1,7 +1,312 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-ID="" tvg-name="LA 1 HD" tvg-logo="" group-title="General Streams",LA 1 HD
+http://163.172.213.25:8000/live/sebas/sebas/209.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA 1" tvg-logo="http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-" group-title="General Streams",LA 1
+http://163.172.213.25:8000/live/sebas/sebas/152.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA 2" tvg-logo="http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-" group-title="General Streams",LA 2
+http://163.172.213.25:8000/live/sebas/sebas/2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANTENA 3" tvg-logo="http://www.formulatv.com/fotos/a/76000/76431/9tho2jqs5sdxqpa7394cb734508c3cc_logo-antena3-" group-title="General Streams",ANTENA 3
+http://163.172.213.25:8000/live/sebas/sebas/3.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="General Streams",ANTENA 3 HD
+http://163.172.213.25:8000/live/sebas/sebas/179.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CUATRO" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png" group-title="General Streams",CUATRO
+http://163.172.213.25:8000/live/sebas/sebas/151.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CUATRO HD" tvg-logo="" group-title="General Streams",CUATRO HD
+http://163.172.213.25:8000/live/sebas/sebas/180.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINCO" tvg-logo="http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png" group-title="General Streams",TELECINCO
+http://163.172.213.25:8000/live/sebas/sebas/6.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINCO HD" tvg-logo="" group-title="General Streams",TELECINCO HD
+http://163.172.213.25:8000/live/sebas/sebas/181.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA SEXTA" tvg-logo="http://www.tecnocolor.tv/canals/lasextahd.jpg" group-title="General Streams",LA SEXTA
+http://163.172.213.25:8000/live/sebas/sebas/8.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="General Streams",LA SEXTA HD
+http://163.172.213.25:8000/live/sebas/sebas/306.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ENERGY" tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="General Streams",ENERGY
+http://163.172.213.25:8000/live/sebas/sebas/33.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA" tvg-logo="http://www.antena3.com/imagesranking/4/3/43EcFjPT.jpg" group-title="General Streams",NOVA
+http://163.172.213.25:8000/live/sebas/sebas/88.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MEGA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.dgk8Rc36SGqwirwOPBJICgEsDH&pid=15.1&P=0&w=261&h=174" group-title="General Streams",MEGA
+http://163.172.213.25:8000/live/sebas/sebas/89.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BE MAD HD" tvg-logo="http://telecincostatic-a.akamaihd.net/telemania/Logo-Be-Mad_MDSIMA20160421_0484_36.jpg" group-title="General Streams",BE MAD HD
+http://163.172.213.25:8000/live/sebas/sebas/159.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DKISS" tvg-logo="http://www.kissfm.es/wp-content/uploads/2016/04/DKISS-WEB.png" group-title="General Streams",DKISS
+http://163.172.213.25:8000/live/sebas/sebas/85.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TEN" tvg-logo="" group-title="General Streams",TEN
+http://163.172.213.25:8000/live/sebas/sebas/169.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DIVINITY" tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo.jpg" group-title="General Streams",DIVINITY
+http://163.172.213.25:8000/live/sebas/sebas/86.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FDF" tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="General Streams",FDF
+http://163.172.213.25:8000/live/sebas/sebas/29.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ATRESERIES HD" tvg-logo="http://omicrono.elespanol.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="General Streams",ATRESERIES HD
+http://163.172.213.25:8000/live/sebas/sebas/30.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NEOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="General Streams",NEOX HD
+http://163.172.213.25:8000/live/sebas/sebas/32.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------CINE------" tvg-logo="" group-title="",--------CINE------
+http://163.172.213.25:8000/live/sebas/sebas/71.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="# 0 HD" tvg-logo="https://pbs.twimg.com/profile_images/681420332322918400/-CD4VuPl.png" group-title="General Streams",# 0 HD
+http://163.172.213.25:8000/live/sebas/sebas/10.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. ESTRENOS HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png" group-title="General Streams",M. ESTRENOS HD
+http://163.172.213.25:8000/live/sebas/sebas/35.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. ACCION HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png/revision/latest?cb=20160707190742" group-title="General Streams",M. ACCION HD
+http://163.172.213.25:8000/live/sebas/sebas/37.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. DCINE HD" tvg-logo="http://pirlotvlive.es/image/canal/movistar-dcine.png" group-title="General Streams",M. DCINE HD
+http://163.172.213.25:8000/live/sebas/sebas/39.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. COMEDIA HD" tvg-logo="data:image/png;base64,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" group-title="General Streams",M. COMEDIA HD
+http://163.172.213.25:8000/live/sebas/sebas/38.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. CINE Ñ" tvg-logo="data:image/jpeg;base64,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" group-title="General Streams",M. CINE Ñ
+http://163.172.213.25:8000/live/sebas/sebas/106.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL HOLLYWOOD" tvg-logo="http://www.exclusivadigital.com/fotos/13262811851.jpg" group-title="General Streams",CANAL HOLLYWOOD
+http://163.172.213.25:8000/live/sebas/sebas/41.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DARK" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Buzz/Buzz_.png" group-title="General Streams",DARK
+http://163.172.213.25:8000/live/sebas/sebas/43.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="General Streams",XTRM
+http://163.172.213.25:8000/live/sebas/sebas/44.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SOMOS" tvg-logo="https://pbs.twimg.com/profile_images/2289287465/bfby9tjsxymaa13b38zg_400x400.jpeg" group-title="General Streams",SOMOS
+http://163.172.213.25:8000/live/sebas/sebas/45.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LIFE TV" tvg-logo="http://radioqrzlatina.com/attachments/Image/LOGO-LIFE-TV-.png?template=generic" group-title="General Streams",LIFE TV
+http://163.172.213.25:8000/live/sebas/sebas/112.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="General Streams",SUNDANCE
+http://163.172.213.25:8000/live/sebas/sebas/42.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.cineytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="General Streams",PARAMOUNT CHANNEL
+http://163.172.213.25:8000/live/sebas/sebas/47.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="http://multipress.com.mx/wp-content/uploads/2014/05/Comedy-Central-latam.jpg" group-title="General Streams",COMEDY CENTRAL
+http://163.172.213.25:8000/live/sebas/sebas/19.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="COSMOPOLITAN HD" tvg-logo="" group-title="General Streams",COSMOPOLITAN HD
+http://163.172.213.25:8000/live/sebas/sebas/21.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------SERIES--------" tvg-logo="" group-title="",--------SERIES--------
+http://163.172.213.25:8000/live/sebas/sebas/81.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="http://www.syfy.es/sites/syfy.es/files/default.jpg" group-title="General Streams",SYFY
+http://163.172.213.25:8000/live/sebas/sebas/26.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="General Streams",TNT
+http://163.172.213.25:8000/live/sebas/sebas/18.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="" group-title="General Streams",TCM
+http://163.172.213.25:8000/live/sebas/sebas/40.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="General Streams",FOX HD
+http://163.172.213.25:8000/live/sebas/sebas/15.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CALLE 13" tvg-logo="" group-title="General Streams",CALLE 13
+http://163.172.213.25:8000/live/sebas/sebas/20.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="" group-title="General Streams",FOX LIFE
+http://163.172.213.25:8000/live/sebas/sebas/165.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="General Streams",FOX LIFE HD
+http://163.172.213.25:8000/live/sebas/sebas/113.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="General Streams",AXN HD
+http://163.172.213.25:8000/live/sebas/sebas/16.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="General Streams",AXN WHITE HD
+http://163.172.213.25:8000/live/sebas/sebas/25.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="General Streams",AMC
+http://163.172.213.25:8000/live/sebas/sebas/22.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. SERIES XTRA" tvg-logo="" group-title="General Streams",M. SERIES XTRA
+http://163.172.213.25:8000/live/sebas/sebas/13.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. SERIES XTRA HD" tvg-logo="" group-title="General Streams",M. SERIES XTRA HD
+http://163.172.213.25:8000/live/sebas/sebas/14.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. SERIES HD" tvg-logo="" group-title="General Streams",M. SERIES HD
+http://163.172.213.25:8000/live/sebas/sebas/12.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. XTRA HD" tvg-logo="" group-title="General Streams",M. XTRA HD
+http://163.172.213.25:8000/live/sebas/sebas/36.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="------NOTICIAS------" tvg-logo="" group-title="General Streams",------NOTICIAS------
+http://163.172.213.25:8000/live/sebas/sebas/176.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="INTERCONOMIA" tvg-logo="" group-title="General Streams",INTERCONOMIA
+http://163.172.213.25:8000/live/sebas/sebas/308.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="24 HORAS" tvg-logo="" group-title="General Streams",24 HORAS
+http://163.172.213.25:8000/live/sebas/sebas/307.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="General Streams",RT NOTICIAS
+http://163.172.213.25:8000/live/sebas/sebas/174.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DW NOTICIAS" tvg-logo="" group-title="General Streams",DW NOTICIAS
+http://163.172.213.25:8000/live/sebas/sebas/175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------AUTONOMICAS---------" tvg-logo="" group-title="",--------AUTONOMICAS---------
+http://163.172.213.25:8000/live/sebas/sebas/87.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NON STOP PEOPLE" tvg-logo="" group-title="General Streams",NON STOP PEOPLE
+http://163.172.213.25:8000/live/sebas/sebas/27.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV CANARIA" tvg-logo="" group-title="General Streams",TV CANARIA
+http://163.172.213.25:8000/live/sebas/sebas/104.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LANCELOT TV" tvg-logo="" group-title="General Streams",LANCELOT TV
+http://163.172.213.25:8000/live/sebas/sebas/263.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SUR" tvg-logo="" group-title="General Streams",CANAL SUR
+http://163.172.213.25:8000/live/sebas/sebas/11.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EL CORREO TV" tvg-logo="" group-title="General Streams",EL CORREO TV
+http://163.172.213.25:8000/live/sebas/sebas/173.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMADRID" tvg-logo="" group-title="General Streams",TELEMADRID
+http://163.172.213.25:8000/live/sebas/sebas/155.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA OTRA" tvg-logo="" group-title="General Streams",LA OTRA
+http://163.172.213.25:8000/live/sebas/sebas/142.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARAGON TV" tvg-logo="" group-title="General Streams",ARAGON TV
+http://163.172.213.25:8000/live/sebas/sebas/171.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV3" tvg-logo="" group-title="",TV3
+http://163.172.213.25:8000/live/sebas/sebas/105.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="3/24" tvg-logo="" group-title="General Streams",3/24
+http://163.172.213.25:8000/live/sebas/sebas/196.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IB3" tvg-logo="" group-title="General Streams",IB3
+http://163.172.213.25:8000/live/sebas/sebas/147.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="8 TV" tvg-logo="" group-title="General Streams",8 TV
+http://163.172.213.25:8000/live/sebas/sebas/143.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TELESUR" tvg-logo="" group-title="General Streams",TELESUR
+http://163.172.213.25:8000/live/sebas/sebas/154.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CUBAVICION" tvg-logo="" group-title="General Streams",CUBAVICION
+http://163.172.213.25:8000/live/sebas/sebas/153.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="13 TV" tvg-logo="" group-title="General Streams",13 TV
+http://163.172.213.25:8000/live/sebas/sebas/170.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HTV" tvg-logo="" group-title="General Streams",HTV
+http://163.172.213.25:8000/live/sebas/sebas/220.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CYL7" tvg-logo="" group-title="General Streams",CYL7
+http://163.172.213.25:8000/live/sebas/sebas/219.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ONDA AZUL MALAGA" tvg-logo="" group-title="General Streams",ONDA AZUL MALAGA
+http://163.172.213.25:8000/live/sebas/sebas/300.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="--------DEPORTES------" tvg-logo="" group-title="",--------DEPORTES------
+http://163.172.213.25:8000/live/sebas/sebas/79.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA LIGA TV BAR HD" tvg-logo="" group-title="General Streams",LA LIGA TV BAR HD
+http://163.172.213.25:8000/live/sebas/sebas/103.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LA LIGA TV BAR" tvg-logo="" group-title="General Streams",LA LIGA TV BAR
+http://163.172.213.25:8000/live/sebas/sebas/188.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="General Streams",BEIN LA LIGA HD
+http://163.172.213.25:8000/live/sebas/sebas/49.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN LA LIGA" tvg-logo="" group-title="General Streams",BEIN LA LIGA
+http://163.172.213.25:8000/live/sebas/sebas/187.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="General Streams",BEIN SPORT HD
+http://163.172.213.25:8000/live/sebas/sebas/189.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT" tvg-logo="" group-title="General Streams",BEIN SPORT
+http://163.172.213.25:8000/live/sebas/sebas/52.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A1 SPORT" tvg-logo="" group-title="General Streams",A1 SPORT
+http://163.172.213.25:8000/live/sebas/sebas/262.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PARTIDAZO HD" tvg-logo="" group-title="General Streams",PARTIDAZO HD
+http://163.172.213.25:8000/live/sebas/sebas/182.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. FUTBOL" tvg-logo="" group-title="General Streams",M. FUTBOL
+http://163.172.213.25:8000/live/sebas/sebas/48.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES 1 HD" tvg-logo="" group-title="General Streams",M. DEPORTES 1 HD
+http://163.172.213.25:8000/live/sebas/sebas/56.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES 2 HD" tvg-logo="" group-title="General Streams",M. DEPORTES 2 HD
+http://163.172.213.25:8000/live/sebas/sebas/57.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. ESPORTS" tvg-logo="" group-title="General Streams",M. ESPORTS
+http://163.172.213.25:8000/live/sebas/sebas/34.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GOL TV" tvg-logo="" group-title="General Streams",GOL TV
+http://163.172.213.25:8000/live/sebas/sebas/63.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. MOTO GP HD" tvg-logo="" group-title="General Streams",M. MOTO GP HD
+http://163.172.213.25:8000/live/sebas/sebas/59.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. FORMULA 1 HD" tvg-logo="" group-title="General Streams",M. FORMULA 1 HD
+http://163.172.213.25:8000/live/sebas/sebas/58.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEINLALIGA 1 HD" tvg-logo="" group-title="General Streams",BEINLALIGA 1 HD
+http://163.172.213.25:8000/live/sebas/sebas/212.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEINLALIGA 2 HD" tvg-logo="" group-title="General Streams",BEINLALIGA 2 HD
+http://163.172.213.25:8000/live/sebas/sebas/213.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN MAX 1 HD" tvg-logo="" group-title="General Streams",BEIN MAX 1 HD
+http://163.172.213.25:8000/live/sebas/sebas/210.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN MAX 2 HD" tvg-logo="" group-title="",BEIN MAX 2 HD
+http://163.172.213.25:8000/live/sebas/sebas/211.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M. GOLF" tvg-logo="" group-title="General Streams",M. GOLF
+http://163.172.213.25:8000/live/sebas/sebas/60.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT1" tvg-logo="" group-title="General Streams",EUROSPORT1
+http://163.172.213.25:8000/live/sebas/sebas/61.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="General Streams",EUROSPORT 2
+http://163.172.213.25:8000/live/sebas/sebas/62.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TELEDEPORTES" tvg-logo="" group-title="General Streams",TELEDEPORTES
+http://163.172.213.25:8000/live/sebas/sebas/64.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORTS" tvg-logo="" group-title="General Streams",TYC SPORTS
+http://163.172.213.25:8000/live/sebas/sebas/309.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RED BULL TV" tvg-logo="" group-title="General Streams",RED BULL TV
+http://163.172.213.25:8000/live/sebas/sebas/184.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV" tvg-logo="" group-title="General Streams",REAL MADRID TV
+http://163.172.213.25:8000/live/sebas/sebas/108.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BARCA TV" tvg-logo="" group-title="General Streams",BARCA TV
+http://163.172.213.25:8000/live/sebas/sebas/55.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TOROS TV" tvg-logo="" group-title="General Streams",TOROS TV
+http://163.172.213.25:8000/live/sebas/sebas/67.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="-------INFANTIL----------" tvg-logo="" group-title="",-------INFANTIL----------
+http://163.172.213.25:8000/live/sebas/sebas/93.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="" group-title="General Streams",NICKELODEON
+http://163.172.213.25:8000/live/sebas/sebas/94.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANIME" tvg-logo="" group-title="General Streams",ANIME
+http://163.172.213.25:8000/live/sebas/sebas/161.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR" tvg-logo="" group-title="General Streams",NICK JR
+http://163.172.213.25:8000/live/sebas/sebas/92.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" group-title="General Streams",DISNEY XD
+http://163.172.213.25:8000/live/sebas/sebas/95.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="General Streams",DISNEY CHANNEL
+http://163.172.213.25:8000/live/sebas/sebas/96.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CLAN" tvg-logo="" group-title="General Streams",CLAN
+http://163.172.213.25:8000/live/sebas/sebas/98.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="General Streams",BOING
+http://163.172.213.25:8000/live/sebas/sebas/97.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV" tvg-logo="" group-title="General Streams",BABY TV
+http://163.172.213.25:8000/live/sebas/sebas/90.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PANDA" tvg-logo="" group-title="General Streams",CANAL PANDA
+http://163.172.213.25:8000/live/sebas/sebas/260.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="-------DOCUMENTALES-------" tvg-logo="" group-title="",-------DOCUMENTALES-------
+http://163.172.213.25:8000/live/sebas/sebas/77.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="General Streams",NATIONAL GEOGRAPHIC HD
+http://163.172.213.25:8000/live/sebas/sebas/68.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="General Streams",NAT GEO WILD
+http://163.172.213.25:8000/live/sebas/sebas/69.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA" tvg-logo="" group-title="General Streams",HISTORIA
+http://163.172.213.25:8000/live/sebas/sebas/70.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="General Streams",DISCOVERY CHANNEL
+http://163.172.213.25:8000/live/sebas/sebas/72.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DMAX" tvg-logo="" group-title="General Streams",DMAX
+http://163.172.213.25:8000/live/sebas/sebas/137.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="General Streams",CANAL ODISEA
+http://163.172.213.25:8000/live/sebas/sebas/75.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="" group-title="General Streams",A&E
+http://163.172.213.25:8000/live/sebas/sebas/78.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRIMEN & INVESTIGACION" tvg-logo="" group-title="General Streams",CRIMEN & INVESTIGACION
+http://163.172.213.25:8000/live/sebas/sebas/82.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA" tvg-logo="" group-title="General Streams",IBERALIA
+http://163.172.213.25:8000/live/sebas/sebas/66.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="General Streams",CAZA Y PESCA
+http://163.172.213.25:8000/live/sebas/sebas/65.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL COCINA" tvg-logo="" group-title="General Streams",CANAL COCINA
+http://163.172.213.25:8000/live/sebas/sebas/83.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL DE CASA" tvg-logo="" group-title="General Streams",CANAL DE CASA
+http://163.172.213.25:8000/live/sebas/sebas/84.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIAJAR" tvg-logo="" group-title="General Streams",VIAJAR
+http://163.172.213.25:8000/live/sebas/sebas/80.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRAVEL TV HD" tvg-logo="" group-title="General Streams",TRAVEL TV HD
+http://163.172.213.25:8000/live/sebas/sebas/172.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="-------MUSICA-------" tvg-logo="" group-title="",-------MUSICA-------
+http://163.172.213.25:8000/live/sebas/sebas/102.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="" group-title="General Streams",VH1
+http://163.172.213.25:8000/live/sebas/sebas/99.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV ESPAÑA" tvg-logo="" group-title="General Streams",MTV ESPAÑA
+http://163.172.213.25:8000/live/sebas/sebas/28.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV DANCE" tvg-logo="" group-title="General Streams",MTV DANCE
+http://163.172.213.25:8000/live/sebas/sebas/156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="STARS TV MUSIC" tvg-logo="" group-title="General Streams",STARS TV MUSIC
+http://163.172.213.25:8000/live/sebas/sebas/264.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SOL MUSICA" tvg-logo="" group-title="General Streams",SOL MUSICA
+http://163.172.213.25:8000/live/sebas/sebas/107.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DELUXE MUSIC" tvg-logo="" group-title="General Streams",DELUXE MUSIC
+http://163.172.213.25:8000/live/sebas/sebas/150.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CITY" tvg-logo="" group-title="General Streams",CITY
+http://163.172.213.25:8000/live/sebas/sebas/144.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M2O TV" tvg-logo="" group-title="General Streams",M2O TV
+http://163.172.213.25:8000/live/sebas/sebas/158.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HIT TV" tvg-logo="" group-title="General Streams",HIT TV
+http://163.172.213.25:8000/live/sebas/sebas/166.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FORMUSIC TV" tvg-logo="" group-title="General Streams",FORMUSIC TV
+http://163.172.213.25:8000/live/sebas/sebas/177.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="-------TAQUILLA-------" tvg-logo="" group-title="General Streams",-------TAQUILLA-------
+http://163.172.213.25:8000/live/sebas/sebas/140.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UNDERWORLD: GUERRAS DE SANGRE" tvg-logo="http://163.172.213.25:8000/images/3717252.jpg" group-title="General Movies",UNDERWORLD: GUERRAS DE SANGRE
+http://163.172.213.25:8000/movie/sebas/sebas/218.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="SULLY" tvg-logo="http://163.172.213.25:8000/images/3263904.jpg" group-title="General Movies",SULLY
+http://163.172.213.25:8000/movie/sebas/sebas/139.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="UN MONSTRUO VIENE A VERME" tvg-logo="http://163.172.213.25:8000/images/3416532.jpg" group-title="General Movies",UN MONSTRUO VIENE A VERME
+http://163.172.213.25:8000/movie/sebas/sebas/141.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="¡CANTA!" tvg-logo="http://163.172.213.25:8000/images/3470600.jpg" group-title="General Movies",¡CANTA!
+http://163.172.213.25:8000/movie/sebas/sebas/194.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="--------ADULTOS--------" tvg-logo="" group-title="",--------ADULTOS--------
+http://163.172.213.25:8000/live/sebas/sebas/101.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PLAYBOY TV" tvg-logo="" group-title="General Streams",PLAYBOY TV
+http://163.172.213.25:8000/live/sebas/sebas/100.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BRAZZERS (+18)" tvg-logo="" group-title="General Streams",BRAZZERS (+18)
+http://163.172.213.25:8000/live/sebas/sebas/261.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="JASMIN TV (+18)" tvg-logo="" group-title="General Streams",JASMIN TV (+18)
+http://163.172.213.25:8000/live/sebas/sebas/164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANDY TV (+18)" tvg-logo="" group-title="General Streams",CANDY TV (+18)
+http://163.172.213.25:8000/live/sebas/sebas/163.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VENUS (+18)" tvg-logo="" group-title="General Streams",VENUS (+18)
+http://163.172.213.25:8000/live/sebas/sebas/312.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HOT (+18)" tvg-logo="" group-title="General Streams",HOT (+18)
+http://163.172.213.25:8000/live/sebas/sebas/314.m3u8
 
 #EXTINF:-1,ES: Nickelodeon HD
 http://hbox.cdnss.com/live/isfckegq/v2a4w6bp/2851.ts
