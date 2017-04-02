@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+
+#EXTINF:-1, LA 1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+
+#EXTINF:-1, cuatro
+http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro
+
 #EXTINF:-1 tvg-id="Globo.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO NORDESTE [COLOR gray] RedeCanais[/COLOR]
 http://tv.redecanais.com:1935/redecanaisglobo/myStream/playlist.m3u8
 
