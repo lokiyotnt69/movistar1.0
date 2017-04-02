@@ -11,11 +11,54 @@ http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro
 http://www.apps4two.com/apps/tvonline/rm2access.php?o=telecinco
 #EXTINF:-1, La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1, A3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, Nova
+http://a3live-lh.akamaihd.net/i/geonova_1@379404/index_2_av-b.m3u8
+#EXTINF:-1, Neox
+http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Mega
+http://a3live-lh.akamaihd.net/i/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Be Mad TV
+http://www.apps4two.com/apps/tvonline/rm2access.php?o=bemad
+#EXTINF:-1, Divinity
+http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity
+#EXTINF:-1, Paramount Channel
+http://paramount.live.flumotion.com/live/chunklist.m3u8
+#EXTINF:-1, Disney Channel
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
+#EXTINF:-1, 24h
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
+#EXTINF:-1, Teledeporte
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live.m3u8
+#EXTINF:-1, Teledeporte HD
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8
+#EXTINF:-1, TVE 60 aniversario
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1, DMax
+http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA 
+#EXTINF:-1, FDF
+http://cdn.sitenow.me/live/fdfhd_xrewtt/chunklist.m3u8
+#EXTINF:-1, Ten
+http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
 
 #EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 
 #EXTINF:-1 tvg-id="Globo.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO NORDESTE [COLOR gray] RedeCanais[/COLOR]
 http://tv.redecanais.com:1935/redecanaisglobo/myStream/playlist.m3u8
