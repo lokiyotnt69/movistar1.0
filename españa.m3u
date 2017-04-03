@@ -1,66 +1,152 @@
 #EXTM3U
 
-#EXTINF:-1,test 1
-http://mamahd.com/box-nation-live-streaming-free-1.html
-#EXTINF:-1,# 0 HD
-http://163.172.213.25:8000/live/demo/demo/10.m3u8
-#EXTINF:-1,M. ESTRENOS HD
-http://163.172.213.25:8000/live/demo/demo/35.m3u8
-#EXTINF:-1,M. ACCION HD
-http://163.172.213.25:8000/live/demo/demo/37.m3u8
-#EXTINF:-1,M. DCINE HD
-http://163.172.213.25:8000/live/demo/demo/39.m3u8
-#EXTINF:-1,M. COMEDIA HD
-http://163.172.213.25:8000/live/demo/demo/38.m3u8
-#EXTINF:-1,M. CINE Ñ
-http://163.172.213.25:8000/live/demo/demo/106.m3u8
-#EXTINF:-1,CANAL HOLLYWOOD
-http://163.172.213.25:8000/live/demo/demo/41.m3u8
-#EXTINF:-1,DARK
-http://163.172.213.25:8000/live/demo/demo/43.m3u8
-#EXTINF:-1,XTRM
-http://163.172.213.25:8000/live/demo/demo/44.m3u8
-#EXTINF:-1,SOMOS
-http://163.172.213.25:8000/live/demo/demo/45.m3u8
-#EXTINF:-1,LIFE TV
-http://163.172.213.25:8000/live/demo/demo/112.m3u8
-#EXTINF:-1,SUNDANCE
-http://163.172.213.25:8000/live/demo/demo/42.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://163.172.213.25:8000/live/demo/demo/47.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://163.172.213.25:8000/live/demo/demo/19.m3u8
-#EXTINF:-1,COSMOPOLITAN HD
-http://163.172.213.25:8000/live/demo/demo/21.m3u8
-#EXTINF:-1,--------SERIES--------
-http://163.172.213.25:8000/live/demo/demo/81.m3u8
-#EXTINF:-1,SYFY
-http://163.172.213.25:8000/live/demo/demo/26.m3u8
-#EXTINF:-1,SYFY HD
-http://163.172.213.25:8000/live/demo/demo/339.m3u8
-#EXTINF:-1,TNT
-http://163.172.213.25:8000/live/demo/demo/18.m3u8
-#EXTINF:-1,TCM
-http://163.172.213.25:8000/live/demo/demo/40.m3u8
-#EXTINF:-1,FOX HD
-http://163.172.213.25:8000/live/demo/demo/15.m3u8
-#EXTINF:-1,FOX
-http://163.172.213.25:8000/live/demo/demo/391.m3u8
-#EXTINF:-1,CALLE 13
-http://163.172.213.25:8000/live/demo/demo/20.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://163.172.213.25:8000/live/demo/demo/340.m3u8
-#EXTINF:-1,FOX LIFE
-http://163.172.213.25:8000/live/demo/demo/165.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://163.172.213.25:8000/live/demo/demo/113.m3u8
-#EXTINF:-1,AXN HD
-http://163.172.213.25:8000/live/demo/demo/16.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://163.172.213.25:8000/live/demo/demo/25.m3u8
-#EXTINF:-1,AMC
-http://163.172.213.25:8000/live/demo/demo/22.m3u8
-#EXTINF:-1,M. SERIES XTRA
-http://163.172.213.25:8000/live/demo/demo/13.m3u8
-#EXTINF:-1,M. SERIES XTRA HD
-http://163.172.213.25:8000/live/demo/demo/14.m3u8
+#EXTINF:1,GeantSat.comES_CANAL+_1
+http://149.202.81.112:8000/live/meddeb151/benothm/787.ts
+#EXTINF:1,GeantSat.comES_CANAL_2
+http://149.202.81.112:8000/live/meddeb151/benothm/745.ts
+#EXTINF:1,GeantSat.comES_CANAL+_SERIES
+http://149.202.81.112:8000/live/meddeb151/benothm/885.ts
+#EXTINF:1,GeantSat.comES_CANAL+_SERIES_XTRA
+http://149.202.81.112:8000/live/meddeb151/benothm/850.ts
+#EXTINF:1,GeantSat.comES_CANAL+_GOLF
+http://149.202.81.112:8000/live/meddeb151/benothm/738.ts
+#EXTINF:1,GeantSat.comES_CANAL_COCINA
+http://149.202.81.112:8000/live/meddeb151/benothm/799.ts
+#EXTINF:1,GeantSat.comES_CANAL_ACTION
+http://149.202.81.112:8000/live/meddeb151/benothm/791.ts
+#EXTINF:1,GeantSat.comES_CANAL+_XTRA
+http://149.202.81.112:8000/live/meddeb151/benothm/1419.ts
+#EXTINF:1,GeantSat.comES_CANAL+_LIGA_HD
+http://149.202.81.112:8000/live/meddeb151/benothm/795.ts
+#EXTINF:1,GeantSat.comES_CANAL+_HD
+http://149.202.81.112:8000/live/meddeb151/benothm/766.ts
+#EXTINF:1,GeantSat.comES_CANAL+_FUTBOL
+http://149.202.81.112:8000/live/meddeb151/benothm/793.ts
+#EXTINF:1,GeantSat.comES_CANAL+_ESTRENOS HD
+http://149.202.81.112:8000/live/meddeb151/benothm/776.ts
+#EXTINF:1,GeantSat.comES_CANAL+_DCINE
+http://149.202.81.112:8000/live/meddeb151/benothm/785.ts
+#EXTINF:1,GeantSat.comES_CANAL+_COMEDIA
+http://149.202.81.112:8000/live/meddeb151/benothm/792.ts
+#EXTINF:1,GeantSat.comES_CANAL_ESTREDOS
+http://149.202.81.112:8000/live/meddeb151/benothm/1397.ts
+#EXTINF:1,GeantSat.comES_CANAL+_TOROS
+http://149.202.81.112:8000/live/meddeb151/benothm/796.ts
+#EXTINF:1,GeantSat.comES_SERIES_EXTRA
+http://149.202.81.112:8000/live/meddeb151/benothm/840.ts
+#EXTINF:1,GeantSat.comES_CANAL_DEPORTES
+http://149.202.81.112:8000/live/meddeb151/benothm/3937.ts
+#EXTINF:1,GeantSat.comES_CANAL_DEPORTES_2
+http://149.202.81.112:8000/live/meddeb151/benothm/3935.ts
+#EXTINF:1,GeantSat.comES_C+_DEPORTES
+http://149.202.81.112:8000/live/meddeb151/benothm/504.ts
+#EXTINF:1,GeantSat.comES_MOVIESTAR_F1
+http://149.202.81.112:8000/live/meddeb151/benothm/803.ts
+#EXTINF:1,GeantSat.comES_ANDALUCIA
+http://149.202.81.112:8000/live/meddeb151/benothm/5121.ts
+#EXTINF:1,GeantSat.comES_FOX_LIFE
+http://149.202.81.112:8000/live/meddeb151/benothm/789.ts
+#EXTINF:1,GeantSat.comES_FOX
+http://149.202.81.112:8000/live/meddeb151/benothm/856.ts
+#EXTINF:1,GeantSat.comES_LA_1
+http://149.202.81.112:8000/live/meddeb151/benothm/816.ts
+#EXTINF:1,GeantSat.comES_LA_2
+http://149.202.81.112:8000/live/meddeb151/benothm/800.ts
+#EXTINF:1,GeantSat.comES_NICK_JUNIOR
+http://149.202.81.112:8000/live/meddeb151/benothm/1777.ts
+#EXTINF:1,GeantSat.comES_BOING
+http://149.202.81.112:8000/live/meddeb151/benothm/774.ts
+#EXTINF:1,GeantSat.comES_DISNEY_XD
+http://149.202.81.112:8000/live/meddeb151/benothm/741.ts
+#EXTINF:1,GeantSat.comES_DISNEY_CHANNEL
+http://149.202.81.112:8000/live/meddeb151/benothm/817.ts
+#EXTINF:1,GeantSat.comES_DISNEY_JUNIOR
+http://149.202.81.112:8000/live/meddeb151/benothm/784.ts
+#EXTINF:1,GeantSat.comES_NICKELODEON
+http://149.202.81.112:8000/live/meddeb151/benothm/797.ts
+#EXTINF:1,GeantSat.comES_SYFY
+http://149.202.81.112:8000/live/meddeb151/benothm/842.ts
+#EXTINF:1,GeantSat.comES_MOVIESTAR_MOTOGP
+http://149.202.81.112:8000/live/meddeb151/benothm/765.ts
+#EXTINF:1,GeantSat.comES_B_SPORTS
+http://149.202.81.112:8000/live/meddeb151/benothm/3938.ts
+#EXTINF:1,GeantSat.comES_EUROSPORT_1
+http://149.202.81.112:8000/live/meddeb151/benothm/855.ts
+#EXTINF:1,GeantSat.comES_EUROSPORT_2
+http://149.202.81.112:8000/live/meddeb151/benothm/852.ts
+#EXTINF:1,GeantSat.comES_REAL_MADRID_TV
+http://149.202.81.112:8000/live/meddeb151/benothm/851.ts
+#EXTINF:1,GeantSat.comES_TNT_ES
+http://149.202.81.112:8000/live/meddeb151/benothm/847.ts
+#EXTINF:1,GeantSat.comES_TELEDEPORTE
+http://149.202.81.112:8000/live/meddeb151/benothm/848.ts
+#EXTINF:1,GeantSat.comES_ENERGY
+http://149.202.81.112:8000/live/meddeb151/benothm/4746.ts
+#EXTINF:1,GeantSat.comES_CUATRO
+http://149.202.81.112:8000/live/meddeb151/benothm/837.ts
+#EXTINF:1,GeantSat.comES_TELECINCO
+http://149.202.81.112:8000/live/meddeb151/benothm/508.ts
+#EXTINF:1,GeantSat.comES_PANDA
+http://149.202.81.112:8000/live/meddeb151/benothm/843.ts
+#EXTINF:1,GeantSat.comES_NOVA_SPAIN
+http://149.202.81.112:8000/live/meddeb151/benothm/788.ts
+#EXTINF:1,GeantSat.comES_MEGA
+http://149.202.81.112:8000/live/meddeb151/benothm/764.ts
+#EXTINF:1,GeantSat.comES_LA_SEXTA
+http://149.202.81.112:8000/live/meddeb151/benothm/790.ts
+#EXTINF:1,GeantSat.comES_HOLLYWOOD
+http://149.202.81.112:8000/live/meddeb151/benothm/802.ts
+#EXTINF:1,GeantSat.comES_FDF_SPAIN
+http://149.202.81.112:8000/live/meddeb151/benothm/801.ts
+#EXTINF:1,GeantSat.comES_CLAN_TVE
+http://149.202.81.112:8000/live/meddeb151/benothm/849.ts
+#EXTINF:1,GeantSat.comES_HISTORIA
+http://149.202.81.112:8000/live/meddeb151/benothm/841.ts
+#EXTINF:1,GeantSat.comES_NATIONAL_GEO_WILD
+http://149.202.81.112:8000/live/meddeb151/benothm/836.ts
+#EXTINF:1,GeantSat.comES_NATIONAL_GEO
+http://149.202.81.112:8000/live/meddeb151/benothm/804.ts
+#EXTINF:1,GeantSat.comES_DISCOVERY
+http://149.202.81.112:8000/live/meddeb151/benothm/742.ts
+#EXTINF:1,GeantSat.comES_CALLE_13
+http://149.202.81.112:8000/live/meddeb151/benothm/1400.ts
+#EXTINF:1,GeantSat.comES_EURO_NEWS
+http://149.202.81.112:8000/live/meddeb151/benothm/1773.ts
+#EXTINF:1,GeantSat.comES_BARCA_TV
+http://149.202.81.112:8000/live/meddeb151/benothm/775.ts
+#EXTINF:1,GeantSat.comES_A_E_SPAIN
+http://149.202.81.112:8000/live/meddeb151/benothm/779.ts
+#EXTINF:1,GeantSat.comES_AXN_WHITE
+http://149.202.81.112:8000/live/meddeb151/benothm/777.ts
+#EXTINF:1,GeantSat.comES_TVE_LA_1
+http://149.202.81.112:8000/live/meddeb151/benothm/3932.ts
+#EXTINF:1,GeantSat.comES_TVE_LA_2
+http://149.202.81.112:8000/live/meddeb151/benothm/3934.ts
+#EXTINF:1,GeantSat.comES_MTV_ROCKS
+http://149.202.81.112:8000/live/meddeb151/benothm/1776.ts
+#EXTINF:1,GeantSat.comES_AMC
+http://149.202.81.112:8000/live/meddeb151/benothm/1775.ts
+#EXTINF:1,GeantSat.comES_AXN
+http://149.202.81.112:8000/live/meddeb151/benothm/778.ts
+#EXTINF:1,GeantSat.comES_#0
+http://149.202.81.112:8000/live/meddeb151/benothm/794.ts
+#EXTINF:1,GeantSat.comES_40_TV
+http://149.202.81.112:8000/live/meddeb151/benothm/763.ts
+#EXTINF:1,GeantSat.comES_NEOX
+http://149.202.81.112:8000/live/meddeb151/benothm/839.ts
+#EXTINF:1,GeantSat.comES_ANTENA_3_HD
+http://149.202.81.112:8000/live/meddeb151/benothm/502.ts
+#EXTINF:1,GeantSat.comES_TAQUILLA_1
+http://149.202.81.112:8000/live/meddeb151/benothm/890.ts
+#EXTINF:1,GeantSat.comES_TAQUILLA_2
+http://149.202.81.112:8000/live/meddeb151/benothm/423.ts
+#EXTINF:1,GeantSat.comES_TAQUILLA_3
+http://149.202.81.112:8000/live/meddeb151/benothm/282.ts
+#EXTINF:1,GeantSat.comES_TAQUILLA_4
+http://149.202.81.112:8000/live/meddeb151/benothm/265.ts
+#EXTINF:1,GeantSat.comES_TAQUILLA_5
+http://149.202.81.112:8000/live/meddeb151/benothm/904.ts
+#EXTINF:1,GeantSat.comES_TAQUILLA_6
+http://149.202.81.112:8000/live/meddeb151/benothm/858.ts
+#EXTINF:1,GeantSat.comES_TAQUILLA_7
+http://149.202.81.112:8000/live/meddeb151/benothm/854.ts
