@@ -19,7 +19,14 @@ http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1979.ts
 http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1978.ts
 #EXTINF:-1,ES: #0 HD
 http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1977.ts
-
+#EXTINF:-1,La: F1 HD
+http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1469.m3u8
+#EXTINF:-1,La: Fox 1 HD
+http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1468.m3u8
+#EXTINF:-1,La: Fox Action HD
+http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1467.m3u8
+#EXTINF:-1,La: Fox Cinema HD
+http://basic.ioiptv.com:8000/live/alejandroorellanacasa/1234/1466.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", bein n 1
 
