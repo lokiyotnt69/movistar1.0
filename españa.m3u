@@ -1,104 +1,601 @@
 #EXTM3U
 
 
+EXTINF:-1,History HD
 
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/8a5d494b580d6bf63acf6e85fe8b8421ab2dd730/MXl/89/index.m3u8
 
-#EXTINF:-1 ,#0   ESPAÑA 1 
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/152.m3u8
-#EXTINF:-1 ,AMC Spain   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2756.m3u8
-#EXTINF:-1 ,Antena 3   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/971.m3u8
-#EXTINF:-1 ,AXN   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1601.m3u8
-#EXTINF:-1 ,Barca TV   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1037.m3u8
-#EXTINF:-1 ,Bein LaLiga   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1590.m3u8
-#EXTINF:-1 ,Bein sPORT   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/578.m3u8
-#EXTINF:-1 ,Boing   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1540.m3u8
-#EXTINF:-1 ,Calle 13   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1039.m3u8
-#EXTINF:-1 ,Caza y Pesca   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1597.m3u8
-#EXTINF:-1 ,Clan   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1541.m3u8
-#EXTINF:-1 ,Comedy Central   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1593.m3u8
-#EXTINF:-1 ,Cuatro   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/153.m3u8
-#EXTINF:-1 ,DeCasa   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1599.m3u8
-#EXTINF:-1 ,Discovery   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1600.m3u8
-#EXTINF:-1 ,Disney   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1539.m3u8
-#EXTINF:-1 ,Disney Junior   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1538.m3u8
-#EXTINF:-1 ,Disney XD   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1537.m3u8
-#EXTINF:-1 ,ES-Partidazo   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2757.m3u8
-#EXTINF:-1 ,Eurosport1   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1596.m3u8
-#EXTINF:-1 ,FDF   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2754.m3u8
-#EXTINF:-1 ,Fox    ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1592.m3u8
-#EXTINF:-1 ,GOL TV   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2753.m3u8
-#EXTINF:-1 ,Hollywood   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/157.m3u8
-#EXTINF:-1 ,La1   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/536.m3u8
-#EXTINF:-1 ,La2   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/537.m3u8
-#EXTINF:-1 ,la Liga    ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/32.m3u8
-#EXTINF:-1 ,La sexta   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/970.m3u8
-#EXTINF:-1 ,M  Accion   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/159.m3u8
-#EXTINF:-1 ,M Comedia   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/155.m3u8
-#EXTINF:-1 ,M DCINE   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/156.m3u8
-#EXTINF:-1 ,M Deportes1   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/34.m3u8
-#EXTINF:-1 ,M Deportes2   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1591.m3u8
-#EXTINF:-1 ,Mega   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/925.m3u8
-#EXTINF:-1 ,M Estrenos   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/31.m3u8
-#EXTINF:-1 ,M Formula1   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1595.m3u8
-#EXTINF:-1 ,M Futbol    ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/33.m3u8
-#EXTINF:-1 ,M Golf   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1598.m3u8
-#EXTINF:-1 ,M MotoGP   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1594.m3u8
-#EXTINF:-1 ,M Serie   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/35.m3u8
-#EXTINF:-1 ,Nat geo   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/558.m3u8
-#EXTINF:-1 ,Nat Geo Wild   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2755.m3u8
-#EXTINF:-1 ,Neox   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/930.m3u8
-#EXTINF:-1 ,Nickelodeon   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1536.m3u8
-#EXTINF:-1 ,Nova   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/924.m3u8
-#EXTINF:-1 ,Odisea   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/154.m3u8
-#EXTINF:-1 ,Real Madrid TV   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1038.m3u8
-#EXTINF:-1 ,Syfy   ESPAÑA 1
-http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/929.m3u8
+ 
+
+#EXTINF:-1,NatGeo Wild HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/96db306e03e264f6daeed94aed361b80d27a9e74/MXl/92/index.m3u8
+
+ 
+
+#EXTINF:-1,NatGeo
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/e906e08b771f29beb11b2b2850cb8e424a3f8124/MXl/91/index.m3u8
+
+ 
+
+#EXTINF:-1,Animal Planet
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/9705b43bb8ffffe1666ea0237c6e7fd4323a60fc/MXl/88/index.m3u8
+
+ 
+
+#EXTINF:-1,Home and Health
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/18978df4bd0cd9cabefa7a497a6fcfa586460973/MXl/96/index.m3u8
+
+ 
+
+#EXTINF:-1,Discovery Theater
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/e9ab95327bb9d5a0abdb3a42d7bf88e1cdecbfbf/MXl/95/index.m3u8
+
+ 
+
+ 
+
+#EXTINF:-1,Discovery World HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/0d35eac9ea7ab0aa3a367b41fed87179a62dd320/MXl/101/index.m3u8
+
+ 
+
+ 
+
+ 
+
+#EXTINF:-1,Fox Cinema
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/1649921c820b54c51db6c622d633c21752f47c2e/MXl/1729/index.m3u8
+
+ 
+
+#EXTINF:-1,Fox Classics
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/cdae397ccbb8c993b98fa092d441ecd461da48b0/MXl/1732/index.m3u8
+
+ 
+
+#EXTINF:-1,Cinecanal HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/aff72a2f5e68a1ef3552db378615d45c86196457/MXl/149/index.m3u8
+
+ 
+
+#EXTINF:-1,The Film Zone HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/7d35f906efd7bc3144a36a4f98fc61c95bbbc541/MXl/138/index.m3u8
+
+ 
+
+#EXTINF:-1 ,De Pelicula HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/81b84f4be4dbdb8c99949c2a8506d7d0a97c3543/MXl/121/index.m3u8
+
+ 
+
+#EXTINF:-1,TNT HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/4ba1897f850eb39def8871425b78b72f03976d70/MXl/127/index.m3u8
+
+ 
+
+#EXTINF:-1,Golden HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/cc96a5929a24458a71193ced712ecabba02cd110/MXl/122/index.m3u8
+
+ 
+
+#EXTINF:-1,Golden Edge
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/76007539398881d09b80af832eb46d169a46f799/MXl/124/index.m3u8
+
+ 
+
+#EXTINF:-1,Studio Universal
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/b52e667e24f494888269ea137eb59ff40413f688/MXl/132/index.m3u8
+
+ 
+
+#EXTINF:-1, FOX
+
+http://edge3.livesports.pw/live/verfoxespana247756767558f/index.m3u8
+
+ 
+
+#EXTINF:-1, AXN
+
+http://edge10.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+
+ 
+
+#EXTINF:-1, TNT
+
+http://edge10.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+
+#EXTINF:-1, CALLE 13 UNIVERSAL
+
+http://edge10.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+
+#EXTINF:-1, TV 1
+
+http://edge1.livesports.pw/live/vertv1telefive432f9be3797/index.m3u8
+
+#EXTINF:-1, Tv 2
+
+http://edge1.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+
+#EXTINF:-1, Antena 3
+
+http://edge3.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
+
+#EXTINF:-1, Antena 3 series
+
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, La 4
+
+http://edge1.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+
+#EXTINF:-1, Tele 5
+
+http://edge2.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+
+#EXTINF:-1, La sexta
+
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8
+
+#EXTINF:-1, Movistar 0
+
+http://edge3.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+
+#EXTINF:-1, Movistar series
+
+http://edge2.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+
+#EXTINF:-1, Movistar series extra
+
+http://edge2.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+
+#EXTINF:-1, comedia central
+
+http://edge1.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+
+#EXTINF:-1, Cosmo
+
+http://edge1.livesports.pw/live/vercosmos250d386e5f510f45/index.m3u8
+
+#EXTINF:-1, AMC
+
+http://edge11.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+
+#EXTINF:-1, Mtv
+
+http://edge11.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8
+
+#EXTINF:-1, Fdf
+
+http://cdn1.verliga.pw/live/fdf/index.m3u8
+
+#EXTINF:-1, neox
+
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/neox_bw2srx2/chunklist.m3u8?st=pdBLsvMMSu65k7LAyWl_SA&e=1490599564
+
+#EXTINF:-1, Energy
+
+http://edge2.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
+
+#EXTINF:-1, Movistar estrenos
+
+http://edge11.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+
+#EXTINF:-1, Movistar accion
+
+http://edge10.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+
+#EXTINF:-1, Movistar comedia
+
+http://edge2.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+
+#EXTINF:-1, Movistar de cine
+
+http://edge3.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+
+#EXTINF:-1, Movistar cine ñ
+
+http://edge2.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8
+
+#EXTINF:-1, Tcm
+
+http://edge3.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
+
+#EXTINF:-1, 13 tv
+
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+
+#EXTINF:-1, Discovery max
+
+http://cdn1.elitegol.xyz/verliga/27/index.m3u8
+
+#EXTINF:-1, Crimen+investigacion
+
+http://edge10.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+
+#EXTINF:-1, Divinity
+
+http://edge11.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+
+#EXTINF:-1, Nova
+
+http://edge11.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+
+#EXTINF:-1, Mega
+
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Baby tv
+
+http://edge10.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
+
+#EXTINF:-1, Movistar futbol
+
+http://edge3.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+
+#EXTINF:-1, bein sport
+
+http://edge1.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
+
+#EXTINF:-1, Real madrid
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+ 
+
+ 
+
+#EXTINF:-1, TRENDY
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF:-1,ANTENA 3 LATINO
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1, ANTEN 3 OPCION 2
+
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1,MEGA
+
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+
+ 
+
+#EXTINF:-1,la sexta
+
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1, NEOX
+
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1, NOVA
+
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1, MTV
+
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+
+#EXTINF:-1,M2O
+
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1,ANIME
+
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1,CanalExtremadura
+
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+
+#EXTINF:-1, Tv 8
+
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+
+ 
+
+#EXTINF:-1,DISCOVERY MAX
+
+http://cdn3.elitegol.xyz/verliga/27/chunks.m3u8?
+
+#EXTINF:-1,DW LATINOAMERICA
+
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1,H20
+
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+
+ 
+
+#EXTINF:-1,Nasa TV
+
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1,  ANTIESTRES COLOMBIA
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+
+#EXTINF:-1, ORBE 21
+
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+
+#EXTINF:-1,MEXICO: Telemundo52
+
+http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,MEXICO: Univision23 Los Angeles
+
+http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, SERIES E
+
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+
+#EXTINF:-1, CANTINAZO TV
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1,Eurosport
+
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1,Tyc Sports (Argentina)
+
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
+
+#EXTINF:-1,EL PINGUINO TV
+
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1,Todo Deportes Honduras
+
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1,Olympic Channel 1 [FHD]
+
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1,Olympic Channel 2
+
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+
+#EXTINF:-1,DXTV SPORT
+
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1, RMTV
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,8 Tv
+
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+
+#EXTINF:-1,324
+
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1,RAI5
+
+http://stream12.rai.it/live/smil:rai5.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,RAINEWS24
+
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8  
+
+#EXTINF:-1,RAIMOVIE
+
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
+
+#EXTINF:-1,RAIPREMIUM
+
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+
+#EXTINF:-1,RAISCUOLA
+
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1,RAIGULP
+
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+
+#EXTINF:-1,El Correo Tv
+
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+
+#EXTINF:-1, RMTV
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1, VIRGINTV
+
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+#EXTINF:-1,ESPN +
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/02a51c47c473fd0d5a34cfa384bbb986298fb467/MXl/168/index.m3u8
+
+ 
+
+#EXTINF:-1,ESPN
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/25b3088924d9487b797907fddc6a4c964e6d8401/MXl/167/index.m3u8
+
+ 
+
+#EXTINF:-1,ESPN 2
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/cdd08c5d1046b480b0c3cf148a40ca81c6e79226/MXl/169/index.m3u8
+
+ 
+
+#EXTINF:-1,ESPN 3
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/0e482ce714a0b27eac7fd9c820288787c3b3c323/MXl/345/index.m3u8
+
+ 
+
+#EXTINF:-1,Fox Sports HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/e553f05fd76157dad24a3779b7ac8ff0c76b6b10/MXl/170/index.m3u8
+
+ 
+
+#EXTINF:-1,Fox Sports 2 HD
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/8f09c57cb80e19b501a627d5d3fd6d62e898131f/MXl/172/index.m3u8
+
+ 
+
+#EXTINF:0,Anime TV
+
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+ 
+
+#EXTINF:0,paka paka
+
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+ 
+
+ 
+
+#EXTINF:-1,ANIMACION CLASICA MOVIES
+
+mms://72.13.93.186/animatedfilms
+
+ 
+
+#EXTINF:-1, BOING
+
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chboingtele5/2011/08/29/43256274-8828-4ec3-a413-643c4524998e
+
+ 
+
+ 
+
+ 
+
+#EXTINF:-1,Cartoon Network
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/c395ff524f197f6bf58d94b039a19d98161a4dd8/MXl/112/index.m3u8
+
+ 
+
+#EXTINF:-1,Boomerang
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/60faa2c3f1ce8fbcc8fed472e116a1bb603f6195/MXl/115/index.m3u8
+
+ 
+
+#EXTINF:-1,TIIN
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/b7d0b501b9bd4eb47b4e4339605acf324d94b401/MXl/114/index.m3u8
+
+ 
+
+#EXTINF:-1,Tooncast
+
+http://app.mxl-iptv.tv:8080/app_v2/contenido_1/327fb411eb9d3b6ea216d52a023ddfb575b6caf1/117c46b023e2a7ac4c08ea50c9d3a1a3e77295f3/MXl/108/index.m3u8
+
+ 
+
+#EXTINF:-1,Vitato Series
+
+http://iphone-streaming.ustream.tv/uhls/22671982/streams/live/iphone/playlist.m3u8
+
+ 
+
+#EXTINF:-1,Telemax HD
+
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+
+ 
+
+#EXTINF:-1,Music Choice (R&B Soul)
+
+ 
+
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
+
+ 
+
+#EXTINF:-1,Music Choice (Regional Mexicana)
+
+ 
+
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
+
+ 
+
+#EXTINF:-1,Music Choice (Rock)
+
+ 
+
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
+
+ 
+
+#EXTINF:-1,Music Choice (Teen Beats)
+
+ 
+
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
+
+ 
+
+#EXTINF:-1,Music Choice (Tropicales)
+
+ 
+
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
+
+ 
+
+#EXTINF:-1,Music Choice Play
+
+ 
+
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+ 
+
+#EXTINF:-1,Music Top HD
+
+ 
+
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
