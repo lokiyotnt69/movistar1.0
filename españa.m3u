@@ -6,215 +6,202 @@
 #EXTINF:-1,==== ESPANA ====
 
 
+#EXTINF:-1,Tnt
 
-#EXTINF:-1, LA 1 HD
+http://cdn2.elitegol.xyz/verliga/9/index.m3u8
 
-http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=44&t=live&f=ts
-
-#EXTINF:-1, LA 2
-
-http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5442&t=live&f=ts
-
-#EXTINF:-1, LA 2
-
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="españa",ANTENA 3 HD
-
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-1, ANTENA3
-
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3 Internacional
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3 Internacional
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_3.m3u8
-
-#EXTINF:-1, Cuatro
-
-http://cdn2.elitegol.xyz/verdirectotv/2/index.m3u8
-
-#EXTINF:-1, Cuatro
-
-http://cdn5.elitegol.xyz/verdirectotv/2/index.m3u8
-
-#EXTINF:-1, Telecinco
-
-http://cdn5.elitegol.xyz/verdirectotv/1/index.m3u8
-
-#EXTINF:-1, Telecinco
-
-http://cdn2.elitegol.xyz/verdirectotv/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="españa", La Sexta HD
-
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="españa", La Sexta 
-
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png",7 TV España
-
-http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png",8 TV España
-
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="13 TV" tvg-logo="" group-title="General Streams",13 TV	
-
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
-#EXTINF:1, TVE
-
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/32/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8JA/fbaae3e6bb.png" group-title="SERVIDOR PLEX 3.0 SD", TVE 24h
-
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlslive_1@441481/index_0400_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png" group-title="españa",MEGA HD
-
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png" group-title="españa",MEGA HD
-
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
-#EXTINF:0 tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2015/05/logo-mega.jpg",MEGA ESPANA
-
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8 
-
-#EXTINF:-0 tvg-logo="https://teleonline.org/wp-content/uploads/2015/11/logo-neox.jpg" group-title="españa",NEOX HD
-
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-0 tvg-logo="https://teleonline.org/wp-content/uploads/2015/11/logo-neox.jpg" group-title="españa",NEOX 
-
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atresmediapublicidad.com/clipping/2015/04/28/00282/31.jpg" group-title="ESPAÑA",Nova HD
-
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-0 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="españa",NOVA 
-
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="españa",A3SERIES HD
-
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="españa",A3SERIES 
-
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-#EXTINF:-1,La Otra
-
-http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,DIVINITY
-
-http://cdn5.elitegol.xyz/verdirectotv/3/index.m3u8
-
-#EXTINF:-1,DIVINITY
-
-http://cdn2.elitegol.xyz/verdirectotv/3/index.m3u8
-
-#EXTINF:-1,ENERGY
-
-http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5446&t=live&f=ts
-
-#EXTINF:-1,FDF
-
-http://cdn2.verliga.pw/live/fdf/index.m3u8
-
-#EXTINF:-1, Calle 13
-
-http://cdn5.elitegol.xyz/verliga/18/index.m3u8
-
-#EXTINF:-1, Calle 13
-
-http://cdn2.elitegol.xyz/verliga/18/index.m3u8
-
-#EXTINF:-1, A1 
-
-http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
-
-#EXTINF:-1, LIFE TV
-
-http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
-
-#EXTINF:-1, CI
-
-http://cdn5.elitegol.xyz/verliga/22/index.m3u8
-
-#EXTINF:-1, AMC
-
-http://cdn5.elitegol.xyz/verliga/26/index.m3u8
-
-#EXTINF:-1, AMC
-
-http://cdn2.elitegol.xyz/verliga/26/index.m3u8
-
-#EXTINF:-1, AXN
+#EXTINF:-0,Movistar Axn
 
 http://cdn2.verliga.pw/live/axn/index.m3u8
 
-#EXTINF:-1, TNT
-
-http://cdn5.elitegol.xyz/verliga/29/index.m3u8
-
-#EXTINF:-1, TNT
-
-http://cdn5.elitegol.xyz/verliga/9/index.m3u8
-
-#EXTINF:-1, Fox
+#EXTINF:-1, Fox España
 
 http://cdn5.elitegol.xyz/verliga/28/index.m3u8
 
-#EXTINF:-1, Cinemax
+#EXTINF:-1, Fox
 
-http://cdn5.elitegol.xyz/verliga/20/index.m3u8
+http://cdn3.verliga.pw/live/fox/index.m3u8
 
-#EXTINF:-1, Cinemax
-
-http://cdn3.elitegol.xyz/verliga/20/index.m3u8
-
-#EXTINF:-1, #0
-
-http://cdn5.verliga.pw/live/plus1/index.m3u8
-
-#EXTINF:-1, #0
-
-http://cdn7.verliga.pw/live/plus1/index.m3u8
-
-#EXTINF:-1, Movistar Estrenos
+#EXTINF:-0,Movistar Estrenos
 
 http://cdn2.verliga.pw/live/plusestrenos/index.m3u8
 
-#EXTINF:-1, Movistar Accion
-
-http://cdn1.verliga.pw/live/plusaccion/index.m3u8
-
-#EXTINF:-1, Movistar Comedia
-
-http://cdn5.elitegol.xyz/verliga/4/index.m3u8
-
-#EXTINF:-1, Movistar Comedia
+#EXTINF:-0,Movistar Comedia
 
 http://cdn2.elitegol.xyz/verliga/4/index.m3u8
 
-#EXTINF:-1, Movistar DCine
+#EXTINF:-0,Movistar Accion
 
-http://cdn5.elitegol.xyz/verliga/7/index.m3u8
+http://cdn1.verliga.pw/live/plusaccion/index.m3u8
 
-#EXTINF:-1, Movistar DCine
+#EXTINF:-0,Movistar Cine
 
 http://cdn2.elitegol.xyz/verliga/7/index.m3u8
+
+#EXTINF:-0, Calle 13
+
+http://cdn2.elitegol.xyz/verliga/18/index.m3u8
+
+#EXTINF:-0, Ten
+
+http://cdn1.elitegol.xyz/verliga/33/index.m3u8
+
+#EXTINF:-0,SyFy
+
+http://edge14.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+
+#EXTINF:-0,Cinemax
+
+http://cdn3.elitegol.xyz/verliga/20/index.m3u8
+
+#EXTINF:-0,AMC
+
+http://cdn1.elitegol.xyz/verliga/26/index.m3u8
+
+#EXTINF:-0,DMAX
+
+http://cdn2.elitegol.xyz/verliga/27/playlist.m3u8
+
+#EXTINF:-0,#0 Series
+
+http://cdn1.elitegol.xyz/verliga/24/playlist.m3u8
+
+#EXTINF:-0,La 2
+
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
+
+#EXTINF:-0,Fox Life
+
+http://cdn2.verliga.pw/live/foxlife/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400", NATURALEZA
+
+#EXTINF:-0, Nathional Geografic
+
+http://cdn2.elitegol.xyz/verliga/12/index.m3u8
+
+#EXTINF:-0,NatGeo Wild
+
+http://cdn2.elitegol.xyz/verliga/13/index.m3u8
+
+#EXTINF:-0,Caza y Pezca
+
+http://cdn1.elitegol.xyz/verliga/15/playlist.m3u8
+
+#EXTINF:-0,History
+
+http://edge14.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400", VARIOS
+
+#EXTINF:-0,EL 5
+
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/3/stream.m3u8
+
+#EXTINF:-0,Boomerang
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
+
+#EXTINF:-0,CBEE 
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/50/stream.m3u8
+
+#EXTINF:-0,Cartoon Network
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
+
+#EXTINF:-0,Discovery Kids
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/22/stream.m3u8
+
+#EXTINF:-0,Disney Junior
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
+
+#EXTINF:-0,Disney Chanel
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
+
+#EXTINF:-0,Nick
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
+
+#EXTINF:-0,Tooncast
+
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/31/stream.m3u8
+
+#EXTINF:-0,Disney peliculas
+
+http://185.176.193.151/dl/d8ed65c2431e90ed949fa98db3b55732/58e2e92a/ff28f528264fa18ce649b3a4b88522a4f4.mp4
+
+#EXTINF:0, Baby Tv
+
+http://edge14.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
+
+#EXTINF:0, PakaPaka
+
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+#EXTINF:0, TaTeTi
+
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:0, Boing
+
+http://edge14.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
+
+#EXTINF:-0,NickJunior
+
+http://edge14.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8
+
+#EXTINF:-0,Panda
+
+http://edge14.livesports.pw/live/verpanda09f8f91b6bfd8e414/index.m3u8
+
+#EXTINF:-0,Disney Junior
+
+http://edge5.livesports.pw/live/verdisneyjuniora1a6392c36/index.m3u8
+
+#EXTINF:-0,Disney Chanel
+
+http://edge14.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+
+#EXTINF:-0,Simpson 24/7
+
+http://latino-webtv.ml/series/simpsons.mp4
+
+#EXTINF:-0,America Argentina
+
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
+
+#EXTINF:-0,El 12 TV
+
+http://prepublish.f.qaotic.net/a10/ngrp:el12_live01-100083_all/chunklist_b346000.m3u8
+
+#EXTINF:-0,Television Publica de Argentina
+
+http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b264000.m3u8
+
+#EXTINF:-0,canal 10
+
+http://iphone-streaming.ustream.tv/uhls/22780410/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-0,el Once
+
+http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-0, Telecinco
+
+http://cdn5.elitegol.xyz/verdirectotv/1.m3u8
+
+#EXTINF:-0, Multiliga 2
+
+http://cdn5.verliga.pw/live/verliga2/index.m3u8
+
+#EXTINF:-0, Canal Plus
+
+http://cdn10.verliga.pw/live/verliga/index.m3u8
+
+#EXTINF:-0, Toros TV
+
+http://cdn4.elitegol.xyz/verdirectotv/9.m3u8
