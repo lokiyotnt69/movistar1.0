@@ -9,6 +9,10 @@
 
 
 
+#EXTINF:-0,#0 Series
+
+http://cdn1.elitegol.xyz/verliga/24/playlist.m3u8
+
 #EXTINF:-1,Bein LaLiga  
  
 http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1590.m3u8
@@ -20,9 +24,6 @@ http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/578.m3u8
 
 
 
-#EXTINF:-0,#0 Series
-
-http://cdn1.elitegol.xyz/verliga/24/playlist.m3u8
 
 #EXTINF:0 type="stream" , UFC NETWORK
 http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/chunklist_b2000000.m3u8
