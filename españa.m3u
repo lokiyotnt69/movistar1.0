@@ -212,3 +212,197 @@ http://cdn10.verliga.pw/live/verliga/index.m3u8
 #EXTINF:-0, Toros TV
 
 http://cdn4.elitegol.xyz/verdirectotv/9.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR  FUTBOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPANIA CH",ES: MOVISTAR  FUTBOL HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes 1 HD ( 1080P )" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png" group-title="ESPANIA CH",ES: Movistar Deportes 1 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15021.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR  DEPORTES 1 HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png" group-title="ESPANIA CH",ES: MOVISTAR  DEPORTES 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes 2 HD ( 1080P )" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png" group-title="ESPANIA CH",ES: Movistar Deportes 2 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15022.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR  DEPORTES 2 HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png" group-title="ESPANIA CH",ES: MOVISTAR  DEPORTES 2 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Formula 1 HD ( 1080P )" tvg-logo="http://www.tendencias21.net/telefonica/photo/art/grande/6406106-9663804.jpg" group-title="ESPANIA CH",ES: Movistar Formula 1 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15024.ts
+#EXTINF:-1 tvg-ID="MovistarFormula1.es" tvg-name="ES: MOVISTAR F1 HD" tvg-logo="http://www.tendencias21.net/telefonica/photo/art/grande/6406106-9663804.jpg" group-title="ESPANIA CH",ES: MOVISTAR F1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/6794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR FORMULA 1" tvg-logo="http://www.thelogodb.com/images/media/logo/xyxuqs1453834780.png" group-title="ESPANIA CH",ES: MOVISTAR FORMULA 1
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar MotoGP HD ( 1080P )" tvg-logo="http://allfootballvideo.com/images/channel-logo/motogp.png" group-title="ESPANIA CH",ES: Movistar MotoGP HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15027.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR MOTO GP HD" tvg-logo="http://allfootballvideo.com/images/channel-logo/motogp.png" group-title="ESPANIA CH",ES: MOVISTAR MOTO GP HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/2085.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN SPORTS LaLiga HD ( 1080P )" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN SPORTS LaLiga HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15017.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: BeIN LIGA HD" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: BeIN LIGA HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/9500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLiga 1 (event only)" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN LaLiga 1 (event only)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/10730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLiga 2 (event only)" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN LaLiga 2 (event only)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/10731.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLiga 3 (event only)" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN LaLiga 3 (event only)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/10732.ts
+RAW Paste Data
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="---- PORTUGAL -----" tvg-logo="" group-title="PORTUGAL",---- PORTUGAL -----
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/2923.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV+" tvg-logo="http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568" group-title="PORTUGAL",PT: SPORT TV+
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11892.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV+  ( 1080P )" tvg-logo="http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568" group-title="PORTUGAL",PT: Sport TV+  ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11893.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1" tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="PORTUGAL",PT: Sport TV 1
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png" group-title="PORTUGAL",PT: Sport TV 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 ( 1080P )" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png" group-title="PORTUGAL",PT: Sport TV 1 ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2" tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="PORTUGAL",PT: Sport TV 2
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qrvxvq1436886129.png" group-title="PORTUGAL",PT: Sport TV 2 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 ( 1080P )" tvg-logo="http://www.thelogodb.com/images/media/logo/qrvxvq1436886129.png" group-title="PORTUGAL",PT: Sport TV 2 ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3" tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="PORTUGAL",PT: Sport TV 3
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qrwvps1436886569.png" group-title="PORTUGAL",PT: Sport TV 3 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11901.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3 ( 1080P )" tvg-logo="http://www.thelogodb.com/images/media/logo/qrwvps1436886569.png" group-title="PORTUGAL",PT: Sport TV 3 ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11902.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4" tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png" group-title="PORTUGAL",PT: Sport TV 4
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11903.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png" group-title="PORTUGAL",PT: Sport TV 4 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11904.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 4 ( 1080P )" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png" group-title="PORTUGAL",PT: Sport TV 4 ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11905.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title="PORTUGAL",PT: SPORT TV 5
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11906.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTV 5 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ruyqvt1436886834.png" group-title="PORTUGAL",PT: SPORTV 5 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11907.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 5 ( 1080P )" tvg-logo="http://www.thelogodb.com/images/media/logo/ruyqvt1436886834.png" group-title="PORTUGAL",PT: Sport TV 5 ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11908.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV 1 HD" tvg-logo="https://4.bp.blogspot.com/-6_Zim-AMLuA/WOKMTzbgInI/AAAAAAAACm4/J9KYbAo5rHwbDGZkx8Tf4-k0N3QylbvWACLcB/s320/BTV1%2BHD.png" group-title="PORTUGAL",PT: BTV 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11910.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV 1 ( 1080P )" tvg-logo="https://4.bp.blogspot.com/-6_Zim-AMLuA/WOKMTzbgInI/AAAAAAAACm4/J9KYbAo5rHwbDGZkx8Tf4-k0N3QylbvWACLcB/s320/BTV1%2BHD.png" group-title="PORTUGAL",PT: BTV 1 ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV Cine 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png" group-title="PORTUGAL",PT: TV Cine 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11915.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV Cine 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png" group-title="PORTUGAL",PT: TV Cine 2 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11917.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV Cine 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/tqtpqv1436896067.png" group-title="PORTUGAL",PT: TV Cine 3 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11919.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV Cine 4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png" group-title="PORTUGAL",PT: TV Cine 4 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11921.ts
+#EXTINF:-1 tvg-ID="" tvg-name="------ UK-GB ------" tvg-logo="" group-title="UK CHANNEL",------ UK-GB ------
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/2916.ts
+#EXTINF:-1 tvg-ID="BTSport1.uk" tvg-name="UK: BT Sport 1 HD (1080P)" tvg-logo="https://2.bp.blogspot.com/-PpncnPlsQbc/WOKRxAzCPOI/AAAAAAAACnE/UZPoASuOW58wTM9PFhgc8-VxZm2Z2a2SwCLcB/s320/BT%2BSPORT%2B1%2BHD.png" group-title="UK CHANNEL",UK: BT Sport 1 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23348.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="UK: BT Sport 2 HD (1080P)" tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png" group-title="UK CHANNEL",UK: BT Sport 2 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23349.ts
+#EXTINF:-1 tvg-ID="BTSportEur.uk" tvg-name="UK: BT Sport 3 HD (1080P)" tvg-logo="http://www.tellysport.co.uk/assets/uploads/tv/ed58c-btsport_3hd.png" group-title="UK CHANNEL",UK: BT Sport 3 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 HD" tvg-logo="https://2.bp.blogspot.com/-PpncnPlsQbc/WOKRxAzCPOI/AAAAAAAACnE/UZPoASuOW58wTM9PFhgc8-VxZm2Z2a2SwCLcB/s320/BT%2BSPORT%2B1%2BHD.png" group-title="UK CHANNEL",UK: BT Sport 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png" group-title="UK CHANNEL",UK: BT Sport 2 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11690.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT SPORT 3 HD" tvg-logo="http://www.tellysport.co.uk/assets/uploads/tv/ed58c-btsport_3hd.png" group-title="UK CHANNEL",UK: BT SPORT 3 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/9647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Espn HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png" group-title="UK CHANNEL",UK: BT Sport Espn HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1" tvg-logo="http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png" group-title="UK CHANNEL",UK: BT Sport 1
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2" tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png" group-title="UK CHANNEL",UK: BT Sport 2
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport ESPN" tvg-logo="http://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png" group-title="UK CHANNEL",UK: BT Sport ESPN
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11693.ts
+#EXTINF:-1 tvg-ID="SkySports1.uk" tvg-name="UK: Sky Sports 1 HD (1080P)" tvg-logo="http://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png" group-title="UK CHANNEL",UK: Sky Sports 1 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23358.ts
+#EXTINF:-1 tvg-ID="SkySports2.uk" tvg-name="UK: Sky Sports 2 HD (1080P)" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsppt1433965260.png" group-title="UK CHANNEL",UK: Sky Sports 2 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23359.ts
+#EXTINF:-1 tvg-ID="SkySports3.uk" tvg-name="UK: Sky Sports 3 HD (1080P)" tvg-logo="https://www.thelogodb.com/images/media/logo/rppsvp1433965277.png" group-title="UK CHANNEL",UK: Sky Sports 3 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23361.ts
+#EXTINF:-1 tvg-ID="SkySports4.uk" tvg-name="UK: Sky Sports 4 HD (1080P)" tvg-logo="https://www.thelogodb.com/images/media/logo/rsuprq1433965291.png" group-title="UK CHANNEL",UK: Sky Sports 4 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23363.ts
+#EXTINF:-1 tvg-ID="SkySports5.uk" tvg-name="UK: Sky Sports 5 HD (1080P)" tvg-logo="http://www.sat-address.com/f/pics/Stations/Sky-Sport-HD-5-DE_o.jpg" group-title="UK CHANNEL",UK: Sky Sports 5 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 HD 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png" group-title="UK CHANNEL",UK: Sky Sports F1 HD 1080p
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/11683.ts
+#EXTINF:-1 tvg-ID="SkySports1.uk" tvg-name="UK: Sky Sports 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png" group-title="UK CHANNEL",UK: Sky Sports 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23356.ts
+#EXTINF:-1 tvg-ID="SkySports2.uk" tvg-name="UK: Sky Sports 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsppt1433965260.png" group-title="UK CHANNEL",UK: Sky Sports 2 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23355.ts
+#EXTINF:-1 tvg-ID="SkySports3.uk" tvg-name="UK: Sky Sports 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rppsvp1433965277.png" group-title="UK CHANNEL",UK: Sky Sports 3 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23354.ts
+#EXTINF:-1 tvg-ID="SkySports4.uk" tvg-name="UK: Sky Sports 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rsuprq1433965291.png" group-title="UK CHANNEL",UK: Sky Sports 4 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23353.ts
+#EXTINF:-1 tvg-ID="SkySports5.uk" tvg-name="UK: Sky Sports 5 HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Sky-Sport-HD-5-DE_o.jpg" group-title="UK CHANNEL",UK: Sky Sports 5 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23352.ts
+#EXTINF:-1 tvg-ID="SkySportsF1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png" group-title="UK CHANNEL",UK: Sky Sports F1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23367.ts
+#EXTINF:-1 tvg-ID="SkySportsNews.uk" tvg-name="UK: Sky Sports News HQ" tvg-logo="" group-title="UK CHANNEL",UK: Sky Sports News HQ
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23371.ts
+#EXTINF:-1 tvg-ID="SkySports1.uk" tvg-name="UK: Sky Sports 1" tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="UK CHANNEL",UK: Sky Sports 1
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS 2" tvg-logo="http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png" group-title="UK CHANNEL",UK: SKY SPORTS 2
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/1841.ts
+#EXTINF:-1 tvg-ID="SkySports3.uk" tvg-name="UK: Sky Sports 3" tvg-logo="http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png" group-title="UK CHANNEL",UK: Sky Sports 3
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23360.ts
+#EXTINF:-1 tvg-ID="SkySports4.uk" tvg-name="UK: Sky Sports 4" tvg-logo="http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png" group-title="UK CHANNEL",UK: Sky Sports 4
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23362.ts
+#EXTINF:-1 tvg-ID="SkySports5.uk" tvg-name="UK: Sky Sports 5" tvg-logo="http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png" group-title="UK CHANNEL",UK: Sky Sports 5
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23364.ts
+#EXTINF:-1 tvg-ID="SkySportsF1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="UK CHANNEL",UK: Sky Sports F1
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/23366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="------ FRANCE TV ------" tvg-logo="" group-title="",------ FRANCE TV ------
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/2778.ts
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="FR: beIN Sports 1 HD (1080P)" tvg-logo="http://foot-live-stream.com/wp-content/uploads/2016/10/BeinSportHD1fr.png" group-title="FRANCE CH",FR: beIN Sports 1 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16535.ts
+#EXTINF:-1 tvg-ID="Eurosport1.fr" tvg-name="FR: BEINSPORT 1 HD" tvg-logo="http://foot-live-stream.com/wp-content/uploads/2016/10/BeinSportHD1fr.png" group-title="FRANCE CH",FR: BEINSPORT 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/1882.ts
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="FR: beIN Sports 2 HD (1080P)" tvg-logo="http://foot-live-stream.com/wp-content/uploads/2016/10/BeinSportHD2fr.png" group-title="FRANCE CH",FR: beIN Sports 2 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16536.ts
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="FR: BEINSPORT 2 HD" tvg-logo="http://foot-live-stream.com/wp-content/uploads/2016/10/BeinSportHD2fr.png" group-title="FRANCE CH",FR: BEINSPORT 2 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/1883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN Sports 3 HD (1080P)" tvg-logo="https://3.bp.blogspot.com/-nDBpZe5We-c/VnaliFnRvjI/AAAAAAAAAyA/WnTdps7g7mYYbtMOv3WJAA3k8eT29jAcQ/s200/BeinSportHD3fr.png" group-title="FRANCE CH",FR: beIN Sports 3 HD (1080P)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15664.ts
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="FR: BEINSPORT 3 HD" tvg-logo="https://3.bp.blogspot.com/-nDBpZe5We-c/VnaliFnRvjI/AAAAAAAAAyA/WnTdps7g7mYYbtMOv3WJAA3k8eT29jAcQ/s200/BeinSportHD3fr.png" group-title="FRANCE CH",FR: BEINSPORT 3 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/1884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="---- ESPANIA ------" tvg-logo="" group-title="ESPANIA CH",---- ESPANIA ------
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/2919.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Partidazo HD ( 1080P )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Movistar_Partidazo.svg/1200px-Movistar_Partidazo.svg.png" group-title="ESPANIA CH",ES: Movistar Partidazo HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15028.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Partidazo (event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Movistar_Partidazo.svg/1200px-Movistar_Partidazo.svg.png" group-title="ESPANIA CH",ES: Movistar Partidazo (event only)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/10733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Fútbol HD ( 1080P )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPANIA CH",ES: Movistar Fútbol HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15025.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR  FUTBOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPANIA CH",ES: MOVISTAR  FUTBOL HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes 1 HD ( 1080P )" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png" group-title="ESPANIA CH",ES: Movistar Deportes 1 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15021.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR  DEPORTES 1 HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png" group-title="ESPANIA CH",ES: MOVISTAR  DEPORTES 1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes 2 HD ( 1080P )" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png" group-title="ESPANIA CH",ES: Movistar Deportes 2 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15022.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR  DEPORTES 2 HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png" group-title="ESPANIA CH",ES: MOVISTAR  DEPORTES 2 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Formula 1 HD ( 1080P )" tvg-logo="http://www.tendencias21.net/telefonica/photo/art/grande/6406106-9663804.jpg" group-title="ESPANIA CH",ES: Movistar Formula 1 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15024.ts
+#EXTINF:-1 tvg-ID="MovistarFormula1.es" tvg-name="ES: MOVISTAR F1 HD" tvg-logo="http://www.tendencias21.net/telefonica/photo/art/grande/6406106-9663804.jpg" group-title="ESPANIA CH",ES: MOVISTAR F1 HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/6794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR FORMULA 1" tvg-logo="http://www.thelogodb.com/images/media/logo/xyxuqs1453834780.png" group-title="ESPANIA CH",ES: MOVISTAR FORMULA 1
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/16150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar MotoGP HD ( 1080P )" tvg-logo="http://allfootballvideo.com/images/channel-logo/motogp.png" group-title="ESPANIA CH",ES: Movistar MotoGP HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15027.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR MOTO GP HD" tvg-logo="http://allfootballvideo.com/images/channel-logo/motogp.png" group-title="ESPANIA CH",ES: MOVISTAR MOTO GP HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/2085.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN SPORTS LaLiga HD ( 1080P )" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN SPORTS LaLiga HD ( 1080P )
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15017.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: BeIN LIGA HD" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: BeIN LIGA HD
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/9500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLiga 1 (event only)" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN LaLiga 1 (event only)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/10730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLiga 2 (event only)" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN LaLiga 2 (event only)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/10731.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLiga 3 (event only)" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPANIA CH",ES: beIN LaLiga 3 (event only)
+http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/10732.ts
