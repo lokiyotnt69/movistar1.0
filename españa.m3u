@@ -6,6 +6,16 @@
 #EXTINF:-1,==== ESPANA ====
 
 
+
+
+
+#EXTINF:-0,#0 Series
+
+http://cdn1.elitegol.xyz/verliga/24/playlist.m3u8
+
+#EXTINF:0 type="stream" , UFC NETWORK
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/chunklist_b2000000.m3u8
+
 #EXTINF:-1,Tnt
 
 http://cdn2.elitegol.xyz/verliga/9/index.m3u8
@@ -62,9 +72,6 @@ http://cdn1.elitegol.xyz/verliga/26/index.m3u8
 
 http://cdn2.elitegol.xyz/verliga/27/playlist.m3u8
 
-#EXTINF:-0,#0 Series
-
-http://cdn1.elitegol.xyz/verliga/24/playlist.m3u8
 
 #EXTINF:-0,La 2
 
