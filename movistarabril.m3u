@@ -1,133 +1,475 @@
 #EXTM3U
 
 
-#EXTINF:-1,ES : MOVISTAR F1 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1981.ts
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1980.ts
-#EXTINF:-1,ES : movistar Futbol
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1979.ts
-#EXTINF:-1,ES : MOVISTAR MOTOGP
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1978.ts
-#EXTINF:-1,ES: #0 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1977.ts
-#EXTINF:-1,ES: 24 Horas
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1976.ts
-#EXTINF:-1,ES: 40 TV
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1975.ts
-#EXTINF:-1,ES: A&E
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1974.ts
-#EXTINF:-1,ES: AMC
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1973.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1972.ts
-#EXTINF:-1,ES: AXN HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1971.ts
-#EXTINF:-1,ES: AXN WHITE HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1970.ts
-#EXTINF:-1,ES: BARCA TV
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1969.ts
-#EXTINF:-1,ES: Bein Liga HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1968.ts
-#EXTINF:-1,ES: Bein Sport HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1967.ts
-#EXTINF:-1,ES: Boing
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1966.ts
-#EXTINF:-1,ES: CALLE 13 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1965.ts
-#EXTINF:-1,ES: CANAL  ACTION HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1964.ts
-#EXTINF:-1,ES: Canal  COMEDIA HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1963.ts
-#EXTINF:-1,ES: Canal  DCINE HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1962.ts
-#EXTINF:-1,ES: Canal  DEPORTES 2 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1961.ts
-#EXTINF:-1,ES: Canal  DEPORTES HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1960.ts
-#EXTINF:-1,ES: Canal  ESTRENOS HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1959.ts
-#EXTINF:-1,ES: Canal  FUTBOL HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1958.ts
-#EXTINF:-1,ES: Canal  GOLF HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1957.ts
-#EXTINF:-1,ES: Canal  LIGA 2 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1956.ts
-#EXTINF:-1,ES: Canal  LIGA HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1955.ts
-#EXTINF:-1,ES: Canal  SERIES XTRA HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1954.ts
-#EXTINF:-1,ES: Canal  XTRA HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1953.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1952.ts
-#EXTINF:-1,ES: Canal SERIES HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1951.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1950.ts
-#EXTINF:-1,ES: COSMO HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1949.ts
-#EXTINF:-1,ES: Crimen Investigation
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1948.ts
-#EXTINF:-1,ES: CUATRO HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1947.ts
-#EXTINF:-1,ES: DISCOVERY
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1946.ts
-#EXTINF:-1,ES: DISNE CHANNEL HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1945.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1944.ts
-#EXTINF:-1,ES: DISNEY XD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1943.ts
-#EXTINF:-1,ES: Energy
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1942.ts
-#EXTINF:-1,ES: EUROSPORT 1
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1941.ts
-#EXTINF:-1,ES: EUROSPORT 2
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1940.ts
-#EXTINF:-1,ES: FDF
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1939.ts
-#EXTINF:-1,ES: FOX HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1938.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1937.ts
-#EXTINF:-1,ES: GOL Tv
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1936.ts
-#EXTINF:-1,ES: HISTORIA
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1935.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1934.ts
-#EXTINF:-1,ES: LA 1 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1933.ts
-#EXTINF:-1,ES: LA 2 HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1932.ts
-#EXTINF:-1,ES: La Liga BAR HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1931.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1930.ts
-#EXTINF:-1,ES: MEGA
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1929.ts
-#EXTINF:-1,ES: MTV ESPANA
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1928.ts
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1927.ts
-#EXTINF:-1,ES: NEOX
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1926.ts
-#EXTINF:-1,ES: NICK Jr
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1925.ts
-#EXTINF:-1,ES: NICKELODEON HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1924.ts
-#EXTINF:-1,ES: NOVA
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1923.ts
-#EXTINF:-1,ES: ODISEA HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1922.ts
-#EXTINF:-1,ES: PANDA
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1921.ts
-#EXTINF:-1,ES: Paramount
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1920.ts
-#EXTINF:-1,ES: SYFY
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1919.ts
-#EXTINF:-1,ES: TCM HD
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1918.ts
-#EXTINF:-1,ES: TNT
-http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1917.ts
+
+#EXTINF:-1,ES=24-Horas
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2813.ts
+
+#EXTINF:-1,ES=A&E
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2812.ts
+
+#EXTINF:-1,ES=AMC
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2800.ts
+
+#EXTINF:-1,ES=Antena-3-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/452.ts
+
+#EXTINF:-1,ES=AXN
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2799.ts
+
+#EXTINF:-1,ES=Baby-TV
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2811.ts
+
+#EXTINF:-1,ES=Barca-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/451.ts
+
+#EXTINF:-1,ES=BeinSports-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1481.ts
+
+#EXTINF:-1,ES=BeinSports-LA-LIGA-1
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1482.ts
+
+#EXTINF:-1,ES=Boing
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2810.ts
+
+#EXTINF:-1,ES=Calle-13-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1582.ts
+
+#EXTINF:-1,ES=Crimen-&-Investigaci
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2809.ts
+
+#EXTINF:-1,ES=Discovery
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2808.ts
+
+#EXTINF:-1,ES=Energy-TV
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2807.ts
+
+#EXTINF:-1,ES=EuroSport-1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1586.ts
+
+#EXTINF:-1,ES=Extremadura-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/460.ts
+
+#EXTINF:-1,ES=FDF
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2806.ts
+
+#EXTINF:-1,ES=Fox-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/457.ts
+
+#EXTINF:-1,ES=Fox-Life-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/444.ts
+
+#EXTINF:-1,ES=History-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/407.ts
+
+#EXTINF:-1,ES=Hollywood-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/456.ts
+
+#EXTINF:-1,ES=Iberalia-TV
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2805.ts
+
+#EXTINF:-1,ES=LA-1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/448.ts
+
+#EXTINF:-1,ES=LA-Sexta-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/454.ts
+
+#EXTINF:-1,ES=LTC
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2804.ts
+
+#EXTINF:-1,ES=MoviStar-0#-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2798.ts
+
+#EXTINF:-1,ES=MoviStar-Accion-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1588.ts
+
+#EXTINF:-1,ES=MoviStar-Comedia-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1589.ts
+
+#EXTINF:-1,ES=MoviStar-Dcine-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1590.ts
+
+#EXTINF:-1,ES=MoviStar-Deportes-1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2797.ts
+
+#EXTINF:-1,ES=MoviStar-Deportes-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/447.ts
+
+#EXTINF:-1,ES=MoviStar-Estrenos-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1592.ts
+
+#EXTINF:-1,ES=MoviStar-F1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2796.ts
+
+#EXTINF:-1,ES=MoviStar-Futbol-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/446.ts
+
+#EXTINF:-1,ES=MoviStar-Golf-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1593.ts
+
+#EXTINF:-1,ES=MoviStar-Ligo-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/544.ts
+
+#EXTINF:-1,ES=MoviStar-Motogp-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1484.ts
+
+#EXTINF:-1,ES=MoviStar-Serie-Extra-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/443.ts
+
+#EXTINF:-1,ES=MoviStar-Toros-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2795.ts
+
+#EXTINF:-1,ES=National-Geo-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1587.ts
+
+#EXTINF:-1,ES=Nonstopeople
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2803.ts
+
+#EXTINF:-1,ES=Nova
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2802.ts
+
+#EXTINF:-1,ES=Real-Madrid-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/445.ts
+
+#EXTINF:-1,ES=RT-Espanol-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/450.ts
+
+#EXTINF:-1,ES=Syfy-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/453.ts
+
+#EXTINF:-1,ES=Teledeporte
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2801.ts
+
+#EXTINF:-1,ES=TNT-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2794.ts
+
+#EXTINF:-1,PT=AXN-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1317.ts
+
+#EXTINF:-1,PT=AXN-White-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1315.ts
+
+#EXTINF:-1,PT=BTV1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2154.ts
+
+#EXTINF:-1,PT=FOX-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1303.ts
+
+#EXTINF:-1,PT=Odisseia-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2155.ts
+
+#EXTINF:-1,PT=RTP-1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2156.ts
+
+#EXTINF:-1,PT=RTP-2-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2047.ts
+
+#EXTINF:-1,PT=SIC-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2157.ts
+
+#EXTINF:-1,PT=SIC-Noticias-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2158.ts
+
+#EXTINF:-1,PT=Sport-TV-1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/311.ts
+
+#EXTINF:-1,PT=Sport-TV-2-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/312.ts
+
+#EXTINF:-1,PT=Sport-TV-3-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/313.ts
+
+#EXTINF:-1,PT=Sport-TV-4-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/314.ts
+
+#EXTINF:-1,PT=SPORT-TV-5-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/770.ts
+
+#EXTINF:-1,PT=TVCINE-1-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/769.ts
+
+#EXTINF:-1,PT=TVCINE-2-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/768.ts
+
+#EXTINF:-1,PT=TVCINE-3-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/767.ts
+
+#EXTINF:-1,PT=TVCINE-4-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/766.ts
+
+#EXTINF:-1,PT=TVI-HD
+
+http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/2159.ts
+
+#EXTINF:-1,ES | 24 Horas
+
+http://51.255.74.170:7000/live/mosm/mosm/4473.ts
+
+#EXTINF:-1,ES | A & E
+
+http://51.255.74.170:7000/live/mosm/mosm/4423.ts
+
+#EXTINF:-1,ES | Andalucia
+
+http://51.255.74.170:7000/live/mosm/mosm/4424.ts
+
+#EXTINF:-1,ES | Antenna 3
+
+http://51.255.74.170:7000/live/mosm/mosm/4425.ts
+
+#EXTINF:-1,ES | AXN
+
+http://51.255.74.170:7000/live/mosm/mosm/4426.ts
+
+#EXTINF:-1,ES | AXN White
+
+http://51.255.74.170:7000/live/mosm/mosm/4427.ts
+
+#EXTINF:-1,ES | Barca TV
+
+http://51.255.74.170:7000/live/mosm/mosm/4428.ts
+
+#EXTINF:-1,ES | Bein Spain
+
+http://51.255.74.170:7000/live/mosm/mosm/4429.ts
+
+#EXTINF:-1,ES | CanalPlus 1
+
+http://51.255.74.170:7000/live/mosm/mosm/4430.ts
+
+#EXTINF:-1,ES | CanalPlus Accion
+
+http://51.255.74.170:7000/live/mosm/mosm/4431.ts
+
+#EXTINF:-1,ES | CanalPlus Cocina
+
+http://51.255.74.170:7000/live/mosm/mosm/4432.ts
+
+#EXTINF:-1,ES | CanalPlus Comedia
+
+http://51.255.74.170:7000/live/mosm/mosm/4433.ts
+
+#EXTINF:-1,ES | CanalPlus DCine
+
+http://51.255.74.170:7000/live/mosm/mosm/4434.ts
+
+#EXTINF:-1,ES | CanalPlus Deportes
+
+http://51.255.74.170:7000/live/mosm/mosm/4435.ts
+
+#EXTINF:-1,ES | CanalPlus Deportes 2
+
+http://51.255.74.170:7000/live/mosm/mosm/4436.ts
+
+#EXTINF:-1,ES | CanalPlus Futbol
+
+http://51.255.74.170:7000/live/mosm/mosm/4437.ts
+
+#EXTINF:-1,ES | CanalPlus Golf
+
+http://51.255.74.170:7000/live/mosm/mosm/4438.ts
+
+#EXTINF:-1,ES | Canalplus Odisea
+
+http://51.255.74.170:7000/live/mosm/mosm/4439.ts
+
+#EXTINF:-1,ES | CanalPlus Series Xtra
+
+http://51.255.74.170:7000/live/mosm/mosm/4440.ts
+
+#EXTINF:-1,ES | CanalPlus Xtra
+
+http://51.255.74.170:7000/live/mosm/mosm/4441.ts
+
+#EXTINF:-1,ES | Comedy Central
+
+http://51.255.74.170:7000/live/mosm/mosm/4442.ts
+
+#EXTINF:-1,ES | Cosmo
+
+http://51.255.74.170:7000/live/mosm/mosm/4443.ts
+
+#EXTINF:-1,ES | Cuatro
+
+http://51.255.74.170:7000/live/mosm/mosm/4444.ts
+
+#EXTINF:-1,ES | Dcine Espanol
+
+http://51.255.74.170:7000/live/mosm/mosm/4445.ts
+
+#EXTINF:-1,ES | Discovery
+
+http://51.255.74.170:7000/live/mosm/mosm/4446.ts
+
+#EXTINF:-1,ES | Disney Channel
+
+http://51.255.74.170:7000/live/mosm/mosm/4447.ts
+
+#EXTINF:-1,ES | Disney Junior
+
+http://51.255.74.170:7000/live/mosm/mosm/4448.ts
+
+#EXTINF:-1,ES | Disney XD
+
+http://51.255.74.170:7000/live/mosm/mosm/4449.ts
+
+#EXTINF:-1,ES | Estrenos
+
+http://51.255.74.170:7000/live/mosm/mosm/4450.ts
+
+#EXTINF:-1,ES | FDF
+
+http://51.255.74.170:7000/live/mosm/mosm/4451.ts
+
+#EXTINF:-1,ES | FOX
+
+http://51.255.74.170:7000/live/mosm/mosm/4452.ts
+
+#EXTINF:-1,ES | FOX Life
+
+http://51.255.74.170:7000/live/mosm/mosm/4453.ts
+
+#EXTINF:-1,ES | Galicia
+
+http://51.255.74.170:7000/live/mosm/mosm/4454.ts
+
+#EXTINF:-1,ES | Historia
+
+http://51.255.74.170:7000/live/mosm/mosm/4455.ts
+
+#EXTINF:-1,ES | Hollywood
+
+http://51.255.74.170:7000/live/mosm/mosm/4456.ts
+
+#EXTINF:-1,ES | La 1
+
+http://51.255.74.170:7000/live/mosm/mosm/4457.ts
+
+#EXTINF:-1,ES | La 2
+
+http://51.255.74.170:7000/live/mosm/mosm/4458.ts
+
+#EXTINF:-1,ES | La Sexta
+
+http://51.255.74.170:7000/live/mosm/mosm/4459.ts
+
+#EXTINF:-1,ES | MoviStar F1
+
+http://51.255.74.170:7000/live/mosm/mosm/4460.ts
+
+#EXTINF:-1,ES | MoviStar MotoGP
+
+http://51.255.74.170:7000/live/mosm/mosm/4461.ts
+
+#EXTINF:-1,ES | Nat Geo Wild
+
+http://51.255.74.170:7000/live/mosm/mosm/4462.ts
+
+#EXTINF:-1,ES | National Geographic
+
+http://51.255.74.170:7000/live/mosm/mosm/4463.ts
+
+#EXTINF:-1,ES | Neox
+
+http://51.255.74.170:7000/live/mosm/mosm/4464.ts
+
+#EXTINF:-1,ES | Nickelodeon
+
+http://51.255.74.170:7000/live/mosm/mosm/4465.ts
+
+#EXTINF:-1,ES | Nova
+
+http://51.255.74.170:7000/live/mosm/mosm/4466.ts
+
+#EXTINF:-1,ES | SyFy
+
+http://51.255.74.170:7000/live/mosm/mosm/4467.ts
+
+#EXTINF:-1,ES | Telecinco
+
+http://51.255.74.170:7000/live/mosm/mosm/4468.ts
+
+#EXTINF:-1,ES | Teledeporte
+
+http://51.255.74.170:7000/live/mosm/mosm/4469.ts
+
+#EXTINF:-1,ES | Telesur
+
+http://51.255.74.170:7000/live/mosm/mosm/4474.ts
+
+#EXTINF:-1,ES | TNT
+
+http://51.255.74.170:7000/live/mosm/mosm/4470.ts
+
+#EXTINF:-1,ES | TOROS TV
+
+http://51.255.74.170:7000/live/mosm/mosm/4471.ts
+
+#EXTINF:-1,ES | TV 3 Catalunya
+
+http://51.255.74.170:7000/live/mosm/mosm/4472.ts
