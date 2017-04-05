@@ -473,3 +473,27 @@ http://51.255.74.170:7000/live/mosm/mosm/4471.ts
 #EXTINF:-1,ES | TV 3 Catalunya
 
 http://51.255.74.170:7000/live/mosm/mosm/4472.ts
+
+#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1  (geo-mex)
+
+http://exabytetv.zapto.org/exabytetv-esgratis/total/3/CWKKV-1011000111000111010101011101110-ExabyteTV/7684/visita-exabytetv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1  (singeo)
+
+http://exabytetv.zapto.org/exabytetv-esgratis/totalng/CWKKV-1011000111000111010101011101110-ExabyteTV/7684/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next (UK)
+
+http://exabytetv.zapto.org/exabytetv-esgratis/filemina/CWKKV-1011000111000111010101011101110-ExabyteTV/713/visita-exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Wrestling
+
+http://exabytetv.zapto.org/exabytetv-esgratis/gc/CWKKV-1011000111000111010101011101110-ExabyteTV/2152/visita-exabytetv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",WWE Network HD (Op2)
+
+http://exabytetv.zapto.org/exabytetv-esgratis/deporteseuropa/CWKKV-1011000111000111010101011101110-ExabyteTV/wwetv/visita-exabytetv.m3u8
