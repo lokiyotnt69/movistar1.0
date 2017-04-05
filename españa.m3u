@@ -8,325 +8,983 @@
 
 #EXTINF:-1,==== ESPANA 1 ====
 
-#EXTINF:-1,--|ESP DEPORTES|--
-http://topiptv.net:5890/live/alawi/alawi/1411.ts
-#EXTINF:-1,ESP|BEIN SPORTS HD
-http://topiptv.net:5890/live/alawi/alawi/2213.ts
-#EXTINF:-1,ESP|Bein Sports
-http://topiptv.net:5890/live/alawi/alawi/1302.ts
-#EXTINF:-1,ESP|Bein LaLiga
-http://topiptv.net:5890/live/alawi/alawi/1410.ts
-#EXTINF:-1,ESP|LaLigatv
-http://topiptv.net:5890/live/alawi/alawi/534.ts
-#EXTINF:-1,ESP|M.Fútbol
-http://topiptv.net:5890/live/alawi/alawi/535.ts
-#EXTINF:-1,ESP|M.Partidazo
-http://topiptv.net:5890/live/alawi/alawi/1386.ts
-#EXTINF:-1,ESP|M.Deportes
-http://topiptv.net:5890/live/alawi/alawi/536.ts
-#EXTINF:-1,ESP|M.Deportes 2
-http://topiptv.net:5890/live/alawi/alawi/1817.ts
-#EXTINF:-1,ESP|GOL TV
-http://topiptv.net:5890/live/alawi/alawi/2038.ts
-#EXTINF:-1,ESP|Barça TV
-http://topiptv.net:5890/live/alawi/alawi/542.ts
-#EXTINF:-1,ESP|R. MADRID
-http://topiptv.net:5890/live/alawi/alawi/491.ts
-#EXTINF:-1,ESP|TELEDEPORTE
-http://topiptv.net:5890/live/alawi/alawi/1379.ts
-#EXTINF:-1,ESP|Eurosport1
-http://topiptv.net:5890/live/alawi/alawi/2504.ts
-#EXTINF:-1,ESP|Movistar F1
-http://topiptv.net:5890/live/alawi/alawi/1246.ts
-#EXTINF:-1,ESP|Movistar MotoGP
-http://topiptv.net:5890/live/alawi/alawi/1247.ts
-#EXTINF:-1,ESP|M.GOLF
-http://topiptv.net:5890/live/alawi/alawi/1549.ts
-#EXTINF:-1,ESP|TOROS
-http://topiptv.net:5890/live/alawi/alawi/1453.ts
-#EXTINF:-1,--|ESP CINE|--
-http://topiptv.net:5890/live/alawi/alawi/1412.ts
-#EXTINF:-1,ESP|#0 HD
-http://topiptv.net:5890/live/alawi/alawi/2011.ts
-#EXTINF:-1,ESP|# 0
-http://topiptv.net:5890/live/alawi/alawi/815.ts
-#EXTINF:-1,ESP|M.Estrenos
-http://topiptv.net:5890/live/alawi/alawi/814.ts
-#EXTINF:-1,ESP|M.CINE N
-http://topiptv.net:5890/live/alawi/alawi/2508.ts
-#EXTINF:-1,ESP|M.DCine
-http://topiptv.net:5890/live/alawi/alawi/539.ts
-#EXTINF:-1,ESP|M.comedia
-http://topiptv.net:5890/live/alawi/alawi/540.ts
-#EXTINF:-1,ESP|M.Acción
-http://topiptv.net:5890/live/alawi/alawi/541.ts
-#EXTINF:-1,ESP|M.SERIES HD
-http://topiptv.net:5890/live/alawi/alawi/532.ts
-#EXTINF:-1,ESP|M.Series Xtra
-http://topiptv.net:5890/live/alawi/alawi/1991.ts
-#EXTINF:-1,ESP|Hollywood
-http://topiptv.net:5890/live/alawi/alawi/529.ts
-#EXTINF:-1,ESP|M.Xtra
-http://topiptv.net:5890/live/alawi/alawi/531.ts
-#EXTINF:-1,ESP|Fox
-http://topiptv.net:5890/live/alawi/alawi/488.ts
-#EXTINF:-1,ESP|FOX LIFE
-http://topiptv.net:5890/live/alawi/alawi/1108.ts
-#EXTINF:-1,ESP|COSMO HD
-http://topiptv.net:5890/live/alawi/alawi/816.ts
-#EXTINF:-1,ESP|TNT
-http://topiptv.net:5890/live/alawi/alawi/1016.ts
-#EXTINF:-1,ESP|AMC
-http://topiptv.net:5890/live/alawi/alawi/1388.ts
-#EXTINF:-1,ESP|SYFY HD
-http://topiptv.net:5890/live/alawi/alawi/487.ts
-#EXTINF:-1,ESP|Calle 13
-http://topiptv.net:5890/live/alawi/alawi/538.ts
-#EXTINF:-1,ESP|AXN WHITE HD
-http://topiptv.net:5890/live/alawi/alawi/543.ts
-#EXTINF:-1,ESP|AXN HD
-http://topiptv.net:5890/live/alawi/alawi/544.ts
-#EXTINF:-1,ESP|TCM HD
-http://topiptv.net:5890/live/alawi/alawi/1819.ts
-#EXTINF:-1,ESP|Comedy Central HD
-http://topiptv.net:5890/live/alawi/alawi/1820.ts
-#EXTINF:-1,ESP|Parlamento
-http://topiptv.net:5890/live/alawi/alawi/3077.ts
-#EXTINF:-1,ESP|PARAMOUNT
-http://topiptv.net:5890/live/alawi/alawi/3076.ts
-#EXTINF:-1,--|ESP CULTURALES|--
-http://topiptv.net:5890/live/alawi/alawi/1413.ts
-#EXTINF:-1,ESP|VIAJAR HD
-http://topiptv.net:5890/live/alawi/alawi/2212.ts
-#EXTINF:-1,ESP|Viajar
-http://topiptv.net:5890/live/alawi/alawi/1382.ts
-#EXTINF:-1,ESP|HISTORIA
-http://topiptv.net:5890/live/alawi/alawi/1387.ts
-#EXTINF:-1,ESP|Nat Geographic
-http://topiptv.net:5890/live/alawi/alawi/1109.ts
-#EXTINF:-1,ESP|NAT GEO WILD
-http://topiptv.net:5890/live/alawi/alawi/924.ts
-#EXTINF:-1,ESP|DISCOVERY
-http://topiptv.net:5890/live/alawi/alawi/2509.ts
-#EXTINF:-1,ESP|AyE
-http://topiptv.net:5890/live/alawi/alawi/1385.ts
-#EXTINF:-1,ESP|CRIMIN INV
-http://topiptv.net:5890/live/alawi/alawi/2503.ts
-#EXTINF:-1,ESP|CAZA Y PESCA
-http://topiptv.net:5890/live/alawi/alawi/981.ts
-#EXTINF:-1,ESP|DECASA
-http://topiptv.net:5890/live/alawi/alawi/2507.ts
-#EXTINF:-1,ESP|Od!sea
-http://topiptv.net:5890/live/alawi/alawi/915.ts
-#EXTINF:-1,ESP|Canal Cocina
-http://topiptv.net:5890/live/alawi/alawi/1818.ts
-#EXTINF:-1,--|ESP NINIOS|--
-http://topiptv.net:5890/live/alawi/alawi/1993.ts
-#EXTINF:-1,ESP|FDF
-http://topiptv.net:5890/live/alawi/alawi/1868.ts
-#EXTINF:-1,ESP|boing
-http://topiptv.net:5890/live/alawi/alawi/2001.ts
-#EXTINF:-1,ESP|Panda
-http://topiptv.net:5890/live/alawi/alawi/2500.ts
-#EXTINF:-1,ESP|Clan TVE
-http://topiptv.net:5890/live/alawi/alawi/1866.ts
-#EXTINF:-1,ESP|Disney XD
-http://topiptv.net:5890/live/alawi/alawi/1992.ts
-#EXTINF:-1,ESP|Disney Channel
-http://topiptv.net:5890/live/alawi/alawi/1990.ts
-#EXTINF:-1,ESP|DISNEY JR
-http://topiptv.net:5890/live/alawi/alawi/874.ts
-#EXTINF:-1,ESP|Nickelodeon
-http://topiptv.net:5890/live/alawi/alawi/3071.ts
-#EXTINF:-1,--|ESP PPV|--
-http://topiptv.net:5890/live/alawi/alawi/1897.ts
-#EXTINF:-1,ESP|Taquilla 1
-http://topiptv.net:5890/live/alawi/alawi/1896.ts
-#EXTINF:-1,ESP|Taquilla 2
-http://topiptv.net:5890/live/alawi/alawi/2002.ts
-#EXTINF:-1,ESP|Taquilla 3
-http://topiptv.net:5890/live/alawi/alawi/2003.ts
-#EXTINF:-1,ESP|Taquilla 4
-http://topiptv.net:5890/live/alawi/alawi/2004.ts
-#EXTINF:-1,ESP|Taquilla 5
-http://topiptv.net:5890/live/alawi/alawi/2005.ts
-#EXTINF:-1,ESP|Taquilla 6
-http://topiptv.net:5890/live/alawi/alawi/2006.ts
-#EXTINF:-1,ESP|Taquilla 7
-http://topiptv.net:5890/live/alawi/alawi/2007.ts
-#EXTINF:-1,ESP|Taquilla 8
-http://topiptv.net:5890/live/alawi/alawi/2008.ts
-#EXTINF:-1,-----|LOCAL 1080P ESP|-----
-http://topiptv.net:5890/live/alawi/alawi/3107.ts
-#EXTINF:-1,LOCAL:LA 1 HD
-http://topiptv.net:5890/live/alawi/alawi/3022.ts
-#EXTINF:-1,LOCAL:ANTENA 3 HD
-http://topiptv.net:5890/live/alawi/alawi/2933.ts
-#EXTINF:-1,LOCAL:CUATRO HD
-http://topiptv.net:5890/live/alawi/alawi/2986.ts
-#EXTINF:-1,LOCAL:TELECINCO HD
-http://topiptv.net:5890/live/alawi/alawi/3085.ts
-#EXTINF:-1,LOCAL:LASEXTA HD
-http://topiptv.net:5890/live/alawi/alawi/3025.ts
-#EXTINF:-1,LOCAL:MEGA HD
-http://topiptv.net:5890/live/alawi/alawi/3115.ts
-#EXTINF:-1,LOCAL:GALICIA TV
-http://topiptv.net:5890/live/alawi/alawi/3015.ts
-#EXTINF:-1,LOCAL:24 HORAS
-http://topiptv.net:5890/live/alawi/alawi/3006.ts
-#EXTINF:-1,--Deportes-LOCAL--
-http://topiptv.net:5890/live/alawi/alawi/3108.ts
-#EXTINF:-1,LOCAL:M.FUTBOL HD
-http://topiptv.net:5890/live/alawi/alawi/3054.ts
-#EXTINF:-1,LOCAL:M.DEP 1 HD
-http://topiptv.net:5890/live/alawi/alawi/3031.ts
-#EXTINF:-1,LOCAL:M.DEP 2 HD
-http://topiptv.net:5890/live/alawi/alawi/3032.ts
-#EXTINF:-1,LOCAL:M.Partidazo HD
-http://topiptv.net:5890/live/alawi/alawi/3042.ts
-#EXTINF:-1,LOCAL:LALIGA TV BAR HD
-http://topiptv.net:5890/live/alawi/alawi/3027.ts
-#EXTINF:-1,LOCAL:beIN LALIGA HD
-http://topiptv.net:5890/live/alawi/alawi/2942.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 1 HD
-http://topiptv.net:5890/live/alawi/alawi/2957.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 1
-http://topiptv.net:5890/live/alawi/alawi/2959.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 2 HD
-http://topiptv.net:5890/live/alawi/alawi/2958.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 2
-http://topiptv.net:5890/live/alawi/alawi/2960.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 3
-http://topiptv.net:5890/live/alawi/alawi/2961.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 4
-http://topiptv.net:5890/live/alawi/alawi/2962.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 5
-http://topiptv.net:5890/live/alawi/alawi/2963.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 6
-http://topiptv.net:5890/live/alawi/alawi/2964.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 7
-http://topiptv.net:5890/live/alawi/alawi/2965.ts
-#EXTINF:-1,LOCAL:beIN LALIGA 8
-http://topiptv.net:5890/live/alawi/alawi/2966.ts
-#EXTINF:-1,LOCAL:beIN SPORTS HD
-http://topiptv.net:5890/live/alawi/alawi/2944.ts
-#EXTINF:-1,LOCAL:beIN MAX 1 HD
-http://topiptv.net:5890/live/alawi/alawi/2945.ts
-#EXTINF:-1,LOCAL:beIN MAX 1 SD
-http://topiptv.net:5890/live/alawi/alawi/2946.ts
-#EXTINF:-1,LOCAL:beIN MAX 1
-http://topiptv.net:5890/live/alawi/alawi/2949.ts
-#EXTINF:-1,LOCAL:beIN MAX 2 HD
-http://topiptv.net:5890/live/alawi/alawi/2948.ts
-#EXTINF:-1,LOCAL:beIN MAX SD
-http://topiptv.net:5890/live/alawi/alawi/2947.ts
-#EXTINF:-1,LOCAL:beIN MAX 2
-http://topiptv.net:5890/live/alawi/alawi/2950.ts
-#EXTINF:-1,LOCAL:beIN MAX 3
-http://topiptv.net:5890/live/alawi/alawi/2951.ts
-#EXTINF:-1,LOCAL:beIN MAX 4
-http://topiptv.net:5890/live/alawi/alawi/2952.ts
-#EXTINF:-1,LOCAL:beIN MAX 5
-http://topiptv.net:5890/live/alawi/alawi/2953.ts
-#EXTINF:-1,LOCAL:beIN MAX 6
-http://topiptv.net:5890/live/alawi/alawi/2954.ts
-#EXTINF:-1,LOCAL:beIN MAX 7
-http://topiptv.net:5890/live/alawi/alawi/2955.ts
-#EXTINF:-1,LOCAL:beIN MAX 8
-http://topiptv.net:5890/live/alawi/alawi/2956.ts
-#EXTINF:-1,LOCAL:EUROSPORT 1HD
-http://topiptv.net:5890/live/alawi/alawi/3103.ts
-#EXTINF:-1,LOCAL:M.MOTOGP HD
-http://topiptv.net:5890/live/alawi/alawi/3057.ts
-#EXTINF:-1,LOCAL:M.GOLF HD
-http://topiptv.net:5890/live/alawi/alawi/3055.ts
-#EXTINF:-1,LOCAL:M.FORMULA 1 HD
-http://topiptv.net:5890/live/alawi/alawi/3053.ts
-#EXTINF:-1,LOCAL:TOROS  HD
-http://topiptv.net:5890/live/alawi/alawi/3091.ts
-#EXTINF:-1,LOCAL:MULTIDEPORTE
-http://topiptv.net:5890/live/alawi/alawi/3060.ts
-#EXTINF:-1,LOCAL:Multideporte 1
-http://topiptv.net:5890/live/alawi/alawi/3061.ts
-#EXTINF:-1,LOCAL:Multideporte 2
-http://topiptv.net:5890/live/alawi/alawi/3062.ts
-#EXTINF:-1,LOCAL:Multideporte 3
-http://topiptv.net:5890/live/alawi/alawi/3063.ts
-#EXTINF:-1,LOCAL:Multideporte 4
-http://topiptv.net:5890/live/alawi/alawi/3064.ts
-#EXTINF:-1,LOCAL:Multideporte 5
-http://topiptv.net:5890/live/alawi/alawi/3065.ts
-#EXTINF:-1,--Cine-LOCAL--
-http://topiptv.net:5890/live/alawi/alawi/3109.ts
-#EXTINF:-1,LOCAL:#0 HD
-http://topiptv.net:5890/live/alawi/alawi/2928.ts
-#EXTINF:-1,LOCAL:M.ESTRENOS HD
-http://topiptv.net:5890/live/alawi/alawi/3035.ts
-#EXTINF:-1,LOCAL:M.COMEDIA HD
-http://topiptv.net:5890/live/alawi/alawi/3048.ts
-#EXTINF:-1,LOCAL:M.ACCI©N HD
-http://topiptv.net:5890/live/alawi/alawi/3046.ts
-#EXTINF:-1,LOCAL:M.DCINE HD
-http://topiptv.net:5890/live/alawi/alawi/3049.ts
-#EXTINF:-1,LOCAL:M.Series Xtra HD
-http://topiptv.net:5890/live/alawi/alawi/3045.ts
-#EXTINF:-1,LOCAL:SERIES HD
-http://topiptv.net:5890/live/alawi/alawi/3033.ts
-#EXTINF:-1,LOCAL:AMC HD
-http://topiptv.net:5890/live/alawi/alawi/2931.ts
-#EXTINF:-1,LOCAL:TNT HD
-http://topiptv.net:5890/live/alawi/alawi/3089.ts
-#EXTINF:-1,LOCAL:TCM HD
-http://topiptv.net:5890/live/alawi/alawi/3083.ts
-#EXTINF:-1,LOCAL:SYFY HD:
-http://topiptv.net:5890/live/alawi/alawi/3106.ts
-#EXTINF:-1,LOCAL:HOLLYWOOD HD
-http://topiptv.net:5890/live/alawi/alawi/3019.ts
-#EXTINF:-1,LOCAL:FOX LIFE HD
-http://topiptv.net:5890/live/alawi/alawi/3001.ts
-#EXTINF:-1,LOCAL:FOX HD
-http://topiptv.net:5890/live/alawi/alawi/2999.ts
-#EXTINF:-1,LOCAL:COSMOPOLITAN HD
-http://topiptv.net:5890/live/alawi/alawi/2984.ts
-#EXTINF:-1,LOCAL:COMEDY CENTRAL HD
-http://topiptv.net:5890/live/alawi/alawi/2982.ts
-#EXTINF:-1,LOCAL:CALLE 13 HD
-http://topiptv.net:5890/live/alawi/alawi/2971.ts
-#EXTINF:-1,LOCAL:AXN WHITE HD
-http://topiptv.net:5890/live/alawi/alawi/2938.ts
-#EXTINF:-1,LOCAL:AXN HD
-http://topiptv.net:5890/live/alawi/alawi/2936.ts
-#EXTINF:-1,LOCAL:M.XTRA HD
-http://topiptv.net:5890/live/alawi/alawi/3034.ts
-#EXTINF:-1,LOCAL:CLASSICA
-http://topiptv.net:5890/live/alawi/alawi/2981.ts
-#EXTINF:-1,--PPV-LOCAL--
-http://topiptv.net:5890/live/alawi/alawi/3114.ts
-#EXTINF:-1,LOCAL:Taquilla 1
-http://topiptv.net:5890/live/alawi/alawi/3094.ts
-#EXTINF:-1,LOCAL:Taquilla 2
-http://topiptv.net:5890/live/alawi/alawi/3095.ts
-#EXTINF:-1,LOCAL:Taquilla 5
-http://topiptv.net:5890/live/alawi/alawi/3098.ts
-#EXTINF:-1,LOCAL:Taquilla 3
-http://topiptv.net:5890/live/alawi/alawi/3096.ts
-#EXTINF:-1,LOCAL:Taquilla 4
-http://topiptv.net:5890/live/alawi/alawi/3097.ts
-#EXTINF:-1,LOCAL:Taquilla 6
-http://topiptv.net:5890/live/alawi/alawi/3099.ts
-#EXTINF:-1,LOCAL:Taquilla 7
-http://topiptv.net:5890/live/alawi/alawi/3100.ts
-#EXTINF:-1,--Musica-LOCAL--
-http://topiptv.net:5890/live/alawi/alawi/3112.ts
-#EXTINF:-1,LOCAL:NONSTOPEOPLE
-http://topiptv.net:5890/live/alawi/alawi/3073.ts
-#EXTINF:-1,LOCAL:MTV ESPANA
-http://topiptv.net:5890/live/alawi/alawi/3066.ts
-#EXTINF:-1,LOCAL:MEZZO LIVE HD
-http://topiptv.net:5890/live/alawi/alawi/3037.ts
-#EXTINF:-1,LOCAL:Mezzo
-http://topiptv.net:5890/live/alawi/alawi/3036.ts
-#EXTINF:-1,LOCAL:LOS 40
-http://topiptv.net:5890/live/alawi/alawi/3028.ts
-#EXTINF:-1,LOCAL:40 TV
-http://topiptv.net:5890/live/alawi/alawi/2994.ts
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",#0   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/152.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",AMC Spain   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2756.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Antena 3   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/971.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",AXN   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1601.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Barca TV   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1037.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Bein LaLiga   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1590.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Bein sPORT   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/578.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Boing   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1540.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Calle 13   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1039.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Caza y Pesca   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1597.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Clan   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1541.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Comedy Central   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1593.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Cuatro   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/153.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",DeCasa   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1599.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Discovery   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1600.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Disney   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1539.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Disney Junior   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1538.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Disney XD   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1537.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",ES-Partidazo   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2757.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Eurosport1   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1596.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",FDF   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2754.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Fox    (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1592.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",GOL TV   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2753.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Hollywood   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/157.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",La1   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/536.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",La2   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/537.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",la Liga    (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/32.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",La sexta   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/970.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M  Accion   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/159.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Comedia   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/155.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M DCINE   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/156.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Deportes1   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/34.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Deportes2   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1591.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Mega   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/925.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Estrenos   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/31.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Formula1   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1595.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Futbol    (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/33.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Golf   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1598.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M MotoGP   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1594.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",M Serie   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/35.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Nat geo   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/558.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Nat Geo Wild   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2755.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Neox   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/930.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Nickelodeon   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1536.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Nova   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/924.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Odisea   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/154.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Real Madrid TV   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1038.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Syfy   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/929.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla1   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1706.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla2   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1589.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla3   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1584.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla4   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1503.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla5   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1502.m3u8
+#EXTINF:-1 group-title="SERVER 1-193" tvg-logo="http://exabytetv.info/img/icon.png",Tele5   (s-1)
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/36.m3u8
+#EXTINF:0 group-title="SERVER 2",== SERVER 2 ==
+http://exabytetv.info/exabytetv.mp4
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Antena3   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2298.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",BarcaTV   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2724.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",BeinLaLiga   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2585.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",BeinLaLiga1   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2767.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Calle13HD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2600.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Accion   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2299.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Comedea   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2297.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Dcin   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2296.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-ESTRENO   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2352.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Golf   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2300.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-TOROS   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/1243.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Xtra   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2301.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal2HD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2599.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",CanalFutbal   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2247.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",CanalHD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2584.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal Deportes   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2248.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal LIGA   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2246.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",DisneyXD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2583.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Disney Channel   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2722.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Disney Junior   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2721.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",FoxLifeHD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2582.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Fox Movie HD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2381.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Hollywood Spain   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2384.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",LA1   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2383.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",LA2   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2727.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",LaSextaHD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2598.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",NatGeoWild   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2581.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",National-Geo   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2302.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Nickelodeon   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2580.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",NOVA   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2579.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Real Madrid   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2382.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Ribera   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2771.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla1   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2358.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla2   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2359.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla3   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2360.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla4   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2361.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla5   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2362.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla6   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2357.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla7   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2356.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla8   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2355.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla9   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2354.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla10   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2353.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",TELECINCO   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2351.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",Tele Uno   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2770.ts
+#EXTINF:-1 group-title="SERVER 2-www" tvg-logo="http://exabytetv.info/img/icon.png",TVE1 HD   ts (s-2)
+http://www.vips2016.com:8088/live/3345406663/2929544/2597.ts
+#EXTINF:0 group-title="SERVER 3",== SERVER 3 ==
+http://exabytetv.info/exabytetv.mp4
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Antena3   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2298.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",BarcaTV   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2724.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",BeinLaLiga   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2585.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",BeinLaLiga1   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2767.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Calle13HD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2600.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Accion   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2299.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Comedea   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2297.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Dcin   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2296.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-ESTRENO   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2352.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Golf   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2300.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-TOROS   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/1243.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Xtra   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2301.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal2HD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2599.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",CanalFutbal   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2247.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",CanalHD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2584.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal Deportes   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2248.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal LIGA   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2246.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",DisneyXD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2583.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Disney Channel   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2722.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Disney Junior   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2721.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",FoxLifeHD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2582.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Fox Movie HD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2381.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Hollywood Spain   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2384.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",LA1   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2383.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",LA2   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2727.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",LaSextaHD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2598.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",NatGeoWild   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2581.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",National-Geo   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2302.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Nickelodeon   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2580.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",NOVA   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2579.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Real Madrid   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2382.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Ribera   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2771.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla1   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2358.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla2   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2359.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla3   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2360.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla4   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2361.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla5   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2362.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla6   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2357.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla7   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2356.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla8   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2355.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla9   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2354.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla10   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2353.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",TELECINCO   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2351.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",Tele Uno   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2770.ts
+#EXTINF:-1 group-title="SERVER 3-www" tvg-logo="http://exabytetv.info/img/icon.png",TVE1 HD   ts (s-3)
+http://www.vips2016.com:8088/live/3345406663/2929544/2597.ts
+#EXTINF:0 group-title="SERVER 4",== SERVER 4 ==
+http://exabytetv.info/exabytetv.mp4
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Antena3   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2298.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",BarcaTV   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2724.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",BeinLaLiga   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2585.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",BeinLaLiga1   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2767.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Calle13HD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2600.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Accion   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2299.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Comedea   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2297.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Dcin   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2296.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-ESTRENO   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2352.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Golf   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2300.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-TOROS   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/1243.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal-Xtra   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2301.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal2HD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2599.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",CanalFutbal   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2247.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",CanalHD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2584.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal Deportes   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2248.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Canal LIGA   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2246.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",DisneyXD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2583.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Disney Channel   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2722.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Disney Junior   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2721.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",FoxLifeHD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2582.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Fox Movie HD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2381.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Hollywood Spain   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2384.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",LA1   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2383.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",LA2   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2727.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",LaSextaHD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2598.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",NatGeoWild   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2581.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",National-Geo   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2302.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Nickelodeon   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2580.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",NOVA   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2579.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Real Madrid   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2382.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Ribera   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2771.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla1   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2358.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla2   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2359.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla3   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2360.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla4   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2361.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla5   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2362.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla6   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2357.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla7   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2356.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla8   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2355.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla9   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2354.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Taquilla10   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2353.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",TELECINCO   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2351.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",Tele Uno   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2770.ts
+#EXTINF:-1 group-title="SERVER 4-www" tvg-logo="http://exabytetv.info/img/icon.png",TVE1 HD   ts (s-4)
+http://www.vips2016.com:8088/live/3345406663/2929544/2597.ts
+#EXTINF:0 group-title="SERVER 5",== SERVER 5 ==
+http://exabytetv.info/exabytetv.mp4
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",#0   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/794.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",40 TV   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/763.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",AMC   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1775.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ANDALUCIA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/5121.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ANTENA 3 HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/502.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",AXN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/778.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",AXN WHITE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/777.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",A E SPAIN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/779.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",BARCA TV   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/775.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",BOING   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/774.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",B SPORTS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3938.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",C+ DEPORTES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/504.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CALLE 13   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1400.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/787.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ COMEDIA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/792.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ DCINE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/785.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ ESTRENOS HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/776.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ FUTBOL   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/793.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ GOLF   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/738.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/766.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ LIGA HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/795.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ SERIES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/885.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ SERIXTRA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/850.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ TOROS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/796.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ XTRA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1419.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/745.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL ACTION   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/791.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL COCINA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/799.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL DEPORTES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3937.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL DEPORT2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3935.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL ESTREDOS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1397.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CLAN TVE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/849.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",CUATRO   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/837.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",DISCOVERY   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/742.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",DISNEY CHANNEL   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/817.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",DISNEY JUNIOR   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/784.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",DISNEY XD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/741.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ENERGY   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/4746.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",EUROSPORT 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/855.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",EUROSPORT 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/852.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",EURO NEWS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1773.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",FDF SPAIN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/801.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",FOX   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/856.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",FOX LIFE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/789.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",HISTORIA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/841.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",HOLLYWOOD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/802.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",LA 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/816.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",LA 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/800.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",LA SEXTA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/790.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",MEGA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/764.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",MOVIESTAR F1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/803.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",MOVIESTAR MOTOGP   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/765.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",MTV ROCKS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1776.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",NATIONAL GEO   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/804.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",NATIONAL GEO WILD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/836.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",NEOX   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/839.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",NICKELODEON   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/797.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",NICK JUNIOR   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1777.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",NOVA SPAIN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/788.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",PANDA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/843.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",REAL MADRID TV   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/851.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",SERIEXTRA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/840.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",SYFY   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/842.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/890.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/423.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 3   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/282.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 4   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/265.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 5   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/904.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 6   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/858.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 7   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/854.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TELECINCO   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/508.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TELEDEPORTE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/848.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TNT ES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/847.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TVE LA 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3932.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",TVE LA 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3934.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES #0   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/794.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES 40 TV   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/763.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES AMC   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1775.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES ANDALUCIA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/5121.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES ANTENA 3 HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/502.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES AXN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/778.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES AXN WHITE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/777.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES A E SPAIN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/779.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES BARCA TV   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/775.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES BOING   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/774.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES B SPORTS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3938.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES C+ DEPORTES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/504.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CALLE 13   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1400.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/787.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ COMEDIA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/792.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ DCINE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/785.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ ESTRENOS HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/776.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ FUTBOL   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/793.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ GOLF   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/738.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/766.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ LIGA HD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/795.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ SERIES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/885.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ SERIES XTRA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/850.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ TOROS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/796.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ XTRA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1419.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/745.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL ACTION   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/791.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL COCINA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/799.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL DEPORTES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3937.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL DEPORTES 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3935.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL ESTREDOS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1397.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CLAN TVE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/849.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CUATRO   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/837.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISCOVERY   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/742.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISNEY CHANNEL   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/817.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISNEY JUNIOR   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/784.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISNEY XD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/741.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES ENERGY   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/4746.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES EUROSPORT 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/855.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES EUROSPORT 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/852.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES EURO NEWS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1773.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES FDF SPAIN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/801.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES FOX   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/856.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES FOX LIFE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/789.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES HISTORIA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/841.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES HOLLYWOOD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/802.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES LA 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/816.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES LA 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/800.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES LA SEXTA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/790.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES MEGA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/764.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES MTV ROCKS   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1776.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NATIONAL GEO   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/804.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NATIONAL GEO WILD   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/836.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NEOX   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/839.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NICKELODEON   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/797.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NICK JUNIOR   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1777.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NOVA SPAIN   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/788.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES PANDA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/843.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES REAL MADRID TV   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/851.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES SERIES EXTRA   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/840.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES SYFY   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/842.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/890.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/423.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 3   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/282.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 4   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/265.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 5   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/904.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 6   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/858.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 7   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/854.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TELECINCO   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/508.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TELEDEPORTE   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/848.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TNT ES   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/847.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TVE LA 1   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3932.ts
+#EXTINF:-1 group-title="SERVER 5-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TVE LA 2   ts (s-5)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3934.ts
+#EXTINF:0 group-title="SERVER 6",== SERVER 6 ==
+http://exabytetv.info/exabytetv.mp4
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",#0   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/794.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",40 TV   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/763.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",AMC   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1775.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ANDALUCIA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/5121.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ANTENA 3 HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/502.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",AXN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/778.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",AXN WHITE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/777.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",A E SPAIN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/779.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",BARCA TV   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/775.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",BOING   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/774.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",B SPORTS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3938.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",C+ DEPORTES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/504.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CALLE 13   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1400.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/787.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ COMEDIA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/792.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ DCINE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/785.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ ESTRENOS HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/776.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ FUTBOL   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/793.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ GOLF   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/738.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/766.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ LIGA HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/795.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ SERIES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/885.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ SERIXTRA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/850.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ TOROS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/796.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL+ XTRA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1419.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/745.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL ACTION   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/791.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL COCINA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/799.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL DEPORTES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3937.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL DEPORT2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3935.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CANAL ESTREDOS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1397.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CLAN TVE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/849.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",CUATRO   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/837.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",DISCOVERY   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/742.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",DISNEY CHANNEL   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/817.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",DISNEY JUNIOR   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/784.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",DISNEY XD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/741.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ENERGY   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/4746.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",EUROSPORT 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/855.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",EUROSPORT 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/852.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",EURO NEWS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1773.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",FDF SPAIN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/801.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",FOX   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/856.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",FOX LIFE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/789.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",HISTORIA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/841.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",HOLLYWOOD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/802.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",LA 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/816.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",LA 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/800.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",LA SEXTA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/790.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",MEGA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/764.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",MOVIESTAR F1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/803.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",MOVIESTAR MOTOGP   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/765.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",MTV ROCKS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1776.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",NATIONAL GEO   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/804.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",NATIONAL GEO WILD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/836.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",NEOX   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/839.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",NICKELODEON   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/797.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",NICK JUNIOR   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1777.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",NOVA SPAIN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/788.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",PANDA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/843.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",REAL MADRID TV   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/851.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",SERIEXTRA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/840.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",SYFY   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/842.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/890.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/423.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 3   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/282.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 4   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/265.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 5   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/904.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 6   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/858.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TAQUILLA 7   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/854.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TELECINCO   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/508.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TELEDEPORTE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/848.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TNT ES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/847.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TVE LA 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3932.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",TVE LA 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3934.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES #0   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/794.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES 40 TV   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/763.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES AMC   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1775.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES ANDALUCIA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/5121.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES ANTENA 3 HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/502.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES AXN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/778.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES AXN WHITE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/777.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES A E SPAIN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/779.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES BARCA TV   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/775.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES BOING   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/774.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES B SPORTS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3938.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES C+ DEPORTES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/504.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CALLE 13   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1400.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/787.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ COMEDIA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/792.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ DCINE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/785.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ ESTRENOS HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/776.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ FUTBOL   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/793.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ GOLF   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/738.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/766.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ LIGA HD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/795.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ SERIES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/885.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ SERIES XTRA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/850.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ TOROS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/796.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL+ XTRA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1419.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/745.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL ACTION   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/791.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL COCINA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/799.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL DEPORTES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3937.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL DEPORTES 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3935.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CANAL ESTREDOS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1397.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CLAN TVE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/849.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES CUATRO   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/837.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISCOVERY   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/742.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISNEY CHANNEL   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/817.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISNEY JUNIOR   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/784.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES DISNEY XD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/741.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES ENERGY   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/4746.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES EUROSPORT 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/855.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES EUROSPORT 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/852.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES EURO NEWS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1773.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES FDF SPAIN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/801.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES FOX   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/856.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES FOX LIFE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/789.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES HISTORIA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/841.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES HOLLYWOOD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/802.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES LA 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/816.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES LA 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/800.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES LA SEXTA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/790.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES MEGA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/764.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES MTV ROCKS   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1776.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NATIONAL GEO   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/804.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NATIONAL GEO WILD   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/836.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NEOX   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/839.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NICKELODEON   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/797.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NICK JUNIOR   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/1777.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES NOVA SPAIN   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/788.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES PANDA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/843.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES REAL MADRID TV   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/851.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES SERIES EXTRA   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/840.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES SYFY   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/842.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/890.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/423.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 3   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/282.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 4   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/265.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 5   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/904.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 6   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/858.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TAQUILLA 7   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/854.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TELECINCO   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/508.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TELEDEPORTE   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/848.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TNT ES   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/847.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TVE LA 1   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3932.ts
+#EXTINF:-1 group-title="SERVER 6-www" tvg-logo="http://exabytetv.info/img/icon.png",ES TVE LA 2   ts (s-6)
+http://www.xa1q.com:8000/live/meddeb151/benothm/3934.ts
