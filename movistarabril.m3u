@@ -1,32 +1,42 @@
 #EXTM3U
 
 
-#EXTINF:-1,RED BULL TV
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1  (geo-mex)
-
-http://exabytetv.zapto.org/exabytetv-esgratis/total/3/CWKKV-1011000111000111010101011101110-ExabyteTV/7684/visita-exabytetv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1  (singeo)
 
-http://exabytetv.zapto.org/exabytetv-esgratis/totalng/CWKKV-1011000111000111010101011101110-ExabyteTV/7684/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next (UK)
-
-http://exabytetv.zapto.org/exabytetv-esgratis/filemina/CWKKV-1011000111000111010101011101110-ExabyteTV/713/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Wrestling
-
-http://exabytetv.zapto.org/exabytetv-esgratis/gc/CWKKV-1011000111000111010101011101110-ExabyteTV/2152/visita-exabytetv.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",WWE Network HD (Op2)
-
-http://exabytetv.zapto.org/exabytetv-esgratis/deporteseuropa/CWKKV-1011000111000111010101011101110-ExabyteTV/wwetv/visita-exabytetv.m3u8
+#EXTINF:-1,IT: ALICE
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1243.m3u8
+#EXTINF:-1,IT: ANIMAL_PLANETE
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1287.m3u8
+#EXTINF:-1,IT: CANALE 5
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1247.m3u8
+#EXTINF:-1,IT: Canale_7
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1246.m3u8
+#EXTINF:-1,IT: CARTOONITO
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1288.m3u8
+#EXTINF:-1,IT: CRIME_INVESTIGATION_HD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1294.m3u8
+#EXTINF:-1,IT: DISCOVERY HD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1293.m3u8
+#EXTINF:-1,IT: DISCOVERY SCIENCE
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1280.m3u8
+#EXTINF:-1,IT: DISCOVERY Travel & Living
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1278.m3u8
+#EXTINF:-1,IT: Disney_HD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1292.m3u8
+#EXTINF:-1,IT: DISNEY_XD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1291.m3u8
+#EXTINF:-1,IT: DMAX HD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1290.m3u8
+#EXTINF:-1,IT: DMAX_HD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/3317.m3u8
+#EXTINF:-1,IT: EUROSPORT 2
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1265.m3u8
+#EXTINF:-1,IT: EUROSPORT_HD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1264.m3u8
+#EXTINF:-1,IT: FOX ANIMATION HD
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/1289.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/04/Canal-26.jpg",26 Argentina
 
