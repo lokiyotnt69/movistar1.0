@@ -1,12 +1,10 @@
 #EXTM3U
 
 
-
-#EXTINF:-1,Gol TV HD
-http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
-
 #EXTINF:-1,RTP1 HD
 http://iptvtt.ddns.net:8000/live/pina1/pina1/4683.ts
+#EXTINF:-1,Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1,RTP 1
 http://iptvtt.ddns.net:8000/live/pina1/pina1/4399.ts
 #EXTINF:-1,RTP 2 HD
