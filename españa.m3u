@@ -1,30 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,DCINE
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/70.ts
-#EXTINF:-1,CUATRO
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/69.ts
-#EXTINF:-1,COSMO
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/67.ts
-#EXTINF:-1,COMEDIA
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/65.ts
-#EXTINF:-1,CAZA Y PESCA
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/61.ts
-#EXTINF:-1,ACCION
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/56.ts
-#EXTINF:-1,CALLE 13
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/55.ts
-#EXTINF:-1,XXX 6
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/50.ts
-#EXTINF:-1,XXX 5
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/49.ts
-#EXTINF:-1,XXX 4
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/48.ts
-#EXTINF:-1,XXX 3
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/47.ts
-#EXTINF:-1,XXX 2
-http://37.187.128.169:8000/live/kdslf445874fssfas1/fasdfa444dSSDFf/46.ts
-#EXTM3U
+
+
+#EXTINF:-1,Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+
 #EXTINF:-1,RTP1 HD
 http://iptvtt.ddns.net:8000/live/pina1/pina1/4683.ts
 #EXTINF:-1,RTP 1
