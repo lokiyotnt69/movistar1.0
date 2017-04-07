@@ -5,7 +5,48 @@
 
 
 
-
+#EXTINF:0, Bein Sport
+http://www.t12v.com:8000/get.php?username=romeo&password=romeo&type=m3u
+#EXTINF:0, Bein Sport
+http://151.80.97.112:8000/get.php?username=john&password=john&type=m3u
+#EXTINF:0, Bein Sport
+http://sat.010e.net:8000/get.php?username=h3&password=h3&type=m3u
+#EXTINF:0, Bein Sport
+http://146.0.231.88:8000/get.php?username=bouyki.com&password=bouyki.com&type=m3u
+#EXTINF:0, Bein Sport
+http://37.187.24.177:80/get.php?username=mans85&password=mans85&type=m3u
+#EXTINF:0, bein sport
+http://87.98.246.40:1985/get.php?username=25-03-R&password=5K51mkwjYi&type=m3u&output=mpegts
+#EXTINF:0, bein sport + arab
+http://iptv333.mine.nu:8000/get.php?username=helmi&password=helmi&type=m3u
+#EXTINF:0, bein sport 1-12
+http://iptv-elhouari.com:8000/get.php?username=tarik&password=tarik&type=m3u
+#EXTINF:0, BEIN SPORT 10HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-10/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 1HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-1/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 1HD(FR)
+http://185.2.83.63:8080/sAlakHHarR00sibhensfn-1/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 2HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-2/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 2HD(FR)
+http://185.2.83.63:8080/sAlakHHarR00sibhensfn-2/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 3HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-3/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 4HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-4/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 5HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-5/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 6HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-6/Strm/index.m3u8
+#EXTINF:0, Bein Sport 7
+http://www.t12v.com:8000/live/luca/luca/192.ts
+#EXTINF:0, BEIN SPORT 7HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-7/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 8HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-8/Strm/index.m3u8
+#EXTINF:0, BEIN SPORT 9HD
+http://185.2.83.63:8080/sAlakHHarR00sibhensp-9/Strm/index.m3u8
 #EXTINF:-1,ESP|LA 1
 http://195.154.154.185:5890/live/ali13/ali13/490.m3u8
 #EXTINF:-1,ESP|LA 2
