@@ -5,300 +5,822 @@
 
 
 
-
-#EXTM3U Spain
-#EXTINF:1, 10 MAR DEL PLATA ARGENTINA
-http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
-#EXTINF:0, 2
-mms://difusion.cantv.net/vhost-covetel_live
-#EXTINF:0, 324
-rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_324_FLV
-#EXTINF:0, 33
-rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_33D_FLV
-#EXTINF:0, ABN US
-http://brightcove03-f.akamaihd.net/iptv1_1_900@50919?videoId=1369803400001
-#EXTINF:0, Agueda TV
-http://agueda.tv/stream/stream.m3u8
-#EXTINF:0, AMC
-http://premium.exabytetv.info/total3/844hfoed/441/exabytetv.m3u8
-#EXTINF:0, AMC
-http://37.187.169.80:8080/ES-AMC/tracks-v1a1/index.m3u8
-#EXTINF:0, Andalucia TV
+#EXTINF:-1,CANALP ESPAÑA:#0
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/114.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:LA LIGATV BAR
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/91.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:BEIN LALIGA
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/92.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:PARTIDAZO
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej22/17.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:FUTBOL
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/84.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:BeinSports
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/115.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:GOLTV
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/93.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:DEPORTES1
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/71.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:DEPORTES2
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/72.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:EUROSPORT1 hd
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/82.ts
+#EXTINF:-1,CANALP ESPAÑA:RMTV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,CANALP ESPAÑA:ESTRENOS
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/79.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:DCINE
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/70.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:ACCION
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/56.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:COMEDIA
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/65.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:HOLLYWOOD
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/89.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:CALLE13
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/55.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:SYFY
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/90.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:FOX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/86.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:FOX life
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/108.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:AXN
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/109.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:AXN WHITE
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/110.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:COSMO
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/67.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:TNT
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/111.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:CAZAyPESCA
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/61.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:NAT GEO
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/102.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:NAT GEO WILD
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/103.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:HISTORIA
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/104.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:DISCOVERY
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/73.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:IBERALIA
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/105.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:LA1
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/98.ts
+#EXTINF:-1,CANALP ESPAÑA:LA2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,CANALP ESPAÑA:ANTENA3
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/99.ts
+#EXTINF:-1,CANALP ESPAÑA:CUATRO
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/69.ts
+#EXTINF:-1,CANALP ESPAÑA:TELECINCO
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/101.ts
+#EXTINF:-1,CANALP ESPAÑA:LASEXTA
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_3_av-p.m3u8
+#EXTINF:-1,CANALP ESPAÑA:DISNEY CHANNEL
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/76.ts
+#EXTINF:-1,CANALP ESPAÑA:DISNEY JUNIOR
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/75.ts
+#EXTINF:-1,CANALP ESPAÑA:NICK
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/112.ts
+#EXTINF:-1,CANALP ESPAÑA:MTV
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/113.ts
+#EXTINF:-1,CANALP ESPAÑA:40TV
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/44.ts
+#EXTINF:-1,CANALP ESPAÑA:VIRGINTV
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/87.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/46.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/47.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/48.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/49.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/50.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/51.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/52.ts
+#EXTINF:-1,CANALP ESPAÑA:XXX
+http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/53.ts
+ 
+#EXTINF:-1,CANALP ESPAÑA:LA1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live/stream3.m3u8
+#EXTINF:-1,CANALP ESPAÑA:LA2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
+#EXTINF:-1,CANALP ESPAÑA:ANTENA3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,CANALP ESPAÑA:LACUATRO
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/Z3ZnlnNTE6YSvclfoWNEEc0h-67DuLjw/cn/7231_4.m3u8
+#EXTINF:-1,CANALP ESPAÑA:TELECINCO
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/7210_4.m3u8
+#EXTINF:-1,CANALP ESPAÑA:LASEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
+#EXTINF:-1,CANALP ESPAÑA:NOVA
+http://a3live-lh.akamaihd.net/i/nvhls/geonova_1@379404/index_2_av-b.m3u8
+#EXTINF:-1,CANALP ESPAÑA:NEOX
+http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_2_av-b.m3u8
+#EXTINF:-1,CANALP ESPAÑA:MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Paramount Channel
+http://paramount.live.stream.flumotion.com/paramount/live.flv?token=85f2b8e2e4a48d0f8aa6c0488f31d98b588daedf588daf1b
+#EXTINF:-1,CANALP ESPAÑA:gran hermano vip
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/t0czVsNTE6lTmVjIUnwn1re-iduPUxej/cn/6631_1.m3u8
+#EXTINF:-1,CANALP ESPAÑA:BE MAD
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/9oczVsNTE66uaerrrQhhZZ2KqsRPyxAa/cn/7217_4.m3u8
+#EXTINF:-1,CANALP ESPAÑA:TELEDEPORTE
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live/stream2.m3u8
+#EXTINF:-1,CANALP ESPAÑA:13 TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:INTERECONOMIA
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:-1,CANALP ESPAÑA:CyL7
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:-1,CANALP ESPAÑA:La Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Tv Galicia
+http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Castilla-La Mancha Tv
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:ARAGON TV
+http://195.55.74.210/aragontv/hls-live/chunklist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Andalucia Tv
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:0, Antena 3
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
-#EXTINF:0, antena3
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/stream-antena3_1
-#EXTINF:0, Antena3 (EspaÃ±a)
-rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:443/antena3fms35live-live playpath=stream-antena3 live=1
-#EXTINF:0, Antena3 EspaÃ±a
-rtmp://&OPT;:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:443/antena3fms35live playpath=stream-antena3 live=1
-#EXTINF:0, Aragon TV
-http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
-#EXTINF:0, azteca 7
-http://goo.gl/aIXq0q
-#EXTINF:0, azteca 7
-http://goo.gl/aIXq0q
-#EXTINF:0, azteca 7
-http://goo.gl/aIXq0q
-#EXTINF:0, BarcaTV
-http://bbcwshdlive01.lh.akamaihd.net.atv@luxtivi.k18.us/barcatv.m3u8
-#EXTINF:0, bein, ES, Latino,...
-http://149.202.208.25:5210/get.php?username=nGDjuvtTbZ&password=pZVzv2wO40&type=m3u
-#EXTINF:0, Bein, ES, OSN, UK,...
-http://149.202.208.25:5210/get.php?username=PTDNXA4on7&password=4MiiaJWnJz&type=m3u
-#EXTINF:0, bein, ES, TR, PK,...
-http://portal.onlineiptv.net:5210/get.php?username=X2gnOe5227&password=NOVEJrhYiZ&type=m3u
-#EXTINF:0, bein, spain
-http://149.202.208.25:5210/get.php?username=uUPKzeUIGk&password=rQ0Eg5DUkr&type=m3u
-#EXTINF:0, bingo+
-http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15429.m3u8
-#EXTINF:0, C+ ACCION
-rtmp://$OPT:rtmp-raw=rtmp://23.227.165.66/iguide playpath=uqgivhxc58hqdj7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:0, C5N Argentina
-rtmp://server3.stweb.tv./c5n/live_baja
-#EXTINF:0, C5N BUENOS AIRES
-http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-#EXTINF:0, Calle 13 HD
-rtsp://198.144.158.183:80/pub/9G1hWULuNSLDDGIeLpSM
-#EXTINF:0, Cameres TV3
-rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_Cameres_FLV
-#EXTINF:0, CARACOL
-http://208.75.225.28:1935/live/cgsvrdsgmth/playlist.m3u
-#EXTINF:0, Chile - few working
-http://199.180.114.174:8000/get.php?username=qRt2tGHwil&password=H3bLIY1eaZ&type=m3u
-#EXTINF:0, CNN
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/38.m3u8
-#EXTINF:0, CUATRO HD
-rtmp://$OPT:rtmp-raw=rtmp://174.37.222.57/live playpath=cuatrolacajatv?id=14756 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/cuatrolacajatv/1/670/400
-#EXTINF:0, dcine
-http://ipsatpro.com:8000/live/222222/222222/1028.ts
-#EXTINF:0, Efekto
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:0, EL PINGÜINO TV
-rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p
-#EXTINF:0, es
-http://IPTVFREE1.COM:6969/get.php?username=6&password=www.iptvrestream.net&type=m3u
-#EXTINF:0, ES M3U
-http://62.210.162.88:80/get.php?username=ES80&password=140325012016&type=m3u
-#EXTINF:0, Espana
-http://163.172.15.23:8000/get.php?username=ncxGSWShRz5&password=NJCVhLk302p&type=m3u
-#EXTINF:0, Espana, world
-http://portal.onlineiptv.net:5210/get.php?username=w5RaJIIPPr&password=dVrlfBI5VY&type=m3u
-#EXTINF:0, Esport 3
-rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_ES3_FLV
-#EXTINF:0, estrellas
-http://batman.tutvgratis.tv/ch/1536.m3u8?token=KAw7LI5FgbRud79zzTtcp32FvWVW0+Ut++mdPV3WUMN1yy93lqxbu/fEA+7jAiy++ZVJycvFXEj8S7/QHyXLVxRvHc1PmO3qP66h7fS9SmNXNSN2YNH+3oyO3MFseUJV8DKac+cBnriDki1nTQqBdQ8eZ3O6dQly9LN/iktSgRg=|285+5xD2IWunVNPLu8BYix0s2YqvCTpo8XWMkCPqEZQ=.m3u8
-#EXTINF:0, Euronews (ES)
-rtsp://fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive/es_video750_flash_all.sdp
-#EXTINF:0, Euronews (SP)
-http://185.74.70.10/euronews-04.aac?type=.flv
-#EXTINF:0, EuroNews espanol
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
-#EXTINF:0, Eurosport
-http://esioslive-i.akamaihd.net/hls/live/201630/AL_ESP1_SP_SPA/playlist_400.m3u8
-#EXTINF:0, Exabite
-http://www.exabytetv.info/LA3.m3u
-#EXTINF:0, FDF
-rtmp://$OPT:rtmp-raw=rtmp://kinshasa.zcast.us/liveedge playpath=fdflacaja-65889 swfUrl=http://player.zcast.us/player58.swf live=1 pageUrl=http://zcast.us/gen.php?ch=fdflacaja-65889&width=670&height=400
-#EXTINF:0, Four CUATRO
-rtmp://$OPT:rtmp-raw=rtmp://174.37.222.57/live/cuatrolacajatv?id=14756 live=1
-#EXTINF:0, FOX
-http://www.mipsplayer.com/embedplayer/zeyufoxx1/1/620/382
-#EXTINF:0, FX CHANNEL
-rtmp://$OPT:rtmp-raw=rtmp://204.45.157.98/flash/16005 pageUrl=http://sawlive.tv/embed/halilou/
-#EXTINF:0, Gol T
-http://cdnvir-edge01.mediapro.es/niceLiveServer/_definst_/53662626/af476381c21fbecc29d1e8c487a6051a/golt_live_24h_MB_2000/media_w886217303_8915.m3u8?wowzasessionid=186825503
-#EXTINF:0, hbo
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/27edbc2409d7ae38eba34a01ffc9d70df68d13e3/102.m3u8
-#EXTINF:0, Hondured
-http://173.236.71.62:1935/hondured/hrtv.sdp/chunklist_w1352803756.m3u8
-#EXTINF:0, http://ds.serving-sys.com/BurstingRes//Site-43863/Type-12/1c9e8f1a-66b0-478a-b889-3cad728a0418.flv
-http://ds.serving-sys.com/BurstingRes//Site-43863/Type-12/1c9e8f1a-66b0-478a-b889-3cad728a0418.flv
-#EXTINF:0, http://live563500.radionomy-live.net:2696
-http://live563500.radionomy-live.net:2696
-#EXTINF:0, http://streaming.radionomy.com/100-purasalsa
-http://streaming.radionomy.com/100-purasalsa
-#EXTINF:0, http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.t
-#EXTINF:0, HWD - Hollywood
-http://luxtivi.k18.us/hollywood.m3u8
-#EXTINF:0, iptv
-http://su.ff.avast.com/R/A3kKIGU2ZjE2MjE5MmY2YzRiYTZiZjlmODdmMmYyZjA1ODlkEgQAJgMXGKkCIgEAKgcIBBDPqeFOKgcIAxDPwN9OMgoIBBDPqeFOGIAKOPCRiIgBQiBxS0oLcmFTtiAy5ylC7IeosrmlrNVmtnJyWms4wsZeHUiAgpgY
-#EXTINF:0, La 1
-http://62.4.21.70:8000/live/akdim/akdim/1854.ts
-#EXTINF:0, Latino
-http://comunidadiptv.org/online/estable/lista.php?pass=oMxtrqEm.m3u
-#EXTINF:0, Latino
-http://149.56.29.127:8000/get.php?username=andrea&password=andrea&type=m3u
-#EXTINF:0, Latino
-http://186.3.234.131:8000/playlist.m3u8
-#EXTINF:0, Latino
-http://149.56.23.205:8000/get.php?username=master&password=master&type=m3u
-#EXTINF:0, Latino
-http://23.237.0.58:8000/get.php?username=2&password=2&type=m3u
-#EXTINF:0, Latino
-http://23.237.22.13:8000/get.php?username=mariocs&password=mariocs&type=m3u
-#EXTINF:0, Latino, Usa channels
-http://149.56.240.30:25461/get.php?username=roku&password=roku&type=m3u
-#EXTINF:0, Levante TV
-rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
-#EXTINF:0, Luz TV
-http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
-#EXTINF:0, Mix playlist
-http://worldcs.info:8080/get.php?username=alberto&password=alberto&type=m3u
-#EXTINF:0, MXQ Deportes
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:0, Ncdn
-http://pastebin.com/4K3fy5kH
-#EXTINF:0, NEOX HD
-rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:443/antena3fms35live-live playpath=stream-eventos2 swfUrl=http://www.antena3.com/AkamaiPlugin/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.antena3.com/static/swf/A3PlayerAkamai.swf?xml=http://www.antena3.com/static/directos/directo3.xml&autoplay=true live=1
-#EXTINF:0, NITRO
-rtmp://$OPT:rtmp-raw=rtmp://173.193.242.248/live/nitrolacajatv?id=126587 live=1
-#EXTINF:0, Oxigeno
-rtmp://rpplivefs.fplive.net/rpp02live-live/streamOXIRD
-#EXTINF:0, PLUS 1
-rtmp://$OPT:rtmp-raw=rtmp://185.2.138.108/live playpath=lalalala?id=11275 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lalalala/1/645/395 conn=S:OK â€“live
-#EXTINF:0, PLUS ACCION
-rtmp://$OPT:rtmp-raw=rtmp://50.7.173.250/iguide playpath=uqgivhxc58hqdj7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php?width=650&height=400&channel=11167&autoplay=true token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:0, PLUS DEPORTES
-rtmp://$OPT:rtmp-raw=rtmp://50.7.133.138/iguide playpath=41mpv2b0gssazjw swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:0, PLUS TOROS
-rtmp://$OPT:rtmp-raw=rtmp://146.185.18.42/stream playpath=toretes?id=110621 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/toretes/1/645/395 conn=S:OK â€“live
-#EXTINF:0, Real Madrid TV
-http://portal.rapidiptv.com:8080/live/Maki/maki/5552.ts
-#EXTINF:0, Rosadito TV
-http://tecnotv.info/rosadin.m3u
-#EXTINF:0, RT PRINCIPADO ASTURIAS 7
-http://iphone.rtpa.stream.flumotion.com:80/rtpa/tv-iphone/main.m3u8
-#EXTINF:0, rtmp://188.165.213.105/redirect?token=itHt3FpVPhfJ_VKaRytztQExpired=1430490866 playpath=verfoxlive8q
-rtmp://188.165.213.105/redirect?token=itHt3FpVPhfJ_VKaRytztQExpired=1430490866 playpath=verfoxlive8qw625a swfUrl=http://vercosasgratis.com/player.swf pageUrl=http://vercosasgratis.com/
-#EXTINF:0, RTPA Asturias
+#EXTINF:-1,CANALP ESPAÑA:CANAL SUR Andalucia
+http://195.55.74.208/rtva/andaluciatelevision-iphone/stream.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Tv Centro Andalucia
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,CANALP ESPAÑA:7TV MURCIA
+rtmp://flash0.80670-live0.dna.qbrick.com/80670-live0/murciatv
+#EXTINF:-1,CANALP ESPAÑA:Tele Asturias
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:0, series+
-http://94.23.117.92:8000/live/sonia/sonia/160.ts
-#EXTINF:0, SERVI TAROT
-http://87.106.244.74:1935/live/myStream_1/livestream.m3u8
-#EXTINF:0, Sevilla FC
-rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
-#EXTINF:0, skysport
-http://bur879.com:8000/get.php?username=tomy6565&password=78290f&type=m3u
-#EXTINF:0, Space
-http://premium.exabytetv.info/total3/844hfoed/456/exabytetv.m3u8
-#EXTINF:0, Spain
-http://62.210.162.88:80/get.php?username=ES85&password=120630012016&type=m3u
-#EXTINF:0, Spain
-http://iptv.alphacs.tv:8080/get.php?username=NBELoAp61d&password=2KRwspJjrS&type=m3u
-#EXTINF:0, Spain
-http://164.132.171.155:8000/get.php?username=1&password=123456&type=m3u
-#EXTINF:0, Spain
-http://212.231.9.89:9981/playlist
-#EXTINF:0, Spain
-http://80.30.18.187:9981/playlist
-#EXTINF:0, Spain
-http://37.15.77.220:9981/playlist
-#EXTINF:0, Spain
-http://163.172.213.25:8000/get.php?username=italia&password=italia&type=m3u
-#EXTINF:0, Spain +...
-http://149.202.208.25:5210/get.php?username=35JFYfRkDT&password=qzBBj7oG9m&type=m3u
-#EXTINF:0, Spain astra
-http://62.167.57.5:8000/playlist.m3u8
-#EXTINF:0, Spain channels
-http://146.66.254.1:8000/playlist.m3u8
-#EXTINF:0, Spain IPTV
-http://163.172.213.25:8000/get.php?username=sebas&password=sebas&type=m3u
-#EXTINF:0, Spain IPTV
-http://37.187.128.169:8000/get.php?username=kdslf445874fssfas1&password=fasdfa444dSSDFf&type=m3u
-#EXTINF:0, Spain mix + World
-http://51.255.94.145:980/get.php?username=lorenzo&password=lorenzo&type=m3u
-#EXTINF:0, Spain, bein
-http://d4life.dtdns.net:8000/get.php?username=cristobal&password=cristobal&type=m3u
-#EXTINF:0, Spain, Fr, IT, Bein
-http://megaiptv.spdns.eu:8000/get.php?username=free5284&password=VtldGr3cWz&type=m3u
-#EXTINF:0, Spain, Sports
-http://163.172.213.25:8000/get.php?username=raul&password=raul&type=m3u
-#EXTINF:0, Spanish
-http://zialcobra.dyndns.org:8000/get.php?username=Francisco&password=Francisco&type=m3u
-#EXTINF:0, Spanish
-http://158.69.52.43:8000/get.php?username=Lista114&password=114&type=m3u
-#EXTINF:0, Spanish playlist
-http://5.10.201.88:9090/playlist.m3u8
-#EXTINF:0, Super 3
-rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_Super3_FLV
-#EXTINF:0, SyFy
-http://79.145.164.237:4022/udp/239.0.0.111:8208
-#EXTINF:0, syfy
-rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=f4rsyfy?id=71069 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ conn=S:OK â€“live
-#EXTINF:0, Tecnotv Mexico
-http://tecnotv.info/sd.m3u
-#EXTINF:0, Tele Asturias
-rtmp://149.11.34.6/live/teleasturias.stream
-#EXTINF:0, Tele Madrid
-http://telemadridlive-f.akamaihd.net/telemadridf_1_1@112900?videoId=2750412247001&lineUpId;=&pubId=104403117001&playerId=111868723001&affiliateId;=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN
-#EXTINF:0, telecinco
-http://verdirectotv.com/tv/nacionales/telecinco2.html
-#EXTINF:0, telesur audio
-rtmp://cast.streamingconnect.tv:1935/telesuraudio/telesuraudio
-#EXTINF:0, televenezuela
-http://vaughnlive.tv/abc_televenezuela1
-#EXTINF:0, Telever Canal 12
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-#EXTINF:0, TV Huelva (Andalucia-EspaÃ±a)
-rtmp://flash3.todostreaming.es/huelvatv/livestream
-#EXTINF:0, TV Canarias
-http://streamrtvcnet.mad.idec.net/rtvcnet/rtvcnet.stream/vcx7.m3u8
-#EXTINF:0, TV Ceuta (EspaÃ±a)
-rtmp://flash3.todostreaming.es/rtvceuta/livestream
-#EXTINF:0, TV ES 2
-rtmp://cast.streamingconnect.tv/tves2/tves2
-#EXTINF:0, TV Melilla
-rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
-#EXTINF:0, TV Melilla (EspaÃ±a)
-rtmp://stream.tvmelilla.es/tvmelilla/live
-#EXTINF:0, TV Zacatecas
-mms://stream.netro.ca/tvzac
-#EXTINF:0, TV3
-rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_TV3_FLV
-#EXTINF:0, TV3 CAT
-http://www.tv3.cat/directetv3cat/tv3cat.m3u8
-#EXTINF:0, TV3.CAT
-rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_TV3CAT_FLV
-#EXTINF:0, TVC Deportes
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.82/flash/16007 pageUrl=http://sawlive.tv/embed/halilou/
-#EXTINF:0, TVC DEPORTES
-http://187.247.255.139/Apple/TVCDeportes800.m3u8
-#EXTINF:0, TVC Latino
-rtmp://204.107.26.252:8086/live/213.high.stream
-#EXTINF:0, TVE 1
-http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:0, TVE 2
-http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:0, TVE 24
-http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:0, Tve HD (Connect Sometimes)
-http://rtvehdflesp-f.akamaihd.net/THD_AKH_WHD_GEO_1_1500@4813?v=2.6.8&fp=WIN
-#EXTINF:0, Tves Venezuela
-rtmp://50.7.67.76:1935/tves/tves
-#EXTINF:0, TVGA America
-http://media3.crtvg.es/live/tvga/vcx7.m3u8
-#EXTINF:0, TVGA Europa
-http://media3.crtvg.es/live/tvge/vcx7.m3u8
-#EXTINF:0, UCV
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:0, UNITEL COCHABAMBA
-http://200.58.64.252:8081/stream4/stream.m3u8
-#EXTINF:0, Urbe TV (Venezuela)
-mms://stream-03.urbe.edu/tve
-#EXTINF:0, Vibra
-rtmp://66.240.202.13:1935/live/livestream
-#EXTINF:0, VIVE TV
-mmsh://difusion.cantv.net/vhost-covetel_live
-#EXTINF:0, VTV Venezuela
-rtmp://50.7.67.76:1935/vtvweb/vtvweb
-#EXTINF:0, WRESTLING CHANNEL SPORTS
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.82/flash/16449 pageUrl=http://sawlive.tv/embed/halilou/
-#EXTINF:0, Yuna vision
-mms://200.88.126.11/Yuna10
+#EXTINF:-1,CANALP ESPAÑA:RTPA Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,CANALP ESPAÑA:7 Tv Murcia HD
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RtvCe
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:8 Tv
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Popular Tv Cantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:eitb Euskadi
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Navarra Tv
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w1863227773.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Tv3 Cat
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/chunklist_b1296000.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Tv Canaria
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8
+#EXTINF:-1,CANALP ESPAÑA:Huelva Tv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:El Correo Tv
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RAI 5
+http://stream12.rai.it/live/smil:rai5.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RAINEWS 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
+#EXTINF:-1,CANALP ESPAÑA:PARAMOUNT CHANNEL ITALIA
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RAI PREMIUM
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RAI SCUOLA
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RAI GULP
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,CANALP ESPAÑA:RAI YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,Eite:1
+http://cdn1.elitegol.xyz/verliga/1/playlist.m3u8
+ 
+#EXTINF:-1,Eite:2
+http://cdn1.elitegol.xyz/verliga/2/playlist.m3u8
+ 
+#EXTINF:-1,Eite:3
+http://cdn1.elitegol.xyz/verliga/3/playlist.m3u8
+ 
+#EXTINF:-1,Eite:4
+http://cdn1.elitegol.xyz/verliga/4/playlist.m3u8
+ 
+#EXTINF:-1,Eite:5
+http://cdn1.elitegol.xyz/verliga/5/playlist.m3u8
+ 
+#EXTINF:-1,Eite:6
+http://cdn1.elitegol.xyz/verliga/6/playlist.m3u8
+ 
+#EXTINF:-1,Eite:7
+http://cdn1.elitegol.xyz/verliga/7/playlist.m3u8
+ 
+#EXTINF:-1,Eite:8
+http://cdn1.elitegol.xyz/verliga/8/playlist.m3u8
+ 
+#EXTINF:-1,Eite:9
+http://cdn1.elitegol.xyz/verliga/9/playlist.m3u8
+ 
+#EXTINF:-1,Eite:10
+http://cdn1.elitegol.xyz/verliga/10/playlist.m3u8
+ 
+#EXTINF:-1,Eite:11
+http://cdn1.elitegol.xyz/verliga/11/playlist.m3u8
+ 
+#EXTINF:-1,Eite:12
+http://cdn1.elitegol.xyz/verliga/12/playlist.m3u8
+ 
+#EXTINF:-1,Eite:13
+http://cdn1.elitegol.xyz/verliga/13/playlist.m3u8
+ 
+#EXTINF:-1,Eite:14
+http://cdn1.elitegol.xyz/verliga/14/playlist.m3u8
+ 
+#EXTINF:-1,Eite:15
+http://cdn1.elitegol.xyz/verliga/15/playlist.m3u8
+ 
+#EXTINF:-1,Eite:16
+http://cdn1.elitegol.xyz/verliga/16/playlist.m3u8
+ 
+#EXTINF:-1,Eite:17
+http://cdn1.elitegol.xyz/verliga/17/playlist.m3u8
+ 
+#EXTINF:-1,Eite:18
+http://cdn1.elitegol.xyz/verliga/18/playlist.m3u8
+ 
+#EXTINF:-1,Eite:19
+http://cdn1.elitegol.xyz/verliga/19/playlist.m3u8
+ 
+#EXTINF:-1,Eite:20
+http://cdn1.elitegol.xyz/verliga/20/playlist.m3u8
+ 
+#EXTINF:-1,Eite:21
+http://cdn1.elitegol.xyz/verliga/21/playlist.m3u8
+ 
+#EXTINF:-1,Eite:22
+http://cdn1.elitegol.xyz/verliga/22/playlist.m3u8
+ 
+#EXTINF:-1,Eite:23
+http://cdn1.elitegol.xyz/verliga/23/playlist.m3u8
+ 
+#EXTINF:-1,Eite:24
+http://cdn1.elitegol.xyz/verliga/24/playlist.m3u8
+ 
+#EXTINF:-1,Eite:25
+http://cdn1.elitegol.xyz/verliga/25/playlist.m3u8
+ 
+#EXTINF:-1,Eite:26
+http://cdn1.elitegol.xyz/verliga/26/playlist.m3u8
+ 
+#EXTINF:-1,Eite:27
+http://cdn1.elitegol.xyz/verliga/27/playlist.m3u8
+ 
+#EXTINF:-1,Eite:28
+http://cdn1.elitegol.xyz/verliga/28/playlist.m3u8
+ 
+#EXTINF:-1,Eite:29
+http://cdn1.elitegol.xyz/verliga/29/playlist.m3u8
+ 
+#EXTINF:-1,Eite:30
+http://cdn1.elitegol.xyz/verliga/30/playlist.m3u8
+ 
+#EXTINF:-1,Eite:31
+http://cdn1.elitegol.xyz/verliga/31/playlist.m3u8
+ 
+#EXTINF:-1,Eite:32
+http://cdn1.elitegol.xyz/verliga/32/playlist.m3u8
+ 
+#EXTINF:-1,Eite:33
+http://cdn1.elitegol.xyz/verliga/33/playlist.m3u8
+ 
+#EXTINF:-1,Eite:34
+http://cdn1.elitegol.xyz/verliga/34/playlist.m3u8
+ 
+#EXTINF:-1,Eite:1
+http://cdn3.elitegol.xyz/verdirectotv/35/chunks.m3u8
+ 
+#EXTINF:-1,Eite:2
+http://cdn3.elitegol.xyz/verdirectotv/36/chunks.m3u8
+ 
+#EXTINF:-1,Eite:3
+http://cdn3.elitegol.xyz/verdirectotv/37/chunks.m3u8
+ 
+#EXTINF:-1,Eite:4
+http://cdn3.elitegol.xyz/verdirectotv/38/chunks.m3u8
+ 
+#EXTINF:-1,Eite:5
+http://cdn3.elitegol.xyz/verdirectotv/39/chunks.m3u8
+ 
+#EXTINF:-1,Eite:6
+http://cdn3.elitegol.xyz/verdirectotv/40/chunks.m3u8
+ 
+#EXTINF:-1,Eite:7
+http://cdn3.elitegol.xyz/verdirectotv/41/chunks.m3u8
+ 
+#EXTINF:-1,SP: HOLLYWOOD HD
+http://149.202.201.60:8000/live/Manus/Manus/2707.m3u8
+#EXTINF:-1,SP: VH1
+http://149.202.201.60:8000/live/Manus/Manus/2623.m3u8
+#EXTINF:-1,SP: TVE LA 2
+http://149.202.201.60:8000/live/Manus/Manus/2624.m3u8
+#EXTINF:-1,SP: TVE LA 1
+http://149.202.201.60:8000/live/Manus/Manus/2625.m3u8
+#EXTINF:-1,SP: Tve 24
+http://149.202.201.60:8000/live/Manus/Manus/2673.m3u8
+#EXTINF:-1,SP: TVE 1 HD
+http://149.202.201.60:8000/live/Manus/Manus/2674.m3u8
+#EXTINF:-1,SP: TV Galicia
+http://149.202.201.60:8000/live/Manus/Manus/2630.m3u8
+#EXTINF:-1,SP: TELEVISA HD
+http://149.202.201.60:8000/live/Manus/Manus/2675.m3u8
+#EXTINF:-1,SP: Teledeporte
+http://149.202.201.60:8000/live/Manus/Manus/2676.m3u8
+#EXTINF:-1,SP: SYFY HD
+http://149.202.201.60:8000/live/Manus/Manus/2626.m3u8
+#EXTINF:-1,SP: Sport CDO HD
+http://149.202.201.60:8000/live/Manus/Manus/2631.m3u8
+#EXTINF:-1,SP: SEVILLA FC
+http://149.202.201.60:8000/live/Manus/Manus/2677.m3u8
+#EXTINF:-1,SP: Real Madrid
+http://149.202.201.60:8000/live/Manus/Manus/2632.m3u8
+#EXTINF:-1,SP: NOVA
+http://149.202.201.60:8000/live/Manus/Manus/2686.m3u8
+#EXTINF:-1,SP: NICKELODEON
+http://149.202.201.60:8000/live/Manus/Manus/2687.m3u8
+#EXTINF:-1,SP: NICK JUNIOR
+http://149.202.201.60:8000/live/Manus/Manus/2688.m3u8
+#EXTINF:-1,SP: National Geographic Wild
+http://149.202.201.60:8000/live/Manus/Manus/2633.m3u8
+#EXTINF:-1,SP: NATIONAL GEOGRAPHIC CHANNEL
+http://149.202.201.60:8000/live/Manus/Manus/2627.m3u8
+#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
+http://149.202.201.60:8000/live/Manus/Manus/2689.m3u8
+#EXTINF:-1,SP: NAT GEO WILD
+http://149.202.201.60:8000/live/Manus/Manus/2690.m3u8
+#EXTINF:-1,SP: MTV ROCKS
+http://149.202.201.60:8000/live/Manus/Manus/2691.m3u8
+#EXTINF:-1,SP: Movies Star Moto Gp
+http://149.202.201.60:8000/live/Manus/Manus/2634.m3u8
+#EXTINF:-1,SP: Movie Star F1
+http://149.202.201.60:8000/live/Manus/Manus/2635.m3u8
+#EXTINF:-1,SP: La Sexta HD
+http://149.202.201.60:8000/live/Manus/Manus/2692.m3u8
+#EXTINF:-1,SP: LA SEXTA
+http://149.202.201.60:8000/live/Manus/Manus/2693.m3u8
+#EXTINF:-1,SP: LA 2
+http://149.202.201.60:8000/live/Manus/Manus/2678.m3u8
+#EXTINF:-1,SP: LA 1 HD
+http://149.202.201.60:8000/live/Manus/Manus/2679.m3u8
+#EXTINF:-1,SP: ITV HD Chile
+http://149.202.201.60:8000/live/Manus/Manus/2636.m3u8
+#EXTINF:-1,SP: History HD
+http://149.202.201.60:8000/live/Manus/Manus/2637.m3u8
+#EXTINF:-1,SP: HISTORIA
+http://149.202.201.60:8000/live/Manus/Manus/2694.m3u8
+#EXTINF:-1,SP: GOL TV
+http://149.202.201.60:8000/live/Manus/Manus/2628.m3u8
+#EXTINF:-1,SP: FOX LIFE
+http://149.202.201.60:8000/live/Manus/Manus/2695.m3u8
+#EXTINF:-1,SP: FOX HD
+http://149.202.201.60:8000/live/Manus/Manus/2661.m3u8
+#EXTINF:-1,SP: FOX
+http://149.202.201.60:8000/live/Manus/Manus/2696.m3u8
+#EXTINF:-1,SP: Fdf
+http://149.202.201.60:8000/live/Manus/Manus/2697.m3u8
+#EXTINF:-1,SP: Eurosport
+http://149.202.201.60:8000/live/Manus/Manus/2698.m3u8
+#EXTINF:-1,SP: Energy
+http://149.202.201.60:8000/live/Manus/Manus/2699.m3u8
+#EXTINF:-1,SP: DISTRITO COMEDIA
+http://149.202.201.60:8000/live/Manus/Manus/2662.m3u8
+#EXTINF:-1,SP: DISNEY XD
+http://149.202.201.60:8000/live/Manus/Manus/2700.m3u8
+#EXTINF:-1,SP: DISNEY JUNIOR
+http://149.202.201.60:8000/live/Manus/Manus/2701.m3u8
+#EXTINF:-1,SP: DISNEY CHANNEL
+http://149.202.201.60:8000/live/Manus/Manus/2702.m3u8
+#EXTINF:-1,SP: Discovery Channel
+http://149.202.201.60:8000/live/Manus/Manus/2638.m3u8
+#EXTINF:-1,SP: DCINE ESPANOL
+http://149.202.201.60:8000/live/Manus/Manus/2703.m3u8
+#EXTINF:-1,SP: CUATRO
+http://149.202.201.60:8000/live/Manus/Manus/2704.m3u8
+#EXTINF:-1,SP: Cosmo
+http://149.202.201.60:8000/live/Manus/Manus/2639.m3u8
+#EXTINF:-1,SP: COMEDY CENTRAL
+http://149.202.201.60:8000/live/Manus/Manus/2705.m3u8
+#EXTINF:-1,SP: CAZA Y PESCA
+http://149.202.201.60:8000/live/Manus/Manus/2706.m3u8
+#EXTINF:-1,SP: Cartoon Network
+http://149.202.201.60:8000/live/Manus/Manus/2642.m3u8
+#EXTINF:-1,SP: Canal Sevilla
+http://149.202.201.60:8000/live/Manus/Manus/2643.m3u8
+#EXTINF:-1,SP: CANAL SERIES HD
+http://149.202.201.60:8000/live/Manus/Manus/2668.m3u8
+#EXTINF:-1,SP: CANAL ODISEA
+http://149.202.201.60:8000/live/Manus/Manus/2664.m3u8
+#EXTINF:-1,SP: Canal Musica
+http://149.202.201.60:8000/live/Manus/Manus/2644.m3u8
+#EXTINF:-1,SP: Canal Deportes HD
+http://149.202.201.60:8000/live/Manus/Manus/2721.m3u8
+#EXTINF:-1,SP: Canal De Las Estrellas
+http://149.202.201.60:8000/live/Manus/Manus/2645.m3u8
+#EXTINF:-1,SP: Canal Cocina
+http://149.202.201.60:8000/live/Manus/Manus/2647.m3u8
+#EXTINF:-1,SP: Canal Baby
+http://149.202.201.60:8000/live/Manus/Manus/2648.m3u8
+#EXTINF:-1,SP: Canal 7 HD
+http://149.202.201.60:8000/live/Manus/Manus/2649.m3u8
+#EXTINF:-1,SP: Canal 3 HD
+http://149.202.201.60:8000/live/Manus/Manus/2651.m3u8
+#EXTINF:-1,SP: Canal 2 HD
+http://149.202.201.60:8000/live/Manus/Manus/2652.m3u8
+#EXTINF:-1,SP: Canal 13
+http://149.202.201.60:8000/live/Manus/Manus/2653.m3u8
+#EXTINF:-1,SP: Canal 1
+http://149.202.201.60:8000/live/Manus/Manus/2717.m3u8
+#EXTINF:-1,SP: CANAL  Xtra HD
+http://149.202.201.60:8000/live/Manus/Manus/2667.m3u8
+#EXTINF:-1,SP: Canal  TOROS
+http://149.202.201.60:8000/live/Manus/Manus/2718.m3u8
+#EXTINF:-1,SP: Canal  Series Xtra
+http://149.202.201.60:8000/live/Manus/Manus/2708.m3u8
+#EXTINF:-1,SP: Canal  Series HD
+http://149.202.201.60:8000/live/Manus/Manus/2709.m3u8
+#EXTINF:-1,SP: CANAL  LIGA HD
+http://149.202.201.60:8000/live/Manus/Manus/2665.m3u8
+#EXTINF:-1,SP: Canal  Liga 2 HD
+http://149.202.201.60:8000/live/Manus/Manus/2719.m3u8
+#EXTINF:-1,SP: Canal  Liga
+http://149.202.201.60:8000/live/Manus/Manus/2710.m3u8
+#EXTINF:-1,SP: CANAL  HD
+http://149.202.201.60:8000/live/Manus/Manus/2711.m3u8
+#EXTINF:-1,SP: Canal  GOLF
+http://149.202.201.60:8000/live/Manus/Manus/2712.m3u8
+#EXTINF:-1,SP: CANAL  FUTBOL HD
+http://149.202.201.60:8000/live/Manus/Manus/2669.m3u8
+#EXTINF:-1,SP: Canal  Estrenos
+http://149.202.201.60:8000/live/Manus/Manus/2720.m3u8
+#EXTINF:-1,SP: Canal  Deportes
+http://149.202.201.60:8000/live/Manus/Manus/2713.m3u8
+#EXTINF:-1,SP: CANAL  DCINE HD
+http://149.202.201.60:8000/live/Manus/Manus/2670.m3u8
+#EXTINF:-1,SP: Canal  DCINE
+http://149.202.201.60:8000/live/Manus/Manus/2663.m3u8
+#EXTINF:-1,SP: Canal  Comedia
+http://149.202.201.60:8000/live/Manus/Manus/2715.m3u8
+#EXTINF:-1,SP: Canal  ACCION
+http://149.202.201.60:8000/live/Manus/Manus/2716.m3u8
+#EXTINF:-1,SP: CANAL  1
+http://149.202.201.60:8000/live/Manus/Manus/2666.m3u8
+#EXTINF:-1,SP: CALLE 13
+http://149.202.201.60:8000/live/Manus/Manus/2722.m3u8
+#EXTINF:-1,SP: Boing
+http://149.202.201.60:8000/live/Manus/Manus/2723.m3u8
+#EXTINF:-1,SP: Blica Dominicana
+http://149.202.201.60:8000/live/Manus/Manus/2654.m3u8
+#EXTINF:-1,SP: Bein Sports HD
+http://149.202.201.60:8000/live/Manus/Manus/2655.m3u8
+#EXTINF:-1,SP: Barca TV
+http://149.202.201.60:8000/live/Manus/Manus/2680.m3u8
+#EXTINF:-1,SP: Azteca Noticias
+http://149.202.201.60:8000/live/Manus/Manus/2656.m3u8
+#EXTINF:-1,SP: AXN WHITE
+http://149.202.201.60:8000/live/Manus/Manus/2724.m3u8
+#EXTINF:-1,SP: AXN HD
+http://149.202.201.60:8000/live/Manus/Manus/2671.m3u8
+#EXTINF:-1,SP: AXN
+http://149.202.201.60:8000/live/Manus/Manus/2725.m3u8
+#EXTINF:-1,SP: Atreseries HD
+http://149.202.201.60:8000/live/Manus/Manus/2714.m3u8
+#EXTINF:-1,SP: ANTENNA 3 HD
+http://149.202.201.60:8000/live/Manus/Manus/2672.m3u8
+#EXTINF:-1,SP: Antena 3 HD
+http://149.202.201.60:8000/live/Manus/Manus/2726.m3u8
+#EXTINF:-1,SP: Anime TV
+http://149.202.201.60:8000/live/Manus/Manus/2657.m3u8
+#EXTINF:-1,SP: Andalucia TV
+http://149.202.201.60:8000/live/Manus/Manus/2658.m3u8
+#EXTINF:-1,SP: 360 TV
+http://149.202.201.60:8000/live/Manus/Manus/2659.m3u8
+#EXTINF:-1,SP: 3/24
+http://149.202.201.60:8000/live/Manus/Manus/2660.m3u8
+#EXTINF:-1,SP: Teleticino
+http://149.202.201.60:8000/live/Manus/Manus/2622.m3u8
+#EXTINF:-1,ES: Viajar
+http://149.202.201.60:8000/live/Manus/Manus/514.m3u8
+#EXTINF:-1,ES: Tve 24
+http://149.202.201.60:8000/live/Manus/Manus/524.m3u8
+#EXTINF:-1,ES: TV Canaria
+http://149.202.201.60:8000/live/Manus/Manus/515.m3u8
+#EXTINF:-1,ES: TNT
+http://149.202.201.60:8000/live/Manus/Manus/540.m3u8
+#EXTINF:-1,ES: Telemadrid Spain
+http://149.202.201.60:8000/live/Manus/Manus/507.m3u8
+#EXTINF:-1,ES: TCM
+http://149.202.201.60:8000/live/Manus/Manus/538.m3u8
+#EXTINF:-1,ES: SYFY
+http://149.202.201.60:8000/live/Manus/Manus/532.m3u8
+#EXTINF:-1,ES: Super 3 CAT
+http://149.202.201.60:8000/live/Manus/Manus/508.m3u8
+#EXTINF:-1,ES: RT Español
+http://149.202.201.60:8000/live/Manus/Manus/523.m3u8
+#EXTINF:-1,ES: Real Madrid TV
+http://149.202.201.60:8000/live/Manus/Manus/564.m3u8
+#EXTINF:-1,ES: Proyecto 40
+http://149.202.201.60:8000/live/Manus/Manus/530.m3u8
+#EXTINF:-1,ES: Paramount Channel
+http://149.202.201.60:8000/live/Manus/Manus/512.m3u8
+#EXTINF:-1,ES: Odissea
+http://149.202.201.60:8000/live/Manus/Manus/510.m3u8
+#EXTINF:-1,ES: NOVA
+http://149.202.201.60:8000/live/Manus/Manus/546.m3u8
+#EXTINF:-1,ES: NEOX
+http://149.202.201.60:8000/live/Manus/Manus/539.m3u8
+#EXTINF:-1,ES: National Geografic
+http://149.202.201.60:8000/live/Manus/Manus/549.m3u8
+#EXTINF:-1,ES: Mega
+http://149.202.201.60:8000/live/Manus/Manus/526.m3u8
+#EXTINF:-1,ES: Levante TV
+http://149.202.201.60:8000/live/Manus/Manus/522.m3u8
+#EXTINF:-1,ES: La sexta
+http://149.202.201.60:8000/live/Manus/Manus/536.m3u8
+#EXTINF:-1,ES: La 2
+http://149.202.201.60:8000/live/Manus/Manus/504.m3u8
+#EXTINF:-1,ES: LA 1 HD
+http://149.202.201.60:8000/live/Manus/Manus/503.m3u8
+#EXTINF:-1,ES: LA 1
+http://149.202.201.60:8000/live/Manus/Manus/502.m3u8
+#EXTINF:-1,ES: Intereconomia
+http://149.202.201.60:8000/live/Manus/Manus/516.m3u8
+#EXTINF:-1,ES: Iberalia TV
+http://149.202.201.60:8000/live/Manus/Manus/521.m3u8
+#EXTINF:-1,ES: Hollywood
+http://149.202.201.60:8000/live/Manus/Manus/555.m3u8
+#EXTINF:-1,ES: History
+http://149.202.201.60:8000/live/Manus/Manus/545.m3u8
+#EXTINF:-1,ES: Galicia TV
+http://149.202.201.60:8000/live/Manus/Manus/533.m3u8
+#EXTINF:-1,ES: FOX LIFE ( Local )
+http://149.202.201.60:8000/live/Manus/Manus/541.m3u8
+#EXTINF:-1,ES: FOX
+http://149.202.201.60:8000/live/Manus/Manus/542.m3u8
+#EXTINF:-1,ES: Fdf
+http://149.202.201.60:8000/live/Manus/Manus/520.m3u8
+#EXTINF:-1,ES: Extremadura Tv
+http://149.202.201.60:8000/live/Manus/Manus/534.m3u8
+#EXTINF:-1,ES: Esport 3 Cat
+http://149.202.201.60:8000/live/Manus/Manus/509.m3u8
+#EXTINF:-1,ES: Esperanza TV
+http://149.202.201.60:8000/live/Manus/Manus/547.m3u8
+#EXTINF:-1,ES: Energy
+http://149.202.201.60:8000/live/Manus/Manus/535.m3u8
+#EXTINF:-1,ES: DIVINITY
+http://149.202.201.60:8000/live/Manus/Manus/528.m3u8
+#EXTINF:-1,ES: CUATRO
+http://149.202.201.60:8000/live/Manus/Manus/544.m3u8
+#EXTINF:-1,ES: Cosmo HD
+http://149.202.201.60:8000/live/Manus/Manus/519.m3u8
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://149.202.201.60:8000/live/Manus/Manus/551.m3u8
+#EXTINF:-1,ES: CLAN TVE
+http://149.202.201.60:8000/live/Manus/Manus/517.m3u8
+#EXTINF:-1,ES: CAZA Y PESCA
+http://149.202.201.60:8000/live/Manus/Manus/525.m3u8
+#EXTINF:-1,ES: Castilla y la mancha Spain
+http://149.202.201.60:8000/live/Manus/Manus/513.m3u8
+#EXTINF:-1,ES: Canal SUR A
+http://149.202.201.60:8000/live/Manus/Manus/518.m3u8
+#EXTINF:-1,ES: Canal Cocina
+http://149.202.201.60:8000/live/Manus/Manus/531.m3u8
+#EXTINF:-1,ES: Canal 24 Horas
+http://149.202.201.60:8000/live/Manus/Manus/506.m3u8
+#EXTINF:-1,ES: Canal   DCINE
+http://149.202.201.60:8000/live/Manus/Manus/556.m3u8
+#EXTINF:-1,ES: CALLE 13
+http://149.202.201.60:8000/live/Manus/Manus/548.m3u8
+#EXTINF:-1,ES: C  BEIN MAX 3 (only matches)
+http://149.202.201.60:8000/live/Manus/Manus/563.m3u8
+#EXTINF:-1,ES: C  BEIN MAX 2 (only matches)
+http://149.202.201.60:8000/live/Manus/Manus/562.m3u8
+#EXTINF:-1,ES: C  BEIN MAX 1 (only matches)
+http://149.202.201.60:8000/live/Manus/Manus/561.m3u8
+#EXTINF:-1,ES: Boing
+http://149.202.201.60:8000/live/Manus/Manus/552.m3u8
+#EXTINF:-1,ES: Barca tv
+http://149.202.201.60:8000/live/Manus/Manus/565.m3u8
+#EXTINF:-1,ES: Axn White
+http://149.202.201.60:8000/live/Manus/Manus/554.m3u8
+#EXTINF:-1,ES: AXN
+http://149.202.201.60:8000/live/Manus/Manus/553.m3u8
+#EXTINF:-1,ES: Antena 3
+http://149.202.201.60:8000/live/Manus/Manus/543.m3u8
+#EXTINF:-1,ES: ANDALUCIA TV
+http://149.202.201.60:8000/live/Manus/Manus/550.m3u8
+#EXTINF:-1,ES: Amc
+http://149.202.201.60:8000/live/Manus/Manus/537.m3u8
+#EXTINF:-1,ES: A&E
+http://149.202.201.60:8000/live/Manus/Manus/527.m3u8
+#EXTINF:-1,ES: 40 TV
+http://149.202.201.60:8000/live/Manus/Manus/529.m3u8
+#EXTINF:-1,ES: 13 TV
+http://149.202.201.60:8000/live/Manus/Manus/511.m3u8
+#EXTINF:-1,ESP: #0 HD
+http://149.202.201.60:8000/live/Manus/Manus/4765.m3u8
+#EXTINF:-1,ESP: ANTENA 3 HD
+http://149.202.201.60:8000/live/Manus/Manus/4766.m3u8
+#EXTINF:-1,ESP: AXN WHITE HD
+http://149.202.201.60:8000/live/Manus/Manus/4767.m3u8
+#EXTINF:-1,ESP: BEIN SPORTS
+http://149.202.201.60:8000/live/Manus/Manus/4768.m3u8
+#EXTINF:-1,ES: XTRA HD
+http://149.202.201.60:8000/live/Manus/Manus/4769.m3u8
+#EXTINF:-1,ESP: C  ACCION HD
+http://149.202.201.60:8000/live/Manus/Manus/4770.m3u8
+#EXTINF:-1,ESP: C  COMEDIA HD
+http://149.202.201.60:8000/live/Manus/Manus/4771.m3u8
+#EXTINF:-1,ESP: C  DCINE HD
+http://149.202.201.60:8000/live/Manus/Manus/4772.m3u8
+#EXTINF:-1,ESP: C  DEPORTES 2 HD
+http://149.202.201.60:8000/live/Manus/Manus/4773.m3u8
+#EXTINF:-1,ESP: C  DEPORTES HD
+http://149.202.201.60:8000/live/Manus/Manus/4774.m3u8
+#EXTINF:-1,ESP: C  ESTRENOS HD
+http://149.202.201.60:8000/live/Manus/Manus/4775.m3u8
+#EXTINF:-1,ESP: C  FUTBOL HD
+http://149.202.201.60:8000/live/Manus/Manus/4776.m3u8
+#EXTINF:-1,ESP: C  GOLF HD
+http://149.202.201.60:8000/live/Manus/Manus/4777.m3u8
+#EXTINF:-1,ESP: C  LIGA 2 HD
+http://149.202.201.60:8000/live/Manus/Manus/4778.m3u8
+#EXTINF:-1,ESP: C  LIGA HD
+http://149.202.201.60:8000/live/Manus/Manus/4779.m3u8
+#EXTINF:-1,ESP: C  SERIES HD
+http://149.202.201.60:8000/live/Manus/Manus/4780.m3u8
+#EXTINF:-1,ESP: C  SERIES XTRA HD
+http://149.202.201.60:8000/live/Manus/Manus/4781.m3u8
+#EXTINF:-1,ESP: C  TOROS HD
+http://149.202.201.60:8000/live/Manus/Manus/4782.m3u8
+#EXTINF:-1,ESP: CALLE 13 HD
+http://149.202.201.60:8000/live/Manus/Manus/4783.m3u8
+#EXTINF:-1,ESP: LA 1 HD
+http://149.202.201.60:8000/live/Manus/Manus/4784.m3u8
+#EXTINF:-1,ESP: LA SEXTA HD
+http://149.202.201.60:8000/live/Manus/Manus/4785.m3u8
+#EXTINF:-1,ESP: TELECINCO HD
+http://149.202.201.60:8000/live/Manus/Manus/4786.m3u8
+ 
+#EXTINF:-1,DEPORTES:Eurosport 1
+http://149.202.207.8:8080/chINNkkeeyPanduuueiuor-1/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:Eurosport 2
+http://149.202.207.8:8080/chINNkkeeyPanduuueiuor-2/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:FRANCE 1
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-1/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:FRANCE 2
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-2/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:FRANCE 3
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-3/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:SKY SPORT 1
+http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-1/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:SKY SPORT 2
+http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-2/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:SKY SPORT 3
+http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-3/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:SKY SPORT 4
+http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-4/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:SKY SPORT 5
+http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiy-5/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:SKY SPORT F 1
+http://149.202.207.8:8080/chINNkkeeyPanduuusyjkiyf00ne/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:BT SPORT 1
+http://149.202.207.8:8080/chINNkkeeyPanduuubeETy-1/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:BT SPORT 2
+http://149.202.207.8:8080/chINNkkeeyPanduuubeETy-2/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:UK:BT SPORT ESPN
+http://149.202.207.8:8080/chINNkkeeyPanduuubteiSsepn/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BOX NATION
+http://149.202.207.8:8080/chINNkkeeyPanduuubxoo-nan/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:ARENA SPORT:1
+http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-1/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:ARENA SPORT:2
+http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-2/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:ARENA SPORT:3
+http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-3/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:ARENA SPORT:4
+http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-4/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:ARENA SPORT:5
+http://149.202.207.8:8080/chINNkkeeyPanduuuairoona-5/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:NL: FOX SPORT 1
+http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-1nl/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:NL: FOX SPORT 2
+http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-2nl/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:NL: FOX SPORT 3
+http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-3nl/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:NL: FOX SPORT 4
+http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-4nl/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:NL: FOX SPORT 5
+http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-5nl/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:NL: FOX SPORT 6
+http://149.202.207.8:8080/chINNkkeeyPanduuuf00cs-sp-6nl/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:US:FOX SPORT 1
+http://149.202.207.8:8080/chINNkkeeyPanduuu/f00cssp1/index.m3u8
+#EXTINF:-1,DEPORTES:US:FOX SPORT 2
+http://149.202.207.8:8080/chINNkkeeyPanduuu/f00cssp2/index.m3u8
+#EXTINF:-1,DEPORTES:TSN:1
+http://149.202.207.8:8080/chINNkkeeyPanduuu/teesn1/index.m3u8
+#EXTINF:-1,DEPORTES:TSN:2
+http://149.202.207.8:8080/chINNkkeeyPanduuu/teesn2/index.m3u8
+#EXTINF:-1,DEPORTES:TSN:3
+http://149.202.207.8:8080/chINNkkeeyPanduuu/teesn3/index.m3u8
+#EXTINF:-1,DEPORTES:TSN:4
+http://149.202.207.8:8080/chINNkkeeyPanduuu/teesn4/index.m3u8
+#EXTINF:-1,DEPORTES:TSN:5
+http://149.202.207.8:8080/chINNkkeeyPanduuu/teesn5/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:1
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-1/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:2
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-2/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:3
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-3/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:4
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-4/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:5
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-5/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:6
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-6/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:7
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-7/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:8
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-8/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:9
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-9/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:10
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-10/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:11
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-11/Strm/index.m3u8
+#EXTINF:-1,DEPORTES:BEIN SPORT:12
+http://149.202.207.8:8080/chINNkkeeyPanduuubhensp-12/Strm/index.m3u8
+
+
+
+#EXTINF:-1,Bein Sport 1 HD
+http://149.202.222.20:8080/AR-Bein-sport1-HD/index.m3u8
+#EXTINF:-1,Bein Sport 2 HD
+http://149.202.222.20:8080/AR-Bein-sport2-HD/index.m3u8
+#EXTINF:-1,Bein Sport 3 HD
+http://149.202.222.20:8080/AR-Bein-sport3-HD/index.m3u8
+#EXTINF:-1,Bein Sport 4 HD
+http://149.202.222.20:8080/AR-Bein-sport4-HD/index.m3u8
+#EXTINF:-1,Bein Sport 5 HD
+http://149.202.222.20:8080/AR-Bein-sport5-HD/index.m3u8
+#EXTINF:-1,Bein Sport 6 HD
+http://149.202.222.20:8080/AR-Bein-sport6-HD/index.m3u8
+#EXTINF:-1,Bein Sport 7 HD
+http://149.202.222.20:8080/AR-Bein-sport7-HD/index.m3u8
+#EXTINF:-1,Bein Sport 8 HD
+http://149.202.222.20:8080/AR-Bein-sport8-HD/index.m3u8
+#EXTINF:-1,Bein Sport 9 HD
+http://149.202.222.20:8080/AR-Bein-sport9-HD/index.m3u8
+
 
 EXTINF:-1,1 Music Channel
 
