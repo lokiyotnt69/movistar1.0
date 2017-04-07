@@ -39,3 +39,5 @@ http://dpme12hls-i.akamaiHD.net/…/2496…/dpme12_3/master.m3u8 #EXTINF:-1,Euro
 http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8 #EXTINF:-1,KTV Sport Kuwait HD https://svs.itworkscdn.net/ktvs…/ksports.smil/chunklist.m3u8 
 #EXTINF:-1,bein sports la liga
 http://edge6.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
+#EXTINF:-1,MOTOGP
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1247.m3u8
