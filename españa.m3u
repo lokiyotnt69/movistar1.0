@@ -304,3 +304,34 @@ Cocina - 592
 http://vercosasgratis.com/online.php?id=592
 FDF - 550
 http://vercosasgratis.com/online.php?id=550
+
+#EXTINF:-1,LA 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,LA 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,ANTENA 3 HD(FULL HD)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LaSexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1,24horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,tele 5
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1,neox
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://cctv-lh.akamaihd.net/i/MostoMedia1_live@125108/index_1080p_av-p.m3u8
+#EXTINF: -1, Canal + Liga (Sports)
+acestream: // c3d48b4cd8e1460a39c57153f1df06154907dad1
+#EXTINF: -1, Canal + Liga de Campeones ES (Sport)
+acestream: // 98a6f814f9e5cbf68d8ad48466500e1bf0c67911
+#EXTINF: -1, Canal + Toros es (Sports)
+acestream: // 3bb0246987ede915b48a897a8bba6da90a2fcd84
+#EXTINF: -1, Canal + 1 es (Sports)
+acestream: // 9de6d098b1af54dd536b6ece4f538f0e12a23db4
