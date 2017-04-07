@@ -1,675 +1,198 @@
 #EXTM3U
 
-#EXTINF:-1,Rai 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/217.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/218.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai 3 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/219.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rete 4 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/220.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Canale 5 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/221.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Italia 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/222.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,La7 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/223.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,TV8
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1557.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Nove TV
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2523.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,RSI La1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/421.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,RSI La2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/420.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/225.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema 1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3822.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema +1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/226.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema +1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3823.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema +24 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/227.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema +24 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3824.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Hits HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/228.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Hits SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3825.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Family HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/229.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Family SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3826.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Family +1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4687.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Family +1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5017.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Passion HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/230.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Passion SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3827.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Comedy HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/231.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Comedy SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3828.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Max HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/232.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Max SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3829.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Max +1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3183.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Max +1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3830.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Cult HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/234.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Cult SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3831.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Classic HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/235.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cinema Classics SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5016.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai Movie
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1552.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Iris
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1481.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Uno HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/237.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Uno SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3908.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Uno +1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4672.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Atlantic HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/238.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Atlantic SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3909.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Atlantic +1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4685.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/239.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6959.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox +1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5018.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Life HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/240.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Life +1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5019.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Crime HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/241.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Crime +1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5020.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Comedy HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/242.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Animation HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/243.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Animation SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4411.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/245.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,AXN +1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5023.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,AXN Sci-Fi
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1707.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Comedy Central
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5024.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Lei
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6643.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,La7d HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5762.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Giallo
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2482.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cielo HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/246.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Real Time HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/247.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai Premium
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1548.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai 4 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/911.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai 5
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1554.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,La 5
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1392.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Mediaset Italia 2
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/912.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Mediaset Extra
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1558.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Topcrime
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1473.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/250.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 24 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3910.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/251.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4027.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/252.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 2 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4028.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/253.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport 3 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4029.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport Mix HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6762.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport Plus HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2073.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport Plus SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4030.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Sports HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/413.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fox Sports SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4031.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/254.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Sport F1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4325.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Moto GP HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/255.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Moto GP SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4326.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Eurosport HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2633.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Eurosport 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2634.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Bike channel HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5774.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sportitalia
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1547.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Top Calcio 24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5658.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fignt Network Italia
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/7051.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Automototv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6853.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Uniresat tv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6108.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Class HorseTv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4293.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai Sport 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1551.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai Sport 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2048.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,J | Juventus TV
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5026.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Milan Tv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5027.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Inter channel
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4862.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Roma tv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5028.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Supercalcio HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/258.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Supercalcio SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3875.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/259.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3900.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/260.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 2 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3901.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 3 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/261.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 3 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3911.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 4 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/262.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 4 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3912.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 5 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/263.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 6 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/264.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 8 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3803.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 9 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4346.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 10 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6156.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 11 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6157.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Calcio 12 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6158.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky calcio Info
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6159.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,FR: Bein Sport 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4332.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,FR: Bein Sport 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4333.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,FR: Bein Sport 3 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4335.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,NationalGeo HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/267.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,NationalGeo +1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6960.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,NatGeo People HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/268.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,NatGeo Wild HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/394.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/269.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Discovery +1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6961.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Discovery Travel & Living HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2277.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,CI Crime+Investigation HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/244.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,DMAX HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/271.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Fine Living
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1395.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,History HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/272.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,History +1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6962.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Focus
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/679.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Arte HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1526.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Laeffe
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5656.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Gambero Rosso HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1920.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Caccia e Pesca
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/273.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Pesca e Caccia
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/863.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Italian Fishing Tv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6148.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Animal planet
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5506.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Alice
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1569.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Marcopolo
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1559.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Disney Channel HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6686.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Disney Junior
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5399.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6687.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Nick Jr
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/287.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Disney XD HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4675.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,DeAJunior
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5032.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,DeAKids
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5031.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,MAN-GA
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3603.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Super!
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1546.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,K2
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1563.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,-frisbee-
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1564.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai yoyo
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1549.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai Gulp
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1553.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Boing
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1393.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoonito
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1474.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,MTV Next
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/290.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Radionorba Tv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4586.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,RTL102.5 TV
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/277.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Radio 105 TV
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2517.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Radio Italia TV
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/7121.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Radio Capital TV
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2518.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Teleradioerre
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3393.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Radio montecarlo tv
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3787.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,RDS
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1479.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sky TG 24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/279.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,TgCom24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4677.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Rai News 24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/281.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Cinema HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/292.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Cinema SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4043.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Cinema +24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2191.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Cinema 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2192.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Cinema 2 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4044.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Cinema 2 +24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2214.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Emotion
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/297.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Energy HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/298.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Energy +24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6763.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Comedy
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/295.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Studio Universal
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/301.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Action HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/294.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Action +24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2193.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Crime HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2196.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Crime +24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2194.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Joi
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/300.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Joy +24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4436.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Stories
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/299.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Stories +24
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5801.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Investigation Discovery Premium
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6864.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Sport HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2528.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Sport SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4111.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Sport 2 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/349.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Sport 2 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/4445.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Calcio 1 HD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/346.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Calcio 1 SD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2834.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Calcio 2
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/348.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Calcio 3
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/352.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Calcio 4
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/353.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Calcio 5
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/400.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Premium Calcio 6
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/401.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Tv 2000
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2049.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Canale 8 Puglia
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2901.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Antenna Sicilia
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/3239.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Videolina
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/1624.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Canale 21
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2326.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Telenorba
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6478.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Canale 8
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2651.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Tele Bari
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2324.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,7 GOLD
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/2325.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5697.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 2
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5645.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 3
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5644.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 4
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5649.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 5
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5688.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 6
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5748.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 7
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5647.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 8
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5648.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 9
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6563.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 10
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6564.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 11
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6565.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Cartoni Sala 12
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6566.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,I cavalieri dello zodiaco Channel
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6161.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Ken il guerriero Channel
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6928.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,lady oscar Channel
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5839.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sampei Channel
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6137.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Uomo tigre Channel
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/5838.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sala Attori 1
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6117.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sala Attori 2
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6118.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sala Attori 3
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6119.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sala Attori 4
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6120.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sala Attori 5
-plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/6121.ts&amp;streamtype=TSDOWNLOADER
 
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,Rai 1 HD
-http://188.228.123.162:8001/1:0:19:D49:1450:13E:820000:0:0:0:
-#EXTINF:-1,Rai 2 HD
-http://188.228.123.162:8001/1:0:1:4530:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Rai 3 HD
-http://188.228.123.162:8001/1:0:1:4531:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Rete 4
-http://188.228.123.162:8001/1:0:1:3:1770:110:820000:0:0:0:
-#EXTINF:-1,Canale 5
-http://188.228.123.162:8001/1:0:1:2:1770:110:820000:0:0:0:
-#EXTINF:-1,Italia 1
-http://188.228.123.162:8001/1:0:1:1:1770:110:820000:0:0:0:
-#EXTINF:-1,LA7
-http://188.228.123.162:8001/1:0:1:47:1770:110:820000:0:0:0:
-#EXTINF:-1,TV8
-http://188.228.123.162:8001/1:0:1:E3F:16A8:FBFF:820000:0:0:0:
-#EXTINF:-1,RSI LA 1 HD
-http://188.228.123.162:8001/1:0:19:36E3:6A4:13E:820000:0:0:0:
-#EXTINF:-1,RSI LA 2 HD
-http://188.228.123.162:8001/1:0:19:36E4:6A4:13E:820000:0:0:0:
-#EXTINF:-1,Rai Movie HD
-http://188.228.123.162:8001/1:0:1:4536:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Iris
-http://188.228.123.162:8001/1:0:1:4:1770:110:820000:0:0:0:
-#EXTINF:-1,Paramount Channel HD
-http://188.228.123.162:8001/1:0:19:1E:2F44:13E:820000:0:0:0:
-#EXTINF:-1,Rai Premium HD
-http://188.228.123.162:8001/1:0:1:4535:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Rai 4 HD
-http://188.228.123.162:8001/1:0:1:4534:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Rai 5 HD
-http://188.228.123.162:8001/1:0:1:452F:30D4:13E:820000:0:0:0:
-#EXTINF:-1,La 5
-http://188.228.123.162:8001/1:0:1:7:1770:110:820000:0:0:0:
-#EXTINF:-1,Mediaset ITALIA DUE
-http://188.228.123.162:8001/1:0:1:A:1770:110:820000:0:0:0:
-#EXTINF:-1,Mediaset EXTRA
-http://188.228.123.162:8001/1:0:1:9:1770:110:820000:0:0:0:
-#EXTINF:-1,Topcrime
-http://188.228.123.162:8001/1:0:1:C:1770:110:820000:0:0:0:
-#EXTINF:-1,GIALLO
-http://188.228.123.162:8001/1:0:1:E47:16A8:FBFF:820000:0:0:0:
-#EXTINF:-1,cielo
-http://188.228.123.162:8001/1:0:1:2B66:19C8:FBFF:820000:0:0:0:
-#EXTINF:-1,Real Time
-http://188.228.123.162:8001/1:0:1:10E4:1644:FBFF:820000:0:0:0:
-#EXTINF:-1,DMAX
-http://188.228.123.162:8001/1:0:1:2C34:251C:FBFF:820000:0:0:0:
-#EXTINF:-1,LA7d
-http://188.228.123.162:8001/1:0:1:48:1770:110:820000:0:0:0:
-#EXTINF:-1,Sposa TV HD
-http://188.228.123.162:8001/1:0:1:2FB2:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,ClassTvModa
-http://188.228.123.162:8001/1:0:1:2C2A:251C:FBFF:820000:0:0:0:
-#EXTINF:-1,World Fashion Channel
-http://188.228.123.162:8001/1:0:1:7:578:13E:82ACCE:0:0:0:
-#EXTINF:-1,Fashion
-http://188.228.123.162:8001/1:0:1:43A3:2CEC:13E:820000:0:0:0:
-#EXTINF:-1,TV2000
-http://188.228.123.162:8001/1:0:1:2BAC:19C8:FBFF:820000:0:0:0:
-#EXTINF:-1,Canale Italia
-http://188.228.123.162:8001/1:0:1:1389:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,Radio Radio TV
-http://188.228.123.162:8001/1:0:1:FF1:1E14:FBFF:820000:0:0:0:
-#EXTINF:-1,NOVE
-http://188.228.123.162:8001/1:0:1:E2A:708:C8:820000:0:0:0:
-#EXTINF:-1,SMtv San Marino
-http://188.228.123.162:8001/1:0:1:1C55:1C20:13E:820000:0:0:0:
-#EXTINF:-1,TV K-C
-http://188.228.123.162:8001/1:0:1:C83:2328:13E:820000:0:0:0:
-#EXTINF:-1,Rai Sport 1 HD
-http://188.228.123.162:8001/1:0:1:4533:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Rai Sport 2
-http://188.228.123.162:8001/1:0:1:CE5:1518:13E:820000:0:0:0:
-#EXTINF:-1,ESP HD Italy
-http://188.228.123.162:8001/1:0:1:3311:190:13E:820000:0:0:0:
-#EXTINF:-1,ESP2 Italy
-http://188.228.123.162:8001/1:0:1:35FE:C8:13E:820000:0:0:0:
-#EXTINF:-1,Q13 AutoMoto Tv SD
-http://188.228.123.162:8001/1:0:1:2FAB:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,FIGHT NETWORK B
-http://188.228.123.162:8001/1:0:1:4236:2F44:13E:820000:0:0:0:
-#EXTINF:-1,SPORTELEVISION
-http://188.228.123.162:8001/1:0:1:2FB7:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,SUPERTENNIS HD
-http://188.228.123.162:8001/1:0:1:7D3:22C4:13E:820000:0:0:0:
-#EXTINF:-1,Class HorseTv
-http://188.228.123.162:8001/1:0:1:2CA1:2580:FBFF:820000:0:0:0:
-#EXTINF:-1,UNIRESAT HD
-http://188.228.123.162:8001/1:0:1:4243:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,Focus
-http://188.228.123.162:8001/1:0:1:E4B:16A8:FBFF:820000:0:0:0:
-#EXTINF:-1,Rai Storia
-http://188.228.123.162:8001/1:0:1:CEB:1518:13E:820000:0:0:0:
-#EXTINF:-1,Rai Scuola
-http://188.228.123.162:8001/1:0:1:D4E:1450:13E:820000:0:0:0:
-#EXTINF:-1,UNINETTUNO UNIVERSITY TV
-http://188.228.123.162:8001/1:0:1:CEC:1518:13E:820000:0:0:0:
-#EXTINF:-1,Italian Fishing Tv
-http://188.228.123.162:8001/1:0:1:FE3:1E14:FBFF:820000:0:0:0:
-#EXTINF:-1,Pescare & Cacciare TV
-http://188.228.123.162:8001/1:0:1:6E0:2F44:13E:820000:0:0:0:
-#EXTINF:-1,RETECONOMY
-http://188.228.123.162:8001/1:0:1:4254:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,TG ARCHITETTURA
-http://188.228.123.162:8001/1:0:1:424A:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,TV Art Live
-http://188.228.123.162:8001/1:0:1:2FBF:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,MTV Live HD
-http://188.228.123.162:8001/1:0:19:1:3200:13E:820000:0:0:0:
-#EXTINF:-1,R.ItaliaTV
-http://188.228.123.162:8001/1:0:1:2C8:1B58:13E:820000:0:0:0:
-#EXTINF:-1,RTL 102.5 TV
-http://188.228.123.162:8001/1:0:1:29D0:3CF0:13E:820000:0:0:0:
-#EXTINF:-1,RADIONORBA TV
-http://188.228.123.162:8001/1:0:1:3A0C:1FA4:13E:820000:0:0:0:
-#EXTINF:-1,Muzic TV
-http://188.228.123.162:8001/1:0:1:FD0:1E14:FBFF:820000:0:0:0:
-#EXTINF:-1,Rai yoyo
-http://188.228.123.162:8001/1:0:1:D66:1450:13E:820000:0:0:0:
-#EXTINF:-1,Rai Gulp
-http://188.228.123.162:8001/1:0:1:CEE:1518:13E:820000:0:0:0:
-#EXTINF:-1,Boing
-http://188.228.123.162:8001/1:0:1:6:1770:110:820000:0:0:0:
-#EXTINF:-1,Cartoonito
-http://188.228.123.162:8001/1:0:1:D:1770:110:820000:0:0:0:
-#EXTINF:-1,Baby TV
-http://188.228.123.162:8001/1:0:1:579:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,Rai News 24
-http://188.228.123.162:8001/1:0:1:2144:3070:13E:820000:0:0:0:
-#EXTINF:-1,TgCom24
-http://188.228.123.162:8001/1:0:1:8:1770:110:820000:0:0:0:
-#EXTINF:-1,Euronews
-http://188.228.123.162:8001/1:0:1:2013:24B8:13E:820000:0:0:0:
-#EXTINF:-1,TG NORBA 24
-http://188.228.123.162:8001/1:0:1:3A0B:1FA4:13E:820000:0:0:0:
-#EXTINF:-1,Senato
-http://188.228.123.162:8001/1:0:1:D50:1450:13E:820000:0:0:0:
-#EXTINF:-1,Camera Deputati
-http://188.228.123.162:8001/1:0:1:CE6:1518:13E:820000:0:0:0:
-#EXTINF:-1,TELEPACE HD
-http://188.228.123.162:8001/1:0:1:7D4:22C4:13E:820000:0:0:0:
-#EXTINF:-1,Padre Pio Tv
-http://188.228.123.162:8001/1:0:1:4238:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,QVC
-http://188.228.123.162:8001/1:0:1:E25:708:C8:820000:0:0:0:
-#EXTINF:-1,HSE24 HD
-http://188.228.123.162:8001/1:0:19:6C3:2F44:13E:820000:0:0:0:
-#EXTINF:-1,Juwelo
-http://188.228.123.162:8001/1:0:1:132E:33F4:13E:820000:0:0:0:
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,Iris
-http://5.255.90.243:5000/play/a028
-#EXTINF:-1,Rai 3 HD
-http://5.255.90.243:5000/play/a02l
-#EXTINF:-1,Canale 5
-http://5.255.90.243:5000/play/a026
-#EXTINF:-1,Cartoonito
-http://5.255.90.243:5000/play/a02f
-#EXTINF:-1,Infinity
-http://5.255.90.243:5000/play/a02i
-#EXTINF:-1,LA7
-http://5.255.90.243:5000/play/a02g
-#EXTINF:-1,Mediaset EXTRA
-http://5.255.90.243:5000/play/a02c
-#EXTINF:-1,Italia 1
-http://5.255.90.243:5000/play/a025
-#EXTINF:-1,Rete 4
-http://5.255.90.243:5000/play/a027
-#EXTINF:-1,LA7d
-http://5.255.90.243:5000/play/a02h
-#EXTINF:-1,TgCom24
-http://5.255.90.243:5000/play/a02b
-#EXTINF:-1,Rai Movie HD
-http://5.255.90.243:5000/play/a02p
-#EXTINF:-1,Rai 5 HD
-http://5.255.90.243:5000/play/a02j
-#EXTINF:-1,Rai 2 HD
-http://5.255.90.243:5000/play/a02k
-#EXTINF:-1,La 5
-http://5.255.90.243:5000/play/a02a
-#EXTINF:-1,Boing
-http://5.255.90.243:5000/play/a029
-#EXTINF:-1,Rai Premium HD
-http://5.255.90.243:5000/play/a02o
-#EXTINF:-1,Rai 4 HD
-http://5.255.90.243:5000/play/a02n
-#EXTINF:-1,Topcrime
-http://5.255.90.243:5000/play/a02e
-#EXTINF:-1,Rai Sport 1 HD
-http://5.255.90.243:5000/play/a02m
-#EXTINF:-1,Mediaset ITALIA DUE
-http://5.255.90.243:5000/play/a02d
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,***** ITALY *****
+#EXTINF:-1,IT Manga Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/448.m3u8
+#EXTINF:-1,IT: SKY 3D Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/464.m3u8
+#EXTINF:-1,IT - Classica Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/471.m3u8
+#EXTINF:-1,IT - Sky Sport MIX IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/477.m3u8
+#EXTINF:-1,IT - Comedy Central Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/429.m3u8
+#EXTINF:-1,IT MILAN Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/323.m3u8
+#EXTINF:-1,IT - Lazio Style Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/443.m3u8
+#EXTINF:-1,IT - Sky Sport Plus IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/444.m3u8
+#EXTINF:-1,IT - Fox Sport Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/445.m3u8
+#EXTINF:-1,IT - Juve Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/446.m3u8
+#EXTINF:-1,IT - Roma Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/447.m3u8
+#EXTINF:-1,IT SKY CINEMA COMEDY HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/27.m3u8
+#EXTINF:-1,IT SKY CINEMA FAMILY HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/25.m3u8
+#EXTINF:-1,IT SKY CINEMA MAX HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/23.m3u8
+#EXTINF:-1,IT Sky Discovery Channel HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/21.m3u8
+#EXTINF:-1,IT Sky National Geographic HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/17.m3u8
+#EXTINF:-1,IT: Fox Crime HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/108.m3u8
+#EXTINF:-1,IT: Fox HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/145.m3u8
+#EXTINF:-1,IT: Fox Life HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/136.m3u8
+#EXTINF:-1,IT: History HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/139.m3u8
+#EXTINF:-1,IT: Sky Atlantic HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/89.m3u8
+#EXTINF:-1,IT: Sky Uno tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/65.m3u8
+#EXTINF:-1,IT SKY CINEMA HITS HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/24.m3u8
+#EXTINF:-1,IT SKY SPORT 1 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/13.m3u8
+#EXTINF:-1,IT SKY SPORT 24 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/10.m3u8
+#EXTINF:-1,IT Inter Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/322.m3u8
+#EXTINF:-1,IT - Fox Animation Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/439.m3u8
+#EXTINF:-1,IT - Fox Comedy Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/440.m3u8
+#EXTINF:-1,IT - Gambero Rosso
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/441.m3u8
+#EXTINF:-1,IT - Pesca Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/428.m3u8
+#EXTINF:-1,IT - Sky Calcio 1 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/433.m3u8
+#EXTINF:-1,IT - Sky Calcio 2 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/434.m3u8
+#EXTINF:-1,IT - Sky Calcio 3 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/435.m3u8
+#EXTINF:-1,IT - Sky Calcio 4 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/436.m3u8
+#EXTINF:-1,IT - Sky Calcio 5 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/437.m3u8
+#EXTINF:-1,IT - Sky Calcio 6 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/438.m3u8
+#EXTINF:-1,IT - Bike Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/427.m3u8
+#EXTINF:-1,Premium Action HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/64.m3u8
+#EXTINF:-1,Premium Cinema Energy Resharesat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/44.m3u8
+#EXTINF:-1,LA5 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/54.m3u8
+#EXTINF:-1,IT: Sky Arte Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/140.m3u8
+#EXTINF:-1,Premium TOPcrime kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/42.m3u8
+#EXTINF:-1,IT: RSI La 1 HD Paella
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/119.m3u8
+#EXTINF:-1,IT: Nat Geo Wild HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/147.m3u8
+#EXTINF:-1,IT Cartoonito kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/18.m3u8
+#EXTINF:-1,IT: Real Time kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/120.m3u8
+#EXTINF:-1,IT: Rai Sport 2 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/143.m3u8
+#EXTINF:-1,IT: Rai Sport 1 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/121.m3u8
+#EXTINF:-1,IT: Rai movie Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/135.m3u8
+#EXTINF:-1,IT: La 7 Links
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/127.m3u8
+#EXTINF:-1,IT: Italia 1 HD Resharesat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/128.m3u8
+#EXTINF:-1,IT: Cielo kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/111.m3u8
+#EXTINF:-1,IT Caccia Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/348.m3u8
+#EXTINF:-1,IT SKY SUPERCALCIO HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/7.m3u8
+#EXTINF:-1,IT Sky Moto GP Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/15.m3u8
+#EXTINF:-1,IT Sky Disney XD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/19.m3u8
+#EXTINF:-1,IT SKY CINEMA PASSION HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/22.m3u8
+#EXTINF:-1,IT Disney Junior Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/38.m3u8
+#EXTINF:-1,IT Disney Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/39.m3u8
+#EXTINF:-1,IT Sky Cinema Classic HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/116.m3u8
+#EXTINF:-1,IT: RSI La 2 HD Paella
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/118.m3u8
+#EXTINF:-1,IT: Rete 4 HD Resharesat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/142.m3u8
+#EXTINF:-1,IT: Rai 4 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/95.m3u8
+#EXTINF:-1,IT: Rai 3 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/91.m3u8
+#EXTINF:-1,IT: Rai 2 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/92.m3u8
+#EXTINF:-1,IT: CI IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/138.m3u8
+#EXTINF:-1,IT: DMAX kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/131.m3u8
+#EXTINF:-1,IT: Canale 5 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/112.m3u8
+#EXTINF:-1,IT SKY SPORT 3 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/11.m3u8
+#EXTINF:-1,Discovery Travel & Living HD IT kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/41.m3u8
+#EXTINF:-1,IT: Rai 1 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/93.m3u8
+#EXTINF:-1,RAI YOYO LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/451.m3u8
+#EXTINF:-1,RAI GULP LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/452.m3u8
+#EXTINF:-1,RAI PREMIUM LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/453.m3u8
+#EXTINF:-1,Antenna Sicilia IT Links
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/454.m3u8
+#EXTINF:-1,Centro Televisivo Vaticano
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/466.m3u8
+#EXTINF:-1,Mediaset Italia Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/469.m3u8
+#EXTINF:-1,IT: Sky TG 24 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/66.m3u8
+#EXTINF:-1,Dunya News Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/300.m3u8
+#EXTINF:-1,IT: Rai 5 LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/113.m3u8
+#EXTINF:-1,IT Alice Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/413.m3u8
+#EXTINF:-1,IT MarkoPolo Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/414.m3u8
+#EXTINF:-1,IT Torino Channel IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/14.m3u8
+#EXTINF:-1,IT SKY SPORT 2 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/12.m3u8
+#EXTINF:-1,IT Dea Junior Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/16.m3u8
+#EXTINF:-1,IT SKY CINEMA Plus 24 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/30.m3u8
+#EXTINF:-1,IT SKY CINEMA Plus 1 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/31.m3u8
+#EXTINF:-1,IT SKY CINEMA CULT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/26.m3u8
+#EXTINF:-1,Italia Due Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/379.m3u8
+#EXTINF:-1,EQUIDIA LIVE Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/299.m3u8
+#EXTINF:-1,RETE4 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/1.m3u8
+#EXTINF:-1,RAI3 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/6.m3u8
+#EXTINF:-1,RAI2 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/5.m3u8
+#EXTINF:-1,RAI1 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/4.m3u8
+#EXTINF:-1,ITALIA1 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/3.m3u8
+#EXTINF:-1,CANALE5 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/2.m3u8
+#EXTINF:-1,IT SKY CINEMA 1 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/29.m3u8
