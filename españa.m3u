@@ -1,212 +1,201 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1,ES: #0 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8812.ts
-#EXTINF:-1,ES: LA 1HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8515.ts
-#EXTINF:-1,ES: LA 2HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8519.ts
-#EXTINF:-1,ES: CUATRO
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8517.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8516.ts
-#EXTINF:-1,ES: ANTENNA 3HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8521.ts
-#EXTINF:-1,ES: MOVISTAR F1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11585.ts
-#EXTINF:-1,ES: TELECINCO HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8522.ts
-#EXTINF:-1,ES: VIAJAR HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8833.ts
-#EXTINF:-1,ES: SYFY HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8534.ts
-#EXTINF:-1,ES: FDF HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8518.ts
-#EXTINF:-1,ES: NEOX
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9008.ts
-#EXTINF:-1,ES: NOVA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8524.ts
-#EXTINF:-1,ES: TNT
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9006.ts
-#EXTINF:-1,ES: A&E
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9019.ts
-#EXTINF:-1,ES: MEGA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8832.ts
-#EXTINF:-1,ES: FOX HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8819.ts
-#EXTINF:-1,ES: TCM HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8815.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8818.ts
-#EXTINF:-1,ES: HISTORIA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8817.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8822.ts
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8530.ts
-#EXTINF:-1,ES: NAT GEO WILD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8590.ts
-#EXTINF:-1,ES: GOL Tv
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9011.ts
-#EXTINF:-1,ES: Bein Liga HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9018.ts
-#EXTINF:-1,ES: Bein Sport HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9017.ts
-#EXTINF:-1,ES: La Liga BAR HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9009.ts
-#EXTINF:-1,ES: C+ LIGA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3263.ts
-#EXTINF:-1,ES: MOVISTAR GOLF
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3264.ts
-#EXTINF:-1,ES: MOVISTAR FUTBAL HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8824.ts
-#EXTINF:-1,ES: MOVISTAR  DCINE HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8826.ts
-#EXTINF:-1,ES: MOVISTAR ACTION HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8828.ts
-#EXTINF:-1,ES: MOVISTAR COMEDIA HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8827.ts
-#EXTINF:-1,ES: MOVISTAR DEPORTES HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8830.ts
-#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8825.ts
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8831.ts
-#EXTINF:-1,ES: MOVISTAR SERIES XTRA HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8834.ts
-#EXTINF:-1,ES: MOVISTAR SERIES
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3260.ts
-#EXTINF:-1,ES: MOVISTAR ACCION
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3261.ts
-#EXTINF:-1,ES: MOVISTAR COCINA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9016.ts
-#EXTINF:-1,ES: MOVISTAR TOROS
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3274.ts
-#EXTINF:-1,ES: MOVISTAR CINE N
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9228.ts
-#EXTINF:-1,ES: MOVISTAR DECASA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9225.ts
-#EXTINF:-1,ES: MOVISTAR DEPORTE 2HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9234.ts
-#EXTINF:-1,ES: MOVISTAR GOLF HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9246.ts
-#EXTINF:-1,ES: MOVISTAR MotoGP
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9254.ts
-#EXTINF:-1,ES: MOVISTAR  COSMO
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12150.ts
-#EXTINF:-1,ES: MOVISTAR  XTRA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12151.ts
-#EXTINF:-1,ES: AMC HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12148.ts
-#EXTINF:-1,ES: CANAL LIGA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12149.ts
-#EXTINF:-1,ES: AXN WHITE HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8814.ts
-#EXTINF:-1,ES: AXN HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8813.ts
-#EXTINF:-1,ES: CAZA Y PESCA HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9015.ts
-#EXTINF:-1,ES: COSMO HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9013.ts
-#EXTINF:-1,ES: C & I
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9223.ts
-#EXTINF:-1,ES: 24 HOURS
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9210.ts
-#EXTINF:-1,ES: ANTENA 3HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9216.ts
-#EXTINF:-1,ES: BABY TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9219.ts
-#EXTINF:-1,ES: BARCA TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9220.ts
-#EXTINF:-1,ES: CALLE 13HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9224.ts
-#EXTINF:-1,ES: DEPORTE 1HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9233.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9235.ts
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9236.ts
-#EXTINF:-1,ES: DISNEY XD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9237.ts
-#EXTINF:-1,ES: ENERGY
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9239.ts
-#EXTINF:-1,ES: EURONEWS
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9240.ts
-#EXTINF:-1,ES: HISTORY
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9248.ts
-#EXTINF:-1,ES: LTC
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9250.ts
-#EXTINF:-1,ES: NAT GEO WILD HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9257.ts
-#EXTINF:-1,ES: National Geographic HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9258.ts
-#EXTINF:-1,ES: NONSTOPEOPLE
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9260.ts
-#EXTINF:-1,ES: 40#
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11679.ts
-#EXTINF:-1,ES: ANDALUCIA TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11670.ts
-#EXTINF:-1,ES: Canal 3/24
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11674.ts
-#EXTINF:-1,ES: COMEDY CENTRAL
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11667.ts
-#EXTINF:-1,ES: Esperanza TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11669.ts
-#EXTINF:-1,ES: Galicia TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11680.ts
-#EXTINF:-1,ES: IB3
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11668.ts
-#EXTINF:-1,ES: Iberalia TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11677.ts
-#EXTINF:-1,ES: Lancelot tv
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11676.ts
-#EXTINF:-1,ES: Levante TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11678.ts
-#EXTINF:-1,ES: MARBELLA TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11673.ts
-#EXTINF:-1,ES: Nick Jr
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11671.ts
-#EXTINF:-1,ES: Real Madrid TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11672.ts
-#EXTINF:-1,ES: TV Canaria
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11675.ts
-#EXTINF:-1,ES: PARAMOUNT CH
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9262.ts
-#EXTINF:-1,ES: DIVINITY
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9012.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9020.ts
-#EXTINF:-1,ES: TYC SPORTS
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11430.ts
-#EXTINF:-1,ES: IBERALIA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9010.ts
-#EXTINF:-1,ES: CLAN TVE HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9014.ts
-#EXTINF:-1,ES: CALLE 13 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8829.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8820.ts
-#EXTINF:-1,ES: DISNEP CHANNEL HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8821.ts
-#EXTINF:-1,ES: NICKELODEON
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8531.ts
-#EXTINF:-1,ES: BOING HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8538.ts
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,***** ITALY *****
+#EXTINF:-1,IT Manga Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/448.m3u8
+#EXTINF:-1,IT: SKY 3D Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/464.m3u8
+#EXTINF:-1,IT - Classica Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/471.m3u8
+#EXTINF:-1,IT - Sky Sport MIX IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/477.m3u8
+#EXTINF:-1,IT - Comedy Central Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/429.m3u8
+#EXTINF:-1,IT MILAN Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/323.m3u8
+#EXTINF:-1,IT - Lazio Style Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/443.m3u8
+#EXTINF:-1,IT - Sky Sport Plus IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/444.m3u8
+#EXTINF:-1,IT - Fox Sport Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/445.m3u8
+#EXTINF:-1,IT - Juve Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/446.m3u8
+#EXTINF:-1,IT - Roma Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/447.m3u8
+#EXTINF:-1,IT SKY CINEMA COMEDY HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/27.m3u8
+#EXTINF:-1,IT SKY CINEMA FAMILY HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/25.m3u8
+#EXTINF:-1,IT SKY CINEMA MAX HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/23.m3u8
+#EXTINF:-1,IT Sky Discovery Channel HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/21.m3u8
+#EXTINF:-1,IT Sky National Geographic HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/17.m3u8
+#EXTINF:-1,IT: Fox Crime HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/108.m3u8
+#EXTINF:-1,IT: Fox HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/145.m3u8
+#EXTINF:-1,IT: Fox Life HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/136.m3u8
+#EXTINF:-1,IT: History HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/139.m3u8
+#EXTINF:-1,IT: Sky Atlantic HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/89.m3u8
+#EXTINF:-1,IT: Sky Uno tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/65.m3u8
+#EXTINF:-1,IT SKY CINEMA HITS HD tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/24.m3u8
+#EXTINF:-1,IT SKY SPORT 1 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/13.m3u8
+#EXTINF:-1,IT SKY SPORT 24 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/10.m3u8
+#EXTINF:-1,IT Inter Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/322.m3u8
+#EXTINF:-1,IT - Fox Animation Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/439.m3u8
+#EXTINF:-1,IT - Fox Comedy Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/440.m3u8
+#EXTINF:-1,IT - Gambero Rosso
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/441.m3u8
+#EXTINF:-1,IT - Pesca Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/428.m3u8
+#EXTINF:-1,IT - Sky Calcio 1 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/433.m3u8
+#EXTINF:-1,IT - Sky Calcio 2 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/434.m3u8
+#EXTINF:-1,IT - Sky Calcio 3 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/435.m3u8
+#EXTINF:-1,IT - Sky Calcio 4 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/436.m3u8
+#EXTINF:-1,IT - Sky Calcio 5 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/437.m3u8
+#EXTINF:-1,IT - Sky Calcio 6 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/438.m3u8
+#EXTINF:-1,IT - Bike Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/427.m3u8
+#EXTINF:-1,Premium Action HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/64.m3u8
+#EXTINF:-1,Premium Cinema Energy Resharesat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/44.m3u8
+#EXTINF:-1,LA5 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/54.m3u8
+#EXTINF:-1,IT: Sky Arte Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/140.m3u8
+#EXTINF:-1,Premium TOPcrime kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/42.m3u8
+#EXTINF:-1,IT: RSI La 1 HD Paella
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/119.m3u8
+#EXTINF:-1,IT: Nat Geo Wild HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/147.m3u8
+#EXTINF:-1,IT Cartoonito kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/18.m3u8
+#EXTINF:-1,IT: Real Time kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/120.m3u8
+#EXTINF:-1,IT: Rai Sport 2 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/143.m3u8
+#EXTINF:-1,IT: Rai Sport 1 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/121.m3u8
+#EXTINF:-1,IT: Rai movie Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/135.m3u8
+#EXTINF:-1,IT: La 7 Links
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/127.m3u8
+#EXTINF:-1,IT: Italia 1 HD Resharesat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/128.m3u8
+#EXTINF:-1,IT: Cielo kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/111.m3u8
+#EXTINF:-1,IT Caccia Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/348.m3u8
+#EXTINF:-1,IT SKY SUPERCALCIO HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/7.m3u8
+#EXTINF:-1,IT Sky Moto GP Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/15.m3u8
+#EXTINF:-1,IT Sky Disney XD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/19.m3u8
+#EXTINF:-1,IT SKY CINEMA PASSION HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/22.m3u8
+#EXTINF:-1,IT Disney Junior Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/38.m3u8
+#EXTINF:-1,IT Disney Channel Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/39.m3u8
+#EXTINF:-1,IT Sky Cinema Classic HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/116.m3u8
+#EXTINF:-1,IT: RSI La 2 HD Paella
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/118.m3u8
+#EXTINF:-1,IT: Rete 4 HD Resharesat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/142.m3u8
+#EXTINF:-1,IT: Rai 4 kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/95.m3u8
+#EXTINF:-1,IT: Rai 3 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/91.m3u8
+#EXTINF:-1,IT: Rai 2 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/92.m3u8
+#EXTINF:-1,IT: CI IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/138.m3u8
+#EXTINF:-1,IT: DMAX kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/131.m3u8
+#EXTINF:-1,IT: Canale 5 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/112.m3u8
+#EXTINF:-1,IT SKY SPORT 3 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/11.m3u8
+#EXTINF:-1,Discovery Travel & Living HD IT kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/41.m3u8
+#EXTINF:-1,IT: Rai 1 HD kingofiptv
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/93.m3u8
+#EXTINF:-1,RAI YOYO LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/451.m3u8
+#EXTINF:-1,RAI GULP LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/452.m3u8
+#EXTINF:-1,RAI PREMIUM LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/453.m3u8
+#EXTINF:-1,Antenna Sicilia IT Links
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/454.m3u8
+#EXTINF:-1,Centro Televisivo Vaticano
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/466.m3u8
+#EXTINF:-1,Mediaset Italia Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/469.m3u8
+#EXTINF:-1,IT: Sky TG 24 Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/66.m3u8
+#EXTINF:-1,Dunya News Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/300.m3u8
+#EXTINF:-1,IT: Rai 5 LINK
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/113.m3u8
+#EXTINF:-1,IT Alice Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/413.m3u8
+#EXTINF:-1,IT MarkoPolo Link
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/414.m3u8
+#EXTINF:-1,IT Torino Channel IT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/14.m3u8
+#EXTINF:-1,IT SKY SPORT 2 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/12.m3u8
+#EXTINF:-1,IT Dea Junior Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/16.m3u8
+#EXTINF:-1,IT SKY CINEMA Plus 24 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/30.m3u8
+#EXTINF:-1,IT SKY CINEMA Plus 1 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/31.m3u8
+#EXTINF:-1,IT SKY CINEMA CULT Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/26.m3u8
+#EXTINF:-1,Italia Due Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/379.m3u8
+#EXTINF:-1,EQUIDIA LIVE Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/299.m3u8
+#EXTINF:-1,RETE4 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/1.m3u8
+#EXTINF:-1,RAI3 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/6.m3u8
+#EXTINF:-1,RAI2 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/5.m3u8
+#EXTINF:-1,RAI1 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/4.m3u8
+#EXTINF:-1,ITALIA1 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/3.m3u8
+#EXTINF:-1,CANALE5 Malta
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/2.m3u8
+#EXTINF:-1,IT SKY CINEMA 1 HD Tabsat
+http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/29.m3u8
 
 
 
