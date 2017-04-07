@@ -3,6 +3,84 @@
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Telecinco elite1
+http://cdn4.elitegol.xyz/verdirectotv/1/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",La cuatro elite2
+http://cdn2.elitegol.xyz/verdirectotv/2/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",divinity cdn2 elite3
+http://cdn2.elitegol.xyz/verdirectotv/3/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",divinity cdn1 elite3
+http://cdn1.elitegol.xyz/verdirectotv/3/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",antena 3 elite5
+http://cdn3.elitegol.xyz/verdirectotv/5/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",La sexta elite6
+http://cdn3.elitegol.xyz/verdirectotv/6/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",antena 3series elite7
+http://cdn1.elitegol.xyz/verdirectotv/7/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",TOROS elite9 
+http://cdn1.elitegol.xyz/verdirectotv/9/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",FS 2 elite10
+http://cdn1.elitegol.xyz/verdirectotv/10/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",La 2 
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",La sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",telecinco
+http://edge14.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",MOT0GP
+http://edge5.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",FORM1
+http://edge6.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",MFUT
+http://edge7.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",MFUT2
+http://edge5.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",TOR0S
+http://edge14.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",DCINE
+http://edge10.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",ESTREN0
+http://edge15.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",MCC0MEDIA
+http://edge10.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",MCINE
+http://edge15.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",AMC
+http://edge14.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",MGOL-F
+http://cdn7.verliga.pw/live/golf/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",bar-ca
+http://cdn2.elitegol.xyz/verliga/2/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",caza
+http://cdn5.elitegol.xyz/verliga/15/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",B EIN
+http://edge6.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Go-ltv
+http://88.148.69.129:9090/play/a01d
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",lifetv
+http://88.148.69.129:9090/play/a00t
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",La.ligtv
+http://edge5.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",aurosp
+http://edge6.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",aurosp2
+http://edge7.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/tnt_logo-silver1.jpg?ssl=1&w=450",TNT
 
 http://cdn2.elitegol.xyz/verliga/9/index.m3u8
