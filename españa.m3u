@@ -1,219 +1,221 @@
 #EXTM3U
 
 
-#EXTINF:-1,RTP1 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4683.ts
-#EXTINF:-1,Gol TV HD
-http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1,RTP 1
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4399.ts
-#EXTINF:-1,RTP 2 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4684.ts
-#EXTINF:-1,RTP 2
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4398.ts
-#EXTINF:-1,SIC HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4685.ts
-#EXTINF:-1,SIC
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4396.ts
-#EXTINF:-1,TVI HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4686.ts
-#EXTINF:-1,TVI
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4395.ts
-#EXTINF:-1,SIC NOTICIAS
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4393.ts
-#EXTINF:-1,TVI 24
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4392.ts
-#EXTINF:-1,CMTV
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4394.ts
-#EXTINF:-1,RTP 3
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4397.ts
-#EXTINF:-1,TVI FICCAO
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4391.ts
-#EXTINF:-1,TVI REALITY
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4390.ts
-#EXTINF:-1,RTL LUXEMBOURG
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4629.ts
-#EXTINF:-1,ATV ANTWERPEN
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4628.ts
-#EXTINF:-1,VTM HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4626.ts
-#EXTINF:-1,GLOBO
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4389.ts
-#EXTINF:-1,GLOBO PREMIUM
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4388.ts
-#EXTINF:-1,TV RECORD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4387.ts
-#EXTINF:-1,SIC MULHER
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4386.ts
-#EXTINF:-1,SIC CARAS
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4385.ts
-#EXTINF:-1,SIC RADICAL
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4384.ts
-#EXTINF:-1,PORTO CANAL
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4383.ts
-#EXTINF:-1,RTP MEMORIA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4381.ts
-#EXTINF:-1,RTP AFRICA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4380.ts
-#EXTINF:-1,RTP MADEIRA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4379.ts
-#EXTINF:-1,RTP ACORES
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4378.ts
-#EXTINF:-1,CANAL Q
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4382.ts
-#EXTINF:-1,SPORT TV +
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4377.ts
-#EXTINF:-1,SPORT TV 1
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4376.ts
-#EXTINF:-1,SPORT TV 2
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4374.ts
-#EXTINF:-1,SPORT TV 3
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4372.ts
-#EXTINF:-1,SPORT TV 4
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4370.ts
-#EXTINF:-1,SPORT TV 5
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4369.ts
-#EXTINF:-1,SPORT TV 1 HQ
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4681.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4375.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4373.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4371.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4692.ts
-#EXTINF:-1,BTV 1
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4368.ts
-#EXTINF:-1,BTV 1 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4367.ts
-#EXTINF:-1,BTV 1 HQ
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4842.ts
-#EXTINF:-1,A BOLA TV
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4366.ts
-#EXTINF:-1,NBA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4365.ts
-#EXTINF:-1,KOMBAT SPORTS
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4687.ts
-#EXTINF:-1,FIGHT NETWORK HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4364.ts
-#EXTINF:-1,MOTORISION
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4363.ts
-#EXTINF:-1,MOTORS TV
-http://iptvtt.ddns.net:8000/live/pina1/pina1/4362.ts
+
+
 #EXTINF:-1,ES: #0 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3251.ts
-#EXTINF:-1,ES: 40TV
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3204.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3248.ts
-#EXTINF:-1,ES: BABY
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3202.ts
-#EXTINF:-1,ES: BARCA TV
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3245.ts
-#EXTINF:-1,ES: BEIN SPORTV HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3244.ts
-#EXTINF:-1,ES: BOING
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3201.ts
-#EXTINF:-1,ES: C. DISNEY CHANNEL
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3272.ts
-#EXTINF:-1,ES: C. MOTO GP
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3289.ts
-#EXTINF:-1,ES: CALLE13
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3236.ts
-#EXTINF:-1,ES: C. LIGA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3238.ts
-#EXTINF:-1,ES: C. SERIES XTRA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3295.ts
-#EXTINF:-1,ES: C. FUTBOL
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3240.ts
-#EXTINF:-1,ES: C. DEPORTES
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3243.ts
-#EXTINF:-1,ES: AXN HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3247.ts
-#EXTINF:-1,ES: CANAL COMEDIA HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3234.ts
-#EXTINF:-1,ES: CANAL DCINE HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3233.ts
-#EXTINF:-1,ES: CANAL ACCION HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3235.ts
-#EXTINF:-1,ES: 24H
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3250.ts
-#EXTINF:-1,ES: CANAL LIGA HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3200.ts
-#EXTINF:-1,ES: CANAL PANDA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3199.ts
-#EXTINF:-1,ES: CANAL ESTRENOS
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3232.ts
-#EXTINF:-1,ES: CANAL SERIES HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3231.ts
-#EXTINF:-1,ES: CANAL ODISEA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3228.ts
-#EXTINF:-1,ES: SYFY HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3208.ts
-#EXTINF:-1,ES: TCM
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3207.ts
-#EXTINF:-1,ES: TELECINCO HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3206.ts
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3209.ts
-#EXTINF:-1,ES: CRIMEN INVES
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3193.ts
-#EXTINF:-1,ES: CUATRO HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3226.ts
-#EXTINF:-1,ES: TELEDEPORTE
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3205.ts
-#EXTINF:-1,ES: DISCOVERY
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3192.ts
-#EXTINF:-1,ES: DISNEY
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3224.ts
-#EXTINF:-1,ES: FDF
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3223.ts
-#EXTINF:-1,ES: ENERGY
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3191.ts
-#EXTINF:-1,ES: FOX HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3222.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3221.ts
-#EXTINF:-1,ES: Futebol
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3229.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3219.ts
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8812.ts
+#EXTINF:-1,ES: LA 1HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8515.ts
+#EXTINF:-1,ES: LA 2HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8519.ts
+#EXTINF:-1,ES: CUATRO
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8517.ts
 #EXTINF:-1,ES: LA SEXTA HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3218.ts
-#EXTINF:-1,ES: LA1
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3217.ts
-#EXTINF:-1,ES: LA2
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3216.ts
-#EXTINF:-1,ES: LTC
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3189.ts
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8516.ts
+#EXTINF:-1,ES: ANTENNA 3HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8521.ts
 #EXTINF:-1,ES: MOVISTAR F1
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3214.ts
-#EXTINF:-1,ES: MOVISTAR MOTOGP
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3213.ts
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3212.ts
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11585.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8522.ts
+#EXTINF:-1,ES: VIAJAR HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8833.ts
+#EXTINF:-1,ES: SYFY HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8534.ts
+#EXTINF:-1,ES: FDF HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8518.ts
 #EXTINF:-1,ES: NEOX
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3211.ts
-#EXTINF:-1,ES: NONSTOPEOPLE
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3185.ts
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9008.ts
 #EXTINF:-1,ES: NOVA
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3210.ts
-#EXTINF:-1,ES: TNT HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3183.ts
-#EXTINF:-1,ES: DCINE ESPANOL
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3225.ts
-#EXTINF:-1,ES: NOVA HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3307.ts
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8524.ts
+#EXTINF:-1,ES: TNT
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9006.ts
+#EXTINF:-1,ES: A&E
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9019.ts
+#EXTINF:-1,ES: MEGA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8832.ts
+#EXTINF:-1,ES: FOX HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8819.ts
+#EXTINF:-1,ES: TCM HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8815.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8818.ts
+#EXTINF:-1,ES: HISTORIA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8817.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8822.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8530.ts
+#EXTINF:-1,ES: NAT GEO WILD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8590.ts
+#EXTINF:-1,ES: GOL Tv
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9011.ts
+#EXTINF:-1,ES: Bein Liga HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9018.ts
+#EXTINF:-1,ES: Bein Sport HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9017.ts
+#EXTINF:-1,ES: La Liga BAR HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9009.ts
+#EXTINF:-1,ES: C+ LIGA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3263.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3264.ts
+#EXTINF:-1,ES: MOVISTAR FUTBAL HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8824.ts
+#EXTINF:-1,ES: MOVISTAR  DCINE HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8826.ts
+#EXTINF:-1,ES: MOVISTAR ACTION HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8828.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8827.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8830.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8825.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8831.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8834.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3260.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3261.ts
+#EXTINF:-1,ES: MOVISTAR COCINA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9016.ts
+#EXTINF:-1,ES: MOVISTAR TOROS
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3274.ts
+#EXTINF:-1,ES: MOVISTAR CINE N
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9228.ts
+#EXTINF:-1,ES: MOVISTAR DECASA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9225.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9234.ts
+#EXTINF:-1,ES: MOVISTAR GOLF HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9246.ts
+#EXTINF:-1,ES: MOVISTAR MotoGP
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9254.ts
+#EXTINF:-1,ES: MOVISTAR  COSMO
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12150.ts
+#EXTINF:-1,ES: MOVISTAR  XTRA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12151.ts
+#EXTINF:-1,ES: AMC HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12148.ts
+#EXTINF:-1,ES: CANAL LIGA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/12149.ts
+#EXTINF:-1,ES: AXN WHITE HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8814.ts
+#EXTINF:-1,ES: AXN HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8813.ts
+#EXTINF:-1,ES: CAZA Y PESCA HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9015.ts
 #EXTINF:-1,ES: COSMO HD
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3194.ts
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9013.ts
+#EXTINF:-1,ES: C & I
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9223.ts
+#EXTINF:-1,ES: 24 HOURS
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9210.ts
+#EXTINF:-1,ES: ANTENA 3HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9216.ts
+#EXTINF:-1,ES: BABY TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9219.ts
+#EXTINF:-1,ES: BARCA TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9220.ts
+#EXTINF:-1,ES: CALLE 13HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9224.ts
+#EXTINF:-1,ES: DEPORTE 1HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9233.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9235.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9236.ts
+#EXTINF:-1,ES: DISNEY XD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9237.ts
+#EXTINF:-1,ES: ENERGY
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9239.ts
+#EXTINF:-1,ES: EURONEWS
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9240.ts
+#EXTINF:-1,ES: HISTORY
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9248.ts
+#EXTINF:-1,ES: LTC
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9250.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9257.ts
+#EXTINF:-1,ES: National Geographic HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9258.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9260.ts
+#EXTINF:-1,ES: 40#
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11679.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11670.ts
+#EXTINF:-1,ES: Canal 3/24
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11674.ts
 #EXTINF:-1,ES: COMEDY CENTRAL
-http://iptvtt.ddns.net:8000/live/pina1/pina1/3195.ts
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11667.ts
+#EXTINF:-1,ES: Esperanza TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11669.ts
+#EXTINF:-1,ES: Galicia TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11680.ts
+#EXTINF:-1,ES: IB3
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11668.ts
+#EXTINF:-1,ES: Iberalia TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11677.ts
+#EXTINF:-1,ES: Lancelot tv
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11676.ts
+#EXTINF:-1,ES: Levante TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11678.ts
+#EXTINF:-1,ES: MARBELLA TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11673.ts
+#EXTINF:-1,ES: Nick Jr
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11671.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11672.ts
+#EXTINF:-1,ES: TV Canaria
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11675.ts
+#EXTINF:-1,ES: PARAMOUNT CH
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9262.ts
+#EXTINF:-1,ES: DIVINITY
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9012.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9020.ts
+#EXTINF:-1,ES: TYC SPORTS
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11430.ts
+#EXTINF:-1,ES: IBERALIA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9010.ts
+#EXTINF:-1,ES: CLAN TVE HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/9014.ts
+#EXTINF:-1,ES: CALLE 13 HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8829.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8820.ts
+#EXTINF:-1,ES: DISNEP CHANNEL HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8821.ts
+#EXTINF:-1,ES: NICKELODEON
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8531.ts
+#EXTINF:-1,ES: BOING HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8538.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/al6y2.png?ssl=1&w=450", Fox
 http://cdn5.elitegol.xyz/verliga/28/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/al6y2.png?ssl=1&w=450", Fox
-http://cdn3.verliga.pw/live/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistar-estrenos.jpg?ssl=1&w=450",Movistar Estrenos
 http://cdn2.verliga.pw/live/plusestrenos/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistarcomedia.png?ssl=1&w=450",Movistar Comedia
@@ -232,223 +234,3 @@ http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/tvb112/chunklist.m3u
 http://cdn2.elitegol.xyz/verliga/18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450", Ten
 http://cdn1.elitegol.xyz/verliga/33/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/canal-0.png", # 0 Series
-#EXTINF:-1 tvg-logo="http://www.vercanalestv.com/ver-canal-dark-online-y-gratis-24h-por-internet/",DARK
-http://edge15.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
-http://cdn4.elitegol.xyz/verliga/35/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png?ssl=1&w=450", SyFy
-http://edge14.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/cinemaxlogo2011b.png?ssl=1&w=450",Cinemax
-http://cdn3.elitegol.xyz/verliga/20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/amc-logo.jpg?ssl=1&w=450",AMC
-http://cdn1.elitegol.xyz/verliga/26/index.m3u8
-#EXTINF:-0,Cinecanal
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/27/stream.m3u8
-#EXTINF:-0,Golden
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/54/stream.m3u8
-#EXTINF:-0,ISAT
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
-#EXTINF:-0,SPACE
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
-#EXTINF:-0,FILM ZONE
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/13/stream.m3u8
-#EXTINF:-0,SONY
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
-#EXTINF:-0,Distrito Comedia
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/168/stream.m3u8
-#EXTINF:-0,Tbs
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/60/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/uxuoubi.png?ssl=1&w=450",La 2
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/fox-life_0.png?ssl=1&w=450",Fox Life
-http://cdn2.verliga.pw/live/foxlife/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400", NATURALEZA
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/national_geographic_logo_history6.jpg?ssl=1&w=450", Nathional Geografic
-http://cdn2.elitegol.xyz/verliga/12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/nat-geo-wild-logo.jpg?ssl=1&w=450",NatGeo Wild
-http://cdn2.elitegol.xyz/verliga/13/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logocazaypesca.jpg?ssl=1&w=450",Caza y Pezca
-http://cdn1.elitegol.xyz/verliga/15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/history-logo.jpg?ssl=1&w=450",History
-http://edge14.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400", VARIOS
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/canal5.jpg?ssl=1&w=450",EL 5
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/3/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/boomerang_logo_detail.png?ssl=1&w=450",Boomerang
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1280px-cbeebies-svg.png?ssl=1&w=450",CBEE 
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/50/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/image.png?ssl=1&w=450",Cartoon Network
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/dk.png?ssl=1&w=450",Discovery Kids
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/22/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/disney_junior_logo.png?ssl=1&w=450",Disney Junior
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/disney-channel-logo.png?ssl=1&w=450",Disney Chanel
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/560007fefcd35274b4dca8247e1f54ac.jpg?ssl=1&w=450",Nick
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tooncast.jpg?ssl=1&w=450",Tooncast
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/31/stream.m3u8
-#EXTINF:-0,Disney peliculas
-http://185.176.193.151/dl/d8ed65c2431e90ed949fa98db3b55732/58e2e92a/ff28f528264fa18ce649b3a4b88522a4f4.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/screen-shot-2012-03-27-at-3-14-36-pm.png?ssl=1&w=450", Baby Tv
-http://edge14.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450", PakaPaka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-es.png?ssl=1&w=450", Boing
-http://edge14.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/nick-jr-logo-vector.png?ssl=1&w=450",NickJunior
-http://edge14.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/main-logo.png?ssl=1&w=450",Panda
-http://edge14.livesports.pw/live/verpanda09f8f91b6bfd8e414/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo_disney_junior.png?ssl=1&w=450",Disney Junior
-http://edge5.livesports.pw/live/verdisneyjuniora1a6392c36/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/30daded21.png?ssl=1&w=450",Simpson 24/7
-http://latino-webtv.ml/series/simpsons.mp4
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo_america_tv.jpg?ssl=1&w=450",America Argentina
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/canal12-misiones.png?ssl=1&w=450",El 12 TV
-http://prepublish.f.qaotic.net/a10/ngrp:el12_live01-100083_all/chunklist_b346000.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/tvpublicalogo.jpg?ssl=1&w=450",Television Publica de Argentina
-http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b264000.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo.png?ssl=1&w=450",canal 10
-http://iphone-streaming.ustream.tv/uhls/22780410/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/186px-antiguo_logo_de_canal_once_28once_tv29.png?ssl=1&w=450",el Once
-http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450", Telecinco
-http://cdn5.elitegol.xyz/verdirectotv/1.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo_canal_liga_2.jpg?ssl=1&w=450", Multiliga 2
-http://cdn5.verliga.pw/live/verliga2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-canalplus-2.png?ssl=1&w=450", Canal Plus
-http://cdn10.verliga.pw/live/verliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/xxxuts1436895323.png?ssl=1&w=450", Toros TV
-http://cdn4.elitegol.xyz/verdirectotv/9.m3u8
-#EXTINF: -1, ES : MOVISTAR LIGA
-http://78.142.19.28/live/abdulrhman340/1okbd9/1785.ts~~V~~singular~~3rd
-#EXTINF: -1, ES: BEIN LIGA
-http://78.142.19.28/live/abdulrhman340/1okbd9/2516.ts
-# EXTINF: -1, ES: BEIN LA LIGA 1
-http://78.142.19.28/live/abdulrhman340/1okbd9/2517.ts
-#EXTINF: -1, ES: MOVISTAR DEPORTE
-http://78.142.19.28/live/abdulrhman340/ 1okbd9 / 2432.ts
-#EXTINF: -1, ES: MOVISTAR DEPORTE 2
-http://78.142.19.28/live/abdulrhman340/1okbd9/2518.ts
-#EXTINF: -1, ES: MOVISTAR FUTBOL
-http://78.142.19.28 /live/abdulrhman340/1okbd9/2519.ts
-#EXTINF: -1, ES: Beinsport HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2515.ts
-#EXTINF: -1, ES: MOVISTAR GOLF
-http: / /78.142.19.28/live/abdulrhman340/1okbd9/1903.ts
-#EXTINF: -1, ES: MOVISTAR ACCION
-http://78.142.19.28/live/abdulrhman340/1okbd9/2425.ts
-#EXTINF: -1, ES: GOL TV
-http://78.142.19.28/live/abdulrhman340/1okbd9/2514.ts
-#EXTINF: -1, ES: Movistar moto gp
-http://78.142.19.28/live /abdulrhman340/1okbd9/1916.ts
-#EXTINF: -1, ES: Movistar F1
-http://78.142.19.28/live/abdulrhman340/1okbd9/1915.ts
-#EXTINF: -1, ES: MOVISTAR ESTRENOS
-http: //78.142 .19.28 / live / abdulrhman340 / 1okbd9 / 2427.ts
-#EXTINF: -1, ES: MOVISTAR COMEDIA HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2524.ts
-#EXTINF: -1, ES: MOVISTAR TOROS HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2525.ts
-#EXTINF: -1, ES: MOVISTAR serie HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2522.ts
-#EXTINF: - 1, ES: CUATRO HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2510.ts
-#EXTINF: -1, ES: MOVISTAR 0 # HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2512 ts
-#EXTINF: -1, ES: MOVISTAR XTRA HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/3137.ts
-#EXTINF: -1, ES: CASA Y PESCA
-http://78.142.19.28/live /abdulrhman340/1okbd9/2429.ts
-#EXTINF: -1, ES: MOVISTAR SERIE XTRA
-http://78.142.19.28/live/abdulrhman340/1okbd9/2426.ts
-#EXTINF: -1, ES: Canal Cocina
-http: // 78.142.19.28/live/abdulrhman340/1okbd9/2430.ts
-#EXTINF: -1, ES: BARCA TV
-http: // 78. 142.19.28 / vivir / abdulrhman340 / 1okbd9 / 2445.ts
-#EXTINF: -1, ES: TELECINCO
-http://78.142.19.28/live/abdulrhman340/1okbd9/1767.ts
-#EXTINF: -1, ES: TELECINCO HD
-http : //78.142.19.28/live/abdulrhman340/1okbd9/2511.ts
-#EXTINF: -1, ES: Discovery Channel HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2724.ts
-#EXTINF: -1, ES: COMEDIA CENTRAL HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/1907.ts
-#EXTINF: -1, ES: TCM
-http://78.142.19.28/live/abdulrhman340/1okbd9/2528.ts
-#EXTINF : -1, ES: REAL MADRID TV
-http://78.142.19.28/live/abdulrhman340/1okbd9/2436.ts
-#EXTINF: -1, ES: MEGA
-http://78.142.19.28/live/abdulrhman340/1okbd9/2721 ts
-#EXTINF: -1, ES: Viajar HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/1909.ts
-#EXTINF: -1, ES: La 2
-http://78.142.19.28/live/abdulrhman340 /1okbd9/2532.ts
-#EXTINF: -1, ES: La 1
-http://78.142.19.28/live/abdulrhman340/1okbd9/2531.ts
-#EXTINF: -1, ES: BEIN LA LIGA 2
-http: //78.142 .19.28 / live / abdulrhman340 / 1okbd9 / 2438.ts
-#EXTINF: -1, ES: ENERGY
-http://78.142.19.28/live/abdulrhman340/1okbd9/2530.t s
-#EXTINF: -1, ES: MOVISTAR DCine Ñ
-http://78.142.19.28/live/abdulrhman340/1okbd9/2529.ts
-#EXTINF: -1, ES: TV bebé
-http://78.142.19.28/live/abdulrhman340 /1okbd9/2527.ts
-#EXTINF: -1, ES: Antena 3
-http://78.142.19.28/live/abdulrhman340/1okbd9/1770.ts
-#EXTINF: -1, ES: antena3 HD
-http://78.142.19.28 /live/abdulrhman340/1okbd9/3135.ts
-#EXTINF: -1, ES: canal Disney
-http://78.142.19.28/live/abdulrhman340/1okbd9/1793.ts
-#EXTINF: -1, ES: FOX
-http: // 78.142.19.28/live/abdulrhman340/1okbd9/1790.ts
-#EXTINF: -1, ES: Historia
-http://78.142.19.28/live/abdulrhman340/1okbd9/1928.ts
-#EXTINF: -1, ES: Hollywood HD
-http : //78.142.19.28/live/abdulrhman340/1okbd9/1773.ts
-#EXTINF: -1, ES: SyFy HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/1791.ts
-#EXTINF: -1, ES : NATIONAL GEOGRAPHIC
-http://78.142.19.28/live/abdulrhman340/1okbd9/2421.ts
-#EXTINF: -1, ES: LaSextaHD
-http://78.142.19.28/live/abdulrhman340/1okbd9/1768.ts
-#EXTINF: - 1, ES: AMC HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/2435.ts
-#EXTINF: -1, ES: AMC
-http://78.142.19.28/ vivir / abdulrhman340 / 1okbd9 / 2434.ts
-#EXTINF: -1, ES: Fox Life
-http://78.142.19.28/live/abdulrhman340/1okbd9/1771.ts
-#EXTINF: -1, ES: CUATRO SD
-http: // 78.142.19.28/live/abdulrhman340/1okbd9/1769.ts
-#EXTINF: -1, ES: Calle13
-http://78.142.19.28/live/abdulrhman340/1okbd9/2422.ts
-#EXTINF: -1, ES: Axn Blanco
-http : //78.142.19.28/live/abdulrhman340/1okbd9/1786.ts
-#EXTINF: -1, ES: 40 TV
-http://78.142.19.28/live/abdulrhman340/1okbd9/2423.ts
-#EXTINF: -1, ES : TVE 24 Hora
-http://78.142.19.28/live/abdulrhman340/1okbd9/1923.ts
-#EXTINF: -1, ES: COSMO
-http://78.142.19.28/live/abdulrhman340/1okbd9/1919.ts
-#EXTINF: -1, ES: TVE 2
-http://78.142.19.28/live/abdulrhman340/1okbd9/1918.ts
-#EXTINF: -1, ES: TVE
-http://78.142.19.28/live/abdulrhman340/1okbd9/2420.ts
-#EXTINF: -1, ES: TNT HD
-http://78.142.19.28/live/abdulrhman340/1okbd9/1788.ts
-#EXTINF: -1, ES: Odisea HD
-http://78.142.19.28/live/abdulrhman340/1okbd9 /1912.ts
-#EXTINF: -1, ES: Nat Geo Wild
-http://78.142.19.28/live/abdulrhman340/1okbd9/1789.ts
-#EXTINF: -1, ES: Eurosport
-http: //78.14 02/19/28 / / abdulrhman340 / 1okbd9 / 1906.ts vivo
-#EXTINF: -1, ES: DISNEY JUNIOR
-http://78.142.19.28/live/abdulrhman340/1okbd9/1917.ts
-#EXTINF: -1, ES: AXNSpain
-http : //78.142.19.28/live/abdulrhman340/1okbd9/1772.ts
-#EXTINF: -1, ES: Andalucía TV
-http://78.142.19.28/live/abdulrhman340/1okbd9/1921.ts
