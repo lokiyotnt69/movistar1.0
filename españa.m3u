@@ -196,7 +196,316 @@ http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/3.m3u8
 http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/2.m3u8
 #EXTINF:-1,IT SKY CINEMA 1 HD Tabsat
 http://109.236.90.101:8000/live/Mxatlrteam/Xmtarletam/29.m3u8
-
+#EXTINF:-1,------TDT------
+http://163.172.213.25:8000/live/vero/vero/73.ts
+#EXTINF:-1,LA 1 HD
+http://163.172.213.25:8000/live/vero/vero/152.ts
+#EXTINF:-1,LA 2
+http://163.172.213.25:8000/live/vero/vero/2.ts
+#EXTINF:-1,ANTENA 3 HD
+http://163.172.213.25:8000/live/vero/vero/3.ts
+#EXTINF:-1,CUATRO HD
+http://163.172.213.25:8000/live/vero/vero/151.ts
+#EXTINF:-1,TELECINCO
+http://163.172.213.25:8000/live/vero/vero/6.ts
+#EXTINF:-1,LA SEXTA
+http://163.172.213.25:8000/live/vero/vero/8.ts
+#EXTINF:-1,ENERGY
+http://163.172.213.25:8000/live/vero/vero/33.ts
+#EXTINF:-1,NOVA
+http://163.172.213.25:8000/live/vero/vero/88.ts
+#EXTINF:-1,MEGA
+http://163.172.213.25:8000/live/vero/vero/89.ts
+#EXTINF:-1,DIVINITY
+http://163.172.213.25:8000/live/vero/vero/86.ts
+#EXTINF:-1,FDF
+http://163.172.213.25:8000/live/vero/vero/29.ts
+#EXTINF:-1,ATRESERIES HD
+http://163.172.213.25:8000/live/vero/vero/30.ts
+#EXTINF:-1,NEOX HD
+http://163.172.213.25:8000/live/vero/vero/32.ts
+#EXTINF:-1,TEN
+http://163.172.213.25:8000/live/vero/vero/437.ts
+#EXTINF:-1,--------CINE------
+http://163.172.213.25:8000/live/vero/vero/71.ts
+#EXTINF:-1,# 0 HD
+http://163.172.213.25:8000/live/vero/vero/10.ts
+#EXTINF:-1,M. ESTRENOS HD
+http://163.172.213.25:8000/live/vero/vero/35.ts
+#EXTINF:-1,M. ACCION HD
+http://163.172.213.25:8000/live/vero/vero/37.ts
+#EXTINF:-1,M. DCINE HD
+http://163.172.213.25:8000/live/vero/vero/39.ts
+#EXTINF:-1,M. COMEDIA HD
+http://163.172.213.25:8000/live/vero/vero/38.ts
+#EXTINF:-1,M. CINE Ñ
+http://163.172.213.25:8000/live/vero/vero/106.ts
+#EXTINF:-1,CANAL HOLLYWOOD
+http://163.172.213.25:8000/live/vero/vero/41.ts
+#EXTINF:-1,DARK
+http://163.172.213.25:8000/live/vero/vero/43.ts
+#EXTINF:-1,XTRM
+http://163.172.213.25:8000/live/vero/vero/44.ts
+#EXTINF:-1,SOMOS
+http://163.172.213.25:8000/live/vero/vero/45.ts
+#EXTINF:-1,LIFE TV
+http://163.172.213.25:8000/live/vero/vero/112.ts
+#EXTINF:-1,SUNDANCE
+http://163.172.213.25:8000/live/vero/vero/42.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://163.172.213.25:8000/live/vero/vero/47.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://163.172.213.25:8000/live/vero/vero/19.ts
+#EXTINF:-1,COSMOPOLITAN HD
+http://163.172.213.25:8000/live/vero/vero/21.ts
+#EXTINF:-1,--------SERIES--------
+http://163.172.213.25:8000/live/vero/vero/81.ts
+#EXTINF:-1,SYFY
+http://163.172.213.25:8000/live/vero/vero/26.ts
+#EXTINF:-1,SYFY HD
+http://163.172.213.25:8000/live/vero/vero/339.ts
+#EXTINF:-1,TNT
+http://163.172.213.25:8000/live/vero/vero/18.ts
+#EXTINF:-1,TCM
+http://163.172.213.25:8000/live/vero/vero/40.ts
+#EXTINF:-1,FOX HD
+http://163.172.213.25:8000/live/vero/vero/15.ts
+#EXTINF:-1,FOX
+http://163.172.213.25:8000/live/vero/vero/391.ts
+#EXTINF:-1,CALLE 13
+http://163.172.213.25:8000/live/vero/vero/20.ts
+#EXTINF:-1,CALLE 13 HD
+http://163.172.213.25:8000/live/vero/vero/340.ts
+#EXTINF:-1,FOX LIFE
+http://163.172.213.25:8000/live/vero/vero/165.ts
+#EXTINF:-1,FOX LIFE HD
+http://163.172.213.25:8000/live/vero/vero/113.ts
+#EXTINF:-1,AXN
+http://163.172.213.25:8000/live/vero/vero/392.ts
+#EXTINF:-1,AXN HD
+http://163.172.213.25:8000/live/vero/vero/16.ts
+#EXTINF:-1,AXN WHITE HD
+http://163.172.213.25:8000/live/vero/vero/25.ts
+#EXTINF:-1,AMC
+http://163.172.213.25:8000/live/vero/vero/22.ts
+#EXTINF:-1,M. SERIES XTRA HD
+http://163.172.213.25:8000/live/vero/vero/14.ts
+#EXTINF:-1,M. SERIES HD
+http://163.172.213.25:8000/live/vero/vero/12.ts
+#EXTINF:-1,M. XTRA HD
+http://163.172.213.25:8000/live/vero/vero/36.ts
+#EXTINF:-1,------NOTICIAS------
+http://163.172.213.25:8000/live/vero/vero/176.ts
+#EXTINF:-1,24 HORAS
+http://163.172.213.25:8000/live/vero/vero/307.ts
+#EXTINF:-1,RT NOTICIAS
+http://163.172.213.25:8000/live/vero/vero/174.ts
+#EXTINF:-1,RT NOTICIAS HD
+http://163.172.213.25:8000/live/vero/vero/475.ts
+#EXTINF:-1,DW NOTICIAS
+http://163.172.213.25:8000/live/vero/vero/175.ts
+#EXTINF:-1,EURONEWS
+http://163.172.213.25:8000/live/vero/vero/344.ts
+#EXTINF:-1,--------AUTONOMICAS---------
+http://163.172.213.25:8000/live/vero/vero/87.ts
+#EXTINF:-1,NON STOP PEOPLE
+http://163.172.213.25:8000/live/vero/vero/27.ts
+#EXTINF:-1,TV CANARIA
+http://163.172.213.25:8000/live/vero/vero/104.ts
+#EXTINF:-1,CANAL EXTREMADURA
+http://163.172.213.25:8000/live/vero/vero/343.ts
+#EXTINF:-1,7 HD MURCIA
+http://163.172.213.25:8000/live/vero/vero/342.ts
+#EXTINF:-1,ARAGON TV
+http://163.172.213.25:8000/live/vero/vero/394.ts
+#EXTINF:-1,LANCELOT TV
+http://163.172.213.25:8000/live/vero/vero/263.ts
+#EXTINF:-1,CANAL SUR
+http://163.172.213.25:8000/live/vero/vero/11.ts
+#EXTINF:-1,EL CORREO TV
+http://163.172.213.25:8000/live/vero/vero/173.ts
+#EXTINF:-1,TELEMADRID
+http://163.172.213.25:8000/live/vero/vero/155.ts
+#EXTINF:-1,LA OTRA
+http://163.172.213.25:8000/live/vero/vero/142.ts
+#EXTINF:-1,TV3
+http://163.172.213.25:8000/live/vero/vero/105.ts
+#EXTINF:-1,3/24
+http://163.172.213.25:8000/live/vero/vero/196.ts
+#EXTINF:-1,IB3
+http://163.172.213.25:8000/live/vero/vero/147.ts
+#EXTINF:-1,8 TV
+http://163.172.213.25:8000/live/vero/vero/143.ts
+#EXTINF:-1,TELESUR
+http://163.172.213.25:8000/live/vero/vero/154.ts
+#EXTINF:-1,HTV
+http://163.172.213.25:8000/live/vero/vero/220.ts
+#EXTINF:-1,CYL7
+http://163.172.213.25:8000/live/vero/vero/219.ts
+#EXTINF:-1,ONDALUZ SEVILLA
+http://163.172.213.25:8000/live/vero/vero/406.ts
+#EXTINF:-1,--------DEPORTES------
+http://163.172.213.25:8000/live/vero/vero/79.ts
+#EXTINF:-1,LA LIGA TV BAR HD
+http://163.172.213.25:8000/live/vero/vero/103.ts
+#EXTINF:-1,LA LIGA TV BAR
+http://163.172.213.25:8000/live/vero/vero/188.ts
+#EXTINF:-1,BEIN LA LIGA HD
+http://163.172.213.25:8000/live/vero/vero/49.ts
+#EXTINF:-1,BEIN LA LIGA
+http://163.172.213.25:8000/live/vero/vero/187.ts
+#EXTINF:-1,BEIN SPORT HD
+http://163.172.213.25:8000/live/vero/vero/189.ts
+#EXTINF:-1,BEIN SPORT
+http://163.172.213.25:8000/live/vero/vero/52.ts
+#EXTINF:-1,LA LIGA 123 SOLO PARTIDOS
+http://163.172.213.25:8000/live/vero/vero/436.ts
+#EXTINF:-1,M.PARTIDAZO HD
+http://163.172.213.25:8000/live/vero/vero/395.ts
+#EXTINF:-1,A1 SPORT
+http://163.172.213.25:8000/live/vero/vero/262.ts
+#EXTINF:-1,M. FUTBOL
+http://163.172.213.25:8000/live/vero/vero/48.ts
+#EXTINF:-1,M. DEPORTES 1 HD
+http://163.172.213.25:8000/live/vero/vero/56.ts
+#EXTINF:-1,M. DEPORTES 2 HD
+http://163.172.213.25:8000/live/vero/vero/57.ts
+#EXTINF:-1,M. ESPORTS
+http://163.172.213.25:8000/live/vero/vero/34.ts
+#EXTINF:-1,GOL TV
+http://163.172.213.25:8000/live/vero/vero/63.ts
+#EXTINF:-1,M. MOTO GP
+http://163.172.213.25:8000/live/vero/vero/325.ts
+#EXTINF:-1,M. MOTO GP HD
+http://163.172.213.25:8000/live/vero/vero/59.ts
+#EXTINF:-1,FORMULA 1 SD
+http://163.172.213.25:8000/live/vero/vero/338.ts
+#EXTINF:-1,M. FORMULA 1 HD
+http://163.172.213.25:8000/live/vero/vero/58.ts
+#EXTINF:-1,M. GOLF
+http://163.172.213.25:8000/live/vero/vero/60.ts
+#EXTINF:-1,EUROSPORT1
+http://163.172.213.25:8000/live/vero/vero/61.ts
+#EXTINF:-1,EUROSPORT 2
+http://163.172.213.25:8000/live/vero/vero/62.ts
+#EXTINF:-1,TELEDEPORTES
+http://163.172.213.25:8000/live/vero/vero/64.ts
+#EXTINF:-1,TYC SPORTS
+http://163.172.213.25:8000/live/vero/vero/309.ts
+#EXTINF:-1,RED BULL TV
+http://163.172.213.25:8000/live/vero/vero/184.ts
+#EXTINF:-1,REAL MADRID TV
+http://163.172.213.25:8000/live/vero/vero/108.ts
+#EXTINF:-1,BARCA TV
+http://163.172.213.25:8000/live/vero/vero/55.ts
+#EXTINF:-1,TOROS TV
+http://163.172.213.25:8000/live/vero/vero/67.ts
+#EXTINF:-1,-------INFANTIL----------
+http://163.172.213.25:8000/live/vero/vero/93.ts
+#EXTINF:-1,NICKELODEON
+http://163.172.213.25:8000/live/vero/vero/94.ts
+#EXTINF:-1,ANIME
+http://163.172.213.25:8000/live/vero/vero/161.ts
+#EXTINF:-1,NICK JR
+http://163.172.213.25:8000/live/vero/vero/92.ts
+#EXTINF:-1,DISNEY XD
+http://163.172.213.25:8000/live/vero/vero/95.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://163.172.213.25:8000/live/vero/vero/96.ts
+#EXTINF:-1,CLAN
+http://163.172.213.25:8000/live/vero/vero/98.ts
+#EXTINF:-1,BOING
+http://163.172.213.25:8000/live/vero/vero/97.ts
+#EXTINF:-1,BABY TV
+http://163.172.213.25:8000/live/vero/vero/90.ts
+#EXTINF:-1,CANAL PANDA
+http://163.172.213.25:8000/live/vero/vero/260.ts
+#EXTINF:-1,-------DOCUMENTALES-------
+http://163.172.213.25:8000/live/vero/vero/77.ts
+#EXTINF:-1,NAT GEO WILD
+http://163.172.213.25:8000/live/vero/vero/69.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://163.172.213.25:8000/live/vero/vero/399.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://163.172.213.25:8000/live/vero/vero/68.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://163.172.213.25:8000/live/vero/vero/397.ts
+#EXTINF:-1,HISTORIA
+http://163.172.213.25:8000/live/vero/vero/70.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://163.172.213.25:8000/live/vero/vero/72.ts
+#EXTINF:-1,DMAX
+http://163.172.213.25:8000/live/vero/vero/137.ts
+#EXTINF:-1,CANAL ODISEA
+http://163.172.213.25:8000/live/vero/vero/75.ts
+#EXTINF:-1,A&E
+http://163.172.213.25:8000/live/vero/vero/78.ts
+#EXTINF:-1,CRIMEN & INVESTIGACION
+http://163.172.213.25:8000/live/vero/vero/82.ts
+#EXTINF:-1,IBERALIA
+http://163.172.213.25:8000/live/vero/vero/66.ts
+#EXTINF:-1,CAZA Y PESCA HD
+http://163.172.213.25:8000/live/vero/vero/398.ts
+#EXTINF:-1,CAZA Y PESCA
+http://163.172.213.25:8000/live/vero/vero/65.ts
+#EXTINF:-1,CANAL COCINA
+http://163.172.213.25:8000/live/vero/vero/83.ts
+#EXTINF:-1,CANAL DE CASA
+http://163.172.213.25:8000/live/vero/vero/84.ts
+#EXTINF:-1,VIAJAR
+http://163.172.213.25:8000/live/vero/vero/80.ts
+#EXTINF:-1,TRAVEL TV HD
+http://163.172.213.25:8000/live/vero/vero/172.ts
+#EXTINF:-1,-------MUSICA-------
+http://163.172.213.25:8000/live/vero/vero/102.ts
+#EXTINF:-1,MTV ESPAÑA
+http://163.172.213.25:8000/live/vero/vero/28.ts
+#EXTINF:-1,SOL MUSICA
+http://163.172.213.25:8000/live/vero/vero/396.ts
+#EXTINF:-1,DELUXE MUSIC
+http://163.172.213.25:8000/live/vero/vero/393.ts
+#EXTINF:-1,VIRGIN TV
+http://163.172.213.25:8000/live/vero/vero/444.ts
+#EXTINF:-1,NEBISET TV MUSIC
+http://163.172.213.25:8000/live/vero/vero/446.ts
+#EXTINF:-1,M6 MUSIC
+http://163.172.213.25:8000/live/vero/vero/445.ts
+#EXTINF:-1,CITY MUSIC
+http://163.172.213.25:8000/live/vero/vero/443.ts
+#EXTINF:-1,MTV DANCE
+http://163.172.213.25:8000/live/vero/vero/156.ts
+#EXTINF:-1,STARS TV MUSIC
+http://163.172.213.25:8000/live/vero/vero/264.ts
+#EXTINF:-1,CITY
+http://163.172.213.25:8000/live/vero/vero/144.ts
+#EXTINF:-1,M2O TV
+http://163.172.213.25:8000/live/vero/vero/158.ts
+#EXTINF:-1,HIT TV
+http://163.172.213.25:8000/live/vero/vero/166.ts
+#EXTINF:-1,FORMUSIC TV
+http://163.172.213.25:8000/live/vero/vero/177.ts
+#EXTINF:-1,--------TAQUILLAS-------
+http://163.172.213.25:8000/live/vero/vero/375.ts
+#EXTINF:-1,TAQUILLA 1
+http://163.172.213.25:8000/live/vero/vero/376.ts
+#EXTINF:-1,TAQUILLA 2
+http://163.172.213.25:8000/live/vero/vero/377.ts
+#EXTINF:-1,TAQUILLA 3
+http://163.172.213.25:8000/live/vero/vero/378.ts
+#EXTINF:-1,TAQUILLA 4
+http://163.172.213.25:8000/live/vero/vero/379.ts
+#EXTINF:-1,TAQUILLA 5
+http://163.172.213.25:8000/live/vero/vero/380.ts
+#EXTINF:-1,TAQUILLA 6
+http://163.172.213.25:8000/live/vero/vero/381.ts
+#EXTINF:-1,TAQUILLA 7
+http://163.172.213.25:8000/live/vero/vero/382.ts
+#EXTINF:-1,TAQUILLA 8
+http://163.172.213.25:8000/live/vero/vero/383.ts
+#EXTINF:-1,TAQUILLA 9
+http://163.172.213.25:8000/live/vero/vero/384.ts
+#EXTINF:-1,TAQUILLA 10
+http://163.172.213.25:8000/live/vero/vero/385.ts
 
 
 
