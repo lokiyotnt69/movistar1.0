@@ -7,68 +7,114 @@
 
 
 
-
-#EXTINF:-1,HISTORIA
-http://90.169.232.190:8000/play/a08q
-#EXTINF:-1,FDF
-http://90.169.232.190:8000/play/a096
-#EXTINF:-1,DISNEY CH HD
-http://90.169.232.190:8000/play/a08d
-#EXTINF:-1,TELECINCO
-http://90.169.232.190:8000/play/a09b
-#EXTINF:-1,TCM HD
-http://90.169.232.190:8000/play/a08b
-#EXTINF:-1,NG WILD HD
-http://90.169.232.190:8000/play/a08c
-#EXTINF:-1,HOLLYWOODHD
-http://90.169.232.190:8000/play/a080
-#EXTINF:-1,CUATRO
-http://90.169.232.190:8000/play/a09a
-#EXTINF:-1,FOX HD
-http://90.169.232.190:8000/play/a07y
-#EXTINF:-1,M. SERIES HD
-http://90.169.232.190:8000/play/a08y
-#EXTINF:-1,M. HD
-http://90.169.232.190:8000/play/a08h
-#EXTINF:-1,M. ACCI©N HD
-http://90.169.232.190:8000/play/a092
-#EXTINF:-1,M. DCINE HD
-http://90.169.232.190:8000/play/a07z
-#EXTINF:-1,NONSTOPEOPLE
-http://90.169.232.190:8000/play/a08o
-#EXTINF:-1,CRIMEN+INVES
-http://90.169.232.190:8000/play/a08r
-#EXTINF:-1,A&E
-http://90.169.232.190:8000/play/a08n
-#EXTINF:-1,M. Cine Espaæol
-http://90.169.232.190:8000/play/a08s
-#EXTINF:-1,M. DEP 2 HD
-http://90.169.232.190:8000/play/a07u
-#EXTINF:-1,LA 2
-http://90.169.232.190:8000/play/a099
-#EXTINF:-1,AXN HD
-http://90.169.232.190:8000/play/a08w
-#EXTINF:-1,#0 HD
-http://90.169.232.190:8000/play/a06h
-#EXTINF:-1,24 HORAS
-http://90.169.232.190:8000/play/a08t
-#EXTINF:-1,DISCOVERY
-http://90.169.232.190:8000/play/a08p
-#EXTINF:-1,BEIN LALIGA
-http://90.169.232.190:8000/play/a08i
-#EXTINF:-1,CLAN TVE
-http://90.169.232.190:8000/play/a097
-#EXTINF:-1,DISNEY XD
-http://90.169.232.190:8000/play/a08m
-#EXTINF:-1,CAZAyPESCA HD
-http://90.169.232.190:8000/play/a08e
-#EXTINF:-1,LALIGATV BAR
-http://90.169.232.190:8000/play/a08v
-#EXTINF:-1,ES-BEIN-LALIGA
-http://185.2.83.62:2112/live/dina/dina/6488.ts
-#EXTINF:-1,ES-BEIN-SPORT-HD
-http://185.2.83.62:2112/live/dina/dina/6487.ts
-
+#EXTINF:-1,ES: #0 HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3251.ts
+#EXTINF:-1,ES: 40TV
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3204.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3248.ts
+#EXTINF:-1,ES: BABY
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3202.ts
+#EXTINF:-1,ES: BARCA TV
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3245.ts
+#EXTINF:-1,ES: BEIN SPORTV HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3244.ts
+#EXTINF:-1,ES: BOING
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3201.ts
+#EXTINF:-1,ES: C. DISNEY CHANNEL
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3272.ts
+#EXTINF:-1,ES: C. MOTO GP
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3289.ts
+#EXTINF:-1,ES: CALLE13
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3236.ts
+#EXTINF:-1,ES: C. LIGA
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3238.ts
+#EXTINF:-1,ES: C. SERIES XTRA
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3295.ts
+#EXTINF:-1,ES: C. FUTBOL
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3240.ts
+#EXTINF:-1,ES: C. DEPORTES
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3243.ts
+#EXTINF:-1,ES: AXN HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3247.ts
+#EXTINF:-1,ES: CANAL COMEDIA HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3234.ts
+#EXTINF:-1,ES: CANAL DCINE HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3233.ts
+#EXTINF:-1,ES: CANAL ACCION HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3235.ts
+#EXTINF:-1,ES: 24H
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3250.ts
+#EXTINF:-1,ES: CANAL LIGA HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3200.ts
+#EXTINF:-1,ES: CANAL PANDA
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3199.ts
+#EXTINF:-1,ES: CANAL ESTRENOS
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3232.ts
+#EXTINF:-1,ES: CANAL SERIES HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3231.ts
+#EXTINF:-1,ES: CANAL ODISEA
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3228.ts
+#EXTINF:-1,ES: SYFY HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3208.ts
+#EXTINF:-1,ES: TCM
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3207.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3206.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3209.ts
+#EXTINF:-1,ES: CRIMEN INVES
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3193.ts
+#EXTINF:-1,ES: CUATRO HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3226.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3205.ts
+#EXTINF:-1,ES: DISCOVERY
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3192.ts
+#EXTINF:-1,ES: DISNEY
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3224.ts
+#EXTINF:-1,ES: FDF
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3223.ts
+#EXTINF:-1,ES: ENERGY
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3191.ts
+#EXTINF:-1,ES: FOX HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3222.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3221.ts
+#EXTINF:-1,ES: Futebol
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3229.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3219.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3218.ts
+#EXTINF:-1,ES: LA1
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3217.ts
+#EXTINF:-1,ES: LA2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3216.ts
+#EXTINF:-1,ES: LTC
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3189.ts
+#EXTINF:-1,ES: MOVISTAR F1
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3214.ts
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3213.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3212.ts
+#EXTINF:-1,ES: NEOX
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3211.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3185.ts
+#EXTINF:-1,ES: NOVA
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3210.ts
+#EXTINF:-1,ES: TNT HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3183.ts
+#EXTINF:-1,ES: DCINE ESPANOL
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3225.ts
+#EXTINF:-1,ES: NOVA HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3307.ts
+#EXTINF:-1,ES: COSMO HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3194.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3195.ts
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
