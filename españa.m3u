@@ -280,37 +280,18 @@ http://89.29.203.196:9090/play/a036
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1 ,#0   ESPAÑA 3
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/152.m3u8
+#EXTINF:-1 ,AMC Spain   ESPAÑA 3
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2756.m3u8
+#EXTINF:-1 ,Antena 3   ESPAÑA 3
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/971.m3u8
+#EXTINF:-1 ,AXN   ESPAÑA 3
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1601.m3u8
+#EXTINF:-1 ,Barca TV   ESPAÑA 3
+http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1037.m3u8
 
 
-
-#EXTINF:-1,PELICULAS
-http://vaughnlive.tv/300_apocalyptico
-#EXTINF:-1,CINE CLASIC
-http://vaughnlive.tv/0retro_classic
-#EXTINF:-1,POKEMON
-http://vaughnlive.tv/variedtv
-#EXTINF:-1,CINE CALIDAD
-http://vaughnlive.tv/cine_calidad
-#EXTINF:-1,CINE STAR
-http://vaughnlive.tv/cine_star
-#EXTINF:-1, CINE CLUB
-http://vaughnlive.tv/clubhd
-#EXTINF:-1,CINEMA CHIQUIS
-http://vaughnlive.tv/chiquis_movies_hd
-#EXTINF:-1,ESPAÑA
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w1804251383_b700000.m3u8
-#EXTINF:-1,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,PELICULAS EX
-https://cdn.vaughnsoft.com/vaughnsoft/vaughnlive/background/a5e66d6ba907260ae02537bf6f000927_b6ec3099b8f1196429b02101030183d8_4ba5f6bfd807a1803094e81bdb70e3b0.jpg
-#EXTINF:-1,HBO
-http://cdn-sm5-prog.hbomax.tv/wipes_hbomax/hbo/501427_des_es.jpg
-#EXTINF:-1,SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,AMC
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,FOX
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
