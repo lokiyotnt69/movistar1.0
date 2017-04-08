@@ -27,8 +27,8 @@ http://cdn1.elitegol.xyz/verdirectotv/10/index.m3u8|User-Agent=Mozilla/5.0 (Wind
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",La sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
-
+#EXTINF:-1 JHGMASTER
+http://verplusonline.com/canales/112.php
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",telecinco
 http://edge14.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",MOT0GP
@@ -61,11 +61,11 @@ http://cdn5.elitegol.xyz/verliga/15/index.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",B EIN
 http://edge6.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Go-ltv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG Gol TV
 http://88.148.69.129:9090/play/a01d
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",lifetv
 http://88.148.69.129:9090/play/a00t
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",La.ligtv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG La.LIGA 
 http://edge5.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",aurosp
 http://edge6.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
