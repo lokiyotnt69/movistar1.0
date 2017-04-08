@@ -3,19 +3,14 @@
 
 
 #EXTINF:0,AR: BEIN SPORT 9
-#EXTGRP:unsorted
 http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/10995.m3u8
 #EXTINF:0,Espn
-#EXTGRP:unsorted
 https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/95/stream.m3u8
 #EXTINF:0,ES: Boing
-#EXTGRP:unsorted
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3283.ts
 #EXTINF:0,ANIME TV
-#EXTGRP:unsorted
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:0,SP: BEIN MAX 1
-#EXTGRP:unsorted
 http://worldcs.info:8080/live/v18q7hU2uM/94661g6IFB/13948.m3u8
 #EXTINF:0,AR: BEIN SPORT 5
 #EXTGRP:unsorted
