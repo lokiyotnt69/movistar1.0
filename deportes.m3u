@@ -28,3 +28,14 @@ http://cdn5.elitegol.xyz/verliga/15/index.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG TOROS 
 http://cdn1.elitegol.xyz/verdirectotv/9/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Movistar deportes 1
+http://edge7.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Movistar deportes 2
+http://edge5.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Eurosport 1
+http://edge6.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Eurosport 2
+http://edge7.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8
+
