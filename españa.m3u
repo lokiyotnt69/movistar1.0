@@ -1969,3 +1969,501 @@ http://stream.smcloud.net/live/eska_party/playlist.m3u8
 http://s4w.deb1.scdn.smcloud.net/tv/eska_rock/eska_rock_360p/playlist.m3u8
 #EXTINF:-1,Eska Vox TV Old Cool
 http://stream.smcloud.net/live/vox/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="España",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="España",Antena 3 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 group-title="España",BYU Television internacional HD
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:-1 group-title="España",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 group-title="España",Canal Sur TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title="España",El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1 group-title="España",Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 group-title="España",LA 10 
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1 group-title="España",LA 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 group-title="España",Intereconomía
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:-1 group-title="España",La sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 group-title="España",MEGA 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 group-title="España",TV Sevillana
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Servidor 1", #0
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1927.m3u8
+#EXTINF:-1 group-title="Servidor 1", ANDALUCIA TV
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1859.m3u8
+#EXTINF:-1 group-title="Servidor 1", Antenna 3
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2128.m3u8
+#EXTINF:-1 group-title="Servidor 1", AXN HD
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2105.m3u8
+#EXTINF:-1 group-title="Servidor 1", Barca TV
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1928.m3u8
+#EXTINF:-1 group-title="Servidor 1", Canal+ Accion
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1924.m3u8
+#EXTINF:-1 group-title="Servidor 1", Canal+ Estrenos
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3020.m3u8
+#EXTINF:-1 group-title="Servidor 1", Canal + FUTBOL HD
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3270.m3u8
+#EXTINF:-1 group-title="Servidor 1", Canal+ Golf
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3214.m3u8
+#EXTINF:-1 group-title="Servidor 1", Canal+ Series
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3018.m3u8
+#EXTINF:-1 group-title="Servidor 1",  Caza Y Pesca
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3019.m3u8
+#EXTINF:-1 group-title="Servidor 1", Cosmo
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2110.m3u8
+#EXTINF:-1 group-title="Servidor 1", Cuatro
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2127.m3u8
+#EXTINF:-1 group-title="Servidor 1", EURONEWS
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1923.m3u8
+#EXTINF:-1 group-title="Servidor 1", Fox
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2108.m3u8
+#EXTINF:-1 group-title="Servidor 1", Fox Life
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2109.m3u8
+#EXTINF:-1 group-title="Servidor 1", Galica
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2107.m3u8
+#EXTINF:-1 group-title="Servidor 1", LA 1
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2435.m3u8
+#EXTINF:-1 group-title="Servidor 1", LA 2
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1929.m3u8
+#EXTINF:-1 group-title="Servidor 1", LaLigaTV
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1925.m3u8
+#EXTINF:-1 group-title="Servidor 1", La Sexta
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1926.m3u8
+#EXTINF:-1 group-title="Servidor 1", MANA TV SPAIN
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1860.m3u8
+#EXTINF:-1 group-title="Servidor 1", Telecinco
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1931.m3u8
+#EXTINF:-1 group-title="Servidor 1", TV Glicia
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2122.m3u8
+#EXTINF:-1 group-title="Servidor 1",Taquilla 01
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3730.m3u8
+#EXTINF:-1 group-title="Servidor 1",Taquilla 02
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3729.m3u8
+#EXTINF:-1 group-title="Servidor 1",Taquilla 03
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3728.m3u8
+#EXTINF:-1 group-title="Servidor 1",Taquilla 04
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3727.m3u8
+#EXTINF:-1 group-title="Servidor 1",Taquilla 05
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3726.m3u8
+#EXTINF:-1 group-title="Servidor 1",taquilla 06
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3725.m3u8
+
+#EXTINF:-1 group-title="Servidor 2", #0
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1927.m3u8
+#EXTINF:-1 group-title="Servidor 2", ANDALUCIA TV
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1859.m3u8
+#EXTINF:-1 group-title="Servidor 2", Antenna 3
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2128.m3u8
+#EXTINF:-1 group-title="Servidor 2", AXN HD
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2105.m3u8
+#EXTINF:-1 group-title="Servidor 2", Barca TV
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1928.m3u8
+#EXTINF:-1 group-title="Servidor 2", Canal+ Accion
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1924.m3u8
+#EXTINF:-1 group-title="Servidor 2", Canal+ Estrenos
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3020.m3u8
+#EXTINF:-1 group-title="Servidor 2", Canal + FUTBOL HD
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3270.m3u8
+#EXTINF:-1 group-title="Servidor 2", Canal+ Golf
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3214.m3u8
+#EXTINF:-1 group-title="Servidor 2", Canal+ Series
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3018.m3u8
+#EXTINF:-1 group-title="Servidor 2",  Caza Y Pesca
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3019.m3u8
+#EXTINF:-1 group-title="Servidor 2", Cosmo
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2110.m3u8
+#EXTINF:-1 group-title="Servidor 2", Cuatro
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2127.m3u8
+#EXTINF:-1 group-title="Servidor 2", EURONEWS
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1923.m3u8
+#EXTINF:-1 group-title="Servidor 2", Fox
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2108.m3u8
+#EXTINF:-1 group-title="Servidor 2", Fox Life
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2109.m3u8
+#EXTINF:-1 group-title="Servidor 2", Galica
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2107.m3u8
+#EXTINF:-1 group-title="Servidor 2", LA 1
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2435.m3u8
+#EXTINF:-1 group-title="Servidor 2", LA 2
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1929.m3u8
+#EXTINF:-1 group-title="Servidor 2", LaLigaTV
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1925.m3u8
+#EXTINF:-1 group-title="Servidor 2", La Sexta
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1926.m3u8
+#EXTINF:-1 group-title="Servidor 2", MANA TV SPAIN
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1860.m3u8
+#EXTINF:-1 group-title="Servidor 2", Telecinco
+http://www.elboxtv.com:1985/live/1234567890/1234567890/1931.m3u8
+#EXTINF:-1 group-title="Servidor 2", TV Glicia
+http://www.elboxtv.com:1985/live/1234567890/1234567890/2122.m3u8
+#EXTINF:-1 group-title="Servidor 2",Taquilla 01
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3730.m3u8
+#EXTINF:-1 group-title="Servidor 2",Taquilla 02
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3729.m3u8
+#EXTINF:-1 group-title="Servidor 2",Taquilla 03
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3728.m3u8
+#EXTINF:-1 group-title="Servidor 2",Taquilla 04
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3727.m3u8
+#EXTINF:-1 group-title="Servidor 2",Taquilla 05
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3726.m3u8
+#EXTINF:-1 group-title="Servidor 2",taquilla 06
+http://www.elboxtv.com:1985/live/1234567890/1234567890/3725.m3u8
+
+#EXTINF:-1 group-title="Servidor 3",[  ] 13 TV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23788.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Action
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23789.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] ALFA TV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23790.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Andalucia TV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23791.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Anime Tv
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23792.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Antenna 3
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23793.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] AXN White
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23794.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Bein Sport
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23795.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Canal 1
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23798.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Canal  Costa
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23796.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Canal Dcine
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23799.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Canal  Deport
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23797.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Comedia
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23800.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Disney Channel
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23801.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] DXTV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23802.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] EiTB
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23803.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] EL Tiempo TV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23804.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] trenos
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23805.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Euronews
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23806.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Fox
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23807.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Fox Life
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23808.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Futbol
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23809.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Hollywood
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23810.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] IB3
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23811.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Liga
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23812.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Nat Geo Wild
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23813.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Real Madrid
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23814.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Rete 8 Sport ANGLO
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23815.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] RPTA7
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23816.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Seri Xtra
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23817.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] Taquilla 1
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23818.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] TV3
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23821.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] TV Extremadura
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23819.m3u8
+#EXTINF:-1 group-title="Servidor 3",[  ] TV Nuevo Tiempo
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23820.m3u8
+
+#EXTINF:-1 group-title="Servidor 4", #0 HD
+http://portal.rakstar.biz:80/live/2623/2623/8551.m3u8
+#EXTINF:-1 group-title="Servidor 4", 24 HORAS
+http://portal.rakstar.biz:80/live/2623/2623/8552.m3u8
+#EXTINF:-1 group-title="Servidor 4", 40 TV
+http://portal.rakstar.biz:80/live/2623/2623/8553.m3u8
+#EXTINF:-1 group-title="Servidor 4", A&E
+http://portal.rakstar.biz:80/live/2623/2623/8554.m3u8
+#EXTINF:-1 group-title="Servidor 4", ABC
+http://portal.rakstar.biz:80/live/2623/2623/8555.m3u8
+#EXTINF:-1 group-title="Servidor 4", ACCI
+http://portal.rakstar.biz:80/live/2623/2623/8556.m3u8
+#EXTINF:-1 group-title="Servidor 4", Al Arabiya
+http://portal.rakstar.biz:80/live/2623/2623/8557.m3u8
+#EXTINF:-1 group-title="Servidor 4", Al Jazeera
+http://portal.rakstar.biz:80/live/2623/2623/8558.m3u8
+#EXTINF:-1 group-title="Servidor 4", AMC HD
+http://portal.rakstar.biz:80/live/2623/2623/8559.m3u8
+#EXTINF:-1 group-title="Servidor 4", ANTENA 3 HD
+http://portal.rakstar.biz:80/live/2623/2623/8560.m3u8
+#EXTINF:-1 group-title="Servidor 4", ARAGON TV
+http://portal.rakstar.biz:80/live/2623/2623/8561.m3u8
+#EXTINF:-1 group-title="Servidor 4", ARIRANG WORLD
+http://portal.rakstar.biz:80/live/2623/2623/8562.m3u8
+#EXTINF:-1 group-title="Servidor 4", AXN HD
+http://portal.rakstar.biz:80/live/2623/2623/8563.m3u8
+#EXTINF:-1 group-title="Servidor 4", AXN WHITE HD
+http://portal.rakstar.biz:80/live/2623/2623/8564.m3u8
+#EXTINF:-1 group-title="Servidor 4", BABY TV
+http://portal.rakstar.biz:80/live/2623/2623/8565.m3u8
+#EXTINF:-1 group-title="Servidor 4", Bar
+http://portal.rakstar.biz:80/live/2623/2623/8566.m3u8
+#EXTINF:-1 group-title="Servidor 4", BBC WORLD News
+http://portal.rakstar.biz:80/live/2623/2623/8567.m3u8
+#EXTINF:-1 group-title="Servidor 4", Bein Laliga HD
+http://portal.rakstar.biz:80/live/2623/2623/8568.m3u8
+#EXTINF:-1 group-title="Servidor 4", BEIN SPORTS HD
+http://portal.rakstar.biz:80/live/2623/2623/8569.m3u8
+#EXTINF:-1 group-title="Servidor 4", BLOOMBERG TV
+http://portal.rakstar.biz:80/live/2623/2623/8570.m3u8
+#EXTINF:-1 group-title="Servidor 4", BOING
+http://portal.rakstar.biz:80/live/2623/2623/8571.m3u8
+#EXTINF:-1 group-title="Servidor 4", C & I
+http://portal.rakstar.biz:80/live/2623/2623/8572.m3u8
+#EXTINF:-1 group-title="Servidor 4", CALLE 13 HD
+http://portal.rakstar.biz:80/live/2623/2623/8573.m3u8
+#EXTINF:-1 group-title="Servidor 4", Canal Acci
+http://portal.rakstar.biz:80/live/2623/2623/8574.m3u8
+#EXTINF:-1 group-title="Servidor 4", CANAL COCINA
+http://portal.rakstar.biz:80/live/2623/2623/8575.m3u8
+#EXTINF:-1 group-title="Servidor 4", CANAL DECASA
+http://portal.rakstar.biz:80/live/2623/2623/8576.m3u8
+#EXTINF:-1 group-title="Servidor 4", Canal Extremadura SAT
+http://portal.rakstar.biz:80/live/2623/2623/8577.m3u8
+#EXTINF:-1 group-title="Servidor 4", CANAL ODISEA
+http://portal.rakstar.biz:80/live/2623/2623/8578.m3u8
+#EXTINF:-1 group-title="Servidor 4", CANAL SUR ANDALUCIA
+http://portal.rakstar.biz:80/live/2623/2623/8579.m3u8
+#EXTINF:-1 group-title="Servidor 4", CASTILLA LA MANCHA
+http://portal.rakstar.biz:80/live/2623/2623/8580.m3u8
+#EXTINF:-1 group-title="Servidor 4", CAZA Y PESCA HD
+http://portal.rakstar.biz:80/live/2623/2623/8581.m3u8
+#EXTINF:-1 group-title="Servidor 4", CINE N
+http://portal.rakstar.biz:80/live/2623/2623/8582.m3u8
+#EXTINF:-1 group-title="Servidor 4", CLAN TVE
+http://portal.rakstar.biz:80/live/2623/2623/8583.m3u8
+#EXTINF:-1 group-title="Servidor 4", CLASSICA
+http://portal.rakstar.biz:80/live/2623/2623/8584.m3u8
+#EXTINF:-1 group-title="Servidor 4", CNBC
+http://portal.rakstar.biz:80/live/2623/2623/8585.m3u8
+#EXTINF:-1 group-title="Servidor 4", CNN
+http://portal.rakstar.biz:80/live/2623/2623/8586.m3u8
+#EXTINF:-1 group-title="Servidor 4", COMEDIA HD
+http://portal.rakstar.biz:80/live/2623/2623/8587.m3u8
+#EXTINF:-1 group-title="Servidor 4", COMEDY CENTRAL HD
+http://portal.rakstar.biz:80/live/2623/2623/8588.m3u8
+#EXTINF:-1 group-title="Servidor 4", COSMO
+http://portal.rakstar.biz:80/live/2623/2623/8589.m3u8
+#EXTINF:-1 group-title="Servidor 4", COSMOPOLITAN HD
+http://portal.rakstar.biz:80/live/2623/2623/8590.m3u8
+#EXTINF:-1 group-title="Servidor 4", CUATRO HD
+http://portal.rakstar.biz:80/live/2623/2623/8591.m3u8
+#EXTINF:-1 group-title="Servidor 4", DCINE HD
+http://portal.rakstar.biz:80/live/2623/2623/8592.m3u8
+#EXTINF:-1 group-title="Servidor 4", DEPORTE 1 HD
+http://portal.rakstar.biz:80/live/2623/2623/8593.m3u8
+#EXTINF:-1 group-title="Servidor 4", DEPORTE 2 HD
+http://portal.rakstar.biz:80/live/2623/2623/8594.m3u8
+#EXTINF:-1 group-title="Servidor 4", DISCOVERY CHANNEL
+http://portal.rakstar.biz:80/live/2623/2623/8595.m3u8
+#EXTINF:-1 group-title="Servidor 4", DISNEY CHANNEL HD
+http://portal.rakstar.biz:80/live/2623/2623/8596.m3u8
+#EXTINF:-1 group-title="Servidor 4", DISNEY JR
+http://portal.rakstar.biz:80/live/2623/2623/8597.m3u8
+#EXTINF:-1 group-title="Servidor 4", DISNEY XD
+http://portal.rakstar.biz:80/live/2623/2623/8598.m3u8
+#EXTINF:-1 group-title="Servidor 4", DIVINITY
+http://portal.rakstar.biz:80/live/2623/2623/8599.m3u8
+#EXTINF:-1 group-title="Servidor 4", DW
+http://portal.rakstar.biz:80/live/2623/2623/8600.m3u8
+#EXTINF:-1 group-title="Servidor 4", ENERGY
+http://portal.rakstar.biz:80/live/2623/2623/8601.m3u8
+#EXTINF:-1 group-title="Servidor 4", ESTRENOS HD
+http://portal.rakstar.biz:80/live/2623/2623/8602.m3u8
+#EXTINF:-1 group-title="Servidor 4", EURONEWS
+http://portal.rakstar.biz:80/live/2623/2623/8603.m3u8
+#EXTINF:-1 group-title="Servidor 4", EUROSPORT 1
+http://portal.rakstar.biz:80/live/2623/2623/8604.m3u8
+#EXTINF:-1 group-title="Servidor 4", EUROSPORT 2
+http://portal.rakstar.biz:80/live/2623/2623/8605.m3u8
+#EXTINF:-1 group-title="Servidor 4", eurosport hd
+http://portal.rakstar.biz:80/live/2623/2623/8606.m3u8
+#EXTINF:-1 group-title="Servidor 4", F
+http://portal.rakstar.biz:80/live/2623/2623/8607.m3u8
+#EXTINF:-1 group-title="Servidor 4", F1 HD
+http://portal.rakstar.biz:80/live/2623/2623/8608.m3u8
+#EXTINF:-1 group-title="Servidor 4", FDF
+http://portal.rakstar.biz:80/live/2623/2623/8609.m3u8
+#EXTINF:-1 group-title="Servidor 4", FOX HD
+http://portal.rakstar.biz:80/live/2623/2623/8610.m3u8
+#EXTINF:-1 group-title="Servidor 4", FOX LIFE HD
+http://portal.rakstar.biz:80/live/2623/2623/8611.m3u8
+#EXTINF:-1 group-title="Servidor 4", FOX NEWS
+http://portal.rakstar.biz:80/live/2623/2623/8612.m3u8
+#EXTINF:-1 group-title="Servidor 4", FRANCE 24
+http://portal.rakstar.biz:80/live/2623/2623/8613.m3u8
+#EXTINF:-1 group-title="Servidor 4", FUTBOL HD
+http://portal.rakstar.biz:80/live/2623/2623/8614.m3u8
+#EXTINF:-1 group-title="Servidor 4", GALICIA TV
+http://portal.rakstar.biz:80/live/2623/2623/8615.m3u8
+#EXTINF:-1 group-title="Servidor 4", GOLF HD
+http://portal.rakstar.biz:80/live/2623/2623/8616.m3u8
+#EXTINF:-1 group-title="Servidor 4", GolTV
+http://portal.rakstar.biz:80/live/2623/2623/8617.m3u8
+#EXTINF:-1 group-title="Servidor 4", HISTORY
+http://portal.rakstar.biz:80/live/2623/2623/8618.m3u8
+#EXTINF:-1 group-title="Servidor 4", Hit
+http://portal.rakstar.biz:80/live/2623/2623/8619.m3u8
+#EXTINF:-1 group-title="Servidor 4", HOLLYWOOD HD
+http://portal.rakstar.biz:80/live/2623/2623/8620.m3u8
+#EXTINF:-1 group-title="Servidor 4", HOT XXX
+http://portal.rakstar.biz:80/live/2623/2623/8621.m3u8
+#EXTINF:-1 group-title="Servidor 4", i24
+http://portal.rakstar.biz:80/live/2623/2623/8622.m3u8
+#EXTINF:-1 group-title="Servidor 4", IBERALIA TV
+http://portal.rakstar.biz:80/live/2623/2623/8623.m3u8
+#EXTINF:-1 group-title="Servidor 4", LA 1 HD
+http://portal.rakstar.biz:80/live/2623/2623/8624.m3u8
+#EXTINF:-1 group-title="Servidor 4", LA 2
+http://portal.rakstar.biz:80/live/2623/2623/8625.m3u8
+#EXTINF:-1 group-title="Servidor 4", LALIGA TV BAR HD
+http://portal.rakstar.biz:80/live/2623/2623/8626.m3u8
+#EXTINF:-1 group-title="Servidor 4", LASEXTA HD
+http://portal.rakstar.biz:80/live/2623/2623/8627.m3u8
+#EXTINF:-1 group-title="Servidor 4", LOS 40
+http://portal.rakstar.biz:80/live/2623/2623/8628.m3u8
+#EXTINF:-1 group-title="Servidor 4", LTC
+http://portal.rakstar.biz:80/live/2623/2623/8629.m3u8
+#EXTINF:-1 group-title="Servidor 4", MCM POP
+http://portal.rakstar.biz:80/live/2623/2623/8630.m3u8
+#EXTINF:-1 group-title="Servidor 4", Mezzo
+http://portal.rakstar.biz:80/live/2623/2623/8631.m3u8
+#EXTINF:-1 group-title="Servidor 4", MEZZO LIVE HD
+http://portal.rakstar.biz:80/live/2623/2623/8632.m3u8
+#EXTINF:-1 group-title="Servidor 4", MOTOGP HD
+http://portal.rakstar.biz:80/live/2623/2623/8633.m3u8
+#EXTINF:-1 group-title="Servidor 4", MOTORS TV
+http://portal.rakstar.biz:80/live/2623/2623/8634.m3u8
+#EXTINF:-1 group-title="Servidor 4", MTV ESPANA
+http://portal.rakstar.biz:80/live/2623/2623/8635.m3u8
+#EXTINF:-1 group-title="Servidor 4", MULTIDEPORTE
+http://portal.rakstar.biz:80/live/2623/2623/8636.m3u8
+#EXTINF:-1 group-title="Servidor 4", NASA TV
+http://portal.rakstar.biz:80/live/2623/2623/8637.m3u8
+#EXTINF:-1 group-title="Servidor 4", NAT GEO WILD HD
+http://portal.rakstar.biz:80/live/2623/2623/8638.m3u8
+#EXTINF:-1 group-title="Servidor 4", National Geographic HD
+http://portal.rakstar.biz:80/live/2623/2623/8639.m3u8
+#EXTINF:-1 group-title="Servidor 4", NEOX
+http://portal.rakstar.biz:80/live/2623/2623/8640.m3u8
+#EXTINF:-1 group-title="Servidor 4", NHK WORLD
+http://portal.rakstar.biz:80/live/2623/2623/8641.m3u8
+#EXTINF:-1 group-title="Servidor 4", NICKELODEON HD
+http://portal.rakstar.biz:80/live/2623/2623/8643.m3u8
+#EXTINF:-1 group-title="Servidor 4", NICK JR
+http://portal.rakstar.biz:80/live/2623/2623/8642.m3u8
+#EXTINF:-1 group-title="Servidor 4", NONSTOPEOPLE
+http://portal.rakstar.biz:80/live/2623/2623/8644.m3u8
+#EXTINF:-1 group-title="Servidor 4", NOVA
+http://portal.rakstar.biz:80/live/2623/2623/8645.m3u8
+#EXTINF:-1 group-title="Servidor 4", PANDA
+http://portal.rakstar.biz:80/live/2623/2623/8646.m3u8
+#EXTINF:-1 group-title="Servidor 4", PARAMOUNT
+http://portal.rakstar.biz:80/live/2623/2623/8647.m3u8
+#EXTINF:-1 group-title="Servidor 4", Parlamento
+http://portal.rakstar.biz:80/live/2623/2623/8648.m3u8
+#EXTINF:-1 group-title="Servidor 4", Partidazo HD
+http://portal.rakstar.biz:80/live/2623/2623/8649.m3u8
+#EXTINF:-1 group-title="Servidor 4", PLAYBOY TV
+http://portal.rakstar.biz:80/live/2623/2623/8650.m3u8
+#EXTINF:-1 group-title="Servidor 4", Portada
+http://portal.rakstar.biz:80/live/2623/2623/8651.m3u8
+#EXTINF:-1 group-title="Servidor 4", RAI NEWS24
+http://portal.rakstar.biz:80/live/2623/2623/8652.m3u8
+#EXTINF:-1 group-title="Servidor 4", REAL MADRID TV
+http://portal.rakstar.biz:80/live/2623/2623/8653.m3u8
+#EXTINF:-1 group-title="Servidor 4", RT
+http://portal.rakstar.biz:80/live/2623/2623/8654.m3u8
+#EXTINF:-1 group-title="Servidor 4", RT DOC
+http://portal.rakstar.biz:80/live/2623/2623/8655.m3u8
+#EXTINF:-1 group-title="Servidor 4", RT NEWS ENG
+http://portal.rakstar.biz:80/live/2623/2623/8656.m3u8
+#EXTINF:-1 group-title="Servidor 4", Series
+http://portal.rakstar.biz:80/live/2623/2623/8657.m3u8
+#EXTINF:-1 group-title="Servidor 4", SERIES HD
+http://portal.rakstar.biz:80/live/2623/2623/8658.m3u8
+#EXTINF:-1 group-title="Servidor 4", Series Xtra HD
+http://portal.rakstar.biz:80/live/2623/2623/8659.m3u8
+#EXTINF:-1 group-title="Servidor 4", Sky News
+http://portal.rakstar.biz:80/live/2623/2623/8660.m3u8
+#EXTINF:-1 group-title="Servidor 4", Sky News AR
+http://portal.rakstar.biz:80/live/2623/2623/8661.m3u8
+#EXTINF:-1 group-title="Servidor 4", SKY TG24
+http://portal.rakstar.biz:80/live/2623/2623/8662.m3u8
+#EXTINF:-1 group-title="Servidor 4", SUNDANCE
+http://portal.rakstar.biz:80/live/2623/2623/8663.m3u8
+#EXTINF:-1 group-title="Servidor 4", SYFY HD
+http://portal.rakstar.biz:80/live/2623/2623/8664.m3u8
+#EXTINF:-1 group-title="Servidor 4", TCM HD
+http://portal.rakstar.biz:80/live/2623/2623/8665.m3u8
+#EXTINF:-1 group-title="Servidor 4", TELECINCO HD
+http://portal.rakstar.biz:80/live/2623/2623/8666.m3u8
+#EXTINF:-1 group-title="Servidor 4", TELEDEPORTE
+http://portal.rakstar.biz:80/live/2623/2623/8667.m3u8
+#EXTINF:-1 group-title="Servidor 4", Telesur
+http://portal.rakstar.biz:80/live/2623/2623/8668.m3u8
+#EXTINF:-1 group-title="Servidor 4", TNT HD
+http://portal.rakstar.biz:80/live/2623/2623/8669.m3u8
+#EXTINF:-1 group-title="Servidor 4", TOROS HD
+http://portal.rakstar.biz:80/live/2623/2623/8670.m3u8
+#EXTINF:-1 group-title="Servidor 4", TRACE TV
+http://portal.rakstar.biz:80/live/2623/2623/8671.m3u8
+#EXTINF:-1 group-title="Servidor 4", TV5 EUROPE
+http://portal.rakstar.biz:80/live/2623/2623/8672.m3u8
+#EXTINF:-1 group-title="Servidor 4", VENUS XXX
+http://portal.rakstar.biz:80/live/2623/2623/8673.m3u8
+#EXTINF:-1 group-title="Servidor 4", VH1
+http://portal.rakstar.biz:80/live/2623/2623/8674.m3u8
+#EXTINF:-1 group-title="Servidor 4", VH1 CLASSIC
+http://portal.rakstar.biz:80/live/2623/2623/8675.m3u8
+#EXTINF:-1 group-title="Servidor 4", VIAJAR HD
+http://portal.rakstar.biz:80/live/2623/2623/8676.m3u8
+#EXTINF:-1 group-title="Servidor 4", XTRA HD
+http://portal.rakstar.biz:80/live/2623/2623/8677.m3u8
+
+#EXTINF:-1 group-title="Servidor 5",Taquilla 1
+http://aliptv.info:16000/live/baher/baher/914.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 2
+http://aliptv.info:16000/live/baher/baher/976.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 3
+http://aliptv.info:16000/live/baher/baher/977.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 4
+http://aliptv.info:16000/live/baher/baher/978.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 5
+http://aliptv.info:16000/live/baher/baher/979.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 6
+http://aliptv.info:16000/live/baher/baher/980.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 7
+http://aliptv.info:16000/live/baher/baher/981.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 8
+http://aliptv.info:16000/live/baher/baher/982.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 9
+http://aliptv.info:16000/live/baher/baher/983.m3u8
+#EXTINF:-1 group-title="Servidor 5",Taquilla 10
+http://aliptv.info:16000/live/baher/baher/984.m3u8
