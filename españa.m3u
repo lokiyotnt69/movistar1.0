@@ -282,6 +282,7 @@ http://89.29.203.196:9090/play/a036
 
 
 
+
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1 ,#0   ESPAÑA 3
@@ -1595,3 +1596,376 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8 #EXTIN
 #EXTINF:-1,bein sports la liga
 http://edge6.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
 
+
+#EXTINF:-1,CDO premium
+http://unlimited2-cl.dps.live/cdopremium/cdopremium.smil/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1,Carnaval Radio
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0036
+#EXTINF:-1,quinta vision
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0035
+#EXTINF:-1,UCV VALPARAISO
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0033
+#EXTINF:-1,RTC Iquique
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0024
+#EXTINF:-1,CHILEVISION
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0018
+#EXTINF:-1,REDTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0017
+#EXTINF:-1,Megavisión
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0016
+#EXTINF:-1,ENLACE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCL0011
+#EXTINF:-1,CNN CHILE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0009
+#EXTINF:-1,CAROLINA TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0003
+#EXTINF:-1,BOLIVIA TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVBO0002
+#EXTINF:-1,CANAL LUZ Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0228
+#EXTINF:-1,5RTV Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0226
+#EXTINF:-1,LINK TV Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0222
+#EXTINF:-1,C13 SAN LUIS Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0217
+#EXTINF:-1,CALLE ANGOSTA Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0214
+#EXTINF:-1,EXPRESS TV Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0208
+#EXTINF:-1,NUEVE Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0206
+#EXTINF:-1,C9 MULTIVISION
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0202
+#EXTINF:-1,C4 POSADAS Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0185
+#EXTINF:-1,ACEQUIA Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0178
+#EXTINF:-1,CPETV Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0169
+#EXTINF:-1,C4 JUJUY Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
+#EXTINF:-1,C2 SAN JUAN Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0165
+#EXTINF:-1,EL ONCE Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0162
+#EXTINF;-1,C9 LITORAL Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0161
+#EXTINF:-1,GENESIS Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
+#EXTINF:-1,MAX ITV Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0154
+#EXTINF:-1,5TV CORRIENTES Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0153
+#EXTINF:-1,TV MANÁ Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0134
+#EXTINF:-1,CELTA TV Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0119
+#EXTINF:-1,TORNQUIST Arg
+rtmp://190.103.192.6:1935/flvplayback/tvvivo
+#EXTINF:-1,PINAMAR TV Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
+#EXTINF:-1,TELPIN 2 Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
+#EXTINF:-1,DIEZ MAR DEL PLATA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0098
+#EXTINF:-1,C46 MAR DEL PLATA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0095
+#EXTINF:-1,C5 MAR DE AJÓ Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0092
+#EXTINF:-1,TELEJUNIN Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+#EXTINF-1,C5 BRAGADO Ar
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+#EXTINF:-1,C4 BAHIA BLANCA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0075
+#EXTINF:-1,VIDA NUEVA Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+#EXTINF:-1,C6 TRUIJI Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0070
+#EXTINF:-1,PROVINCIAL SN MIGUEL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+#EXTINF:-1,CANAL 41 Arg
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+#EXTINF:-1,AMERICA ARG
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
+#EXTINF:-1,CANAL DE LA CIUDAD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
+#EXTINF:-1,TRECE ARG
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
+#EXTINF:-1,PAKA PAKA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
+#EXTINF:-1,IPTVAR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:-1,TECTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
+#EXTINF:-1,RADIO CAROLINA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICL0003
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,UNIVISION
+http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,3 ABN LATINO
+http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
+#EXTINF:-1,SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?
+#EXTINF:-1, TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 tvg-logo="http://canal44.com/wp-content/uploads/2016/11/544-copy-1-300x99.png" group-title="TV", Canal-44                                                   
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://cdn0.talenteca.com/company-images/TK_COMPANY_LOGO-2016_03_30_06_18_17-59475954662229844398.png",MULTIMEDIOS MONTERREY
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1,TELEVICENTRO (HONDURAS)
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
+#EXTINF:-1,CANAL 13 (NICARAGUA)
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?hermoso.m3u8
+#EXTINF:-1,DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1,Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1,KCAL 9 LOS ANGELES - CA CALIFORNIA
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+#EXTINF:-1  tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3288.png" , The Weather Network
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1  tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/633.png" , Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF: -1,AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1, Azteca Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
+#EXTINF:-1 , Proyecto 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png", Efekto TV HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1, ForoTV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg", RT HD
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+#EXTINF:-1 tvg-logo="https://s29.postimg.org/py1ggg2ev/descarga.png" group-title="TV", Cable Noticias                                                  
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+#EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3622.png" , C-Span Book TV
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Teleuniverso
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
+#EXTINF:-1,TELESUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8#IptvPlay
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal-26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,One-TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1,Telecentro
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+ 
+  
+ 
+ 
+#EXTINF:-1,tvg-logo="https://s23.postimg.org/k47h6wp8b/espa_a_onshore_300x300.png",**CANALES ESPA�A**
+http://
+ 
+ 
+ 
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
+ 
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+ 
+#EXTINF:-1, Antena 3 Internacional
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,A3 SERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1, Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+ 
+#EXTINF:-1,La Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1,Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+ 
+ 
+#EXTINF:-1,PARAMOUNT CHANNEL ITALIA
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+ 
+#EXTINF:-1, 13TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+  
+ 
+ 
+#EXTINF:-1 tvg-logo="https://s2.postimg.org/dynchfp7t/usa.png", ** CANALES PREMIUM USA **
+ 
+  
+ 
+#EXTINF:-1,ABC NEWS 1 - NTV - Nationwide TV - DC Dis Columbia
+ 
+http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8
+ 
+ 
+#EXTINF:-1,FOX 23 NEWS
+ 
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+ 
+#EXTINF:-1,BLOOMBERG
+ 
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+ 
+ 
+#EXTINF:-1,KCAL 9 LOS ANGELES - CA CALIFORNIA
+ 
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+ 
+#EXTINF:-1,NASA HD Media - NTV - Nationwide TV - DC Dis Columbia
+ 
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8
+ 
+ 
+#EXTINF:-1,CAPITAL TV US
+ 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+ 
+#EXTINF:-1,RT DOCUMENTARY
+ 
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+ 
+#EXTINF:-1,M2OTV
+ 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,NEWSMAX TV
+ 
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,FRANCE 24
+ 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+ 
+#EXTINF:-1,PRESS TV
+ 
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+ 
+#EXTINF:0,MYSTERY SCIENCE THEATER
+ 
+http://goo.gl/B2UPYd
+ 
+#EXTINF:-1,CCTV
+ 
+http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+ 
+#EXTINF:-1,JUCE TV - NTV - Nationwide TV - DC Dis Columbia
+ 
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+ 
+ 
+#EXTINF:-1,C-SPAN 3
+ 
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,RT US
+ 
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
+ 
+ 
+#EXTINF:-1,TV ONE
+ 
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+ 
+#EXTINF:-1,RT INTERNATIONAL
+ 
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+ 
+ 
+#EXTINF:-1,TWIT LIVE
+ 
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1,MILK TV
+ 
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+ 
+#EXTINF:-1,BETO TV
+ 
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+ 
+#EXTINF:-1,DEAL WORLD
+ 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+ 
+#EXTINF:-1,CBS NEWS
+ 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1,CBSN
+ 
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+ 
+#EXTINF:-1,BBC WORLD
+ 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+ 
+#EXTINF:0,AMAZING FACTS TV
+ 
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+ 
+#EXTINF:-1,VIRGIN TV
+ 
+http://wow01.105.net/live/virgin1/playlist.m3u8
+ 
+
+ 
+ 
+#EXTINF:-1,tvg-logo="https://s28.postimg.org/y5b8f65f1/MUSICA.jpg",**CANALES DE MUSICA**
+http://
+ 
+ 
+#EXTINF:-1,Mi Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 type="stream" tvg-group="M�SICA - MUSIC" , Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://static.rbcasting.com/RMC-Radio-Monte-Carlo-Rosso-Logo-2015.jpg" , Radio Monte Carlo
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1, Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://cartype.com/pics/1647/full/opel_kadett_city_logo.jpg" , CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1, Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1, Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1, Eska Rock
+http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
+#EXTINF:-1,City Radio TV
+ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1,Eska GO
+http://stream.smcloud.net/live/eska_party/playlist.m3u8
+#EXTINF:-1,Eska Rock TV
+http://s4w.deb1.scdn.smcloud.net/tv/eska_rock/eska_rock_360p/playlist.m3u8
+#EXTINF:-1,Eska Vox TV Old Cool
+http://stream.smcloud.net/live/vox/playlist.m3u8
