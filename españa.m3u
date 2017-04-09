@@ -10,7 +10,107 @@
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-
+#EXTINF:-1, AnimeTv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1, Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1, ForoTv
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1, Las Estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/index_259_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1, All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1, Directv Sports
+http://cdn3.elitegol.xyz/verliga/10/index.m3u8
+#EXTINF:-1, Fox Sports Argentina
+http://exabytetv.zapto.org/exabytetv-esgratis/broadcast/CCYMW-1011000110111101010110010101000-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+#EXTINF:-1, Fox Sports Brasil
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1, Fox Sports 2 Brasil
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+#EXTINF:-1, Miami Tv
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1, Movistar Futbol
+http://edge5.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+#EXTINF:-1, Multimedios
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1, RCN
+http://cdn3.elitegol.xyz/verliga/14/index.m3u8
+#EXTINF:-1, Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1, Univision
+http://iphone-streaming.ustream.tv/uhls/22688244/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, TDN
+http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_524_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="3228" , tbs
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/60/stream.m3u8
+#EXTINF:0 type="stream" , la zona de cine
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/13/stream.m3u8
+#EXTINF:0 type="stream" , yo. SAT
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
+#EXTINF:0 type="stream" channelId="895" , TCM
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
+#EXTINF:0 type="stream" , estudio universal
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
+#EXTINF:0 type="stream" channelId="2501" , AMC
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/55/stream.m3u8
+#EXTINF:0 type="stream" channelId="2501" , AMC
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
+EXTINF:0 type="stream" channelId="298" , SONY
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0 type="stream" , espacio http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
+#EXTINF:0 type="stream" channelId="73" , Syfy
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
+#EXTINF:0 type="stream" channelId="1573" , AXN
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
+#EXTINF:0 type="stream" channelId="1052" , TNT
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
+#EXTINF:0 type="stream" , estudio universal
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
+#EXTINF:0 type="stream" , canal universal http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
+#EXTINF:0 type="stream" , canal universal ttp://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/33/stream.m3u8
+#EXTINF:0 type="stream" channelId="2557" , WARNER TV
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
+#EXTINF:0 type="stream" channelId="1326" , CINEMAX
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0 type="stream" channelId="1303" , FX
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
+#EXTINF:0 type="stream" channelId="177" , FOX
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/8/stream.m3u8
+#EXTINF:0 type="strem" channelId="177" , FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
+#EXTINF:0 type="stream" channelId="177" , Fox
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/89/stream.m3u8
+#EXTINF:0 type="stream" channelId="2481" , FOX ACTION
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/88/stream.m3u8
+#EXTINF:0 type="stream" , FOX CINEMA http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/53/stream.m3u8
+#EXTINF:0 type="stream" , los clásicos de fox
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/52/stream.m3u8
+#EXTINF:0 type="stream" , fox películas http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/46/stream.m3u8
+#EXTINF:0 type="stream" channelId="178" , fox life
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/44/stream.m3u8
+#EXTINF:0 type="stream" , borde dorado
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/37/stream.m3u8
+#EXTINF:0 type="stream" channelId="298" , Sony
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0 type="stream" channelId="177" , FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8 #EXTINF:0,Espn
+#EXTGRP:unsorted
+https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/95/stream.m3u8 EXTINF:0,ANIME TV
+#EXTGRP:unsorted
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 #EXTINF:0,Espn +
+#EXTGRP:unsorted
+https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/103/stream.m3u8 #EXTINF:0,AMERICA
+#EXGRP:unsorted http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
+#EXTINF:0,Espn 3
+#EXTGRP:unsorted
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/36/stream.m3u8
 
 
 
