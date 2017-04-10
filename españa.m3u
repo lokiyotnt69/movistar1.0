@@ -8,353 +8,109 @@
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------NUEVA LISTA------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1, AnimeTv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1, Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1, ForoTv
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1, Las Estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/index_259_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1, All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1, Directv Sports
+http://cdn3.elitegol.xyz/verliga/10/index.m3u8
+#EXTINF:-1, Fox Sports Argentina
+http://exabytetv.zapto.org/exabytetv-esgratis/broadcast/CCYMW-1011000110111101010110010101000-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+#EXTINF:-1, Fox Sports Brasil
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1, Fox Sports 2 Brasil
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+#EXTINF:-1, Miami Tv
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1, Movistar Futbol
+http://edge5.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+#EXTINF:-1, Multimedios
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1, RCN
+http://cdn3.elitegol.xyz/verliga/14/index.m3u8
+#EXTINF:-1, Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1, Univision
+http://iphone-streaming.ustream.tv/uhls/22688244/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, TDN
+http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_524_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="3228" , tbs
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/60/stream.m3u8
+#EXTINF:0 type="stream" , la zona de cine
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/13/stream.m3u8
+#EXTINF:0 type="stream" , yo. SAT
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
+#EXTINF:0 type="stream" channelId="895" , TCM
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
+#EXTINF:0 type="stream" , estudio universal
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
+#EXTINF:0 type="stream" channelId="2501" , AMC
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/55/stream.m3u8
+#EXTINF:0 type="stream" channelId="2501" , AMC
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
+#EXTINF:0 type="stream" channelId="298" , SONY
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0 type="stream" , espacio http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
+#EXTINF:0 type="stream" channelId="73" , Syfy
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
+#EXTINF:0 type="stream" channelId="1573" , AXN
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
+#EXTINF:0 type="stream" channelId="1052" , TNT
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
+#EXTINF:0 type="stream" , estudio universal
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
+#EXTINF:0 type="stream" , canal universal http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
+#EXTINF:0 type="stream" , canal universal ttp://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/33/stream.m3u8
+#EXTINF:0 type="stream" channelId="2557" , WARNER TV
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
+#EXTINF:0 type="stream" channelId="1326" , CINEMAX
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0 type="stream" channelId="1303" , FX
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
+#EXTINF:0 type="stream" channelId="177" , FOX
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/8/stream.m3u8
+#EXTINF:0 type="strem" channelId="177" , FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
+#EXTINF:0 type="stream" channelId="177" , Fox
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/89/stream.m3u8
+#EXTINF:0 type="stream" channelId="2481" , FOX ACTION
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/88/stream.m3u8
+#EXTINF:0 type="stream" , FOX CINEMA http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/53/stream.m3u8
+#EXTINF:0 type="stream" , los clásicos de fox
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/52/stream.m3u8
+#EXTINF:0 type="stream" , fox películas http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/46/stream.m3u8
+#EXTINF:0 type="stream" channelId="178" , fox life
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/44/stream.m3u8 
+#EXTINF:0 type="stream" , borde dorado
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/37/stream.m3u8
+#EXTINF:0 type="stream" channelId="298" , Sony
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
+#EXTINF:0 type="stream" channelId="177" , FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8 #EXTINF:0,Espn
+#EXTGRP:unsorted
+https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/95/stream.m3u8 EXTINF:0,ANIME TV
+#EXTGRP:unsorted
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 #EXTINF:0,Espn +
+#EXTGRP:unsorted
+https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/103/stream.m3u8 #EXTINF:0,AMERICA
+#EXGRP:unsorted http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
+#EXTINF:0,Espn 3
+#EXTGRP:unsorted
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/36/stream.m3u8
 
 
-
-#EXTINF:-1,Sky Sport 1
-http://178.196.220.26:9981/play/a00c
-#EXTINF:-1,Sky Sports 1 SD
-http://88.148.69.129:9090/play/a02h
-#EXTINF:-1,Sky Sport 2
-http://178.196.220.26:9981/play/a02a
-#EXTINF:-1,Sky Sport 2 HD
-http://178.196.220.26:9981/play/a017
-#EXTINF:-1,Eurosport 1 HD
-http://178.196.220.26:9981/play/a00z
-#EXTINF:-1,Eurosport 1 ESP HD
-http://89.29.203.196:9090/play/a04z
-#EXTINF:-1,Eurosport 2 ESP SD
-http://89.29.203.196:9090/play/a052
-#EXTINF:-1,Eurosport 1 Deutsch
-http://89.29.203.196:9090/play/a03i
-#EXTINF:-1,Sport 1
-http://89.29.203.196:9090/play/a008
-#EXTINF:-1,RaiSports 2 (IT)
-http://89.29.203.196:9090/play/a04g
-#EXTINF:-1,RaiSports 1 (IT)
-http://89.29.203.196:9090/play/a04f
-#EXTINF:-1,Esport3
-http://89.29.203.196:9090/play/a016
-#EXTINF:-1,BarcaTV
-http://89.29.203.196:9090/play/a00c
- 
-#EXTM3U
-#EXTINF:-1,Arena sport 2
-http://109.175.6.67:4936/udp/239.0.1.2:1234
-#EXTINF:-1,Arena sport 3
-http://109.175.6.67:4936/udp/239.0.1.3:1234
-#EXTINF:-1,Arena sport 4
-http://109.175.6.67:4936/udp/239.0.1.4:1234
- 
-#EXTINF:-1,BT Sport 2
-http://5.255.90.223:2082/play/a01u
-#EXTINF:-1,BT Sport 2
-http://5.255.90.223:2082/play/a01t
-#EXTINF:-1,BT Sport Extra 2
-http://5.255.90.223:2082/play/a01m
-#EXTINF:-1,BT Sport Extra 3
-http://5.255.90.223:2082/play/a01n
-#EXTINF:-1,BT Sport Extra 4
-http://5.255.90.223:2082/play/a01o
-#EXTINF:-1,BT Sport Extra 5
-http://5.255.90.223:2082/play/a01p
-#EXTINF:-1,BT Sport Extra 6
-http://5.255.90.223:2082/play/a01q
-#EXTINF:-1,BT Sport//ESPN
-http://5.255.90.223:2082/play/a01v
-#EXTINF:-1,BT Sport//ESPN
-http://5.255.90.223:2082/play/a01w
-#EXTINF:-1, Sports Active 1
-http://5.255.90.223:2052/play/active1
-#EXTINF:-1, Sports Active 2
-http://5.255.90.223:2052/play/active2
-#EXTINF:-1, Sports Active 3
-http://5.255.90.223:2052/play/active3
-#EXTINF:-1, Sports Active 4
-http://5.255.90.223:2052/play/active4
-#EXTINF:-1, Sports Active 5
-http://5.255.90.223:2052/play/active5
-#EXTINF:-1, Sports Active 6
-http://5.255.90.223:2052/play/active6
-#EXTINF:-1, Sports Active 7
-http://5.255.90.223:2052/play/active7
-#EXTINF:-1, Sports Active 8
-http://5.255.90.223:2052/play/active8
-#EXTINF:-1, Sports Active 9
-http://5.255.90.223:2052/play/active9
- 
-#EXTINF:-1,DIGI SPORT 1
-http://89.38.8.130:39440
-#EXTINF:-1,DIGI SPORT 2
-http://89.38.8.131:39559
-#EXTINF:-1,DOLCE SPORT 1
-http://89.38.8.130:39441
-#EXTINF:-1,DOLCE SPORT 1
-http://89.38.8.131:39540
-#EXTINF:-1,DOLCE SPORT 1
-http://89.38.8.130:39422
-#EXTINF:-1,DOLCE SPORT 2
-http://89.38.8.130:39446
-#EXTINF:-1,DOLCE SPORT 2
-http://89.38.8.130:39442
-#EXTINF:-1,EUROSPORT 1
-http://89.38.8.131:39542
-#EXTINF:-1,EUROSPORT 1 HD
-http://89.38.8.130:39425
-#EXTINF:-1,EUROSPORT 2
-http://89.38.8.130:39426
-#EXTINF:-1,EUROSPORT 2 HD
-http://89.38.8.131:39543
-#EXTINF:-1,SPORT RO
-http://89.38.8.130:39430
-#EXTINF:-1,SPORT RO HD
-http://89.38.8.131:39533
- 
-#EXTM3U
-#EXTINF:-1 UK:BT SPORT 1
-http://31.204.155.156:8080/edge/10560/tracks-v1a1/index.m3u8?token=17.18.1371.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.03fb24bcf98a302242d7b20edea5a374
-#EXTINF:-1 UK:BT SPORT 2
-http://31.204.155.156:8080/edge/8584/tracks-v1a1/index.m3u8?token=17.18.1384.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.69b4ca0e63e4c7f53c6187681cd0d997
-#EXTINF:-1 UK:BT SPORT 3
-http://31.204.150.12:8080/edge/10788/tracks-v1a1/index.m3u8?token=17.18.1385.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.c4332d57145ac75649b1fe7b4730e48d
- 
-#EXTINF:-1,Eurosport 1 HD DK
-http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
-#EXTINF:-1,Eurosport 2 HD DK
-http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
- 
-#EXTINF:-1,BT Mosaic
-http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 1
-http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 2
-http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 3
-http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
-#EXTINF:-1,BT Sports Extra 4
-http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
- 
-#EXTM3U
-#EXTINF:0 , SuperSport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:0 , SuperSport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0 , SuperSport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,BeinSport_8_HD
-http://2.109.65.179/hdmi
-#EXTINF:-1,BeinSport_9_HD
-http://2.109.65.180/hdmi
-#EXTINF:-1,BeinSport_4_HD
-http://2.109.65.181/hdmi
- 
-#EXTM3U
-#EXTINF:-1,ADSport 1HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,ADSport 2HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,ADSports 3HD
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:-1,ADSports 4HD
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
-#EXTINF:-1,ADSports 5HD
-http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
- 
-#EXTM3U
-#EXTINF:-1,Tile Sports 1
-http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
-#EXTINF:-1,Tile Sports 2
-http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
-
-
-
-
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------NUEVA LISTA------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1, JHG
-http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
-19:45       Dortmund – Monaco             GERMAN. 600Kbps. Sky Sport 2/HD
-http://starshd.me/germana-1.html
- 
-#EXTINF:-1, JHG.MASTER
-http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
-19:45       Dortmund – Monaco             GERMAN. 600Kbps. Sky Sport 2/HD
-http://starshd.me/germana-2.html
- 
- 
-http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
-19:45       Dortmund – Monaco             FRENCH. 600Kbps. beIN Sports 1
-http://starshd.me/frances-3.html
- 
- 
-http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
-19:45       Dortmund – Monaco             ENGLISH. 600Kbps. BT Sport 3, Fox Sports 2 USA
-http://starshd.me/english-4.html
- 
- 
-http://livetv.sx/enx/eventinfo/513739_juventus_barcelona/
-19:45       Juventus – Barcelona      ITALIAN. 600Kbps. Canale 5, RSI La 2, PremiumSport HD
-http://starshd.me/italy-5.html
- 
- 
-http://livetv.sx/enx/eventinfo/513739_juventus_barcelona/
-19:45       Juventus – Barcelona      
-http://starshd.me/spain-6.html
- 
- 
-http://livetv.sx/enx/eventinfo/513739_juventus_barcelona/
-19:45       Juventus – Barcelona     
-http://starshd.me/english-7.html
- 
-END
- 
- 
-Schedule 12-04-2017
- 
- 
-http://livetv.sx/enx/eventinfo/513740_atletico_madrid_leicester_city/
-19:45       Atletico Madrid – Leicester City      SPAINISH. 600Kbps. beIN Sports MAX 1
-http://starshd.me/spain-1.html
- 
- 
-http://livetv.sx/enx/eventinfo/513740_atletico_madrid_leicester_city/
-19:45       Atletico Madrid – Leicester City      ENGLISH. 600Kbps. BT Sport 2, Eir Sport 1
-http://starshd.me/english-2.html
- 
- 
- 
-http://livetv.sx/enx/eventinfo/513740_atletico_madrid_leicester_city/
-19:45       Atletico Madrid – Leicester City      ENGLISH. 600Kbps. Fox Sports 2 USA, Ziggo Sport Select
-http://starshd.me/english-3.html
- 
- 
-http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
-19:45       Bayern – Real Madrid      GERMAN. 600Kbps. Sky Sport 2/HD
-http://starshd.me/germana-4.html
- 
- 
-http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
-19:45       Bayern – Real Madrid      GERMAN. 600Kbps. ORF 1, SRF zwei
-http://starshd.me/germana-5.html
- 
- 
-http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
-19:45       Bayern – Real Madrid      ENGLISH. 600Kbps. BT Sport 3, Fox Sports 1 USA
-http://starshd.me/english-6.html
- 
- 
-http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
-19:45       Bayern – Real Madrid      SPAINISH. 600Kbps. beIN Sports Spain
-http://starshd.me/spains-7.html
- 
-#EXTINF:-1,==== ESP =====
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13132.m3u8
-#EXTINF:-1,SP: #0
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13416.m3u8
-#EXTINF:-1,SP: AMC
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13440.m3u8
-#EXTINF:-1,SP: ANTENA 3
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13439.m3u8
-#EXTINF:-1,SP: AXN HD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13438.m3u8
-#EXTINF:-1,SP: AXN WHITE HD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13437.m3u8
-#EXTINF:-1,SP: BARCA TV
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13436.m3u8
-#EXTINF:-1,SP: BEIN SPORTS ESPANGA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13457.m3u8
-#EXTINF:-1,SP: CALLE 13
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13434.m3u8
-#EXTINF:-1,SP: CANAL COCINA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13433.m3u8
-#EXTINF:-1,SP: CAZA Y PESCA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13447.m3u8
-#EXTINF:-1,SP: CLAN TVE
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13432.m3u8
-#EXTINF:-1,SP: CUATRO
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13431.m3u8
-#EXTINF:-1,SP: DISNEY CHANNEL
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13430.m3u8
-#EXTINF:-1,SP: DISNEY XD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13429.m3u8
-#EXTINF:-1,SP: DIVINITY
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13428.m3u8
-#EXTINF:-1,SP: FOX HD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13427.m3u8
-#EXTINF:-1,SP: FOX LIFE HD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13426.m3u8
-#EXTINF:-1,SP: HISTORIA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13425.m3u8
-#EXTINF:-1,SP: HOLLYWOOD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13424.m3u8
-#EXTINF:-1,SP: LA SEXTA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13423.m3u8
-#EXTINF:-1,SP: MOVISTAR  ACCION
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13419.m3u8
-#EXTINF:-1,SP: MOVISTAR  COMEDIA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13441.m3u8
-#EXTINF:-1,SP: MOVISTAR  DCINE
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13442.m3u8
-#EXTINF:-1,SP: MOVISTAR  DEPORTES
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13443.m3u8
-#EXTINF:-1,SP: MOVISTAR  ESTRENOS
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13444.m3u8
-#EXTINF:-1,SP: MOVISTAR  F1
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13421.m3u8
-#EXTINF:-1,SP: MOVISTAR  FUTBOL
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13455.m3u8
-#EXTINF:-1,SP: MOVISTAR  GOLF
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13445.m3u8
-#EXTINF:-1,SP: MOVISTAR  GP
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13422.m3u8
-#EXTINF:-1,SP: MOVISTAR  LALIGA TV
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13456.m3u8
-#EXTINF:-1,SP: MOVISTAR  SERIES
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13446.m3u8
-#EXTINF:-1,SP: MOVISTAR  SERIESXTRA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13435.m3u8
-#EXTINF:-1,SP: MOVISTAR  XTRA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13420.m3u8
-#EXTINF:-1,SP: NATGEO WILD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13418.m3u8
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13417.m3u8
-#EXTINF:-1,SP: NOVA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13414.m3u8
-#EXTINF:-1,SP: REAL MADRID TV
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13413.m3u8
-#EXTINF:-1,SP: SYFY HD
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13412.m3u8
-#EXTINF:-1,SP: Taquilla 1
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13454.m3u8
-#EXTINF:-1,SP: Taquilla 2
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13453.m3u8
-#EXTINF:-1,SP: Taquilla 3
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13452.m3u8
-#EXTINF:-1,SP: Taquilla 4
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13451.m3u8
-#EXTINF:-1,SP: Taquilla 5
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13450.m3u8
-#EXTINF:-1,SP: Taquilla 6
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13449.m3u8
-#EXTINF:-1,SP: Taquilla 7
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13448.m3u8
-#EXTINF:-1,SP: TCM
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13411.m3u8
-#EXTINF:-1,SP: TELECINCO
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13458.m3u8
-#EXTINF:-1,SP: TV GALICIA
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13415.m3u8
-#EXTINF:-1,SP: TVE LA1
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13410.m3u8
-#EXTINF:-1,SP: TVE LA2
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13409.m3u8
-#EXTINF:-1,SP: VIAJAR
-http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13408.m3u8
-RAW Paste Data
 
 
 
