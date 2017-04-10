@@ -1,11 +1,84 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]---------------------------NUEVA LISTA------------------------------------[/B][/I][/COLOR]
 
 
-
-
+#EXTINF:-1, JHG
+http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
+19:45       Dortmund – Monaco             GERMAN. 600Kbps. Sky Sport 2/HD
+http://starshd.me/germana-1.html
+ 
+#EXTINF:-1, JHG.MASTER
+http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
+19:45       Dortmund – Monaco             GERMAN. 600Kbps. Sky Sport 2/HD
+http://starshd.me/germana-2.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
+19:45       Dortmund – Monaco             FRENCH. 600Kbps. beIN Sports 1
+http://starshd.me/frances-3.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513738_dortmund_monaco/
+19:45       Dortmund – Monaco             ENGLISH. 600Kbps. BT Sport 3, Fox Sports 2 USA
+http://starshd.me/english-4.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513739_juventus_barcelona/
+19:45       Juventus – Barcelona      ITALIAN. 600Kbps. Canale 5, RSI La 2, PremiumSport HD
+http://starshd.me/italy-5.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513739_juventus_barcelona/
+19:45       Juventus – Barcelona      
+http://starshd.me/spain-6.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513739_juventus_barcelona/
+19:45       Juventus – Barcelona     
+http://starshd.me/english-7.html
+ 
+END
+ 
+ 
+Schedule 12-04-2017
+ 
+ 
+http://livetv.sx/enx/eventinfo/513740_atletico_madrid_leicester_city/
+19:45       Atletico Madrid – Leicester City      SPAINISH. 600Kbps. beIN Sports MAX 1
+http://starshd.me/spain-1.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513740_atletico_madrid_leicester_city/
+19:45       Atletico Madrid – Leicester City      ENGLISH. 600Kbps. BT Sport 2, Eir Sport 1
+http://starshd.me/english-2.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513740_atletico_madrid_leicester_city/
+19:45       Atletico Madrid – Leicester City      ENGLISH. 600Kbps. Fox Sports 2 USA, Ziggo Sport Select
+http://starshd.me/english-3.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
+19:45       Bayern – Real Madrid      GERMAN. 600Kbps. Sky Sport 2/HD
+http://starshd.me/germana-4.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
+19:45       Bayern – Real Madrid      GERMAN. 600Kbps. ORF 1, SRF zwei
+http://starshd.me/germana-5.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
+19:45       Bayern – Real Madrid      ENGLISH. 600Kbps. BT Sport 3, Fox Sports 1 USA
+http://starshd.me/english-6.html
+ 
+ 
+http://livetv.sx/enx/eventinfo/513741_bayern_real_madrid/
+19:45       Bayern – Real Madrid      SPAINISH. 600Kbps. beIN Sports Spain
+http://starshd.me/spains-7.html
+ 
 #EXTINF:-1,==== ESP =====
 http://163.172.107.21:8080/live/AC3Cx7us6l/Rlh3XCvtTT/13132.m3u8
 #EXTINF:-1,SP: #0
