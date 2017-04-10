@@ -1,6 +1,175 @@
 #EXTM3U
 
 
+
+
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------NUEVA LISTA------------------------------------[/B][/I][/COLOR]
+
+
+
+
+#EXTINF:-1,Sky Sport 1
+http://178.196.220.26:9981/play/a00c
+#EXTINF:-1,Sky Sports 1 SD
+http://88.148.69.129:9090/play/a02h
+#EXTINF:-1,Sky Sport 2
+http://178.196.220.26:9981/play/a02a
+#EXTINF:-1,Sky Sport 2 HD
+http://178.196.220.26:9981/play/a017
+#EXTINF:-1,Eurosport 1 HD
+http://178.196.220.26:9981/play/a00z
+#EXTINF:-1,Eurosport 1 ESP HD
+http://89.29.203.196:9090/play/a04z
+#EXTINF:-1,Eurosport 2 ESP SD
+http://89.29.203.196:9090/play/a052
+#EXTINF:-1,Eurosport 1 Deutsch
+http://89.29.203.196:9090/play/a03i
+#EXTINF:-1,Sport 1
+http://89.29.203.196:9090/play/a008
+#EXTINF:-1,RaiSports 2 (IT)
+http://89.29.203.196:9090/play/a04g
+#EXTINF:-1,RaiSports 1 (IT)
+http://89.29.203.196:9090/play/a04f
+#EXTINF:-1,Esport3
+http://89.29.203.196:9090/play/a016
+#EXTINF:-1,BarcaTV
+http://89.29.203.196:9090/play/a00c
+ 
+#EXTM3U
+#EXTINF:-1,Arena sport 2
+http://109.175.6.67:4936/udp/239.0.1.2:1234
+#EXTINF:-1,Arena sport 3
+http://109.175.6.67:4936/udp/239.0.1.3:1234
+#EXTINF:-1,Arena sport 4
+http://109.175.6.67:4936/udp/239.0.1.4:1234
+ 
+#EXTINF:-1,BT Sport 2
+http://5.255.90.223:2082/play/a01u
+#EXTINF:-1,BT Sport 2
+http://5.255.90.223:2082/play/a01t
+#EXTINF:-1,BT Sport Extra 2
+http://5.255.90.223:2082/play/a01m
+#EXTINF:-1,BT Sport Extra 3
+http://5.255.90.223:2082/play/a01n
+#EXTINF:-1,BT Sport Extra 4
+http://5.255.90.223:2082/play/a01o
+#EXTINF:-1,BT Sport Extra 5
+http://5.255.90.223:2082/play/a01p
+#EXTINF:-1,BT Sport Extra 6
+http://5.255.90.223:2082/play/a01q
+#EXTINF:-1,BT Sport//ESPN
+http://5.255.90.223:2082/play/a01v
+#EXTINF:-1,BT Sport//ESPN
+http://5.255.90.223:2082/play/a01w
+#EXTINF:-1, Sports Active 1
+http://5.255.90.223:2052/play/active1
+#EXTINF:-1, Sports Active 2
+http://5.255.90.223:2052/play/active2
+#EXTINF:-1, Sports Active 3
+http://5.255.90.223:2052/play/active3
+#EXTINF:-1, Sports Active 4
+http://5.255.90.223:2052/play/active4
+#EXTINF:-1, Sports Active 5
+http://5.255.90.223:2052/play/active5
+#EXTINF:-1, Sports Active 6
+http://5.255.90.223:2052/play/active6
+#EXTINF:-1, Sports Active 7
+http://5.255.90.223:2052/play/active7
+#EXTINF:-1, Sports Active 8
+http://5.255.90.223:2052/play/active8
+#EXTINF:-1, Sports Active 9
+http://5.255.90.223:2052/play/active9
+ 
+#EXTINF:-1,DIGI SPORT 1
+http://89.38.8.130:39440
+#EXTINF:-1,DIGI SPORT 2
+http://89.38.8.131:39559
+#EXTINF:-1,DOLCE SPORT 1
+http://89.38.8.130:39441
+#EXTINF:-1,DOLCE SPORT 1
+http://89.38.8.131:39540
+#EXTINF:-1,DOLCE SPORT 1
+http://89.38.8.130:39422
+#EXTINF:-1,DOLCE SPORT 2
+http://89.38.8.130:39446
+#EXTINF:-1,DOLCE SPORT 2
+http://89.38.8.130:39442
+#EXTINF:-1,EUROSPORT 1
+http://89.38.8.131:39542
+#EXTINF:-1,EUROSPORT 1 HD
+http://89.38.8.130:39425
+#EXTINF:-1,EUROSPORT 2
+http://89.38.8.130:39426
+#EXTINF:-1,EUROSPORT 2 HD
+http://89.38.8.131:39543
+#EXTINF:-1,SPORT RO
+http://89.38.8.130:39430
+#EXTINF:-1,SPORT RO HD
+http://89.38.8.131:39533
+ 
+#EXTM3U
+#EXTINF:-1 UK:BT SPORT 1
+http://31.204.155.156:8080/edge/10560/tracks-v1a1/index.m3u8?token=17.18.1371.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.03fb24bcf98a302242d7b20edea5a374
+#EXTINF:-1 UK:BT SPORT 2
+http://31.204.155.156:8080/edge/8584/tracks-v1a1/index.m3u8?token=17.18.1384.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.631.0.0.69b4ca0e63e4c7f53c6187681cd0d997
+#EXTINF:-1 UK:BT SPORT 3
+http://31.204.150.12:8080/edge/10788/tracks-v1a1/index.m3u8?token=17.18.1385.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.c4332d57145ac75649b1fe7b4730e48d
+ 
+#EXTINF:-1,Eurosport 1 HD DK
+http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
+#EXTINF:-1,Eurosport 2 HD DK
+http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
+ 
+#EXTINF:-1,BT Mosaic
+http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 1
+http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 2
+http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 3
+http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 4
+http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
+ 
+#EXTM3U
+#EXTINF:0 , SuperSport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:0 , SuperSport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:0 , SuperSport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,BeinSport_8_HD
+http://2.109.65.179/hdmi
+#EXTINF:-1,BeinSport_9_HD
+http://2.109.65.180/hdmi
+#EXTINF:-1,BeinSport_4_HD
+http://2.109.65.181/hdmi
+ 
+#EXTM3U
+#EXTINF:-1,ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+ 
+#EXTM3U
+#EXTINF:-1,Tile Sports 1
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+#EXTINF:-1,Tile Sports 2
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+
+
+
+
+
 #EXTINF:-1,[COLOR red][I][B]---------------------------NUEVA LISTA------------------------------------[/B][/I][/COLOR]
 
 
