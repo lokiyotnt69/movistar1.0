@@ -6,20 +6,33 @@
 
 
 
-#EXTINF:-1, Plus Comedia
-http://cinestrenostv.tv/canales/nacionales/plus-comedia.php
+
+
+
+#EXTINF:-1, Plus Plus Motogp
+http://cinestrenostv.tv/canales/deportes/motogp.php
+
+#EXTINF:-1, Plus Motogp
+http://cinestrenostv.tv/canales/envivo/motogp.html
+#EXTINF:-1, Plus F1
+http://cinestrenostv.tv/canales/envivo/formula1.html
+
+#EXTINF:-1, Plus Accion
+http://cdn2.elitegol.xyz/verdirectotv/4/index.m3u8
+#EXTINF:-1, Plus DCINE
+http://cdn3.elitegol.xyz/verliga/7/index.m3u8
 #EXTINF:-1, Plus Comedia
 http://cdn5.elitegol.xyz/verliga/4/index.m3u8
-#EXTINF:-1, Series online
-http://cinestrenostv.tv/canales/nacionales/plus-series.php
+#EXTINF:-1, 
+
 #EXTINF:-1, Series online
 http://cdn2.elitegol.xyz/verdirectotv/4/index.m3u8
 #EXTINF:-1,La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, la liga De JHG
-http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html
+
 #EXTINF:-1,la liga De JHG
-http://cinestrenostv.tv/canales/envivo/plusliga.html
+
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------NUEVA LISTA------------------------------------[/B][/I][/COLOR]
 
