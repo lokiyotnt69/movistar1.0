@@ -9,6 +9,7 @@
 
 
 
+
 #EXTINF:-1, Andalucia 
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:-1,
@@ -30,18 +31,6 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
 #EXTINF:-1,
 http://cls2.todostreaming.eu/unatv/live/playlist.m3u8
 
-#EXTINF:-1, Clan
-http://edge14.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8
-
-#EXTINF:-1,plu1
-http://latelete.tv/canal-plus-series-xtra-online-en-directo
-
-#EXTINF:-1, Plus 2Plus 2
-http://cinestrenostv.tv/canales/nacionales/plus-series-xtra.php
-
-#EXTINF:-1, Plus 3
-http://www.livesports.pw/embed.php?file=seriesxtra&height=397&width=650
-#EXTINF:-1, Plus 4
 
 
 #EXTINF:-1, Plus Accion
