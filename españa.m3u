@@ -9,353 +9,80 @@
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------NUEVA LISTA------------------------------------[/B][/I][/COLOR]
+#EXTINF:0 group-title="Z omitir",== ESTABLES ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:-1,Canal 5 HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/3/stream.m3u8
-#EXTINF:-1,Azteca 7 HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/2/stream.m3u8
-#EXTINF:-1,Fox Sports HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/4/stream.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/5/stream.m3u8
-#EXTINF:-1,History HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/6/stream.m3u8
-#EXTINF:-1,Warner HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
-#EXTINF:-1,AMC HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
-#EXTINF:-1,FX
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
-#EXTINF:-1,Universal HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
-#EXTINF:-1,Cinemax
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/11/stream.m3u8
-#EXTINF:-1,Cinecanal
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
-#EXTINF:-1,Golden HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/14/stream.m3u8
-#EXTINF:-1,The Film Zone HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/13/stream.m3u8
-#EXTINF:-1,Space HD
-https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
-#EXTINF:-1, H 
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/68/stream.m3u8
-#EXTINF:-1,Gala TV HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/72/stream.m3u8
-#EXTINF:-1,El Gourmet
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/71/stream.m3u8
-#EXTINF:-1,TruTV HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/73/stream.m3u8
-#EXTINF:-1,AXN HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
-#EXTINF:-1,Formula 1
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/106/stream.m3u8
-#EXTINF:-1,Distrito Comedia
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/168/stream.m3u8
-#EXTINF:-1,TNT
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/15/stream.m3u8
-#EXTINF:-1,Nickelodeon
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/80/stream.m3u8
-#EXTINF:-1,NatGeo Wild
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/82/stream.m3u8
-#EXTINF:-1,De Pelicula HD
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/85/stream.m3u8
-#EXTINF:-1,Discovery World HD
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/87/stream.m3u8
-#EXTINF:-1,Fox Action HD
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/88/stream.m3u8
-#EXTINF:-1,FOX SERIES HD
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/89/stream.m3u8
-#EXTINF:-1,Az Corazon
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/90/stream.m3u8
-#EXTINF:-1,VH1 CLASSIC
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/92/stream.m3u8
-#EXTINF:-1,VH1 HD
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/91/stream.m3u8
-#EXTINF:-1,MTV HITS
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/93/stream.m3u8
-#EXTINF:-1,MTV Live HD
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/94/stream.m3u8
-#EXTINF:-1,ESPN
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/95/stream.m3u8
-#EXTINF:-1,Fox
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TELEFORMULA
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/99/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Telehit HD
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/100/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",ESPN
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/103/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",GARAGE TV
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/104/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Foro TV
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/101/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TLC
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/105/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",WOBI
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/107/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",ADN 40
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/109/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",HOLA TV
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/110/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",MILENIO TV
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/111/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Fashion TV
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/112/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Az Mundo
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/113/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Az Cinema
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/114/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Az Clic
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/116/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Tlnovelas
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/9/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Fox
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/8/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Las estrellas
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/7/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Sony
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",MTV
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/10/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TNT
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Cartoon Network
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Once TV
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/18/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Discovery Channel
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/19/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Disney Channel
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Nick
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Discovery Kids
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/22/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",NATIONAL GEOGRAPHIC
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/23/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Disney Jr
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",EL FINANCIERO BLOOMBERG
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/24/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Multimedios Plus
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/26/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Cinecanal
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/27/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Animal Planet
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/28/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Tooncast
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/31/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Disney XD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/30/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TVE
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/32/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Universal Channel
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/33/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Lifetime
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/34/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",ESPN 2
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/35/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Golden Edge
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/37/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",ESPN 3
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/36/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TIIN
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/40/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Ritmoson
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/41/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",SyFy
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Unicable HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/43/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Fox Life
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/44/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",E! Entertainment
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/45/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Fox Movies HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/46/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",AyM Sports
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/47/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Nick Jr
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/49/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",A&E HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/48/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",CBeebies
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/50/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Boomerang
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Fox Classics
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/52/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Fox Cinema
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/53/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Studio Universal
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",AMC
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/55/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Golden HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/54/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",BBC Entertainment
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/58/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TCM
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Comedy Central
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/59/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TBS
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/60/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Discovery Civilization
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/61/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Discovery Science
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/62/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Discovery Turbo
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Discovery Theater HD
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/64/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Investigation Discovery
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/65/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Home and Health
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/66/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",I.Sat
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Nicktoons
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/70/stream.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TELEMUNDO
-http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Canal Claro
-http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",UNIVISION
-http://iphone-streaming.ustream.tv/uhls/22534666/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",AMERICA HD
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/1.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Music Top HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Telesistema Canal 11
-http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Tele Antillas
-http://mek6.mekstream.com/teleantillas/live/chunklist_w1172948980.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Telemax HD
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",La Red
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&Referer=http://d1e8b5coppv0r9.cloudfront.net
-#EXTINF:-1 group-title="Entretenimiento",MIMUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 group-title="Entretenimiento",Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 group-title="Entretenimiento",TyC Sports HD
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
-#EXTINF:-1 group-title="Entretenimiento",ufc
-http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Las Estrellas Latinoamerica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 group-title="Entretenimiento",DXTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
-#EXTINF:-1 group-title="Entretenimiento",CDO
-http://unlimited1-us.dps.live/cdosd/cdosd.smil/cdosd/livestream1/chunks.m3u8?
-#EXTINF:-1 group-title="Entretenimiento",Locomotion
-http://stream.connectcast.tv:1935/live/josuearistyg/chunklist_w546705741.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Banda Ancha TV
-https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Gol tv
-http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Telecafe
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 group-title="Entretenimiento",Music Choice (Pop Hits)
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Music Choice (Rock)
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Music Choice (Regional Mexicana)
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Music Choice (Pop Latino)
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Rusia Today en Español
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Entretenimiento",Canal 26 HD
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Canal Capital
-http://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?&dnt=true
-#EXTINF:-1 group-title="Entretenimiento",Cool HD - 103.7 TV (Argentina)
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",EL TRECE ARG
-http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",HISPANTV
-http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TV 5 MONDE AMÉRIQUE LATINE
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:-1 group-title="Entretenimiento",VPlus
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 group-title="Entretenimiento",Cosmovision
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="Entretenimiento",Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Mega (Spain)
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase;=onhttp://a3live-%20%20lh.akamaihd.net/i/mghds/geomega_1@328914/segment3219967_3_av-b.ts?sd=10
-#EXTINF:-1 group-title="Entretenimiento",TELE MEDELLIN
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
-#EXTINF:-1 group-title="Entretenimiento",TN AR
-http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b3496000.m3u8
-#EXTINF:-1 group-title="Entretenimiento",VITATO TV
-http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Los Simpsons 24 horas
-http://latino-webtv.ml/series/simpsons.mp4
-#EXTINF:-1 group-title="Entretenimiento",Las Estrellas Latinoamerica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Music Choice Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 group-title="Entretenimiento",NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 group-title="Entretenimiento",GRAVITY FALLS CHANNEL
-http://latino-webtv.ml/series/gravityfalls.mp4
-#EXTINF:-1 group-title="Entretenimiento",CNN CHILE
-http://144.217.70.189:8000/live/iptvchile/demolibre/151.ts
-#EXTINF:-1 group-title="Entretenimiento",FOX SPORT 3
-http://144.217.70.189:8000/live/iptvchile/demolibre/70.ts
-#EXTINF:-1 group-title="Entretenimiento",BEIN SPORT HD op1
-http://144.217.70.189:8000/live/iptvchile/demolibre/127.ts
-#EXTINF:-1 group-title="Entretenimiento",BEIN SPORT HD op2
-http://144.217.70.189:8000/live/iptvchile/demolibre/121.ts
-#EXTINF:-1 group-title="Entretenimiento",BEIN SPORT LA LIGA HD
-http://144.217.70.189:8000/live/iptvchile/demolibre/156.ts
-#EXTINF:-1 group-title="Entretenimiento",LA LIGA TV
-http://144.217.70.189:8000/live/iptvchile/demolibre/122.ts
-#EXTINF:-1 group-title="Entretenimiento",+Futbol
-http://144.217.70.189:8000/live/iptvchile/demolibre/120.ts
-#EXTINF:-1 group-title="Entretenimiento",+ Futboll 2 (movistar)
-http://144.217.70.189:8000/live/iptvchile/demolibre/123.ts
-#EXTINF:-1 group-title="Entretenimiento",Movistar DEPORTES 1
-http://144.217.70.189:8000/live/iptvchile/demolibre/124.ts
-#EXTINF:-1 group-title="Entretenimiento",Movistar DEPORTES 2
-http://144.217.70.189:8000/live/iptvchile/demolibre/125.ts
-#EXTINF:-1 group-title="Entretenimiento",TELEMUNDO INT
-http://144.217.70.189:8000/live/iptvchile/demolibre/37.ts
-#EXTINF:-1,MEGA HD
-http://144.217.70.189:8000/live/iptvchile/demolibre/116.ts
-#EXTINF:-1,Fox Sports Argentina HD
-http://test.servicespcl.com:8000/live/test/test/2336.ts
-#EXTINF:-1,FOX SPORTS SUR 
-http://test.servicespcl.com:8000/live/test/test/2335.ts
-#EXTINF:-1,H2 
-http://test.servicespcl.com:8000/live/test/test/2328.ts
-#EXTINF:-1,HBO 2 
-http://test.servicespcl.com:8000/live/test/test/2327.ts
-#EXTINF:-1,HBO FAMILY 
-http://test.servicespcl.com:8000/live/test/test/2326.ts
-#EXTINF:-1,HBO 
-http://test.servicespcl.com:8000/live/test/test/2325.ts
-#EXTINF:-1,HBO PLUS 
-http://test.servicespcl.com:8000/live/test/test/2324.ts
-#EXTINF:-1,HBO Signature 
-http://test.servicespcl.com:8000/live/test/test/2322.ts
-#EXTINF:-1,MAX Prime 
-http://test.servicespcl.com:8000/live/test/test/2317.ts
-#EXTINF:-1,UFC Network
-http://test.servicespcl.com:8000/live/test/test/2286.ts
-#EXTINF:-1,VTV HD Uruguay
-http://test.servicespcl.com:8000/live/test/test/2282.ts
+#EXTINF:0 type="stream" channelId="1971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png" group-title="ESTABLES" , Azteca 13 mx
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg"group-title="ESTABLES",Azteca 7
+https://goo.gl/89LFtI
+
+#EXTINF:-1 tvg-id="Exabyte TV Canal 2" tvg-name="Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Las_Estrellas_%282016_Logo%29.png/375px-Las_Estrellas_%282016_Logo%29.png" group-title="ESTABLES",Canal De Las Estrellas (México)
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/canal%205%20HD.png"group-title="ESTABLES",Canal 5 HD
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/3/stream.m3u8
+
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",MULTIMEDIOS 15tv
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+
+#EXTINF:-1, tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png"group-title="ESTABLES",Multimedios Monterrey
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_400.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1484723224640
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",FOX SPORTS
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",FOX SPORTS (op2)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/4/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",FOX SPORTS 2
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",FOX SPORTS 2 (op2)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/5/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",FOXSPORTS 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-sports-3.gif", Fox Sports 3 (op2)
+
+
+#EXTINF:0 type="stream" channelId="2489" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" group-title="ESTABLES", Canal ONCE
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/18/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png" group-title="ESTABLES",Virgin TV music
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0 type="stream" channelId="2920" tvg-logo="http://www.djing.com/img/facebook.png" group-title="ESTABLES", DJING CLASSIC HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" , MI MUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/ibiza-on-tv-channel-images-logo-large.png" group-title="ESTABLES", IBIZA
+http://www.djing.com/tv/a-04.m3u8
+#EXTINF:0 type="stream" channelId="2526" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" group-title="ESTABLES" , Hit Tv
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:0 type="stream" channelId="2689" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Proyecto_40.png" group-title="ESTABLES", Proyecto 40 MEXICO
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:-1 type="stream" channelId="407" tvg-logo="https://lh4.googleusercontent.com/-qcqUmE_igSs/AAAAAAAAAAI/AAAAAAAAaic/YpE2J55-zaU/photo.jpg" group-title="ESTABLES", UNIVISION
+http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png"group-title="ESTABLES",TELEMUNDO LATINO
+http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://www.aztecanoticias.com.mx/includes/alianza/images/an_logo_horizontal-u552.png" group-title="ESTABLES", Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:0 type="stream" channelId="1965" tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="ESTABLES", tdn
+http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_524_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="ESTABLES", univision tdn
+
+#EXTINF:0 type="stream" tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="ESTABLES", univision deportes
+
+
+
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/cumbianinja/images/e/e9/FOX_Tv_Logo_Musica_Album_Canal_Recortado_Svg.png/revision/latest?cb=20140816160641&path-prefix=es"group-title="ESTABLES", Fox
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8?tecnotv.info?iptv.m3u8
 
 
 
