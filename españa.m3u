@@ -2,7 +2,34 @@
 
 
 
-
+#EXTINF:-1,==========Spain==========
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/7231.m3u8
+#EXTINF:-1,---------- TDT ----------
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/13657.m3u8
+#EXTINF:-1,SP: LA1 HD
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/13643.m3u8
+#EXTINF:-1,SP: LA 1
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/33.m3u8
+#EXTINF:-1,SP: LA 2
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/34.m3u8
+#EXTINF:-1,SP: ANTENA 3 HD
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/13640.m3u8
+#EXTINF:-1,SP: ANTENA 3
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/407.m3u8
+#EXTINF:-1,SP: CUATRO HD
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/13671.m3u8
+#EXTINF:-1,SP: CUATRO
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/24.m3u8
+#EXTINF:-1,SP: TELECINCO HD
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/7209.m3u8
+#EXTINF:-1,SP: TELECINCO
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/44.m3u8
+#EXTINF:-1,SP: LA SEXTA HD
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/408.m3u8
+#EXTINF:-1,SP: LA SEXTA
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/35.m3u8
+#EXTINF:-1,SP: NEOX
+http://worldcs.info:8080/live/d1xXs8FQS0/gLm4j3m7ji/7194.m3u8
 
 #EXTINF:-1, *Canales De Colombia*
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
