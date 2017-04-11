@@ -5,37 +5,4 @@
 
 
 
-#EXTINF:-1,MTV ESPAÑA
-http://163.172.213.25:8000/live/ISAAC/ISAAC/28.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG MOT0GP
-http://edge5.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG F1
-http://edge6.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG La.LIGA 
-http://edge5.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG Gol TV
-http://88.148.69.129:9090/play/a01d
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG BEIN
-http://edge6.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG CAZA Y PESCA
-http://cdn5.elitegol.xyz/verliga/15/index.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",JHG TOROS 
-http://cdn1.elitegol.xyz/verdirectotv/9/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Movistar deportes 1
-http://edge7.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Movistar deportes 2
-http://edge5.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Eurosport 1
-http://edge6.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="elite",Eurosport 2
-http://edge7.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8
 
