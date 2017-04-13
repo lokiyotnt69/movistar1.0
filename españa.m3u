@@ -1,5 +1,87 @@
 #EXTM3U
 
+
+
+
+
+
+
+#EXTINF:-1,La 1 HD.
+http://95.21.150.15:9981/stream/channelid/1055212540?ticket=49EAF34FF4BBB020F93CC6FCFDD4A9893681068A&profile=pass
+#EXTINF:-1,La 2
+http://95.21.150.15:9981/stream/channelid/747224818?ticket=AAC4CAEC0FBB94FB3CDBF1C9C06057DE9AAF05F1&profile=pass
+#EXTINF:-1,TV3HD
+http://95.21.150.15:9981/stream/channelid/1668728303?ticket=F6D2F34C54A074F19960CA8656FBFDF5B3CB081C&profile=pass
+#EXTINF:-1,Super3/33
+http://95.21.150.15:9981/stream/channelid/1983904082?ticket=62818FD3AB1F64D1108F59C299F52FC083F5A9C6&profile=pass
+#EXTINF:-1,Telecinco HD
+http://95.21.150.15:9981/stream/channelid/687838014?ticket=2405B23BC97CEA55C606A031CD7DCAD940E7FC44&profile=pass
+#EXTINF:-1,antena3 HD
+http://95.21.150.15:9981/stream/channelid/699412799?ticket=970503565B98A68C11727F198BDE932B7EAE3850&profile=pass
+#EXTINF:-1,Cuatro HD
+http://95.21.150.15:9981/stream/channelid/348902120?ticket=F6E58464F0CA4821D84A76B1E30212D90AD71052&profile=pass
+#EXTINF:-1,8TV
+http://95.21.150.15:9981/stream/channelid/1476287783?ticket=D7620EDA30FB978179359BCDE53D502B798ACC63&profile=pass
+#EXTINF:-1,laSexta HD
+http://95.21.150.15:9981/stream/channelid/410057211?ticket=777D40507BD0BC801D2DD659470417FB22687078&profile=pass
+#EXTINF:-1,3/24
+http://95.21.150.15:9981/stream/channelid/1906441402?ticket=08A870FD7D4DD774579A012F7BA95155AD4EAA69&profile=pass
+#EXTINF:-1,Clan
+http://95.21.150.15:9981/stream/channelid/1407542847?ticket=A1338948F10B401710F6E6F0A04040303D37E77F&profile=pass
+#EXTINF:-1,Disney Channel
+http://95.21.150.15:9981/stream/channelid/501736048?ticket=28CC99D1D870B38927B270A11ADB7B3572897665&profile=pass
+#EXTINF:-1,Boing
+http://95.21.150.15:9981/stream/channelid/1132381449?ticket=E7E1956F944DC572E9FE1F44BCB252EE39F5C3F9&profile=pass
+#EXTINF:-1,Esport3
+http://95.21.150.15:9981/stream/channelid/1337796298?ticket=A6D2772BCE5F10E01E7B90295FE074ED8984E5DD&profile=pass
+#EXTINF:-1,Barça TV
+http://95.21.150.15:9981/stream/channelid/1623590723?ticket=017160D971C362D6A7A6E0E15337BE40EDC7979D&profile=pass
+#EXTINF:-1,tdp HD
+http://95.21.150.15:9981/stream/channelid/279877043?ticket=66C40A462C8D2438F242963FFB0F80860E99BF20&profile=pass
+#EXTINF:-1,DMAX
+http://95.21.150.15:9981/stream/channelid/1820329334?ticket=6424EB2C40544599B1D757C43827FAF9827CB807&profile=pass
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://95.21.150.15:9981/stream/channelid/1778710011?ticket=827EE1A7966B6907EB02469B6B36B26008F4A3A1&profile=pass
+#EXTINF:-1,BeMad tv HD
+http://95.21.150.15:9981/stream/channelid/118539728?ticket=62056BF3FBBF88A4C88821322C15AF74D513DD8B&profile=pass
+#EXTINF:-1,Divinity
+http://95.21.150.15:9981/stream/channelid/904441805?ticket=4B81AAE09CFE32638E74EB6B30178E730DDA5F8F&profile=pass
+#EXTINF:-1,atreseries HD
+http://95.21.150.15:9981/stream/channelid/1413041750?ticket=89C717E5B5482B7C974A499399E5B2FAF064F883&profile=pass
+#EXTINF:-1,RAC105
+http://95.21.150.15:9981/stream/channelid/757140216?ticket=83CC1140754991EAF8FA57AE18E27E7C58BC4724&profile=pass
+#EXTINF:-1,mega
+http://95.21.150.15:9981/stream/channelid/895054557?ticket=FF68F29B3737336E23347E36CBB51A233638EF3E&profile=pass
+#EXTINF:-1,Valles Visio
+http://95.21.150.15:9981/stream/channelid/1062865306?ticket=FD1E9AC8195F1B6FFD11E479AD8286F4DC2D0DE0&profile=pass
+#EXTINF:-1,neox
+http://95.21.150.15:9981/stream/channelid/1103654369?ticket=D2E9676F103280E50607ED5773A268069364AD86&profile=pass
+#EXTINF:-1,IB3 Global
+http://95.21.150.15:9981/stream/channelid/1187822129?ticket=4DC022AA5AB34C241B6BC5273430810CFFCE4DBC&profile=pass
+#EXTINF:-1,nova
+http://95.21.150.15:9981/stream/channelid/1500093269?ticket=95BC9F7E9B7FB0FFA495056E18541072E02E9EBB&profile=pass
+#EXTINF:-1,VOTV
+http://95.21.150.15:9981/stream/channelid/1509420080?ticket=029C06C6E123DCC041A137250D377101BFDFDD86&profile=pass
+#EXTINF:-1,Energy
+http://95.21.150.15:9981/stream/channelid/1564418846?ticket=1AB3EF2AC04AF7169D2D6CCB20E01F38EC177D29&profile=pass
+#EXTINF:-1,TEN
+http://95.21.150.15:9981/stream/channelid/1729770446?ticket=D0D066FF2092CF3A15DCABF526D6C4435DFE9486&profile=pass
+#EXTINF:-1,DKISS
+http://95.21.150.15:9981/stream/channelid/1883154358?ticket=21F927026D5E7C0FE4E57C0D0D6A7822F4A7DDEE&profile=pass
+#EXTINF:-1,CANAL SET
+http://95.21.150.15:9981/stream/channelid/18985477?ticket=3F9C961E98DFD825DFA6A4887484F7CF8495E6FE&profile=pass
+#EXTINF:-1,24h
+http://95.21.150.15:9981/stream/channelid/181543982?ticket=73E1C198703FC0D3C258CC83D1F208561FA44568&profile=pass
+#EXTINF:-1,EL PUNT AVUI
+http://95.21.150.15:9981/stream/channelid/184096793?ticket=74616E0C576BF7CF2E6F6C75D72E4B7FDA3CDE6C&profile=pass
+#EXTINF:-1,FDF
+http://95.21.150.15:9981/stream/channelid/209958274?ticket=7E39A9EFE3BCF5FEC6551CC2A13FECF9B6F8A8F9&profile=pass
+#EXTINF:-1,GOL
+http://95.21.150.15:9981/stream/channelid/506477980?ticket=F717CDC24AE636531BB37C1D0E2B786B94B1E154&profile=pass
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637,C COMEDIA HD 
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3323.ts
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/4/47/Canal_Hollywood_HD.png/revision/latest?cb=20140514123652,Hollywood hd
@@ -22,8 +104,8 @@ http://192.99.149.20:8080/live/grspan/sxlk2slkx/3277.ts
 http://cdn2.elitegol.xyz/verliga/9/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_de-pelicula-hd_m.png,DePelicula
 http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/85/stream.m3u8
-#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",CeceGeek
-https://www.youtube.com/c/CeceGeek  ----INFANTILES----
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",JHG.MASTER
+https://www.youtube.com/c/JHG.MASTER  ----INFANTILES----
 
 #EXTINF:-1 tvg-logo="http://orig06.deviantart.net/08b7/f/2014/192/3/5/disney_junior_2d_logo_template_by_jared33-d7q75w1.png,Disney Jr España
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3290.ts
@@ -35,8 +117,8 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/1539.m3u8
 #EXTINF:0 tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/boing_circular_500_nuevo.png,Boing
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3283.ts
-#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",CeceGeek
-https://www.youtube.com/c/CeceGeek ------VARIADOS----
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",JHG.MASTER
+https://www.youtube.com/c/JHG.MASTER ------VARIADOS----
 
 #EXTINF:-1 tvg-logo="http://decasa.tv/minisites/especial-homeopatia/imagenes/logo_decasa.png,DeCasa
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3305.ts
@@ -44,8 +126,8 @@ http://192.99.149.20:8080/live/grspan/sxlk2slkx/3305.ts
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.bestdigitalgroup.com/web/wp-content/uploads/2014/02/cosmopolitan_tv_es_hd.png,Cosmo HD
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3300.ts
-#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",CeceGeek
-https://www.youtube.com/c/CeceGeek ---VARIADOS 2-----
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",JHG.MASTER
+https://www.youtube.com/c/JHG.MASTER ---VARIADOS 2-----
 
 
 #EXTINF:-1 tvg-logo="http://movistar.i.lithium.com/t5/image/serverpage/image-id/80597i476EBD373B30F048?v=1.0,A&E España
@@ -58,8 +140,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3299.ts
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png,DW 
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",CeceGeek
-https://www.youtube.com/c/CeceGeek -----DEPORTES---------
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",JHG.MASTER
+https://www.youtube.com/c/JHG.MASTER -----DEPORTES---------
 
 #EXTINF:-1 tvg-logo="http://fighterdojo.org/wp-content/uploads/2016/09/ufc-logo.png,UFC
 http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8
@@ -128,8 +210,8 @@ http://193.70.92.83:88/live/y2AaG2n_X/R25_v@kN-/2753.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/1280px-Eurosport_logo.svg.png,Euroesport
 http://192.99.149.20:8080/live/grspan/sxlk2slkx/3289.ts
-#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",CeceGeek
-https://www.youtube.com/c/CeceGeek 
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/x6g3kw.png",JHG.MASTER
+https://www.youtube.com/c/JHG.MASTER 
 #EXTINF:-1 tvg-logo="http://museventos.com/wp-content/uploads/2015/02/LatinMusic.png,[COLOR white]-> ->****Latin Musics****<-<-[/COLOR]
 http://0.0.0.0:1234
 
