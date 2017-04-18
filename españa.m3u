@@ -10,7 +10,8 @@ http://edge6.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
  
 #EXTINF:-1, La Liga Tv
 http://edge8.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
-
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637,C COMEDIA HD 
