@@ -380,6 +380,12 @@ http://149.100.19.148:8000/play/a00y
 http://149.100.19.148:8000/play/a005
 #EXTINF:-1,BEIN LALIGA
 http://149.100.19.148:8000/play/a00m
+#EXTINF:-1 tvg-id="S: Andalucia TV" tvg-link="" tvg-name="S: Andalucia TV" tvg-logo="" group-title="ESP",S: Andalucia TV
+http://s08iptv.ddns.net:80/live?channelId=539&uid=88&deviceMac=00:1A:79:1A:B0:25
+#EXTINF:-1 tvg-id="S: Canal+ Dcine" tvg-link="" tvg-name="S: Canal+ Dcine" tvg-logo="" group-title="ESP",S: Canal+ Dcine
+http://s08iptv.ddns.net:80/live?channelId=515&uid=88&deviceMac=00:1A:79:1A:B0:25
+#EXTINF:-1 tvg-id="S: Canal+ Comedia" tvg-link="" tvg-name="S: Canal+ Comedia" tvg-logo="" group-title="ESP",S: Canal+ Comedia
+http://s08iptv.ddns.net:80/live?channelId=516&uid=88&deviceMac=00:1A:79:1A:B0:25
 
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637,C COMEDIA HD 
