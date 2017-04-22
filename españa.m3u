@@ -117,15 +117,34 @@ http://88.148.69.129:9090/play/a018
 
 
 
-
-
-
-
-
-
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
+
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,GOL TV
+http://88.148.69.129:9090/play/a01d
+#EXTINF:-1,BEIN SPORT LA LIGA
+http://178.156.79.1:9090/play/a03y
+#EXTINF:-1,SPORT
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,TDP HD
+http://88.148.69.129:9090/play/a01w
+#EXTINF:-1,TDP
+http://88.148.69.129:9090/play/a01v
+#EXTINF:-1,MOTOS GP
+http://178.156.79.1:9090/play/a043
+#EXTINF:-1,EUROSPORT 1 
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,EUROSPORT 1 
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,REAL BETIS TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
 
 #EXTINF:-1,[COLOR red][I][B]--------------------ACTUALIZANDO------------------------------------------[/B][/I][/COLOR]
