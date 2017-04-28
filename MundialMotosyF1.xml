@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+
+
+
+
+        <item> 
+            <title>[COLOR yellow] MOTOGP1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/Julesmwamba2001@yahoo.fr/Julesmwamba2001@yahoo.fr/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Formula 1  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/franklin/franklin/4460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MOTOGP1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/franklin/franklin/4461.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP1</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow] MOTOGPX[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16422.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGPX</link> 
+        </item>	
+		<item> 
+            <title>[COLOR red] Motogp 5[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotoGp 5</link> 
+        </item>
+	    <item> 
+            <title>[COLOR red] Formula 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
+        </item>
+		
+		

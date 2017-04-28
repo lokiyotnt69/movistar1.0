@@ -1,7 +1,758 @@
 #EXTM3U
 
 
-
+#EXTINF:-1, VIAJAR  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16433.ts
+#EXTINF:-1, TELECINCO HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16430.ts
+#EXTINF:-1, CUATRO HD  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12318.ts
+#EXTINF:-1, LA SEXTA  JHG. [1088x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16417.ts
+#EXTINF:-1, Nat Geo Wild  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10675.ts
+#EXTINF:-1, TELECINO  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16429.ts
+#EXTINF:-1, FDF  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16411.ts
+#EXTINF:-1, BOING  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16394.ts
+#EXTINF:-1, DEPORTES  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16402.ts
+#EXTINF:-1, TELEDEDEPORTE  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16431.ts
+#EXTINF:-1, HOLLYWOOD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16415.ts
+#EXTINF:-1, GOLF  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16414.ts
+#EXTINF:-1, AMC  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16391.ts
+#EXTINF:-1, CANAL TOROS  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20775.ts
+#EXTINF:-1, CANAL DECASA  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10707.ts
+#EXTINF:-1, CRIMEN INVES  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16399.ts
+#EXTINF:-1, TAQUILLA HD 8  JHG. [1280x704]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20765.ts
+#EXTINF:-1, AXN WHITE  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16392.ts
+#EXTINF:-1, LA 1  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16418.ts
+#EXTINF:-1, AXN  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20772.ts
+#EXTINF:-1, ODISEA  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20780.ts
+#EXTINF:-1, A&E  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16389.ts
+#EXTINF:-1, CANAL DCINE  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16398.ts
+#EXTINF:-1, EUROSPORT 1  JHG. [640x368]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16409.ts
+#EXTINF:-1, REAL MADRID TV  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20784.ts
+#EXTINF:-1, TOROS TV  JHG. [1440x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10686.ts
+#EXTINF:-1, COSMO  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20792.ts
+#EXTINF:-1, MOTO GP  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16422.ts
+#EXTINF:-1, IBERALIA TV  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16416.ts
+#EXTINF:-1, CANAL LIGA  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20785.ts
+#EXTINF:-1, C FUTBOL HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20786.ts
+#EXTINF:-1, SERIES XTRA  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16426.ts
+#EXTINF:-1, NAT GEOGRAPHIC  JHG. [1088x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10703.ts
+#EXTINF:-1, HOLLYWOOD SPAIN  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10699.ts
+#EXTINF:-1, TCM  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16428.ts
+#EXTINF:-1, LA 2  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16419.ts
+#EXTINF:-1, DCINE  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10706.ts
+#EXTINF:-1, TAQUILLA HD 3  JHG. [1920x816]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20760.ts
+#EXTINF:-1, REAL MADRID TV ERSATZ  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10674.ts
+#EXTINF:-1, C DCINE  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20778.ts
+#EXTINF:-1, SYFY  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16427.ts
+#EXTINF:-1, TAQUILLA HD 1  JHG. [1920x800]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20758.ts
+#EXTINF:-1, TAQUILLA 4 HD  JHG. [1280x544]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12524.ts
+#EXTINF:-1, NAT GEO  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16424.ts
+#EXTINF:-1, 24 HORAS  JHG. [768x432]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16388.ts
+#EXTINF:-1, Moviestar F1  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10676.ts
+#EXTINF:-1, DISCOVERY  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16403.ts
+#EXTINF:-1, MOVISTAR MOTO GP  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10677.ts
+#EXTINF:-1, TAQUILLA HD 2  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20759.ts
+#EXTINF:-1, CAZA & PESCA  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20793.ts
+#EXTINF:-1, CANAL  FUTBOL HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12663.ts
+#EXTINF:-1, CANAL ACCION  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10683.ts
+#EXTINF:-1, DCINE HD  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16401.ts
+#EXTINF:-1, FOX  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10678.ts
+#EXTINF:-1, AXN WHITE  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20773.ts
+#EXTINF:-1, TAQUILLA HD 4  JHG. [1280x544]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20761.ts
+#EXTINF:-1, TAQUILLA 9 HD  JHG. [1920x800]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12529.ts
+#EXTINF:-1, CANAL ACCION SD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10695.ts
+#EXTINF:-1, CANAL COMEDIA  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20777.ts
+#EXTINF:-1, TAQUILLA 2 HD  JHG. [1920x816]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12522.ts
+#EXTINF:-1, M.FÃšTBOL  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12308.ts
+#EXTINF:-1, TAQUILLA 1 HD  JHG. [1920x800]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12521.ts
+#EXTINF:-1, CANAL GOLF  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10709.ts
+#EXTINF:-1, DISNEY JUNIOR  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10679.ts
+#EXTINF:-1, DCINE ESPANIOL  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10705.ts
+#EXTINF:-1, HOLLYWOOD HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12549.ts
+#EXTINF:-1, AXN HD  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10710.ts
+#EXTINF:-1, FOX LIFE  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16412.ts
+#EXTINF:-1, CANAL LIGA 1  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10680.ts
+#EXTINF:-1, CANAL XTRA  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10708.ts
+#EXTINF:-1, ANTENA 3  JHG. [640x368]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10697.ts
+#EXTINF:-1, FOX SPAIN  JHG. [1296x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12832.ts
+#EXTINF:-1, EUROSPORT  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12551.ts
+#EXTINF:-1, CANAL ODISEA  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/13349.ts
+#EXTINF:-1, FOX HD  JHG. [1296x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10700.ts
+#EXTINF:-1, BARCA TV  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12558.ts
+#EXTINF:-1, REAL MADRID TV HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12659.ts
+#EXTINF:-1, TAQUILLA 7 HD  JHG. [1920x816]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12527.ts
+#EXTINF:-1, TELE DEPORTE HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21955.ts
+#EXTINF:-1, BARCA  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20783.ts
+#EXTINF:-1, TAQUILLA 5 HD  JHG. [1920x800]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12525.ts
+#EXTINF:-1, C  GOLF HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12509.ts
+#EXTINF:-1, TAQUILLA 3 HD  JHG. [1920x816]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12523.ts
+#EXTINF:-1, AXN WHITE HD  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12519.ts
+#EXTINF:-1, TAQUILLA HD 5  JHG. [6144x2]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20762.ts
+#EXTINF:-1, CANAL  DEPORTES 2 HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12666.ts
+#EXTINF:-1, C  SERIES HD  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12506.ts
+#EXTINF:-1, CALLE 13  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10696.ts
+#EXTINF:-1, CANAL FUTBOL  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/10690.ts
+#EXTINF:-1, TAQUILLA 10 HD  JHG. [1920x800]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12530.ts
+#EXTINF:-1, LA 1 HD  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12828.ts
+#EXTINF:-1, MOVISTAR F1 HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20789.ts
+#EXTINF:-1, CANAL  GOLF HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12662.ts
+#EXTINF:-1, La 2  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4777.ts
+#EXTINF:-1, TAQUILLA 8 HD  JHG. [6144x2]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12528.ts
+#EXTINF:-1, C  SERIES XTRA HD  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12505.ts
+#EXTINF:-1, Teleticino  JHG. [720x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/4823.ts
+#EXTINF:-1, C  ACCION HD  JHG. [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12516.ts
+#EXTINF:-1, TAQUILLA HD 7  JHG. [1920x816]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20764.ts
+#EXTINF:-1, Fox Life  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4770.ts
+#EXTINF:-1, LA 2 HD  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12829.ts
+#EXTINF:-1, Iberalia TV  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4774.ts
+#EXTINF:-1, CANAL  ESTRENOS HD  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12664.ts
+#EXTINF:-1, Discovery Dmax  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4755.ts
+#EXTINF:-1, Canal Cocina  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4742.ts
+#EXTINF:-1, Discovery Channel  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4754.ts
+#EXTINF:-1, Historia  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4772.ts
+#EXTINF:-1, TCM  JHG. [720x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/4819.ts
+#EXTINF:-1, Canal Costa  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4743.ts
+#EXTINF:-1, DW  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4761.ts
+#EXTINF:-1, Dkiss  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4760.ts
+#EXTINF:-1, Real Madrid  JHG. [720x416]
+http://37.187.132.154:5969/live/1037F2CBdb/1037F2CBdb/1524.ts
+#EXTINF:-1, Divinity  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4759.ts
+#EXTINF:-1, Barca TV  JHG. [720x592]
+http://37.187.132.154:5969/live/1037F2CBdb/1037F2CBdb/1523.ts
+#EXTINF:-1, Nova  JHG. [720x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/4797.ts
+#EXTINF:-1, Dcine Espanol  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4752.ts
+#EXTINF:-1, Barca TV  JHG. [720x592]
+http://37.187.132.154:5969/live/5107F2CBdb/5107F2CBdb/1523.ts
+#EXTINF:-1, C  DCINE HD  JHG. [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12514.ts
+#EXTINF:-1, Real Madrid  JHG. [720x416]
+http://37.187.132.154:5969/live/5107F2CBdb/5107F2CBdb/1524.ts
+#EXTINF:-1, De Casa  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4753.ts
+#EXTINF:-1, Disney XD  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4758.ts
+#EXTINF:-1, CUATRO  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4751.ts
+#EXTINF:-1, C   XTRA HD  JHG. [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12517.ts
+#EXTINF:-1, Hollywood HD  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4773.ts
+#EXTINF:-1, La Sexta HD  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4779.ts
+#EXTINF:-1, Telemundo  JHG. [1024x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/4822.ts
+#EXTINF:-1, Viajar HD  JHG. [720x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/4833.ts
+#EXTINF:-1, C DCINE  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20778.ts
+#EXTINF:-1, Neox  JHG. [1280x720]
+http://185.71.66.36:13884/live/valentina1/valentina2/4794.ts
+#EXTINF:-1, AXN WHITE  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20773.ts
+#EXTINF:-1, COSMO  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20792.ts
+#EXTINF:-1, Disney Junior  JHG. [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/4757.ts
+#EXTINF:-1, REAL MADRID TV ERSATZ  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10674.ts
+#EXTINF:-1, M.FÃšTBOL  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12308.ts
+#EXTINF:-1, NAT GEOGRAPHIC  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10703.ts
+#EXTINF:-1, MOVISTAR MOTO GP  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10677.ts
+#EXTINF:-1, Esperanza TV  JHG. [640x480]
+http://68.235.41.163:1935/etvSD/etvSD/live.m3u8
+#EXTINF:-1, HOLLYWOOD SPAIN  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10699.ts
+#EXTINF:-1, CUATRO HD  JHG. [1920x1088]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12318.ts
+#EXTINF:-1, FOX  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10678.ts
+#EXTINF:-1, MOVISTAR F1 HD  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20789.ts
+#EXTINF:-1, CANAL COMEDIA  JHG. [1088x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20777.ts
+#EXTINF:-1, TOROS TV  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10686.ts
+#EXTINF:-1, CAZA & PESCA  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20793.ts
+#EXTINF:-1, Nat Geo Wild  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10675.ts
+#EXTINF:-1, Moviestar F1  JHG. [1920x1088]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10676.ts
+#EXTINF:-1, TAQUILLA HD 8  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20765.ts
+#EXTINF:-1, DCINE  JHG. [1920x1088]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10706.ts
+#EXTINF:-1, CANAL  DEPORTES 2 HD  JHG. [1088x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12666.ts
+#EXTINF:-1, TAQUILLA 2 HD  JHG. [1920x816]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12522.ts
+#EXTINF:-1, FOX HD  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10700.ts
+#EXTINF:-1, AXN HD  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10710.ts
+#EXTINF:-1, CANAL LIGA 1  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10680.ts
+#EXTINF:-1, BARCA TV  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12558.ts
+#EXTINF:-1, DISNEY JUNIOR  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10679.ts
+#EXTINF:-1, C  DCINE HD  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12514.ts
+#EXTINF:-1, CANAL ACCION SD  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10695.ts
+#EXTINF:-1, CANAL ESTRENOS  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20776.ts
+#EXTINF:-1, CANAL ACCION  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10683.ts
+#EXTINF:-1, TELE DEPORTE HD  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/21955.ts
+#EXTINF:-1, ANTENA 3  JHG. [640x368]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10697.ts
+#EXTINF:-1, CANAL FUTBOL  JHG. [1296x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10690.ts
+#EXTINF:-1, LA 1 HD  JHG. [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12828.ts
+#EXTINF:-1, HOLLYWOOD HD  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12549.ts
+#EXTINF:-1, CALLE 13  JHG. [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10696.ts
+#EXTINF:-1, Real Madrid Tv  JHG. [720x416]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3314.ts
+#EXTINF:-1, RT Spain  JHG. [640x368]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3313.ts
+#EXTINF:-1, SYFY  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3278.ts
+#EXTINF:-1, NONSTOPEOPLE  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3280.ts
+#EXTINF:-1, NAT GEOGRAPH  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3281.ts
+#EXTINF:-1, NOVA  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3284.ts
+#EXTINF:-1, CRIMEN INVES  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3297.ts
+#EXTINF:-1, CANAL GOLF  JHG. [1920x1088]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10709.ts
+#EXTINF:-1, MOVISTAR GP HD  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3315.ts
+#EXTINF:-1, RTV Ceuta  JHG. [864x480]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3312.ts
+#EXTINF:-1, TV3  JHG. [640x368]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3310.ts
+#EXTINF:-1, CANAL  ESTRENOS HD  JHG. [1920x1088]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/12664.ts
+#EXTINF:-1, EUROSPORT HD  JHG. [720x416]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3289.ts
+#EXTINF:-1, DISCOVERY  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3295.ts
+#EXTINF:-1, PLAYBOY TV  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3304.ts
+#EXTINF:-1, DISNEY JR  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3290.ts
+#EXTINF:-1, DCINE ESPAÂ&#185;OL  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3296.ts
+#EXTINF:-1, LA SEXTA HD  JHG. [1280x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3285.ts
+#EXTINF:-1, CALLE 13  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3306.ts
+#EXTINF:-1, CANAL ODISEA  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3303.ts
+#EXTINF:-1, CAZA Y PESCA  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3301.ts
+#EXTINF:-1, DISNEY XD  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3282.ts
+#EXTINF:-1, CANAL DECASA  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3305.ts
+#EXTINF:-1, C DEPORTES HD  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3325.ts
+#EXTINF:-1, CANAL SUR A.  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3302.ts
+#EXTINF:-1, COSMO  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3300.ts
+#EXTINF:-1, #0  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3275.ts
+#EXTINF:-1, C LIGA HD 2  JHG. [1088x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3320.ts
+#EXTINF:-1, Fox Life  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3299.ts
+#EXTINF:-1, C DCINE  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3322.ts
+#EXTINF:-1, Boing  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3283.ts
+#EXTINF:-1, C TOROS HD  JHG. [1440x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3291.ts
+#EXTINF:-1, A&E  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3308.ts
+#EXTINF:-1, ANDALUCIA TV  JHG. [512x288]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3294.ts
+#EXTINF:-1, C ACCION HD  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3324.ts
+#EXTINF:-1, BEIN SPORT HD  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3293.ts
+#EXTINF:-1, C Â&#160;GOLF  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3307.ts
+#EXTINF:-1, C COMEDIA HD  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3323.ts
+#EXTINF:-1, 24 HORAS  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3309.ts
+#EXTINF:-1, AXN White  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3277.ts
+#EXTINF:-1, AXN  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3276.ts
+#EXTINF:-1, Alfa TV  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3316.ts
+#EXTINF:-1, La 2  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3318.ts
+#EXTINF:-1, Hollywood  JHG. [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3287.ts
+#EXTINF:-1, La 1  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3317.ts
+#EXTINF:-1, IBERALIA TV  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3286.ts
+#EXTINF:-1,ES | CanalPlus Futbol  JHG. [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1664.ts
+#EXTINF:-1, C Footbol  JHG. [720x576]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1670.ts
+#EXTINF:-1, TELEDEDEPORTE  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16431.ts
+#EXTINF:-1, LA 2  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16419.ts
+#EXTINF:-1, TELECINO  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16429.ts
+#EXTINF:-1, SERIES XTRA  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16426.ts
+#EXTINF:-1, TNT  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16432.ts
+#EXTINF:-1, LA 1  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16418.ts
+#EXTINF:-1, C Footbol SPAIN  JHG. [720x576]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1669.ts
+#EXTINF:-1, NAT GEO  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16424.ts
+#EXTINF:-1, Fox  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3298.ts
+#EXTINF:-1, HOLLYWOOD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16415.ts
+#EXTINF:-1, HISTORIA  JHG. [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3288.ts
+#EXTINF:-1, TCM  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16428.ts
+#EXTINF:-1, TELECINCO HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16430.ts
+#EXTINF:-1, LA SEXTA  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16417.ts
+#EXTINF:-1, ESTRENOS  JHG. [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16408.ts
+#EXTINF:-1, IBERALIA TV  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16416.ts
+#EXTINF:-1, CANAL DCINE  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16398.ts
+#EXTINF:-1, EUROSPORT 1  JHG. [640x368]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16409.ts
+#EXTINF:-1, DISCOVERY  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16403.ts
+#EXTINF:-1, CRIMEN INVES  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16399.ts
+#EXTINF:-1, 24 HORAS  JHG. [768x432]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16388.ts
+#EXTINF:-1, AXN WHITE  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16392.ts
+#EXTINF:-1, BOING  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16394.ts
+#EXTINF:-1, VIAJAR  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16433.ts
+#EXTINF:-1, AMC  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16391.ts
+#EXTINF:-1, FOX LIFE  JHG. [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16412.ts
+#EXTINF:-1, A&E  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16389.ts
+#EXTINF:-1, TAQUILLA 1 HD  JHG. [6144x2]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12521.ts
+#EXTINF:-1, DCINE ESPANIOL  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10705.ts
+#EXTINF:-1, NONSTOPEOPLE  JHG. [640x368]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16425.ts
+#EXTINF:-1, TAQUILLA HD 3  JHG. [7168x1]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20760.ts
+#EXTINF:-1, TAQUILLA HD 4  JHG. [6144x2]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20761.ts
+#EXTINF:-1, COSMO  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20792.ts
+#EXTINF:-1, MOVISTAR F1 HD  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20789.ts
+#EXTINF:-1, CUATRO HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12318.ts
+#EXTINF:-1, FDF  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16411.ts
+#EXTINF:-1, TAQUILLA HD 2  JHG. [1920x800]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20759.ts
+#EXTINF:-1, LA 2 HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12829.ts
+#EXTINF:-1, CANAL  SERIES HD  JHG. [1088x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12661.ts
+#EXTINF:-1, CANAL  DEPORTES 2 HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12666.ts
+#EXTINF:-1, AXN HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10710.ts
+#EXTINF:-1, CANAL  ESTRENOS HD  JHG. [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12664.ts
+#EXTINF:-1, CAZA & PESCA  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20793.ts
+#EXTINF:-1, CANAL LIGA 1  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10680.ts
+#EXTINF:-1, CANAL ACCION  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10683.ts
+#EXTINF:-1, FOX  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10678.ts
+#EXTINF:-1, DCINE  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10706.ts
+#EXTINF:-1, BARCA TV  JHG. [720x400]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12558.ts
+#EXTINF:-1, REAL MADRID TV ERSATZ  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10674.ts
+#EXTINF:-1, CANAL DECASA  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10707.ts
+#EXTINF:-1, TAQUILLA HD 5  JHG. [1920x816]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20762.ts
+#EXTINF:-1, TAQUILLA HD 6  JHG. [0x16]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20763.ts
+#EXTINF:-1, TV Galicia  JHG. [640x368]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10673.ts
+#EXTINF:-1, TAQUILLA HD 8  JHG. [6144x2]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20765.ts
+#EXTINF:-1, Nat Geo Wild  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10675.ts
+#EXTINF:-1, NATGEO WILD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12306.ts
+#EXTINF:-1, CANAL TOROS  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20775.ts
+#EXTINF:-1, REAL MADRID TV HD  JHG. [720x416]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12659.ts
+#EXTINF:-1, M.FÃšTBOL  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12308.ts
+#EXTINF:-1, C DCINE  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20778.ts
+#EXTINF:-1, TAQUILLA 7 HD  JHG. [7168x1]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12527.ts
+#EXTINF:-1, TAQUILLA 2 HD  JHG. [1920x800]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12522.ts
+#EXTINF:-1, C   XTRA HD  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12517.ts
+#EXTINF:-1, TAQUILLA 4 HD  JHG. [6144x2]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12524.ts
+#EXTINF:-1, CANAL ESTRENOS  JHG. [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20776.ts
+#EXTINF:-1, AXN WHITE  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20773.ts
+#EXTINF:-1, NOVA  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/13347.ts
+#EXTINF:-1, LA 1 HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12828.ts
+#EXTINF:-1, CANAL FUTBOL  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10690.ts
+#EXTINF:-1, HOLLYWOOD SPAIN  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10699.ts
+#EXTINF:-1, CANAL ODISEA  JHG. [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/13349.ts
+#EXTINF:-1, NAT GEOGRAPHIC  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10703.ts
+#EXTINF:-1, C  ACCION HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12516.ts
+#EXTINF:-1, BARCA  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20783.ts
+#EXTINF:-1, FOX SPAIN  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12832.ts
+#EXTINF:-1, TAQUILLA HD 7  JHG. [0x8]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20764.ts
+#EXTINF:-1, REAL MADRID TV  JHG. [720x416]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20784.ts
+#EXTINF:-1, Movistar  Golf  JHG. [1920x1088]
+http://185.71.66.36:13884/live/valentina1/valentina2/4787.ts
+#EXTINF:-1, AXN  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20772.ts
+#EXTINF:-1, EUROSPORT  JHG. [1088x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12551.ts
+#EXTINF:-1, TELE DEPORTE HD  JHG. [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21955.ts
+#EXTINF:-1, COMEDY CENTRAL  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1972.ts
+#EXTINF:-1, AXN WAHIT  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1975.ts
+#EXTINF:-1, BARCA TV  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1974.ts
+#EXTINF:-1, CALLE 13  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1973.ts
+#EXTINF:-1, FOX LIVE  JHG. [1920x1088]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1967.ts
+#EXTINF:-1, FOX  JHG. [1920x1088]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1968.ts
+#EXTINF:-1, MOVISTAR ESTRENOS  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1960.ts
+#EXTINF:-1, AMC  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1977.ts
+#EXTINF:-1, MOVISTAR COMEDIA  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1963.ts
+#EXTINF:-1, TVE LA2  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2051.ts
+#EXTINF:-1, Telecinco  JHG. [1440x1088]
+http://51.255.75.17:8000/live/doyon/doyon/1325.ts
+#EXTINF:-1, MOVISTAR 0#  JHG. [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1965.ts
+#EXTINF:-1, La 1  JHG. [1440x1088]
+http://51.255.75.17:8000/live/doyon/doyon/805.ts
+#EXTINF:-1, MOVISTAR ACCION  JHG. [1088x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1964.ts
+#EXTINF:-1, CUATRO  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/1326.ts
+#EXTINF:-1, MOVISTAR SERIES  JHG. [1920x1088]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1958.ts
+#EXTINF:-1, La Sexta  JHG. [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/686.ts
+#EXTINF:-1, Paramount Channel  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2057.ts
+#EXTINF:-1, Antena 3  JHG. [640x368]
+http://51.255.75.17:8000/live/doyon/doyon/687.ts
+#EXTINF:-1, Canal+ Accion  JHG. [1920x1088]
+http://51.255.75.17:8000/live/doyon/doyon/679.ts
+#EXTINF:-1, TV3 CAT  JHG. [640x368]
+http://51.255.75.17:8000/live/doyon/doyon/2046.ts
+#EXTINF:-1, NEOX  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2082.ts
+#EXTINF:-1, NOVA  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/668.ts
+#EXTINF:-1, GALICIA TV  JHG. [640x368]
+http://51.255.75.17:8000/live/doyon/doyon/2088.ts
+#EXTINF:-1, CANAL+ ESTRENOS  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/806.ts
+#EXTINF:-1, AndalucÃ&#173;a TV  JHG. [512x288]
+http://51.255.75.17:8000/live/doyon/doyon/684.ts
+#EXTINF:-1, Canal+ Comedia  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/665.ts
+#EXTINF:-1, Canal+ Xtra  JHG. [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/674.ts
+#EXTINF:-1, #0 HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2069.ts
+#EXTINF:-1, Canal Deportes 2 HD  JHG. [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/2083.ts
+#EXTINF:-1, VOO SPORT 2 HD  JHG. [1920x1088]
+http://51.255.75.17:8000/live/doyon/doyon/664.ts
+#EXTINF:-1, Fox  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/662.ts
+#EXTINF:-1, COMEDY CENTRAL HD  JHG. [1920x1088]
+http://51.255.75.17:8000/live/doyon/doyon/2070.ts
+#EXTINF:-1, CANAL SERIES HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2072.ts
+#EXTINF:-1, AXN HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/671.ts
+#EXTINF:-1, Hollywood  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/677.ts
+#EXTINF:-1, Calle 13  JHG. [1920x1088]
+http://51.255.75.17:8000/live/doyon/doyon/669.ts
+#EXTINF:-1, AXN WHITE  JHG. [1920x1088]
+http://51.255.75.17:8000/live/doyon/doyon/2074.ts
+#EXTINF:-1, COSMO HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2091.ts
+#EXTINF:-1, C  ESTRELLAS  JHG. [704x576]
+http://51.255.75.17:8000/live/doyon/doyon/2067.ts
+#EXTINF:-1, Energy  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2061.ts
+#EXTINF:-1, AMC HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2068.ts
+#EXTINF:-1, Canal+ series xtra  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/1132.ts
+#EXTINF:-1, FDF  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2060.ts
+#EXTINF:-1, Fox Life  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/681.ts
+#EXTINF:-1, canal+ toros  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/1131.ts
+#EXTINF:-1, Beinsport 17  JHG. [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/6736.ts
+#EXTINF:-1, Bein Sport HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/1138.ts
+#EXTINF:-1, Canal+ Futbol  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/663.ts
+#EXTINF:-1, Canal deporte  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/680.ts
+#EXTINF:-1, Canal+ Golf  JHG. [704x576]
+http://51.255.75.17:8000/live/doyon/doyon/676.ts
+#EXTINF:-1, MOVIESTAR MOTOGP  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/1139.ts
+#EXTINF:-1, NRJ Hits HD  JHG. [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/675.ts
+#EXTINF:-1, BeinSport LaLiga  JHG. [1920x1088]
+http://51.255.75.17:8000/live/doyon/doyon/4147.ts
+#EXTINF:-1, GOL TV  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/5745.ts
+#EXTINF:-1, GOLF TV  JHG. [704x576]
+http://51.255.75.17:8000/live/doyon/doyon/1136.ts
+#EXTINF:-1, Barca TV  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/666.ts
+#EXTINF:-1, Real Madrid TV  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/685.ts
+#EXTINF:-1, EUROSPORT 1HD  JHG. [720x416]
+http://51.255.75.17:8000/live/doyon/doyon/2063.ts
+#EXTINF:-1, MOVISTAR F1  JHG. [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/2058.ts
+#EXTINF:-1, NATIONAL GEOGRAPHIC  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2055.ts
+#EXTINF:-1, NATGEO WILD HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2056.ts
+#EXTINF:-1, DISCOVERY MAX  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2089.ts
+#EXTINF:-1, DISCOVERY HD  JHG. [544x576]
+http://51.255.75.17:8000/live/doyon/doyon/2090.ts
+#EXTINF:-1, A&E  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2075.ts
+#EXTINF:-1, CAZA Y PESCA  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/678.ts
+#EXTINF:-1, Historia  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/661.ts
+#EXTINF:-1, VIAJAR HD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2062.ts
+#EXTINF:-1, CANAL COCINA  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2059.ts
+#EXTINF:-1, CANAL DECASA  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2071.ts
+#EXTINF:-1, Tring History  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2050.ts
+#EXTINF:-1, Aragon TV  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2078.ts
+#EXTINF:-1, TV3 24H  JHG. [640x368]
+http://51.255.75.17:8000/live/doyon/doyon/2047.ts
+#EXTINF:-1, Canal Panda  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2077.ts
+#EXTINF:-1, Classica  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2048.ts
+#EXTINF:-1, Disney Channel  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/672.ts
+#EXTINF:-1, NICKELODEON  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/1134.ts
+#EXTINF:-1, Boing  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/2073.ts
+#EXTINF:-1, Taquilla 2  JHG. [6144x2]
+http://51.255.75.17:8000/live/doyon/doyon/4034.ts
+#EXTINF:-1, Taquilla 1  JHG. [768x432]
+http://51.255.75.17:8000/live/doyon/doyon/4033.ts
+#EXTINF:-1, DISNEY XD  JHG. [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/1137.ts
+#EXTINF:-1, NICK JUNIOR  JHG. [864x480]
+http://51.255.75.17:8000/live/doyon/doyon/1135.ts
 
 
 #EXTINF:-1,[COLOR red][I][B]-------------------------------PAISES PORTUGAL Y MUCHO MÁS--------------------------------[/B][/I][/COLOR]
