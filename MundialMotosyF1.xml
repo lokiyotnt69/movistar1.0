@@ -31,5 +31,24 @@
             <title>[COLOR red] Formula 1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula 1</link> 
         </item>
-		
+		<item> 
+            <title>[COLOR yellow] MotoGp* [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4788.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotoGp*</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow] Formula1* [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4785.ts&amp;streamtype=TSDOWNLOADER&amp;name=Formula1*</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
 		
