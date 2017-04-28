@@ -2,6 +2,7 @@
 
 
 
+
   <streamingInfos>
 		
 		
@@ -16,14 +17,42 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>		
 		<item> 
-            <title>[COLOR yellow] C LIGA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=C LIGA HD</link> 
+            <title>[COLOR yellow]  LIGA  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGA HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] BEIN SPORT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+            <title>[COLOR yellow] BEIN LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA</link> 
         </item>		
 		<item> 
+            <title>[COLOR yellow] Canal Futbol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Futbol</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] EUROSPORT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4766.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] EUROSPORT2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4767.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Gol Tv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol Tv</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DEPORTES1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DEPORTES2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow] [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -35,3 +64,18 @@
             <title>[COLOR yellow] [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		
+		
+		
