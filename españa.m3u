@@ -2,253 +2,246 @@
 
 
 
-#EXTINF:-1, Fox
-http://edge6.telesport.pw/live/foxlatino/index.m3u8
-#EXTINF:-1, Fox life
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/68.m3u8
-#EXTINF:-1, Fox Series
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/75.m3u8
-#EXTINF:-1, Fox family
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/76.m3u8
-#EXTINF:-1, Fox comedy
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/77.m3u8
-#EXTINF:-1, warner
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/189.m3u8
-#EXTINF:-1, universal
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/93.m3u8
-#EXTINF:-1, Tnt
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/20.m3u8
-#EXTINF:-1, AyE
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/25.m3u8
-#EXTINF:-1, Cinecanal
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/190.m3u8
-#EXTINF:-1, Amc
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/102.m3u8
-#EXTINF:-1, De Pelicula
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/417.m3u8
-#EXTINF:-1, Golden
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/155.m3u8
-#EXTINF:-1, Golden premier
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/304.m3u8
-#EXTINF:-1, Golden premier 2
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/303.m3u8
-#EXTINF:-1, Hbo
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/92.m3u8
-#EXTINF:-1, Hbo 2
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/83.m3u8
-#EXTINF:-1, Space
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/187.m3u8
-#EXTINF:-1, Tnt
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/20.m3u8
-#EXTINF:-1, Axn
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/186.m3u8
-#EXTINF:-1, Sony
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/188.m3u8
-#EXTINF:-1, Distrito comedia
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/205.m3u8
-#EXTINF:-1, Fx
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/61.m3u8
-#EXTINF:-1,Glits
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/198.m3u8
-#EXTINF:-1, Discovery id
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/63.m3u8
-#EXTINF:-1, Discovery chanel
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/263.m3u8
-#EXTINF:-1,History
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/98.m3u8
-#EXTINF:-1, Syfy
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/62.m3u8
-#EXTINF:-1, Natgeo wild
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/18.m3u8
-#EXTINF:-1,Tru
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/69.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/ff/66/30/ff66305de18fd6fc4995c625a5110d27.jpg" group-title="PelixMax",PelixMax1-Power Rangers 2017 (Cam/cine)
+https://goo.gl/zKGJze
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/67NXPYvK92oQgEQvLppF2Siol9q.jpg" group-title="PelixMax",PelixMax1-The Boss Baby:Jefe en pañales 2017 (Cam/cine)
+https://goo.gl/ASQgxM
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/resident_evil_the_final_chapter-767602682-large.jpg" group-title="PelixMax",PelixMax1-Resident Evil: El capítulo final 2017 FullHD
+https://goo.gl/0OAWzv
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/monster_trucks-774612239-large.jpg" group-title="PelixMax",PelixMax1-Monster Trucks
+https://ia601501.us.archive.org/30/items/MonsPelixMax1/MonsPelixMax1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aPdY04FxC5G8Wfpm9sUEHhVERk7.jpg" group-title="PelixMax",PelixMax1-La gran muralla FullHD
+https://ia601501.us.archive.org/27/items/PelixMax1Mura/PelixMax1Mura.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pRoD-ie_Zr8/maxresdefault.jpg" group-title="PelixMax",PelixMax1-El Tamaño si Importa (Cam/cine)
+http://209.126.108.87/CAM-PELIS/El%20Tama%c3%b1o%20Si%20Importa%20(2016)%20(1).mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/newsv7/17/01/14/14/48/071686.jpg" group-title="PelixMax",PelixMax1-La Bella Y la Bestia 2017 (Cam/cine)
+http://209.126.108.87/CAM-PELIS/Bella.Bestia.2017.TS.LAT.LINE.avi.mp4
+#EXTINF:-1 tvg-logo="https://i.blogs.es/e45e8c/kong-la-isla-calavera-poster-alternativo-imagen/450_1000.jpg" group-title="PelixMax",PelixMax1-Kong: la Isla Calavera 2017 (Cam/cine)
+http://209.126.108.87/CAM-PELIS/Kong%20La%20Isla%20Calavera%20(2017).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pJzYodp1AQEFtNVCZTGd7hob3Ip.jpg" group-title="PelixMax",PelixMax1-Percy Jackson y el ladrón del rayo
+https://goo.gl/TAolHY
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ZRaV6232h9OpdCrnozOZL5Tkqg.jpg" group-title="PelixMax",Son como niños 2
+https://goo.gl/vigPkw
+#EXTINF:-1 tvg-logo="http://estaticos3.nochedecine.com/wp-content/uploads/2015/02/nt_15_Chappie-interior.jpg" group-title="PelixMax",PelixMax1-Chappie 2015 FullHD
+https://goo.gl/Bhy5mn
+#EXTINF:-1 tvg-logo="http://impawards.com/2015/posters/focus.jpg" group-title="PelixMax",PelixMax1-Focus 2015 FullHD
+https://goo.gl/TeuZhQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/h751e74g1482ahH2Qc6WwLHGKLo.jpg" group-title="PelixMax",PelixMax1-Los Simpson: La pelicula
+https://goo.gl/IXR1Gx
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/11/19/11/59/300800.jpg" group-title="PelixMax",PelixMax1-Una Noche en el Museo 3
+https://goo.gl/hYfwYx
+#EXTINF:-1 tvg-logo="http://images3.wikia.nocookie.net/__cb20110624045947/doblaje/es/images/8/84/The_Transporter.jpg" group-title="PelixMax",PelixMax1-El Transportador
+https://goo.gl/qeqBr7
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/doblaje/images/5/50/Transporter_two_xlg.jpg/revision/latest?cb=20110322225542&path-prefix=es" group-title="PelixMax",PelixMax1-El Transportador 2
+https://goo.gl/5xg02g
+#EXTINF:-1 tvg-logo="http://theoz.cl/videoclub/images/3441_TRANSPORTADOR3.jpg" group-title="PelixMax",PelixMax1-El Transportador 3
+https://goo.gl/HqecMp
+#EXTINF:-1 tvg-logo="http://www.cinecalidad.com/wp-content/uploads/2015/06/heroe-de-centro-comercial-2.jpg" group-title="PelixMax",PelixMax1-Heroe de Centro Comercial 2
+https://goo.gl/ghqixg
+#EXTINF:-1 tvg-logo="http://impawards.com/2016/posters/sully.jpg" group-title="PelixMax",Sully
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21109&authkey=!AH3tbRvQ-cfN7vk
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/3Nu30VFqaxrHjrOBPOqruo7do0E.jpg" group-title="PelixMax",Vamos de polis (2014)
+https://PelixMax1@goo.gl/9CXnC7
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fLGKwU-K45E/VtpBTgYut_I/AAAAAAAA6A4/zvMZkMg9jS0/s1600/Poster%2BKill%2BCommand%2B1.jpg" group-title="PelixMax",Komando kill
+https://goo.gl/jfRg49
+#EXTINF:-1 tvg-logo="http://im.ziffdavisinternational.com/ign_latam/screenshot/default/01mech-madmax-ltamerica-11x17-montage-mini1sht2_tvra.jpg" group-title="PelixMax",Mad Max: Furia en el Camino 2015
+https://onedrive.live.com/download.aspx?cid=489927E64F016220&resid=489927E64F016220%21110&authkey=AIHTlC6B1TCFYVo
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/06/30/13/54/273297.jpg" group-title="PelixMax",El diario de brigdgett 2016
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/9Ju7p4daJi5rcTUghYZxHlP15ia.jpg" group-title="PelixMax",Guardianes de la galaxia (2014)
+https://goo.gl/Twg4iJ
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/8nammLe1xf7eGidS2wAidxRyIow.jpg" group-title="PelixMax",Dragon Ball: La leyenda del dragón Shenlong (1986)
+https://goo.gl/EWwZEP
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/kqmGs9q5WZkxKub60K6pU37GdvU.jpg" group-title="PelixMax",Blair Witch (2016)
+https://goo.gl/p2VccF
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/pt8LmwyG5BiRVUMDsqf2rWFTaXI.jpg" group-title="PelixMax",Clown (2015)
+https://goo.gl/Xrj2iP
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/wjVzh6wbZn2yrSiJ4yv9eTcErqk.jpg" group-title="PelixMax",Los 7 Magnificos
+https://goo.gl/O8jfZo
+#EXTINF:-1 tvg-logo="http://rentacine.com/Site/images/Prueba-de-fuego.jpg" group-title="PelixMax",Maze Runner:Prueba de Fuego 2015 HD
+https://goo.gl/NJOuoH
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/10/26/08/51/578490.jpg" group-title="PelixMax",Underworld 5: Inframundo guerras de sangre 2017
+https://ia801503.us.archive.org/3/items/srregio02020102/un-d3r-w0r1d-b-700d.mp4
+#EXTINF:0 tvg-logo="http://pics.filmaffinity.com/the_huntsman_winter_s_war-879992818-mmed.jpg" group-title="PelixMax",El Cazador y la Reina de Hielo FullHD
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:-1 tvg-name="Todos queremos a alguien" tvg-logo="http://alchile.com.mx/wp-content/uploads/2016/12/IMG-12597538.jpg" group-title="PelixMax", Todos queremos a alguien
+https://ia801507.us.archive.org/4/items/srregio322652652/EDFRED.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/1AAsAMB4IQjYl8lCBc4kmpaIz4Q.jpg" group-title="PelixMax",Scott Pilgrim contra el mundo (2010)
+https://goo.gl/o2sfLV
+#EXTINF:-1 tvg-name="Una buena receta" tvg-logo="http://1.bp.blogspot.com/-jb-mwCT8b6k/VkuHdE1dtcI/AAAAAAAAgrA/oVXoEPUgwjE/s1600/Una_Buena_Receta_Poster_Argentino_JPosters.png" group-title="PelixMax", Una buena receta
+https://archive.org/download/sregio35265/punrt.mp4
+#EXTINF:-1 tvg-name="The convenant" tvg-logo="https://3w46os2x1jd34c87yk1vvkvh-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/The-Covenant-poster-600x847.jpg" group-title="PelixMax", The convenant
+https://ia801507.us.archive.org/4/items/srregio00211652561/7h3C0nV3n4n75u8.mp4
+#EXTINF:-1 tvg-name="La gran muralla" tvg-logo="https://1.bp.blogspot.com/-SuxRj1kt3_w/WGqnwnngG0I/AAAAAAAAk9o/vmAERTp6F_Aoo9P3ErRM9K7dW2m7PusyQCLcB/s00/La_Gran_Muralla_Poster_Final_AR_JPoster.jpg" group-title="PelixMax", La gran muralla
+https://ia801507.us.archive.org/4/items/srregio3452827/mu27364.mp4
+#EXTINF:-1 tvg-name="El aro 3" tvg-logo="https://2.bp.blogspot.com/-ZzC75m-I8Jc/V_WL6p7r0QI/AAAAAAAAff4/SrNVk2-7etETAWYzMQUACva6ke0L6QYFgCLcB/s00/El_Aro_3_Nuevo_Poster_Latino_JPosters.jpg" group-title="PelixMax", El aro 3
+https://ia801507.us.archive.org/4/items/srregio2563541/4r0.mp4
+#EXTINF:-1 tvg-name="Resident evil 6: El capitulo final" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_37645.jpg" group-title="PelixMax", Resident Evil 6: El capitulo final
+https://ia801507.us.archive.org/4/items/SrRegio035103073017/035103073017.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-eErRfQDpXWg/VtSuQVwJoMI/AAAAAAAA5lw/1sqUMqSbaHE/s1600/meet_the_blacks_poster.jpg" group-title="PelixMax",Meet The Black (Parodia La Purga)
+https://goo.gl/rnQpuu
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/busanhaeng-849121503-large.jpg" group-title="PelixMax",Tren A Busan
+https://goo.gl/Wp2NpT
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/el_alien_y_yo-443383039-large.jpg" group-title="PelixMax", El alien y yo
+https://archive.org/download/SrRegio3402/4713Niy0.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/hzFDCtiQ01ptb3nuN76JeQyADtN.jpg" group-title="PelixMax",PelixMax1-La leyenda de Tarzán (2016)
+https://goo.gl/vQVJY8
+#EXTINF:-1 tvg-logo="http://i4.mirror.co.uk/incoming/article2691231.ece/ALTERNATES/s615b/robocop-poster.jpg" group-title="PelixMax", ROBOCOP 2015
+https://ia800305.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:-1 tvg-logo="https://images.interactives.dk/home-alone-1-v3-CTDZNMz_oOhge39paoB_Gw.jpg" group-title="PelixMax",Mi Pobre Angelito 1990
+https://2.bp.blogspot.com/nwdFY-2eQCk1J8AMPiarLWB7fgLKNt9PPybzAzzgwG92LvoRnJlldag-ieLI1kqmPqgJmMmim6KhidddCpXr70fVkOsXSwxs=m37
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/noticias/2016/06-junio/poster-suicide-squad.jpg" group-title="PelixMax",Escuadron Suicida
+https://goo.gl/fdhMNg
+#EXTINF:-1 tvg-logo="https://i.blogs.es/2aded4/sadako-kayako/450_1000.jpg" group-title="PelixMax",Sadako vs Kayako
+https://goo.gl/iU1U32
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/15/03/20/13/13/029067.jpg" group-title="PelixMax",Ciudades de papel 2015
+http://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIfn4zeTzUl9o&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/06-junio/.thumb_Un-holograma-para-el-rey-poster-Tom-Hanks.jpg" group-title="PelixMax",Un Holograma Para El Rey
+https://goo.gl/r9GHi0
+#EXTINF:-1 tvg-logo="http://www.elseptimoarte.net/carteles/no_manches_frida_54145.jpg" group-title="PelixMax",No Manches Frida
+https://goo.gl/7dEAxG
+#EXTINF:-1 tvg-logo="http://www.ultracine.com/wp-content/uploads/2016/03/al-final-del-tunel-poster-716x1024.jpg" group-title="PelixMax",Al Final Del Tunel
+https://goo.gl/7G2ckp
+#EXTINF:-1 tvg-logo="http://hoycinema.abc.es/Media/noticias/ben-hur-k0EI-U1025928889750mH-644x1000@abc.jpg" group-title="PelixMax",Ben-Hur
+https://goo.gl/96X3yP
+#EXTINF:-1 tvg-logo="http://www.impawards.com/intl/mexico/2016/posters/que_culpa_tiene_el_nino_ver3.jpg" group-title="PelixMax",Que Culpa Tiene El Niño
+https://goo.gl/HFDKB9
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/juego-de-armas/103444263-3-esl-ES/Juego-de-armas.jpg" group-title="PelixMax",Juego De Armas
+https://goo.gl/RBNfYt
+#EXTINF:-1 tvg-logo="http://www.canalfreak.net/wp-content/uploads/2016/04/El_Bosque_Siniestro_phixr.jpg" group-title="PelixMax",El Bosque Siniestro
+https://goo.gl/aGG581
+#EXTINF:-1 tvg-logo="http://cde.cinescape.com.pe/ima/0/0/1/3/6/136363/325x457.jpg" group-title="PelixMax",El Conjuro 2
+http://goo.gl/0nR21r
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/04-abril/Guatdefoc-poster.jpg" group-title="PelixMax",GuatDefoc
+https://goo.gl/WTXA94
+#EXTINF:-1 tvg-logo="http://www.cinecalidad.com/wp-content/uploads/2016/04/deadpool.jpg" group-title="PelixMax",PelixMax1-Deadpool (2016) HD
+https://goo.gl/lLjc3a
+#EXTINF:-1 tvg-logo="http://elseptimoarte.net/carteles/442/la_fiesta_de_las_salchichas_59694.jpg" group-title="PelixMax",Fiesta De Salchichas
+https://goo.gl/b9C0QX
+#EXTINF:-1 tvg-logo="http://cochinopop.com/wp/wp-content/uploads/2016/04/Warcraft_Online_1-Sht_Blackhand_LAS.jpg" group-title="PelixMax",Warcraft:Guerra de dos Mundos 2016 FullHD
+https://goo.gl/ZmVKWU
+#EXTINF:-1 tvg-logo="http://a5.mzstatic.com/us/r30/Video50/v4/af/74/fa/af74fa4b-a859-89c4-d8f7-e98e1c928cc7/poster227x227.jpeg" group-title="PelixMax",Yo Soy Furia
+https://goo.gl/1jMnyd
+#EXTINF:-1 tvg-logo="http://elseptimoarte.net/carteles/chapo_el_escape_del_siglo_48026.jpg" group-title="PelixMax",El Chapo El Escape Del Siglo
+http://goo.gl/op524k
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-THk-ZrILDiw/V0aP_tUBtYI/AAAAAAABAVs/DLJxDpGDkrwLvH0G-nFMPsb0pymhCmXOQCLcB/s1600/star_trek_beyond_posters-4.jpg" group-title="PelixMax",Star Trek Beyond
+https://goo.gl/62GF0d
+#EXTINF:-1 tvg-logo="http://static.tvgcdn.net/rovi/showcards/movie/133979/thumbs/17026033_1300x1733.jpg" group-title="PelixMax",The Matrix 1999 FullHD
+https://goo.gl/2nSkgZ
+#EXTINF:-1 tvg-logo="https://bigganjatra.org/data/uploads/2015/05/matrix_the_1999_3132_poster.jpg" group-title="PelixMax",The Matrix Reloaded 2003
+https://goo.gl/c8KDLz
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/8c/72/d3/8c72d38678479c3c23ee041f64e829e3.jpg" group-title="PelixMax",The Matrix Revolutions
+https://goo.gl/V9j9Gm
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/04/12/15/40/193150.jpg" group-title="PelixMax",Capitan America Civil Ward
+https://goo.gl/XCdO2R
+#EXTINF:-1 tvg-logo="http://g01.a.alicdn.com/kf/HTB1IJurKpXXXXbIXpXXq6xXFXXXJ/2015-New-Batman-vs-font-b-Superman-b-font-dawn-of-justice-font-b-Movie-b.jpg" group-title="PelixMax",Batman vs Superman
+https://goo.gl/xT8rNl
+#EXTINF:-1 tvg-logo="http://www.canalfreak.net/wp-content/uploads/2014/07/12_Horas_Para_Sobrevivir_Poster_Oficial_Argentina_JPosters.jpg" group-title="PelixMax",12 Horas Para Sobrevivir
+https://goo.gl/okTeyV
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-y2HVyELIIQg/VpSqFVOiq4I/AAAAAAAArXU/Bor9CC-Kwug/s1600/poster%2Bpelicula%2Bhoras%2Bcontadas.jpg" group-title="PelixMax",Horas Contadas
+https://goo.gl/SyvNCX
+#EXTINF:-1 tvg-logo="https://theworldwentaway.files.wordpress.com/2012/07/siniestro_mx_baja.jpg" group-title="PelixMax",Siniestro
+https://goo.gl/F5NCPj
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3qberXhSdfM/VqHIhfP9anI/AAAAAAAAtC0/srIz_3ua5EE/s1600/poster%2Bmi%2Babuelo%2Bes%2Bun%2Bpeligro.jpg" group-title="PelixMax",Mi Abuelo Es un Peligro
+https://goo.gl/KYCQoX
+#EXTINF:-1 tvg-logo="http://www.cinecalidad.com/wp-content/uploads/2017/01/la-chica-del-tren.jpg" group-title="PelixMax",La Chica del Tren (2016) HD
+https://cmcc365-my.sharepoint.com/personal/john_0019_ceo_admin_edu_pl/_layouts/15/download.aspx?docid=13fa89c2a91e144dda61ce29ae960927b&authkey=AdZ0CEsyDo2Y-OC9vr2n_8M
+#EXTINF:-1 tvg-logo="http://www.cinecalidad.com/wp-content/uploads/2016/12/spectral.jpg" group-title="PelixMax",Spectral (2016) HD
+https://600newlondonhighschoolorg-my.sharepoint.com/personal/john_0019_micro365_club/_layouts/15/download.aspx?guestaccesstoken=7khTHSrUQ%2FAfPeRpeRraHpmAnAfl640BcwJNvNSL5X0%3D&docid=1d4b71217dc8042b88d95bb1afccbe75f&rev=1
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/09/27/17/44/297732.jpg" group-title="PelixMax",El Contador
+https://600newlondonhighschoolorg-my.sharepoint.com/personal/john_0019_micro365_club/_layouts/15/download.aspx?guestaccesstoken=ALY0Zr3Vnfb%2Bmhfv6HmrLvSZDfDGoIJS13%2FmAlB04Tg%3D&docid=1aadd034ba0534117b1b10d1639cc5cee&rev=1
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/09/21/11/00/451315.jpg" group-title="PelixMax",Ouija 2016
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=aExoVm%2Fa%2BUnbEO5sd1VU%2FK9TzsSGD1O%2BV3EG7JhuLfY%3D&docid=1f46c87d90a534a34a3c7bf6e78bc8f90&rev=1
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/08-agosto/.thumb_Una-pareja-dispareja-poster.jpg" group-title="PelixMax",Una Pareja Dispareja
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=L1xcLeZaaC0RnNroupeOyrwLfKOcDoILl9pJ%2FnxSR%2FU%3D&docid=155d4e833091b46e2af22eec8652e629e&rev=1
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/06-junio/morgan.jpg" group-title="PelixMax",Morgan 2017
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=jB%2Fe9NhbBvIApvusiUW1dTsE0C1FJa4s85dUu7zpQdY%3D&docid=19139fa71f76c4627bc4a633d5f80bd46&rev=1
+#EXTINF:0 tvg-logo="https://goo.gl/RyaQRL" group-title="PelixMax",Tortugas Ninja 2
  
-#EXTINF:-1, Boomerang
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/380.m3u8
-#EXTINF:-1,Ceebabies
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/59.m3u8
-#EXTINF:-1, Cartoon
-http://158.69.127.19:8000/live/test1/test1/6817.m3u8
-#EXTINF:-1, Discovery kids
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/56.m3u8
-#EXTINF:-1,Disney jr
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/191.m3u8
-#EXTINF:-1, Disney chanel
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/24.m3u8
-#EXTINF:-1, disney xd
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/111.m3u8
-#EXTINF:-1, Nick
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/181.m3u8
-#EXTINF:-1, Tdn
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/161.m3u8
-#EXTINF:-1, Univision tdn
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/364.m3u8
-#EXTINF:-1, Espn
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/182.m3u8
-#EXTINF:-1, Espn 2
-http://live.tvplayerlatino.com/usuarios/src1/ESPN2/d/playlist.m3u8
-#EXTINF:-1, Fox sports
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/185.m3u8
-#EXTINF:-1, Fox sports 2
-http://p1.iptvprivateserver.tv/live/653270232840/653270232840/96.m3u8
- 
- 
-#EXTINF:-1, Tvc deportes
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
-#EXTINF:-1, tyc
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
-#EXTINF:-1, Tdn
-http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_524_av-p.m3u8
- 
- 
-#EXTINF:-1, FOX
-http://edge262.livesports.pw/live/verfoxespana247756767558f1/index.m3u8
- 
-#EXTINF:-1, AXN
-http://edge264.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
- 
-#EXTINF:-1, TNT
-http://edge261.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
-#EXTINF:-1, CALLE 13 UNIVERSAL
-http://edge263.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
-#EXTINF:-1, Antena 3
-http://edge262.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
-#EXTINF:-1, Antena 3 series
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, La 4
-http://edge263.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
-#EXTINF:-1, Tele 5
-http://edge264.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
-#EXTINF:-1, La sexta
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, Syfy
-http://edge41.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
-#EXTINF:-1, Movistar series
-http://edge261.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
-#EXTINF:-1, Movistar series extra
-http://edge264.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
-#EXTINF:-1, Movistar estrenos
-http://edge262.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
-#EXTINF:-1, Movistar xtra
-http://edge263.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
-#EXTINF:-1, Movistar accion
-http://edge262.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
-#EXTINF:-1, Movistar comedia
-http://edge262.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
-#EXTINF:-1, Movistar cine
-http://edge262.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
-#EXTINF:-1, Movistar cine �
-http://edge264.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8
-#EXTINF:-1, comedia central
-http://edge261.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
-#EXTINF:-1, Cosmo
-http://edge261.livesports.pw/live/vercosmos250d386e5f510f45/index.m3u8
-#EXTINF:0, AMC
-http://edge43.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
-#EXTINF:0, Fdf
-http://edge7.telesport.pw/live/fdf/index.m3u8
-#EXTINF:-1, Mtv
-http://edge263.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8
-#EXTINF:-1, neox
-http://edge263.livesports.pw/live/verneox47d1431c4a6a948281/index.m3u8
-#EXTINF:-1, Energy
-http://edge264.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
-#EXTINF:-1, TV 1
-http://edge262.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
-#EXTINF:-1, Tv 2
-http://edge261.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
-#EXTINF:-1, Tcm
-http://edge261.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
- 
-#EXTINF:-1, 13 tv
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-#EXTINF:-1, History
-http://edge264.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
- 
-#EXTINF:-1, Clan
-http://edge262.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8
-#EXTINF:-1,Boing
-http://edge262.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
-#EXTINF:-1, Disney chanel
-http://edge261.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
-#EXTINF:-1, Baby tv
-http://edge263.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
-#EXTINF:-1, Nick junior
-http://edge261.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8
-#EXTINF:-1,Disney XD
-http://edge263.livesports.pw/live/verdisneyxd30a91c558b9955/index.m3u8
- 
- 
-#EXTINF:-1, Discovery max
-http://edge4.telesport.pw/live/dmax/index.m3u8
-#EXTINF:-1, Crimen+investigacion
-http://edge261.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
-#EXTINF:0, DW Espa�ol Alemania
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?
-#EXTINF:-1,National Geografic
-http://edge42.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
- 
-#EXTINF:-1, Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8
- 
- 
- 
-#EXTINF:-1,M2O
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,CanalExtremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-#EXTINF:-1, Tv 8
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
-#EXTINF:-1,H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-#EXTINF:-1,  ANTIESTRES COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-1, ORBE 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1, CANTINAZO TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
- 
-#EXTINF:-1,Eurosport
-http://edge261.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
-#EXTINF:-1, Movistar futbol
-http://edge263.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
-#EXTINF:-1, bein sport
-http://edge264.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
-#EXTINF:-1 ,Bein LaLiga
-http://edge261.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
-#EXTINF:-1, La Liga Tv
-http://edge263.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
-#EXTINF:-1, Real madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Barca TV  
-http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/barca_bsjr4rw/playlist.m3u8?st=mhLc4UUBuR5O9sVfhjWJ2g&e=1493151322
-#EXTINF:-1, movistar deportes
-http://edge261.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8
-#EXTINF:-1 ,Movistar el Partidazo  
-http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ligarincon_a539aod/playlist.m3u8?st=hoTOIY71pWvBnkjpzD-g6Q&e=1493151501
-#EXTINF:-1 ,Gol Tv  
-http://edge261.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8
-#EXTINF:-1 ,Movistar Deportes 2
-http://edge263.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
- 
-#EXTINF:-1, betis
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
- 
-#EXTINF:-1,Tyc Sports (Argentina)
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
-#EXTINF:-1,EL PINGUINO TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1,Todo Deportes Honduras
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-#EXTINF:-1,Olympic Channel 1 [FHD]
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1,Olympic Channel 2
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
-#EXTINF:-1,DXTV SPORT
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://goo.gl/MLkw5y" group-title="PelixMax",El Chapo El Escape Del Siglo
+http://goo.gl/op524k
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-Tjg8iyh-qLs/V8ihQ6Y-wtI/AAAAAAAAGtk/85HqPYSJJQg5a609R8gQczSrH80pq-SdACLcB/s1600/Los-Ilusionistas-21.jpg" group-title="PelixMax",Los Ilusionistas 2:Nada es lo que parece
+http://goo.gl/SFH0my
+#EXTINF:-1 tvg-logo="http://www.expedientesx.es/wp-content/2012_Poster" group-title="PelixMax",2012
+https://goo.gl/XvH23W
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YySn9-_jhZI/VuBl1Bq9lqI/AAAAAAAAA9U/RiRzxLsPjV8/s1600/terremoto%2Bla%2Bfalla%2Bde%2Bsan%2Bandres.jpg" group-title="PelixMax", La falla de San Andreas FullHD Dual Audio
+https://goo.gl/jkm6QQ
+#EXTINF:-1 tvg-name="" tvg-logo="http://pop.inquirer.net/files/2016/08/GODZILLA-RESURGENCE-poster.jpg" group-title="PelixMax", Godzilla Resurge
+https://goo.gl/q9bAX4
+#EXTINF:-1 tvg-name="" tvg-logo="http://es.web.img3.acsta.net/pictures/14/02/07/11/13/459604.jpg" group-title="PelixMax",Noe
+https://goo.gl/jrtD6a
+#EXTINF:-1 tvg-logo="http://www.tanoshiradio.com/wp-content/uploads/2015/08/LA-MALDICION-EL-INICIO-DEL-FIN-POSTER-WEB.jpg" group-title="PelixMax",La Maldicion El Inico Del Fin
+https://goo.gl/gWJEZq
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/en-el-corazon-del-mar/22781626-8-esl-ES/En-el-corazon-del-mar.jpg" group-title="PelixMax",En El Corazon Del Mar
+https://goo.gl/4BqODN
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/0a/57/ca/0a57ca21247b2036b43d91eb8c487acf.jpg" group-title="PelixMax",Guardianes De La Galaxia
+https://goo.gl/sFaEVq
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/05-mayo/Hardcore-Mision-Extrema-Poster.jpg" group-title="PelixMax",Hardcore Henry: Mision Extrema
+https://goo.gl/m4MRq4
+#EXTINF:-1 tvg-logo="http://a69.g.akamai.net/n/69/10688/v1/img5.allocine.fr/acmedia/medias/nmedia/18/98/18/35/20575675.jpg" group-title="PelixMax",Guerra Mundial Z 2013
+https://goo.gl/pVqtb4
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-chica-danesa/69026400-2-esl-ES/La-chica-danesa.jpg" group-title="PelixMax",La Chica Danesa
+https://goo.gl/nQXbQ5
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/peliculas/wp-content/uploads/2013/06/spectre-cartel3.jpg" group-title="PelixMax",007 Spectre
+https://goo.gl/qKyjeS
+#EXTINF:-1 tvg-name="El atico" tvg-logo="http://static.chilango.com/media/2016/12/07/el-atico.jpg" group-title="PelixMax", El atico
+https://ia801509.us.archive.org/10/items/SrRegio70301549007/70301549007.mp4
+#EXTINF:-1 tvg-name="Marea negra" tvg-logo="http://www.mubis.es/media/articles/14316/156981/poster-final-de-marea-negra-con-mark-wahlberg-original.jpg" group-title="PelixMax", Marea negra
+https://ia801509.us.archive.org/10/items/SrRegio0403403604/0403403604.mkv
+#EXTINF:-1 tvg-name="El renacido" tvg-logo="http://es.web.img2.acsta.net/pictures/15/12/14/16/38/050093.jpg" group-title="PelixMax", El renacido
+https://ia801505.us.archive.org/22/items/SrRegio3703040100/3703040100.mp4
+#EXTINF:-1 tvg-name="La chica danesa" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-chica-danesa/69026400-2-esl-ES/La-chica-danesa.jpg" group-title="PelixMax", La chica danesa
+https://ia801507.us.archive.org/4/items/SrRegio740104040354/740104040354.mp4
+#EXTINF:-1 tvg-name="Masacre en Texas" tvg-logo="http://www.cines.com.py/images/dinamico/peliculas/1328/afiche/opinion-de-masacre-texas-3d.gif" group-title="PelixMax", Masacre en Texas
+https://ia801507.us.archive.org/4/items/SrRegio04540033073045/04540033073045.avi
+#EXTINF:-1 tvg-logo="http://mis-peliculas.com/images/independence-day-2%202016.jpg" group-title="PelixMax",Dia de la independncia 2:Contraataque 2016 Full HD
+https://onedrive.live.com/download?cid=5A23C9A0A095F38E&resid=5A23C9A0A095F38E%21107&authkey=AEqXCde7V5s49sA
+#EXTINF:-1 tvg-name="Compadres" tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/03-marzo/Compadres-poster.jpg" group-title="PelixMax", Compadres
+https://ia801507.us.archive.org/4/items/SrRegio000940035/000940035.mp4
+#EXTINF:-1 tvg-name="Teachers obsesion" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NDMxODk4MV5BMl5BanBnXkFtZTgwMzYyMDE5NzE@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="PelixMax",Teachers Obsesion
+https://ia801507.us.archive.org/4/items/SrRegio73400305/73400305.mp4
+#EXTINF:-1 tvg-name="Poesia sin fin" tvg-logo="http://3.bp.blogspot.com/-WfyTw_6Q5dk/VOJEe11ZqsI/AAAAAAAAVEk/SUGveRvL1RE/s1600/poster_s.jpg" group-title="PelixMax", Poesia sin fin
+https://ia801507.us.archive.org/4/items/SrRegio903514510010/903514510010.mp4
+#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2016/12/The-snare-2017-movie-poster.jpg" group-title="PelixMax",The Snare 2017
+http://goo.gl/ufMlF7
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/4f/22/6e/4f226ed58a6eccb0b80014055f06ae94.jpg" group-title="PelixMax",Fences:Barreras 2016
+https://goo.gl/0TibfL
+#EXTINF:-1 tvg-name="Operacion oculta" tvg-logo="http://pics.filmaffinity.com/incheon_sangryuk_jakjeon_operation_chromite-339211942-large.jpg" group-title="PelixMax", Operacion oculta
+https://ia801507.us.archive.org/4/items/SrRegio09345106080774/09345106080774.mp4
+#EXTINF:-1 tvg-logo="http://www.lashorasperdidas.com/wp-content/uploads/2016/11/ES-ONE-SHEET-CONTRATIEMPO.jpg" group-title="PelixMax",Contratiempo
+https://ia801506.us.archive.org/5/items/SrRegio000704713090/000704713090.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_aLaVYxQ1Dow/TFr5tphB7zI/AAAAAAAAAUk/CluVb5ARmpQ/s1600/thefastfuriousfront2zq7.jpg" group-title="PelixMax",rapido y furioso
+https://2.bp.blogspot.com/fTF0HmZv1lhUsnBRv-ySm1eHjUKnDoXYuxEf12rEpeDPnKR_G1nxvHciXSazdFgHU7v5ZJBmLznQi2YYkTffulmWx4cB4Tz9S_J1OW_7L1yp6W5X5HVE3-W1whVnCXrZlIBifEM=m22
+#EXTINF:-1 tvg-logo="http://mla-s2-p.mlstatic.com/rapido-y-furioso-2-2-fast-2-furious-dvd-original-usado-4125-MLA141981479_5515-F.jpg" group-title="PelixMax",mas rapido mas furioso
+https://2.bp.blogspot.com/Kp21Gz-RCQNJqdqlTr7YEP3V-wQzH26rLSMh-o0ZA293X9pGIogwA6mjWWM107K8bABwxukHcZbc64GZDP1IZZF-_UPyaiVTg3m3psNxRRTChn5qG0DoWwZqwcnb5CoWL7Rhzh4=m22
+#EXTINF:-1 tvg-logo="http://peliculasdlt.com/wp-content/uploads/2015/07/fast-4.jpg" group-title="PelixMax",rapidos y furiosos
+https://2.bp.blogspot.com/Za5f-lqQYNbcXMOOzTQWtnVlZTwS2f39OY2wjh4XuJwmOFoMOPRij0PapUHsSchwqrq0Vg0DBcAXcVlyB40ahFZRLRrSmMLLFMpVKobErY20CJfLJwSG5Zc-D-jLAvhrPgHhYcA=m22
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-7BVlH2wZnZw/VApkPMxu_-I/AAAAAAAAPZQ/JJWoUAmzPJA/s1600/rapidos5.jpg" group-title="PelixMax",rapidos y furioso sincontrol
+https://2.bp.blogspot.com/dXqtfLZs_CNMkKSt3qjdKK0NEy-1fDIyHF0fVgoYjzGkL28CLCLPuBDmnPCU0g3uCz7H984MQGMm5TWxuDGoHbMV8FxmO1ddySK_e8lrL0jwsl68A7354G4uASEt92fBCgkXh00=m22
+#EXTINF:-1 tvg-logo="http://www.canalfreak.net/wp-content/uploads/2013/04/rapido-y-furioso-6.jpg" group-title="PelixMax",rapidos y furiosos 6
+https://2.bp.blogspot.com/V3iLbjzoTgA2sKWPTovFy15mdiiABgtVLs3LNDejE3bFqiMMVLvQXJRpunI65a7GBB-ANDqBKWOgniuqyaXTzPgsAwu_hdabdOq_FTQWsdQ4Wi4ka_ZlbTAFZl3BvU1XZ2E0n7k=m22
+#EXTINF:-1 tvg-logo="http://zonahq.com/wp-content/uploads/2016/05/bn19.jpg",Rapido y furioso reto tokio
+https://2.bp.blogspot.com/--cO8HEI8FzTNDuY2XoU93NtZ5CV85UdSQyDpJKutyfXyNphjfzcxO_TCJHeaOZRnO7DQXt9WSPno-zj85Xqh2pXbLpmXAg-4Opm8qTKAPPApJcjuAZvsv2cEi3osZOYNWwAnSY=m22
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/mm3Ahwv5z32MRs8FTGXC4QrGyN1.jpg" group-title="PelixMax",rapido y furioso 7
+https://2.bp.blogspot.com/kkfX7F7ed7gvMnEtoznkH1sSs1Cz60jaFiKuRVv6xpEFMNjO55YjZO37Kd2jeSawLc5tZhzG5BlfQEqKnk_y82XG4W7jJC6ca8A7a0a87dNoupMWM9aFDbNNr4K_BYrx6t0XNdw=m22
+#EXTINF:-1 tvg-logo="http://anim-arte.com/wp-content/uploads/2012/07/batman-el-caballero-de-la-noche-asciende-critica.jpg" group-title="PelixMax",Batman asciende
+https://2.bp.blogspot.com/r8SuLtX1EuCZgqsUci5VIMaD1npbJ1Ws5kyCFuR-GE_En3GSiPvLPV6tP9gu-XddbRj98uKuDLuwMT14H3l9Jo6YxXnYSRpEcI-jyO4L6uSY74lwJyA8G-HW0SSxh-reHs6sOSk=m22
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/the_dark_knight-102763119-large.jpg" group-title="PelixMax",Batman el caballero de la noche
+https://2.bp.blogspot.com/OFMnqCRHUIDrFLWc1xSzHzo5sAogAlttzNZmykstwg5JmZNnVmHEDOIILnjYsYSVuuScjWYzA2ItXm06zRexBVJfLaSrPH8cXhYIS0Y42xI4MQxdGTHc-5E7i4orhrCXL6LPK4s=m22
+#EXTINF:-1 tvg-logo="http://gstatic.com/tv/thumb/movieposters/35903/p35903_p_v8_ae.jpg" group-title="PelixMax",Batman inicia
+https://2.bp.blogspot.com/zKKPua6feBN2YdyAzIR-DErA9T87GyY_BMMVu8CPbzjA31cMKDTGjKKCBPhCUmw-QD9V8nmyKw_88gOBVTVnxq79ISdP-0ca0sJp-ZmBaUxzqXOa3dX39CLAUm6u6vmxV6ZVHiY=m37
+#EXTINF:-1 tvg-name="Jane wants a boyfriend" tvg-logo="http://gnula.nu/wp-content/uploads/2017/02/Jane_Wants_a_Boyfriend_poster_usa.jpg" group-title="PelixMax", Jane wants a boyfriend
+https://ia801507.us.archive.org/4/items/srregio25252525/343434343434.mp4
+#EXTINF:-1 tvg-name="Catastrofe en la tierra" tvg-logo="http://gnula.nu/wp-content/uploads/2016/12/Earthtastrophe_poster_ingles.jpg" group-title="PelixMax", Catastrofe en la tierra
+https://ia801507.us.archive.org/4/items/srregio.com213546684651/343.mp4
+#EXTINF:-1 tvg-name="Ice sharks" tvg-logo="http://gnula.nu/wp-content/uploads/2016/11/Ice_Sharks_poster_usa.jpg" group-title="PelixMax", Ice sharks
+https://ia801507.us.archive.org/4/items/srregio.com213564/1c35h4rk5.mp4
+#EXTINF:-1 tvg-name="Ovejas y lobos" tvg-logo="http://gnula.nu/wp-content/uploads/2017/01/Volki_i_ovtsy_Beeezumnoe_prevrashchenie_poster_espa%C3%B1ol.jpg" group-title="PelixMax", Ovejas y lobos
+https://ia801507.us.archive.org/4/items/srregio.com3156321321/sh3394ndw07v35.mp4
+#EXTINF:-1 tvg-name="El plan maestro" tvg-logo="https://3.bp.blogspot.com/-iG60jqIDPGU/V1Ov2IU6keI/AAAAAAABA4k/d4NdqgXnRxgMOLn6T1TB9q9x1z7djQRowCLcB/s1600/marauders_poster.jpg" group-title="PelixMax", El plan maestro
+https://ia801507.us.archive.org/4/items/download/srregio2510000054/37p74nm4357r0.mp4
+#EXTINF:-1 tvg-name="La enviada del mal" tvg-logo="http://static.chilango.com/media/2016/10/14/la-enviada-del-mal.jpg" group-title="PelixMax", La enviada del mal
+https://ia801507.us.archive.org/4/items/srregio5252541542/3nv14d4.mp4
 
 #EXTINF:-1,[COLOR red][I][B]-------------------------------PAISES PORTUGAL Y MUCHO MÁS--------------------------------[/B][/I][/COLOR]
 
