@@ -2,6 +2,34 @@
 
 
 
+#EXTINF:1,[COLOR cyan] JHG[/COLOR] [COLOR white] M+ [/COLOR] 
+
+#EXTINF:-1, [COLOR  yellow] Antena 3 [/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/master.m3u8
+#EXTINF:-1, [COLOR  yellow] La Sexta [/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase;=on
+#EXTINF:-1,[COLOR  yellow] A3 Series [/COLOR]
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1,[COLOR  yellow] Neox [/COLOR]
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase;=on
+#EXTINF:-1, [COLOR  yellow] MEGA [/COLOR]
+http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/master.m3u8
+#EXTINF:-1, [COLOR  yellow] TNT [/COLOR]
+http://edge1.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1, [COLOR  yellow] SYFY [/COLOR]
+http://edge1.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1, [COLOR  yellow] dISCOVERY MAX [/COLOR]
+http://edge7.telesport.pw/live/dmax/index.m3u8
+#EXTINF:-1, [COLOR  yellow] [/COLOR]
+
+#EXTINF:-1, [COLOR  yellow] [/COLOR]
+
+#EXTINF:-1, [COLOR  yellow] CAZA Y PESCA [/COLOR]
+http://edge5.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:-1, [COLOR  yellow] FOX [/COLOR]
+http://edge2.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1, [COLOR  yellow] NAT GEO WILD [/COLOR]
+http://edge2.telesport.pw/live/nationalwild/index.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/ff/66/30/ff66305de18fd6fc4995c625a5110d27.jpg" group-title="PelixMax",PelixMax1-Power Rangers 2017 (Cam/cine)
 https://goo.gl/zKGJze
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/67NXPYvK92oQgEQvLppF2Siol9q.jpg" group-title="PelixMax",PelixMax1-The Boss Baby:Jefe en pañales 2017 (Cam/cine)
