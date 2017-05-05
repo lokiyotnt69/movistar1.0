@@ -2,6 +2,38 @@
 
 
 
+
+
+
+
+#EXTINF:1,[COLOR cyan] JHG[/COLOR] [COLOR gold] TDT [/COLOR] 
+
+#EXTINF:-1, [COLOR  purple] LA 1 [/COLOR]
+http://edge8.telesport.pw/live/tve1/index.m3u8
+#EXTINF:-1, [COLOR  purple] LA 1 [/COLOR]
+http://edge7.telesport.pw/live/tve1/index.m3u8
+#EXTINF:-1, [COLOR  purple] CUATRO [/COLOR]
+http://cdn2.shurs.xyz/verdirectotv/4/playlist.m3u8
+#EXTINF:-1, [COLOR  purple] TELECINCO [/COLOR]
+http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8
+#EXTINF:-1, [COLOR  purple] SEXTA[/COLOR]
+http://cdn1.shurs.xyz/verdirectotv/6/playlist.m3u8
+#EXTINF:-1, [COLOR  purple] *** [/COLOR]
+<iframe scrolling="no" marginwidth="0" marginheight="0" frameborder="0" width="650" height="400" allowfullscreen src="http://vercanalestv.com/tv/nacionales/antena-3.html"></iframe>
+#EXTINF:-1, [COLOR  purple] DIVINITY [/COLOR]
+http://cdn1.shurs.xyz/verdirectotv/3/playlist.m3u8
+#EXTINF:-1, [COLOR  purple] NOVA [/COLOR]
+http://cdn1.shurs.xyz/verdirectotv/13/playlist.m3u8
+#EXTINF:-1, [COLOR  purple] FOX [/COLOR]
+http://edge6.telesport.pw/live/foxlatino/index.m3u8
+#EXTINF:-1, [COLOR  purple] MotoGp [/COLOR]
+http://edge3.telesport.pw/live/fox/index.m3u8
+
+
+
+
+
+
 #EXTINF:1,[COLOR cyan] JHG[/COLOR] [COLOR white] M+ [/COLOR] 
 
 #EXTINF:-1, [COLOR  yellow] Antena 3 [/COLOR]
