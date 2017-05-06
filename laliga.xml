@@ -3,79 +3,94 @@
 
 
 
-  <streamingInfos>
-		
-		
-		
-		
-		
-		
-		
-		
-		<item> 
-            <title>[COLOR yellow] *** DEPORTES *** [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow]  LIGA  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGA HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] BEIN LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow] Canal Futbol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/morgan/morgan/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Futbol</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] EUROSPORT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4766.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] EUROSPORT2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4767.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT2</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Gol Tv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol Tv</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] DEPORTES1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] DEPORTES2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultra.implacabili.us/live/eugenia2/santaina2/4784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES2</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		
-		
+
+
+
+<item>
+<title>======= JHGMASTER ESPERAR 5 SEGUNDOS!!!   =======</title>
+<item>
+
+
+
+
+
+
+
+
+
+
+		<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] BEIN SPORTS ESPAÑA[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/beinsport.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+				
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] BEIN LIGA[COLOR red]1[/COLOR] BEIN LIGA</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+	
+				
+				
+				
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] LA LIGA 123 [COLOR red] GOLTV [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/goltv.html</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+
+
+				
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] GOLTV [/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/tv/deportes2/golnuevo.html</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+
+		<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+
+		<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] PARTIDAZO [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/plus-partidazo.html</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+
 		
