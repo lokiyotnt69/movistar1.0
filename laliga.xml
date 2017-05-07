@@ -20,6 +20,7 @@
 
 
 
+
 		<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] BEIN SPORTS ESPAÑA[/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/envivo/beinsport.html</sportsdevil>
@@ -29,7 +30,7 @@
 			
 				
 			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] BEIN LIGA[COLOR red]1[/COLOR] BEIN LIGA</title>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] BEIN LIGA [/COLOR] </title>
             <sportsdevil>http://verdirectotv.com/tv/deportes2/plusliga.html</sportsdevil>
             <referer>http://verdirectotv.com/</referer>
             <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
@@ -95,4 +96,37 @@
             <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
             </item>
 
-		
+										
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+													
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+													
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]Fox Sports[/COLOR]</title>
+            <sportsdevil>http://embed.latino-webtv.com/channels/foxsports.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+            </item>
+			
+			
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Box NAtion[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/boxnation.html</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+            </item>
+
+
