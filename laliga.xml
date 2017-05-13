@@ -6,127 +6,193 @@
 
 
 
-<item>
-<title>======= JHGMASTER ESPERAR 5 SEGUNDOS!!!   =======</title>
-<item>
+<streamingInfos>
 
 
 
 
 
-
-
-
-
-
-
-
-		<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] BEIN SPORTS ESPAÑA[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/beinsport.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-				
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] BEIN LIGA [/COLOR] </title>
-            <sportsdevil>http://verdirectotv.com/tv/deportes2/plusliga.html</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-	
-				
-				
-				
-				
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] GOLTV [COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/goltv.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-
-
-
-				
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] GOLTV [/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/tv/deportes2/golnuevo.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-
-
-		<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] LA LIGA 123[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/laliga123multi1.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-								
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] DEPORTES1[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-
-
-		<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] DEPORTES 2 [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/deportes2.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-								
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]NBA[/COLOR]</title>
-            <sportsdevil>http://latelete.tv/ver-nba-online-en-directo-gratis-por-internet</sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] PARTIDAZO [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/plus-partidazo.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-
-										
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-													
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-													
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]Fox Sports[/COLOR]</title>
-            <sportsdevil>http://embed.latino-webtv.com/channels/foxsports.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-			
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Box NAtion[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/boxnation.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-
-
+   <item> 
+          <title>[ES] C  Canal+ Liga</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7715.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal+ Liga</link> 
+      </item> 
+    <item> 
+          <title>[ES] C  Gol TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7702.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Gol TV</link> 
+      </item> 
+	  <item> 
+          <title>[ES] C  Liga tv HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15429.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Liga tv HD</link> 
+      </item> 
+	   <item> 
+          <title>[ES] C  Deportes</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15434.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Deportes</link> 
+      </item> 
+<item> 
+          <title>[ES] C  Deportes</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/13009.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Deportes</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  M. DEPORTES 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15435.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  M. DEPORTES 2 HD</link> 
+      </item> 
+ <item> 
+          <title>[ES] C  M. DEPORTES 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/12545.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  M. DEPORTES 2 HD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  M. PARTIDAZO HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15431.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  M. PARTIDAZO HD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  Real Madrid</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7614.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Real Madrid</link> 
+      </item> 
+        <item> 
+          <title>[ES] C La Liga TV Bar</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/13006.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La Liga TV Bar</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  LA LIGA BAR TV 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15430.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA BAR TV 1</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BeIN Sports (es)</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15440.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BeIN Sports (es)</link> 
+      </item> 
+<item> 
+          <title>[ES] C  BeIN Sports (es)</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/13279.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BeIN Sports (es)</link> 
+      </item> 
+<item> 
+          <title>[ES] C  BeIN Sports (es)</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15440.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BeIN Sports (es)</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  FUTBOL HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15433.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  F.TBOL HD</link> 
+      </item> 
+ <item> 
+          <title>[ES] C  FUTBOL HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/13008.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  F.TBOL HD</link> 
+      </item> 
+	     <item> 
+          <title>[ES] C  BEIN LA LIGA HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/13709.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C BEIN LA LIGA HD</link> 
+      </item> 
+<item> 
+          <title>[ES] C  BEIN LA LIGA HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C BEIN LA LIGA HD"</link> 
+      </item> 
+ <item> 
+          <title>[ES] C  LA LIGA HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15428.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C LA LIGA HD</link> 
+      </item> 
+<item> 
+          <title>[ES] C  LA LIGA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15441.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C BEIN LA LIGA HD"</link> 
+      </item> 
+ <item> 
+          <title>[ES] C  Eurosport 1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15439.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Eurosport 1 HD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  Eurosport 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7680.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES]  C  Eurosport 1</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  Eurosport 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15475.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Eurosport 2</link> 
+      </item> 
+<item> 
+          <title>[ES] C  LA LIGA TV 1 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15442.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA TV 1 SD</link> 
+      </item> 
+  <item> 
+          <title>[ES] C   LA LIGA TV 2 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15443.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C   LA LIGA TV 2 SD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  LA LIGA TV 3 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15444.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA TV 3 SD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  LA LIGA TV 4 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15445.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA TV 4 SD</link> 
+      </item> 
+<item> 
+          <title>[ES] C  LA LIGA TV 5 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15446.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA TV 5 SD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  LA LIGA TV 6 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15447.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA TV 6 SD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  LA LIGA TV 7 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15448.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA TV 7 SD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  LA LIGA TV 8 SD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15449.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  LA LIGA TV 8 SD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BEIN MAX 1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15450.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 1 HD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BEIN MAX 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15453.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 1</link> 
+      </item> 
+<item> 
+          <title>[ES] C  BEIN MAX 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15451.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 2 HD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BEIN MAX 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15454.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 2</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BEIN MAX 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15455.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 3</link> 
+      </item> 
+     <item> 
+          <title>[ES] C  BEIN MAX 3 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15452.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 3 HD</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BEIN MAX 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15456.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 4</link> 
+      </item> 
+<item> 
+          <title>[ES] C  BEIN MAX 5</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15457.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 5</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BEIN MAX 6</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15458.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 6</link> 
+      </item> 
+        <item> 
+          <title>[ES] C  BEIN MAX 7</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15459.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 7</link> 
+         </item> 
+<item> 
+          <title>[ES] C  BEIN MAX 8</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15460.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  BEIN MAX 8</link> 
+         </item> 
+<item> 
+          <title>[ES] C  MULTIDEPORTES 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15461.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  MULTIDEPORTES 1</link> 
+         </item> 
+<item> 
+          <title>[ES] C  MULTIDEPORTES 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15462.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  MULTIDEPORTES 2</link> 
+         </item> 
+        <item> 
+          <title>[ES] C  MULTIDEPORTES 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15463.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  MULTIDEPORTES 3</link> 
+      </item> 
+<item> 
+          <title>[ES] C  MULTIDEPORTES 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15464.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  MULTIDEPORTES 4</link> 
+      </item> 
