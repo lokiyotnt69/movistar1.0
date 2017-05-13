@@ -5,50 +5,38 @@
 
 
 
-
-
-<item>
-<title>======= JHGMASTER ESPERAR 5 SEGUNDOS!!!   =======</title>
-<item>
-
-
-
-	<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] MOTOGP[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/motogp.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-		<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Formula1[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/formula1.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-								
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-
+       <item> 
+          <title>[COLOR white] MOTOGP [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moto GP</link> 
+      </item> 
+<item> 
+          <title>[COLOR white] *MOTOGP* [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15438.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moto GP</link> 
+      </item> 
+        <item> 
+          <title>[COLOR red] FORMULA 1 [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15437.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moviestar F1</link> 
+      </item> 
+<item> 
+          <title>[COLOR red] FORMULA1* [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moviestar F1</link> 
+      </item> 
+	         <item> 
+          <title>[COLOR white] Moto Gp 2 [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moto GP</link> 
+      </item> 
+<item> 
+          <title>[COLOR white] motogp 3 [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15438.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moto GP</link> 
+      </item> 
+        <item> 
+          <title>[COLOR white] F1 [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15437.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moviestar F1</link> 
+      </item> 
+<item> 
+          <title>[COLOR white] *F1* [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moviestar F1</link> 
+      </item> 
 
 
        
