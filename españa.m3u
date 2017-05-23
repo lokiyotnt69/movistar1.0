@@ -1,5 +1,168 @@
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1, National TV
+http://90.169.232.190:8000/play/NationalTV/index.m3u8
+#EXTINF:-1, DIGI Sport 3
+http://90.169.232.190:8000/play/Sport3/index.m3u8
+#EXTINF:-1, EUROSPORT1HD
+http://90.169.232.190:8000/play/EUROSPORT1HD/index.m3u8
+#EXTINF:-1, DIGI Animal World
+http://90.169.232.190:8000/play/Animal/index.m3u8
+#EXTINF:-1, M. DEP 1 HD
+http://90.169.232.190:8000/play/MDEP1HD/index.m3u8
+#EXTINF:-1, NAT GEO HD
+http://90.169.232.190:8000/play/NATGEo/index.m3u8
+#EXTINF:-1, DIGI Sport 1 HD RO
+http://90.169.232.190:8000/play/Sport1/index.m3u8
+#EXTINF:-1, IBERALIA TV
+http://90.169.232.190:8000/play/IBERALIA/index.m3u8
+#EXTINF:-1, TELECINCO HD
+http://90.169.232.190:8000/play/TELECINCOHD/index.m3u8
+#EXTINF:-1, AMC HD
+http://90.169.232.190:8000/play/AMCHD/index.m3u8
+#EXTINF:-1, Minimax
+http://90.169.232.190:8000/play/Minimax/index.m3u8
+#EXTINF:-1, AXN Romania
+http://90.169.232.190:8000/play/AXNRO/index.m3u8
+#EXTINF:-1, DIGI 24
+http://90.169.232.190:8000/play/DIGI24/index.m3u8
+#EXTINF:-1, Prima
+http://90.169.232.190:8000/play/Prima/index.m3u8
+#EXTINF:-1, ProTV HD
+http://90.169.232.190:8000/play/ProTVHD/index.m3u8
+#EXTINF:-1, CANAL COCINA
+http://90.169.232.190:8000/play/COCINA/index.m3u8
+#EXTINF:-1, FDF
+http://90.169.232.190:8000/play/FDF/index.m3u8
+#EXTINF:-1, CANAL DECASA
+http://90.169.232.190:8000/play/CANALDECASA/index.m3u8
+#EXTINF:-1, TLC RO
+http://90.169.232.190:8000/play/TLC/index.m3u8
+#EXTINF:-1, PLAYBOY TV
+http://90.169.232.190:8000/play/PLAYBOYTV/index.m3u8
+#EXTINF:-1, Eurosport Romania
+http://90.169.232.190:8000/play/EurosportRomania/index.m3u8
+#EXTINF:-1, LA SEXTA HD
+http://90.169.232.190:8000/play/LASEXTA/index.m3u8
+#EXTINF:-1, TELEDEPORTE
+http://90.169.232.190:8000/play/TELEDEPORTE/index.m3u8
+#EXTINF:-1, Diva
+http://90.169.232.190:8000/play/Diva/index.m3u8
+#EXTINF:-1, TOROS TV HD
+http://90.169.232.190:8000/play/TOROStv/index.m3u8
+#EXTINF:-1, Music Channel
+http://90.169.232.190:8000/play/MusicChannel/index.m3u8
+#EXTINF:-1, Acasa TV
+http://90.169.232.190:8000/play/Acasa/index.m3u8
+#EXTINF:-1, Etno
+http://90.169.232.190:8000/play/Etno/index.m3u8
+#EXTINF:-1, DIGI Life
+http://90.169.232.190:8000/play/DIGILife/index.m3u8
+#EXTINF:-1, M.FORMULA1HD
+http://90.169.232.190:8000/play/FORMULA1HD/index.m3u8
+#EXTINF:-1, LA 2
+http://90.169.232.190:8000/play/22/index.m3u8
+#EXTINF:-1, Disney JR
+http://90.169.232.190:8000/play/DisneyJR/index.m3u8
+#EXTINF:-1, ProCinema
+http://90.169.232.190:8000/play/ProCinema/index.m3u8
+#EXTINF:-1, Kanal D
+http://90.169.232.190:8000/play/KanalD/index.m3u8
+#EXTINF:-1, DIGI Sport 2 HD RO
+http://90.169.232.190:8000/play/Sport2/index.m3u8
+#EXTINF:-1, CUATRO HD
+http://90.169.232.190:8000/play/CUATROHD/index.m3u8
+#EXTINF:-1, CANAL ODISEA
+http://90.169.232.190:8000/play/CANALODISEA/index.m3u8
+#EXTINF:-1, Nat Geo Wild RO
+http://90.169.232.190:8000/play/WILDRO/index.m3u8
+#EXTINF:-1, Discovery RO
+http://90.169.232.190:8000/play/DiscoveryRO/index.m3u8
+#EXTINF:-1, DIGI Sport 4
+http://90.169.232.190:8000/play/Sport4/index.m3u8
+#EXTINF:-1, Disney Channel
+http://90.169.232.190:8000/play/DisneyROo/index.m3u8
+#EXTINF:-1, CLAN  TVE
+http://90.169.232.190:8000/play/CLAN/index.m3u8
+#EXTINF:-1, TVR 2
+http://90.169.232.190:8000/play/TVR2/index.m3u8
+#EXTINF:-1, Realitatea
+http://90.169.232.190:8000/play/Realitatea/index.m3u8
+#EXTINF:-1, NICKELODEONHD
+http://90.169.232.190:8000/play/NICKELODEONHD/index.m3u8
+#EXTINF:-1, LA 1 HD
+http://90.169.232.190:8000/play/la1hd/index.m3u8
+#EXTINF:-1, Hora TV
+http://90.169.232.190:8000/play/HoraTV/index.m3u8
+#EXTINF:-1, SuperOne
+http://90.169.232.190:8000/play/SuperOne/index.m3u8
+#EXTINF:-1, DIGI FILM
+http://90.169.232.190:8000/play/DIGIFILM/index.m3u8
+#EXTINF:-1, HISTORY
+http://90.169.232.190:8000/play/HISTORY/index.m3u8
+#EXTINF:-1, Acasa TV Gold
+http://90.169.232.190:8000/play/AcasaGOLD/index.m3u8
+#EXTINF:-1, M.COMEDIA HD
+http://90.169.232.190:8000/play/COMEDIAHD/index.m3u8
+#EXTINF:-1, LALIGATV BAR
+http://90.169.232.190:8000/play/LALIGATV/index.m3u8
+#EXTINF:-1, AXN HD
+http://90.169.232.190:8000/play/AXN/index.m3u8
+#EXTINF:-1, TNT
+http://90.169.232.190:8000/play/TNTRO/index.m3u8
+#EXTINF:-1, Favorit TV
+http://90.169.232.190:8000/play/FavoritTV/index.m3u8
+#EXTINF:-1, H!T Music RO
+http://90.169.232.190:8000/play/H!TMusicRO/index.m3u8
+#EXTINF:-1, Eurosport 2
+http://90.169.232.190:8000/play/Eurosport2/index.m3u8
+#EXTINF:-1, HBO 3 RO
+http://90.169.232.190:8000/play/HBO3/index.m3u8
+#EXTINF:-1, Sport ro
+http://90.169.232.190:8000/play/Sportro/index.m3u8
+#EXTINF:-1, TVR 1
+http://90.169.232.190:8000/play/TVR1/index.m3u8
+#EXTINF:-1, Look Plus
+http://90.169.232.190:8000/play/LOOK/index.m3u8
+#EXTINF:-1, DIGI World
+http://90.169.232.190:8000/play/DIGIWorld/index.m3u8
+#EXTINF:-1, CBS Reality
+http://90.169.232.190:8000/play/CBS/index.m3u8
+#EXTINF:-1, M.MOTOGPHD
+http://90.169.232.190:8000/play/MOTOGPHD/index.m3u8
+#EXTINF:-1, Taraf
+http://90.169.232.190:8000/play/Taraf/index.m3u8
+#EXTINF:-1, DISNEY JR
+http://90.169.232.190:8000/play/DISNEYJR/index.m3u8
+#EXTINF:-1, ANTENA 3 HD
+http://90.169.232.190:8000/play/ANTENA3HD/index.m3u8
+#EXTINF:-1, HBO Romania
+http://90.169.232.190:8000/play/HBO/index.m3u8
+#EXTINF:-1, B1
+http://90.169.232.190:8000/play/B1/index.m3u8
+#EXTINF:-1, Bollywood TV
+http://90.169.232.190:8000/play/BollywoodTV/index.m3u8
+#EXTINF:-1, CALLE 13 HD
+http://90.169.232.190:8000/play/CALLE13HD/index.m3u8
+#EXTINF:-1, KISS TV
+http://90.169.232.190:8000/play/KISS/index.m3u8
+#EXTINF:-1, National Geographic RO
+http://90.169.232.190:8000/play/NationalGeographicRO/index.m3u8
+#EXTINF:-1, U tv
+http://90.169.232.190:8000/play/UU/index.m3u8
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+
+
 #EXTINF:0,ANTENA3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
 #EXTINF:0,LASEXTA
