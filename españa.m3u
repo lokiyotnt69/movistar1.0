@@ -210,7 +210,177 @@ http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/Tv/anime.png" group-title="zona ocio" ,Life Tv
+http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
+#EXTINF:-1, la 1
+http://edge201.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
+#EXTINF:-1, la 2
+http://edge201.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/170px-Telecafe11.png",Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1, AZTECA 13
+http://urtmpkal-f.akamaihd.net/i/0b704irh8_1@492365/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, COMEDY CENTRAL
+http://edge204.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+#EXTINF:-1, ODISEA
+http://edge8.telesport.pw/live/odisea/index.m3u8
+#EXTINF:-1, DIVINITY
+http://edge202.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+#EXTINF:-1, Foro Tv
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_259_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_7942_7_898.png",Teleantioquia HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://lh6.googleusercontent.com/-0vj3JwCG7gY/UY0f-xlZxeI/AAAAAAAACK4/2e7V7B3y_bU/s400/logo%2520de%2520vmastv.png",Ve plus TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png",CosmoVision 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1,CUATRO
+http://edge204.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+#EXTINF:-1,SEÑAL COLOMBIA
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/chunklist_b300000.m3u8
+#EXTINF:-1, Oro mar tv
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1, TELECINCO
+http://edge201.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+#EXTINF:-1, Divinity
+http://cdn2.shurs.xyz/verdirectotv/3/chunks.m3u8?nimblesessionid=10859868
+#EXTINF:-1, Globovision
+http://stream-13.dc3.dailymotion.com/44/dm/1/xio7e2/live.isml/events(live-1495634126)/live-audio=64000-video=420000.m3u8
+#EXTINF:-1, America Tv
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
+#EXTINF:-1, ATV
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
+#EXTINF:-1, LATINA 
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
+#EXTINF:-1, PANAMERICANA
+https://stream-01.dc3.dailymotion.com/12/dm/1/x18w5up/live.isml/events(live-1495698607)/live-audio=64000-video=420000.m3u8
+#EXTINF:-1, Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400" ,--SERIES--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="ESPAÑA",Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/Tv/anime.png" group-title="zona ocio" ,Life Tv
+http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ESPAÑA",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atresmediapublicidad.com/clipping/2015/04/28/00282/31.jpg" group-title="ESPAÑA",Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atresmediapublicidad.com/clipping/2015/04/28/00282/31.jpg" group-title="ESPAÑA",Nova
+#EXTINF:-1, Calle 13
+http://edge7.telesport.pw/live/calle13/index.m3u8
+#EXTINF:-1, # 0
+http://edge6.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+#EXTINF:-1, MOVISTAR SERIES
+http://edge201.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTINF:-1, MOVISTAR SERIES EXTRA
+http://edge204.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/al6y2.png?w=150&h=71" ,FOX
+http://edge3.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/tnt_logo-silver1.jpg?w=150&h=122" ,TNT
+http://edge1.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.wordpress.com/amc-logo/" ,AMC
+http://edge8.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?w=150&h=55" ,AXN
+http://edge1.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1 tvg-logo="http://verplusonline.com/ver-canal-syfy-online-gratis-vivo/" ,SYFY
+http://edge3.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400" ,--PELICULAS--
+#EXTINF:-1, DARK
+http://edge204.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+#EXTINF:-1, Movistar Estrenos
+http://edge3.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1 , Movistar Accion
+http://edge7.telesport.pw/live/plusaccion/index.m3u8
+#EXTINF:-1 , Movistar EXTRA
+http://edge6.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
+#EXTINF:-1 , Movistar COMEDIA
+http://edge5.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+#EXTINF:-1 , Movistar DE CINE
+http://edge202.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+#EXTINF:-1 , TCM
+http://edge6.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
+#EXTINF:-1 , CANAL HOLLYWOOD
+http://edge204.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+#EXTINF:-1 , SYFY
+http://edge203.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+#EXTINF:-1 , CINEMAX
+http://cdn3.shurs.xyz/verliga/4/chunks.m3u8?nimblesessionid=1621574
+#EXTINF:-1 , HBO
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX189KZ6mErhOZCqRiT%2FIdXkSMLbQ4uXo4WD%2F95oYVILDHLvyQXqNSzDg0SL2zJvgeo6Xji1%2BDyuCcg%3D%3D
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400" ,--INFANTILES--
+#EXTINF:-1, ANIME
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1, PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1, BOING
+http://edge3.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
+#EXTINF:-1, NICK
+http://edge3.livesports.pw/live/vernickelones9a7699e72b5a/index.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://edge201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400" ,--CULTURA Y NATURALEZA--
+#EXTINF:-1, DISCOVERY CHANNEL
+http://cdn3.shurs.xyz/verdirectotv/11/chunks.m3u8?nimblesessionid=1568426
+#EXTINF:-1, DMAX
+http://edge8.telesport.pw/live/dmax/index.m3u8
+#EXTINF:-1, CI
+http://edge6.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:-1, CAZA Y PESCA
+http://edge2.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://edge3.telesport.pw/live/nationalgeo/index.m3u8
+#EXTINF:-1, NATGEO WILD
+http://edge1.telesport.pw/live/nationalwild/index.m3u8
+#EXTINF:-1, HISTORIA
+http://edge2.telesport.pw/live/historia/index.m3u8
+#EXTINF:-1, CANAL TOROS
+http://edge5.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
+#EXTINF:-1, A%E
+http://edge204.livesports.pw/live/veraandeesp7a39fa61ef2f05/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400" ,--DEPORTES--
+#EXTINF:-1, MOVISTAR FUTBOL
+http://edge3.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+#EXTINF:-1, MOVISTAR PARTIDAZOS
+http://edge4.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
 
+#EXTINF:-1, LA LIGA TV
+http://edge3.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+#EXTINF:-1, BEING SPORTS LA LIGA
+http://edge6.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
+#EXTINF:-1, MOVISTAR DEPORTES 1
+http://edge4.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8
+#EXTINF:-1, MOVISTAR DEPORTES 2
+http://edge4.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
+#EXTINF:-1, MOVISTAR FORMULA 1
+http://edge4.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+#EXTINF:-1, MOVISTAR MOTO GP
+http://edge3.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
+#EXTINF:-1, GOL TV
+http://edge5.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8
+#EXTINF:-1, VTV
+http://edge3.livesports.pw/live/vervtv6b2da1a89bbd8cf8e1e/index.m3u8
+#EXTINF:-1, Tvc deportes
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
+#EXTINF:-1, DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+#EXTINF:-1, BOX NATION
+http://edge6.livesports.pw/live/verboxnation20d6009b83e8f/index.m3u8
+#EXTINF:-1, VTV
+http://edge6.livesports.pw/live/vervtv6b2da1a89bbd8cf8e1e/index.m3u8
+#EXTINF:-1, TDP
+http://edge1.telesport.pw/live/teledeporte/index.m3u8
+#EXTINF:-1, UFC
+http://stream-13.dc3.dailymotion.com/44/dm/1/xio7e2/live.isml/events(live-1495634126)/live-audio=64000-video=420000.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400" ,--MUSICA--
+#EXTINF:-1 , MTV
+http://edge202.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/03/smart-1.png?w=400" ,--ADULTOS--
+#EXTINF:-1, Hus
+http://edge1.telesport.pw/live/hustler/index.m3u8
+#EXTINF:-1,Venus
+http://edge3.telesport.pw/live/venus/index.m3u8
 #EXTINF: 0, MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
 #EXTINF: 0, Intrusos
