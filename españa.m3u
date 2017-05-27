@@ -6,103 +6,34 @@
 
 
 
-#EXTINF:-1,ANTENA 3
-http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
- 
-#EXTINF:-1, TOROS TV
-http://edge4.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
- 
-#EXTINF:-1,ANTENA 3
-http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
- 
-#EXTINF:-1,LA CUATRO HD
-http://edge204.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
- 
-#EXTINF:-1,CANALES DE ESPAÑA
- 
-#EXTINF:-1,TELECINCO
-http://edge203.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
- 
-#EXTINF:-1,LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1, CANAL GOL TV
-http://edge6.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8
- 
-#EXTINF:-1,MOVISTAR #0
-http://edge4.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
- 
-#EXTINF:-1,MOVISTAR SERIES 1
-http://edge203.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
- 
-#EXTINF:-1,MOVISTAR SERIES XTRA
-http://edge203.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
- 
-#EXTINF:-1,COMEDY CENTRAL
-http://edge204.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
- 
-#EXTINF:-1,CANAL HOOLYWOOD
-http://edge201.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
- 
-#EXTINF:-1,CANAL DARK
-http://edge203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
- 
-#EXTINF:-1,CALLE 13
-http://edge202.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
- 
-#EXTINF:-1,CANAL FDF
-http://edge2.telesport.pw/live/fdf/index.m3u8
- 
-#EXTINF:-1,CANAL NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1,CANAL DIVINITY
-http://edge201.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
- 
-#EXTINF:-1,CANAL ENERGY
-http://edge3.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
- 
-#EXTINF:-1,MOVISTAR ESTRENOS
-http://edge204.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
- 
-#EXTINF:-1,MOVISTAR XTRA
-http://edge5.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
- 
-#EXTINF:-1,MOVISTAR ACCIÓN
-http://edge203.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
- 
-#EXTINF:-1,MOVISTAR COMEDIA
-http://edge6.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
- 
-#EXTINF:-1,MOVISTAR DCINE
-http://edge204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
- 
-#EXTINF:0,MOVISTAR FUTBOL
-http://edge6.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
- 
-#EXTINF:0,MOVISTAR DEPORTE 1
-http://edge4.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8
- 
-#EXTINF:0,MOVISTAR DEPORTE 2
-http://edge5.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
- 
-#EXTINF:0,MOVISTAR FORMULA 1
-http://edge5.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
- 
-#EXTINF:0,MOVISTAR MOTO GP
-http://edge6.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
- 
-#EXTINF:0,MOVISTAR GOLF
-http://edge5.livesports.pw/live/vergolfespef14708285db183/index.m3u8
- 
-#EXTINF:0,EURO SPORT
-http://edge3.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
- 
-#EXTINF:0,EURO SPORT 2 (ESPAÑA)
-http://edge5.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8
- 
 
+#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,[COLOR red] FOX  [/COLOR]
+http://edge2.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1,[COLOR red] TNT  [/COLOR]
+http://edge1.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1,[COLOR red] SYFY  [/COLOR]
+http://edge1.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
+
+#EXTINF:-1,[COLOR red]    [/COLOR]
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
