@@ -6,432 +6,101 @@
 
 
 
-#EXTINF:-1, BT Sport 3 
-http://137.74.107.229:58000/play/a049
-#EXTINF:-1, BT Sport 3 HD
-http://137.74.107.229:58000/play/a04a
-#EXTINF:-1, Box Nation
-http://137.74.107.229:58000/play/a059
-#EXTINF:-1, Chelsea TV
-http://137.74.107.229:58000/play/a053
-#EXTINF:-1, Eir Sport 1
-http://137.74.107.229:58000/play/a04y
-#EXTINF:-1, Eurosport 1
-http://137.74.107.229:58000/play/a051
-#EXTINF:-1,ES:La 1
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/381.m3u8
-#EXTINF:-1,ES:La 2
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/382.m3u8
-#EXTINF:-1,ES:Telecino
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/380.m3u8
-#EXTINF:-1,ES:Canal+
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/392.m3u8
-#EXTINF:-1,ES:Canal+ Series
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/384.m3u8
-#EXTINF:-1,ES:Canal+ Accion
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/391.m3u8
-#EXTINF:-1,ES:Canal+ Comedia
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/390.m3u8
-#EXTINF:-1,ES:Canal+ Dcine
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/389.m3u8
-#EXTINF:-1,ES:Canal+ Estrenos
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/387.m3u8
-#EXTINF:-1,ES:Canal+ Deportes
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/388.m3u8
-#EXTINF:-1,ES:Canal+ Toros
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/383.m3u8
-#EXTINF:-1,ES:Canal+ Futbol
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/386.m3u8
-#EXTINF:-1,ES:Canal+ Liga
-http://iptv.tjurk.com:8000/live/Q9H2nkC2m7/xxm0ObQpkC/385.m3u8
-#EXTINF:-1, Eurosport 2
-http://137.74.107.229:58000/play/a052
-#EXTINF:-1, Racing HD
-http://137.74.107.229:58000/play/a04z
-#EXTINF:-1, Premier Sports HD
-http://137.74.107.229:58000/play/a04x
-#EXTINF:-1, Sky Sport Mix HD
-http://137.74.107.229:58000/play/a04w
-#EXTINF:-1, Sky Sport 1
-http://137.74.107.229:58000/play/a04k
-#EXTINF:-1, Sky Sport 1 HD
-http://137.74.107.229:58000/play/a04l
-#EXTINF:-1, Sky Sport 5 
-http://137.74.107.229:58000/play/a04s
-#EXTINF:-1, Sky Sport 5 HD
-http://137.74.107.229:58000/play/a04t
-#EXTINF:-1, Sky Sport F1
-http://137.74.107.229:58000/play/a04u
-#EXTINF:-1,Sky Sport F1 HD
-http://137.74.107.229:58000/play/a04v
-#EXTINF:-1,SuperSport 1
-http://37.26.84.98:9999/play/a00m
-#EXTINF:-1,SuperSport 2
-http://37.26.84.98:9999/play/a00n
-#EXTINF:-1,SuperSport 3
-http://37.26.84.98:9999/play/a00o
-#EXTINF:-1,SuperSport 4
-http://37.26.84.98:9999/play/a00p
-#EXTINF:-1,SuperSport 5
-http://37.26.84.98:9999/play/a00q
-#EXTINF:-1,Sport2
-http://78.26.128.94:7321/index.php?channel=34
-#EXTINF:-1,Sport1
-http://78.26.128.94:7321/index.php?channel=43
-#EXTINF:-1,Viasat Sport 
-http://78.26.128.94:7321/index.php?channel=143
-#EXTINF:-1,FightBox HD
-http://78.26.128.94:7321/index.php?channel=316
-#EXTINF:-1, Fox Sports 3
-http://181.198.192.193:9002/play/a02k
-#EXTINF:-1, Fox Sports
-http://181.198.192.193:9002/play/a01y
-#EXTINF:-1, ESPN
-http://181.198.192.193:9002/play/a01z
-#EXTINF:-1, ESPN 2
-http://181.198.192.193:9002/play/a020
-#EXTINF:-1, FOX Sports Premium
-http://181.198.192.193:9002/play/a00b
-#EXTINF:-1, Fox Sports 2
-http://181.198.192.193:9002/play/a02j
-#EXTINF:-1, GOL TV
-http://181.198.192.193:9002/play/a021
-#EXTINF:-1, Rai Sport
-http://185.53.161.148:8888/play/a01g
-#EXTINF:-1, Motorvision TV
-http://137.74.107.229:58001/play/a00l
-#EXTINF:-1, BAYERN FC TV FHD
-http://137.74.107.229:58001/play/a01r
-#EXTINF:-1, Sky Sport Bundesliga 4
-http://137.74.107.229:58001/play/a021
-#EXTINF:-1, Sky Sport Bundesliga 3
-http://137.74.107.229:58001/play/a020
-#EXTINF:-1,  Sky Sport Bundesliga 5
-http://137.74.107.229:58001/play/a022
-#EXTINF:-1, Sky Sport Bundesliga 6
-http://137.74.107.229:58001/play/a023
-#EXTINF:-1, Sky Sport Austria
-http://137.74.107.229:58001/play/a01v
-#EXTINF:-1, Sky Sport Bundesliga 9
-http://137.74.107.229:58001/play/a026
-#EXTINF:-1, Sport1 US HD
-http://137.74.107.229:58001/play/a01w
-#EXTINF:-1, Sky Sport Bundesliga 8
-http://137.74.107.229:58001/play/a025
-#EXTINF:-1, Sky Sport Bundesliga 7
-http://137.74.107.229:58001/play/a024
-#EXTINF:-1, Sky Sport Bundesliga 1
-http://137.74.107.229:58001/play/a01x
-#EXTINF:-1, Sky Sport Bundesliga 2
-http://137.74.107.229:58001/play/a01z
-#EXTINF:-1,  SKY Sport News
-http://137.74.107.229:58001/play/a01y
-#EXTINF:-1, ORF Sport  HD
-http://137.74.107.229:58001/play/a01s
-#EXTINF:-1,  Sky Sport Bundesliga 10
-http://137.74.107.229:58001/play/a027
-#EXTINF:-1, Redbull TV HD
-http://137.74.107.229:58000/play/a05a
-#EXTINF:-1, Motors TV
-http://137.74.107.229:58000/play/a050
-#EXTINF:-1, PAC-12 Net. (Los Angeles) HD
-http://137.74.107.229:58002/play/a029
-#EXTINF:-1, FIGHT NETWORK/ MMA NETWORK
-http://137.74.107.229:58002/play/a025
-#EXTINF:-1, WWE HD
-http://137.74.107.229:58002/play/a01n
-#EXTINF:-1,  Bein Sports USA HD
-http://137.74.107.229:58002/play/a01r
-#EXTINF:-1, Tennis Channel HD
-http://137.74.107.229:58002/play/a01q
-#EXTINF:-1, NHL NETWORK
-http://137.74.107.229:58002/play/a01w
-#EXTINF:-1, PAC Network Nationa HD
-http://137.74.107.229:58002/play/a027
-#EXTINF:-1,  FOX SPORTS SOUTH
-http://137.74.107.229:58002/play/a018
-#EXTINF:-1,  FOX-WEST
-http://137.74.107.229:58002/play/a026
-#EXTINF:-1, Astro Sport 4 HD
-http://137.74.107.229:58002/play/a008
-#EXTINF:-1, NBC Golf HD
-http://137.74.107.229:58002/play/a01t
-#EXTINF:-1, ESPN 3
-http://137.74.107.229:58002/play/a024
-#EXTINF:-1, TSN 1 HD
-http://137.74.107.229:58002/play/a001
-#EXTINF:-1, PAC-12 Net. (Oregon) HD
-http://137.74.107.229:58002/play/a02a
-#EXTINF:-1, Astro Cricket HD
-http://137.74.107.229:58002/play/a009
-#EXTINF:-1, AFN SPORTS HD
-http://137.74.107.229:58002/play/a01u
-#EXTINF:-1, Fox Sports 2 HD
-http://137.74.107.229:58002/play/a01z
-#EXTINF:-1, Sportsnet One HD
-http://137.74.107.229:58002/play/a003
-#EXTINF:-1, NBA TV
-http://137.74.107.229:58002/play/a00j
-#EXTINF:-1, ESPN 2
-http://137.74.107.229:58002/play/a023
-#EXTINF:-1, PAC Mountain HD
-http://137.74.107.229:58002/play/a02c
-#EXTINF:-1, ESPN U
-http://137.74.107.229:58002/play/a017
-#EXTINF:-1,  PAC-12 Net. (Washington)  HD
-http://137.74.107.229:58002/play/a02b
-#EXTINF:-1, SEC NETWORK HD
-http://137.74.107.229:58002/play/a020
-#EXTINF:-1, PAC-12 Net. (Bay Area)  HD
-http://137.74.107.229:58002/play/a028
-#EXTINF:-1, Sportsnet Ontario
-http://137.74.107.229:58002/play/a004
-#EXTINF:-1, Sportsnet 360
-http://137.74.107.229:58002/play/a002
-#EXTINF:-1, NFL
-http://137.74.107.229:58002/play/a01v
-#EXTINF:-1, Astro Sport 2 HD
-http://137.74.107.229:58002/play/a007
-#EXTINF:-1, ESPN
-http://137.74.107.229:58002/play/a021
-#EXTINF:-1, NBCSN
-http://137.74.107.229:58002/play/a01s
-#EXTINF:-1, Fox Sports 1 HD
-http://137.74.107.229:58002/play/a01y
-#EXTINF:-1, ESPN HD
-http://137.74.107.229:58002/play/a022
-#EXTINF:-1, Sportsnet World
-http://137.74.107.229:58002/play/a005
-#EXTINF:-1, Astro Sport 1 HD
-http://137.74.107.229:58002/play/a006
-#EXTINF:-1,FOX Sports EDL 1 HD
-http://46.249.60.210:8666/play/a00c
-#EXTINF:-1,Ziggo Sport Select HD
-http://46.249.60.210:8666/play/a016
-#EXTINF:-1,Ziggo Sport Voetbal
-http://46.249.60.210:8666/play/a00y
-#EXTINF:-1,Ziggo Sport Golf
-http://46.249.60.210:8666/play/a00z
-#EXTINF:-1,FOX Sports EDL 3
-http://46.249.60.210:8666/play/a010
-#EXTINF:-1, IN | Star Sports 4
-http://51.15.144.38:6999/play/a01b
-#EXTINF:-1,  IN | Star Sports 1
-http://51.15.144.38:6999/play/a01e
-#EXTINF:-1, EUROSPORTS
-http://51.15.144.38:6999/play/a00f
-#EXTINF:-1,  IN | Star Sports 2
-http://51.15.144.38:6999/play/a01d
-#EXTINF:-1,  IN | Ten Action
-http://51.15.144.38:6999/play/a019
-#EXTINF:-1,  IN | Star Sports 3
-http://51.15.144.38:6999/play/a01c
-#EXTINF:-1, REDBULL
-http://51.15.144.38:6999/play/a00q
-#EXTINF:-1,  IN | Ten Sports
-http://51.15.144.38:6999/play/a018
-#EXTINF:-1, BBC 1 London
-http://137.74.107.229:58000/play/a007
-#EXTINF:-1, BBC 1 SOCTLAND HD
-http://137.74.107.229:58000/play/a002
-#EXTINF:-1, BBC 1 WALES HD
-http://137.74.107.229:58000/play/a005
-#EXTINF:-1, BBC 1 HD
-http://137.74.107.229:58000/play/a006
-#EXTINF:-1,AV_1
-acestream://a16800843a07936b5abbd394f5265950d416d21e
-#EXTINF:-1,AV_2
-acestream://bdfadd4d0395bccb8721c528cd5560468cccbd89
-#EXTINF:-1,AV_3
-acestream://3f8e4ac1381a1e8d954e72647e77198901cea11e
-#EXTINF:-1,AV_4
-acestream://db6ac226f9f28c5f948a53e3f8e865d727d20281
-#EXTINF:-1,AV_5 
-acestream://9dc0519f9b4fdadef70feef6dd51026cd8e4eaa7
-#EXTINF:-1,AV_6 
-acestream://9dc0519f9b4fdadef70feef6dd51026cd8e4eaa7
-#EXTINF:-1,AV_7
-acestream://c4fae9f2d3b2299de258e9f2f4fbc45e3fcefda0
-#EXTINF:-1,AV_8
-acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3
-#EXTINF:-1,AV_9
-acestream://b7489f7ede2606dc225425d1f31b5c7cbb5003e3
-#EXTINF:-1,AV_11
-acestream://ff270c4d474a57e66b8bf03548f005974753c843
-#EXTINF:-1,AV_12
-acestream://0e7968faddf24d9702c1809d5aea6c80e95779a1
-#EXTINF:-1,AV_13
-acestream://974903257b1aea10203b4d14d781b4bf58a31f5c
-#EXTINF:-1,AV_14
-acestream://974903257b1aea10203b4d14d781b4bf58a31f5c
-#EXTINF:-1,AV_15
-acestream://807379837b9782d752b7530745fc0925b08e205b
-#EXTINF:-1,AV_16
-acestream://807379837b9782d752b7530745fc0925b08e205b
-#EXTINF:-1,AV_17
-acestream://15f72b1fd8e9f90758f3a5a33437abf43863901d
-#EXTINF:-1,AV_18
-acestream://15f72b1fd8e9f90758f3a5a33437abf43863901d
-#EXTINF:-1,AV_19
-acestream://7e5d84b1d72b717d9f9fafa348be8902f80c7d15
-#EXTINF:-1,AV_20
-acestream://7e5d84b1d72b717d9f9fafa348be8902f80c7d15
-#EXTINF:-1,AV_21
-acestream://ee832078a13bce64afc79a70a8104a7399c6d84e
-#EXTINF:-1,AV_22
-acestream://7cfa09ccca24f096145dc958b8462737965d1907
-#EXTINF:-1,AV_23
-acestream://20a660ce4d787dd1e32235c8fb0594f21844ac76
-#EXTINF:-1,AV_24
-acestream://0f43f810f4d55b51e206462eb64981bcb0230efb
-#EXTINF:-1,AV_25
-acestream://be74b381cd347d3c88bebe48ebabca443b233196
-#EXTINF:-1,AV_26
-acestream://be74b381cd347d3c88bebe48ebabca443b233196
-#EXTINF:-1,AV_27
-acestream://dd7b7780bb13ce3757827f301c761ebe17a19015
-#EXTINF:-1,AV_28
-acestream://dd7b7780bb13ce3757827f301c761ebe17a19015
-#EXTINF:-1,AV_29
-acestream://90176444c50df6c9a60acdd488a65e1593f9e869
-#EXTINF:-1,AV_30
-acestream://1775d7b4d9bbb847d0570fa98d9828e195af35fc
-#EXTINF:-1,AV_31
-acestream://c6ad38556a1fc099fb220d5c66932c5c7fe2da2e
-#EXTINF:-1,Arena Sport 1 HD
-acestream://4bfba5f4059e58d80dc56b37cec9e9db6b70a10c
-#EXTINF:-1,BT Sport 1
-acestream://e502c197dde3921551957ef2ec08fc6bbdc663ae
-#EXTINF:-1,BT Sport 2
-acestream://04b38c71065be18d799edf8c37d63e738030b84d
-#EXTINF:-1,BT Sport ESPN
-acestream://f4e2ade22f407fe567728923cbbe1ccb5b43a9df
-#EXTINF:-1,Eurosport 1
-acestream://0b12ab3932b41fe686cd5746b55f8b7b730be23d
-#EXTINF:-1,Eurosport 1 HD
-acestream://a091dcd6ca1dd93153cc02b60c636468b5f9b307
-#EXTINF:-1,Eurosport 2
-acestream://d5084c1860732733fa44fda6ab58fe326d71de26
-#EXTINF:-1,Eurosport 2 HD
-acestream://25ea35390f4cf8efebc5306678c7443c5b4cba31
-#EXTINF:-1,Eurosport News
-acestream://3ed23bb5260dc05c6cfb1dc23276a3a177c73c27
-#EXTINF:-1,Extreme Sports
-acestream://ad2d4239ddb6fed3778c6191dc51f92dad3d6a42
-#EXTINF:-1,Idman TV
-acestream://ddf7846c38f010ead7bae8304e17b3b00da4c23a
-#EXTINF:-1,Kazsport
-acestream://ae1f4846d3714d27f8b074457f6f36ed1d5f12a1
-#EXTINF:-1,Real Madrid TV
-acestream://677b613d289b71812cbee35c6948a27161a50b7f
-#EXTINF:-1,Sky Sports 1
-acestream://aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1
-#EXTINF:-1,Sky Sports 2
-acestream://6b2fb9a9e67aaabd63004059147dfdc46e882aba
-#EXTINF:-1,Sky Sports 3
-acestream://4dbce55abecd154ff71b3477a332bd63611309e5
-#EXTINF:-1,Sky Sports 4
-acestream://969a42388e101e6c6d9574a311e4b387a6ff1413
-#EXTINF:-1,Sky Sports F1
-acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295
-#EXTINF:-1,Sky Sports F1
-acestream://53793f3854af450d1c62dc9c3f659e60e7b99400
-#EXTINF:-1,Sky Sports F1
-acestream://3514daab01ff0cb95f44564928a98e11e6df1bb7
-#EXTINF:-1,Sky Sports F1
-acestream://b2d321c923664cac3070d63d3f958c1433fa8e76
-#EXTINF:-1,Sport 1 LT
-acestream://0b48bf1261368b82637d8a26eb4457d54c80f3e1
-#EXTINF:-1,Sport 5+ Live HD
-acestream://9e0a489436b0859e20098fc3f81e07abb4c5a612
-#EXTINF:-1,Sportsnet World
-acestream://aadb29184bf36f26e486f4a81e3986928a2037bc
-#EXTINF:-1,Super Tennis HD
-acestream://9299a8544c491a50661f97977810d6c6ddaaea8e
-#EXTINF:-1,TSN 1
-acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225
-#EXTINF:-1,TSN 1 HD
-acestream://54947b5f71969432e9f9ada50c7b34b7a20104b2
-#EXTINF:-1,Viasat Fotboll
-acestream://1c16d9ce10b2fb3e2ceac263970d9c2464a0b305
-#EXTINF:-1,Viasat Golf
-acestream://9802a03f4ae299a97eac0077c67c16d4e0d6f0a2
-#EXTINF:-1,Viasat Hockey
-acestream://7a73b3500cedc9f986ba0ac26776a2be236f71e4
-#EXTINF:-1,Viasat Motor
-acestream://0afc6b95e79f63b7e0f00484453d5cc0c1a67290
-#EXTINF:-1,Viasat Sport
-acestream://bda6fee6e3ccd97f75df694b81bb14c357cab815
-#EXTINF:-1,Viasat Sport Baltic
-acestream://590a12bb62592b5ead88e9982ed5cda1a09a3b18
-#EXTINF:-1,Viasat Sport HD
-acestream://f2900829ba91d106801c8727ace3c02a118e9fd5
-#EXTINF:-1,XSport
-acestream://25a7871050c5a6940579cd94df8543f1c8825a24
-#EXTINF:-1,КХЛ HD
-acestream://a829865e3434e35e209af5c6ab0aaee2ed3c641d
-#EXTINF:-1,КХЛ ТВ
-acestream://d3a19ca995ac00def6af7f4cca956d575f7ef4d8
-#EXTINF:-1,Конный мир
-acestream://d1fe68d95dd9a05c37e54ee7ad521cf5be61936d
-#EXTINF:-1,Матч ТВ
-acestream://5e86cbbb5eaab128fdc4d744ee679c53433ec92a
-#EXTINF:-1,Матч ТВ HD
-acestream://56ecc8ebbed36da6d2cb60185a4db2f7df4e7125
-#EXTINF:-1,Матч! Арена
-acestream://2a789f536f4f95192bafd9b7613c521daad480f5
-#EXTINF:-1,Матч! Арена HD
-acestream://191fc41f481deddbd1befeb53cdd6bacc1ade15e
-#EXTINF:-1,Матч! Боец
-acestream://92184883a7e93fe1c6f308482a1d78337c9b1175
-#EXTINF:-1,Матч! Боец
-acestream://3eb7c9275161e13797ee6e38b4bb3d9ff3bfef73
-#EXTINF:-1,Матч! Игра
-acestream://086f1ec55f6080823028b0927da9d9daf3fe4aaf
-#EXTINF:-1,Матч! Игра HD
-acestream://12bb455d456f960af8aca7dc135fa464e4b80ca1
-#EXTINF:-1,Матч! Наш Спорт
-acestream://4fe5450e2b241b937e2056ae73b662f76a0f8629
-#EXTINF:-1,Матч! Планета
-acestream://b10a58180c81cd987a256c561776b7db20a4cccc
-#EXTINF:-1,Матч! Футбол 1
-acestream://be50771e8d9968f256312932e530e13a1883b2c5
-#EXTINF:-1,Матч! Футбол 1 HD
-acestream://dec258c7ff96e8b5787fdaf68f9100b328ac90f1
-#EXTINF:-1,Матч! Футбол 1 HD Резерв 1
-acestream://ab6d4104c2a1ebf7b76f273bf7b6ea63762e22d4
-#EXTINF:-1,Матч! Футбол 1 HD Резерв 2
-acestream://f2c45a93e7d9e30e069fc85190a4e359298f6e1a
-#EXTINF:-1,Матч! Футбол 1 HD Резерв 3
-acestream://6c007115e3928abea72e235d8ea0da5f3a9555d6
-#EXTINF:-1,Матч! Футбол 1 Резерв 1
-acestream://71e0835ec33d5f383c5476d7181251a7f25d34e6
-#EXTINF:-1,Матч! Футбол 1 Резерв 2
-acestream://62c416b2dfd5e098e3541ba1e76c7c64f159f576
-#EXTINF:-1,Матч! Футбол 1 Резерв 3
-acestream://dd8236b486cd028b4314a4fccd72941c46b24a97
-#EXTINF:-1,Матч! Футбол 2
-acestream://96bc9a1627a813b8a59c9bc1c5f959ecfe27ef41
-#EXTINF:-1,Матч! Футбол 2 HD
-acestream://00fc74ade5ec3c63763f6d3190f2323d6f6fcb77
-#EXTINF:-1,Матч! Футбол 3
-acestream://40aa2de69e89ff5e99b8a11f5e6e5fdc83cba191
-#EXTINF:-1,Матч! Футбол 3 HD
-acestream://4d1c0ab415bdd8e1db3062b41918782f5bcca774
-#EXTINF:-1,Наш футбол HD
-acestream://3ea9d83a91347f6b7bcabeb89b3c5de3dff2cf75
-#EXTINF:-1,Спорт 1
-acestream://a2058738fbb658147e411ac047a373273783743a
-#EXTINF:-1,Спорт 2
-acestream://75f57785eaef12c2d50015c7bd795cdf94a47047
-#EXTINF:-1,Футбол 1
-acestream://624b71dd423cf397eb66c9c56dd36e0da36eb83f
-#EXTINF:-1,Футбол 2
-acestream://cf197405805b7d8d7034f9fa1afd831d7c1015a0
-
-
-
-
+#EXTINF:-1,ANTENA 3
+http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
+ 
+#EXTINF:-1, TOROS TV
+http://edge4.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
+ 
+#EXTINF:-1,ANTENA 3
+http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
+ 
+#EXTINF:-1,LA CUATRO HD
+http://edge204.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+ 
+#EXTINF:-1,CANALES DE ESPAÑA
+ 
+#EXTINF:-1,TELECINCO
+http://edge203.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+ 
+#EXTINF:-1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1, CANAL GOL TV
+http://edge6.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR #0
+http://edge4.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR SERIES 1
+http://edge203.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR SERIES XTRA
+http://edge203.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+ 
+#EXTINF:-1,COMEDY CENTRAL
+http://edge204.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+ 
+#EXTINF:-1,CANAL HOOLYWOOD
+http://edge201.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+ 
+#EXTINF:-1,CANAL DARK
+http://edge203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+ 
+#EXTINF:-1,CALLE 13
+http://edge202.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+ 
+#EXTINF:-1,CANAL FDF
+http://edge2.telesport.pw/live/fdf/index.m3u8
+ 
+#EXTINF:-1,CANAL NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,CANAL DIVINITY
+http://edge201.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+ 
+#EXTINF:-1,CANAL ENERGY
+http://edge3.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://edge204.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR XTRA
+http://edge5.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR ACCIÓN
+http://edge203.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR COMEDIA
+http://edge6.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR DCINE
+http://edge204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+ 
+#EXTINF:0,MOVISTAR FUTBOL
+http://edge6.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+ 
+#EXTINF:0,MOVISTAR DEPORTE 1
+http://edge4.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8
+ 
+#EXTINF:0,MOVISTAR DEPORTE 2
+http://edge5.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
+ 
+#EXTINF:0,MOVISTAR FORMULA 1
+http://edge5.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+ 
+#EXTINF:0,MOVISTAR MOTO GP
+http://edge6.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
+ 
+#EXTINF:0,MOVISTAR GOLF
+http://edge5.livesports.pw/live/vergolfespef14708285db183/index.m3u8
+ 
+#EXTINF:0,EURO SPORT
+http://edge3.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
+ 
+#EXTINF:0,EURO SPORT 2 (ESPAÑA)
+http://edge5.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8
+ 
 
 
 
