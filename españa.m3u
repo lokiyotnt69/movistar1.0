@@ -45,11 +45,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 
 
 
+#EXTINF:-1,[COLOR red]*#0 [/COLOR]
+http://edge2.telesport.pw/live/plus1/index.m3u8
+#EXTINF:-1,[COLOR red]*#0 [/COLOR]
+http://edge2.telesport.pw/live/plus1/15909.ts
 #EXTINF:-1,[COLOR red]    [/COLOR]
 
-#EXTINF:-1,[COLOR red]    [/COLOR]
-
-#EXTINF:-1,[COLOR red]    [/COLOR]
 #EXTINF:-1,[COLOR red]    [/COLOR]
 
 #EXTINF:-1,[COLOR red]    [/COLOR]
