@@ -24,12 +24,6 @@
 <fanart></fanart>
 </item>
  
-<item>
-<title>[COLOR blue] [I]DIMSPORTS[/I] [/COLOR] [COLOR Lime] Live Sports [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]LIVE FOOTBALL VIDEO[/I] [/COLOR] [COLOR Lime] Live Sports [/COLOR]</title>
@@ -345,6 +339,14 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=Paktv%20sports&amp;url=sss</jsonrpc>
 <thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR blue] [I]DIMSPORTS[/I] [/COLOR] [COLOR Lime] Live Sports [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR blue] .Zem TV  Sports[/COLOR]</title>
