@@ -20,35 +20,78 @@ http://edge1204.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,[COLOR red]*A3S [/COLOR]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1,[COLOR red]*ATRESERIES HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,[COLOR red]*LA SEXTA [/COLOR]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1,[COLOR red]*LA SEXTA[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,[COLOR red]*LASEXTA[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
 #EXTINF:-1,[COLOR red]*CUATRO [/COLOR]
 http://82.192.80.196:8088/live/cuatrorind/playlist.m3u8?id=92440&wowzasessionid=3675951543&pk=d75c6696f93a89a8eb82979c6c0a254fa8f8fb7f93a6222382325d2a9a2d5b16
 #EXTINF:-1,[COLOR red]*TELECINCO [/COLOR]
 http://cdn3.shurs.xyz/verdirectotv/1/chunks.m3u8?nimblesessionid=2143270
-#EXTINF:-1,[COLOR red] ANTENA 3[/COLOR]
+#EXTINF:-1,[COLOR red]*ANTENA 3[/COLOR]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR red] LA SEXTA[/COLOR]
+#EXTINF:-1,[COLOR red]*ANTENA 3[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red]*LA SEXTA[/COLOR]
 http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Sur - Spanish
-http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/542.m3u8
-#EXTINF:-1,COLOR red] MEGA[/COLOR]
+#EXTINF:-1,[COLOR red]*LA SEXTA[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,COLOR red]*MEGA[/COLOR]
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR red]ATRESERIES HD[/COLOR]
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,[COLOR red]*MEGA[/COLOR]
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,[COLOR red]*MEGA[/COLOR]
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1,[COLOR red]*REAL MADRID TV[/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR red] REAL MADRID TV[/COLOR]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red] CANAL EXTREMADURA[/COLOR]
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:0,[COLOR red]*AtreSeries[/COLOR]
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:0,[COLOR red]*13TV[/COLOR]
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:0,[COLOR red]*CyL7[/COLOR]
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:0,[COLOR red]*Telemadrid[/COLOR]
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:0,[COLOR red]*TvGalicia[/COLOR]
+http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8
+#EXTINF:0,[COLOR red]*CanalExtremadura[/COLOR]
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0,[COLOR red]*Castilla-LaManchaTv[/COLOR]
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+#EXTINF:0,[COLOR red]*AndaluciaTv[/COLOR]
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,7[COLOR red]*TVMURCIA[/COLOR]
+rtmp://flash0.80670-live0.dna.qbrick.com/80670-live0/murciatv
+#EXTINF:0,[COLOR red]*RTPAAsturias[/COLOR]
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0,[COLOR red]*RtvCe[/COLOR]
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0,[COLOR red]*8Tv[/COLOR]
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:0,[COLOR red]*PopularTvCantabria[/COLOR]
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:0,[COLOR red]*eitbEuskadi[/COLOR]
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
+#EXTINF:0,[COLOR red]*HuelvaTv[/COLOR]
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:0,[COLOR red]*ESPECIAL Viajar[/COLOR]
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:0,[COLOR red]*BETISTV[/COLOR]
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
 
 
 
 
 
 
-
-#EXTINF:-1,[COLOR red]*#0 [/COLOR]
-http://edge2.telesport.pw/live/plus1/index.m3u8
-#EXTINF:-1,[COLOR red]*#0 [/COLOR]
-http://edge2.telesport.pw/live/plus1/15909.ts
 #EXTINF:-1,[COLOR red]    [/COLOR]
 
 #EXTINF:-1,[COLOR red]    [/COLOR]
@@ -64,160 +107,8 @@ http://edge2.telesport.pw/live/plus1/15909.ts
 #EXTINF:-1,[COLOR red]    [/COLOR]
 
 #EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1, ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Sur - Spanish
-http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/542.m3u8
-#EXTINF:-1, MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1, REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, CANAL EXTREMADURA
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="ESPAÑA",Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/megatvusa.png" group-title="ESPAÑA",Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ESPAÑA",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atresmediapublicidad.com/clipping/2015/04/28/00282/31.jpg" group-title="ESPAÑA",Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1,LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,La sexta 2
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,La sexta 3
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:0,ANTENA3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-#EXTINF:-1, Antena 3 Internacional
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:0,LASEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-#EXTINF:0,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
-#EXTINF:0,AtreSeries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
-#EXTINF:0,13TV
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-#EXTINF:0,CyL7
-http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-#EXTINF:0,Telemadrid
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
-#EXTINF:0,TvGalicia
-http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8
-#EXTINF:0,CanalExtremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-#EXTINF:0,Castilla-LaManchaTv
-http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
-#EXTINF:0,AndaluciaTv
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:0,7TVMURCIA
-rtmp://flash0.80670-live0.dna.qbrick.com/80670-live0/murciatv
-#EXTINF:0,RTPAAsturias
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:0,RtvCe
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0,8Tv
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
-#EXTINF:0,PopularTvCantabria
-http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
-#EXTINF:0,eitbEuskadi
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
-#EXTINF:0,HuelvaTv
-http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
-#EXTINF:0,ESPECIALViajar
-http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
-#EXTINF:0,BETISTV
-http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/al6y2.png?w=150&h=71" ,FOX
-http://edge5.telesport.pw/live/fox/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvsmartv.wordpress.com/amc-logo/" ,AMC
-http://edge8.telesport.pw/live/amc/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?w=150&h=55" ,AXN
-http://edge4.telesport.pw/live/axn/index.m3u8
-#EXTINF:-1 tvg-logo="http://verplusonline.com/ver-canal-syfy-online-gratis-vivo/" ,SYFY
-#EXTINF:-1, DMAX
-http://edge8.telesport.pw/live/dmax/index.m3u8
-#EXTINF:-1, CI
-http://edge2.telesport.pw/live/canalcrimen/index.m3u8
-#EXTINF:-1, CAZA Y PESCA
-http://edge2.telesport.pw/live/cazaypesca/index.m3u8
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-http://edge4.telesport.pw/live/nationalgeo/index.m3u8
-#EXTINF:-1, NATGEO WILD
-http://edge2.telesport.pw/live/nationalwild/index.m3u8
-#EXTINF:-1, HISTORIA
-http://edge2.telesport.pw/live/historia/index.m3u8
-#EXTINF:-1, ODISEA
-http://edge8.telesport.pw/live/odisea/index.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18P1fDzHw3Nx8UGjCyjqNFCV5L0FrlQs7mGAF%2FdMrHXs7tPa9cXqCQvgnSxn3BwK8WjnSo%2BB9atFA%3D%3D
 
-#EXTINF:-1,fox
-http://edge6.telesport.pw/live/fox/index.m3u8
-#EXTINF:-1,foxlife
-http://edge2.telesport.pw/live/foxlife/index.m3u8
-#EXTINF:-1,axn
-http://edge1.telesport.pw/live/axn/index.m3u8
-#EXTINF:-1,canal plus
-http://edge6.telesport.pw/live/plus1/index.m3u8
-#EXTINF:-1,movistar estrenos
-http://edge6.telesport.pw/live/plusestrenos/index.m3u8
-#EXTINF:-1,movistar accion
-http://edge6.telesport.pw/live/plusaccion/index.m3u8
-#EXTINF:-1,movistar comedia
-http://cdn2.shurs.xyz/verliga/1/playlist.m3u8
-#EXTINF:-1,movistar dcine
-http://cdn2.shurs.xyz/verliga/3/playlist.m3u8
-#EXTINF:-1,amc
-http://edge6.telesport.pw/live/amc/index.m3u8
-#EXTINF:-1,mtv
-http://edge7.telesport.pw/live/mtv/index.m3u8
-#EXTINF:-1,tnt
-http://edge1.telesport.pw/live/tnt/index.m3u8
-#EXTINF:-1,syfy
-http://edge4.telesport.pw/live/syfy/index.m3u8
-#EXTINF:-1,discovery max
-http://edge3.telesport.pw/live/dmax/index.m3u8
-#EXTINF:-1,dicovery crimen investigation
-http://edge8.telesport.pw/live/canalcrimen/index.m3u8
-#EXTINF:-1,natgeo
-http://edge5.telesport.pw/live/nationalgeo/index.m3u8
-#EXTINF:-1,history
-http://edge6.telesport.pw/live/historia/index.m3u8
-#EXTINF:-1,natgeo wild
-http://edge7.telesport.pw/live/nationalwild/index.m3u8
-#EXTINF:-1,telemundo
-http://edge5.telesport.pw/live/telemundo/index.m3u8
-#EXTINF:-1,foxlatino
-http://edge3.telesport.pw/live/foxlatino/index.m3u8
-#EXTINF:-1,Paramount Channel
-http://cdn2.shurs.xyz/verdirectotv/5/playlist.m3u8
-#EXTINF:-1,Comedy Central
-http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8
-#EXTINF:-1,Hollywood
-http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
-#EXTINF:-1,Discovery
-http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8
-#EXTINF:-1,Cinemax
-http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
-#EXTINF:-1,Canal Cocina
-http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
-#EXTINF:-1,RCN
-http://cdn2.shurs.xyz/verliga/8/playlist.m3u8
-#EXTINF:-1,movistar deportes1
-http://edge11.verliga.me/live/plusdeportes/index.m3u8
-#EXTINF:-1,movistar deportes2
-http://edge1.verliga1.pw/live/plusdeportes2/index.m3u8
-#EXTINF:-1,movistar golf
-http://edge6.telesport.pw/live/golf/index.m3u8
-#EXTINF:-1,CDF
-http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
+
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
