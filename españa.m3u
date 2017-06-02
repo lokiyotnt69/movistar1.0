@@ -4,6 +4,555 @@
 
 #EXTINF:-1,[COLOR red][I][B]---------------NUEVA LISTA-------TDT----------------[/B][/I][/COLOR]
 
+#EXTINF:-1,  BEIN LA LIGA
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/92.ts
+#EXTINF:-1, BEIN LA LIGA (2)
+http://93.158.220.133:5000/play/a027
+#EXTINF:-1, BEIN LA LIGA (3)
+http://s1.miip.tv:8000/live/stalker2/stalker2/152.ts
+#EXTINF:-1,  BEIN LA LIGA 1
+http://93.158.220.149:5001/play/a00n
+#EXTINF:-1, BEIN MAX 1
+http://93.158.220.133:5000/play/a043
+#EXTINF:-1,  BEIN MAX 1 (2)
+http://93.158.220.149:5001/play/a00s
+#EXTINF:-1,  BEIN MAX 2
+http://93.158.220.149:5001/play/a00u
+#EXTINF:-1, BEIN MAX 4
+http://93.158.220.133:5000/play/a040
+#EXTINF:-1, BEIN MAX 6
+http://93.158.220.133:5000/play/a041
+#EXTINF:-1, BEIN MAX 8
+http://93.158.220.133:5000/play/a03v
+#EXTINF:-1,  BEIN SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/115.ts
+#EXTINF:-1, BEIN SPORTS (2)
+http://s1.miip.tv:8000/live/stalker2/stalker2/150.ts
+#EXTINF:-1,  LA LIGATV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/91.ts
+#EXTINF:-1,  LA LIGATV BAR
+http://93.158.220.149:5001/play/a00r
+#EXTINF:-1, eSports
+http://93.158.220.149:5001/play/a02h
+#EXTINF:-1,  FUTBOL
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/84.ts
+#EXTINF:-1, FUTBOL (2)
+http://s1.miip.tv:8000/live/stalker2/stalker2/146.ts
+#EXTINF:-1,  GOL TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/93.ts
+#EXTINF:-1,  GOL TV (2)
+http://149.100.19.147:8000/play/a010
+#EXTINF:-1, GOL TV (3)
+http://93.158.220.133:5000/play/a02c
+#EXTINF:-1,  FORMULA 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/83.ts
+#EXTINF:-1,  FORMULA 1 (2) 
+http://93.158.220.149:5001/play/a01e
+#EXTINF:-1, FORMULA 1 (3)
+http://s1.miip.tv:8000/live/stalker2/stalker2/144.ts
+#EXTINF:-1,  MOTOGP
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/94.ts
+#EXTINF:-1,  MOTOGP (2)
+http://edge107.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
+#EXTINF:-1,  GOLF
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/95.ts
+#EXTINF:-1,  GOLF (2)
+http://edge1.telesport.pw/live/golf/index.m3u8
+#EXTINF:-1,  DEPORTES 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/71.ts
+#EXTINF:-1, DEPORTES 1 (2)
+http://s1.miip.tv:8000/live/stalker2/stalker2/148.ts
+#EXTINF:-1, DEPORTES 2 
+http://s1.miip.tv:8000/live/stalker2/stalker2/149.ts
+#EXTINF:-1,  DEPORTES 2 (2)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/72.ts
+#EXTINF:-1, EUROSPORT 1
+http://s1.miip.tv:8000/live/stalker2/stalker2/147.ts
+#EXTINF:-1, EUROSPORT 1 (2)
+http://93.158.220.133:5000/play/a02b
+#EXTINF:-1,  EUROSPORT 1 (3)
+http://93.158.220.149:5001/play/a01b
+#EXTINF:-1,  EUROSPORT 1 (4)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/82.ts
+#EXTINF:-1,  EUROSPORT 2
+http://93.158.220.149:5001/play/a01w
+#EXTINF:-1,  TELEDEPORTE
+http://149.100.19.147:8000/play/a002
+#EXTINF:-1, TELEDEPORTE (2)
+http://93.158.220.149:5001/play/a02m
+#EXTINF:-1, TELEDEPORTE (3)
+http://s1.miip.tv:8000/live/stalker2/stalker2/140.ts
+#EXTINF:-1,  BARÇA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/96.ts
+#EXTINF:-1, BARÇA TV (2)
+http://93.158.220.149:5001/play/a01a
+#EXTINF:-1,   R. MADRID TV
+http://149.100.19.147:8000/play/a01g
+#EXTINF:-1,  WWE 24/7 HD
+http://104.245.96.214:8000/live/Carla-Rojas/iptvpremium/835.ts
+#EXTINF:-1,  TOROS TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/97.ts
+#EXTINF:-1,  TOROS TV (2)
+http://cdn1.shurs.xyz/verdirectotv/9/playlist.m3u8
+#EXTINF:-1,  #0
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/114.ts
+#EXTINF:-1,#0 (2)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge7.telesport.pw:80/live/plus1/index.m3u8
+#EXTINF:-1,  ESTRENOS
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/79.ts
+#EXTINF:-1,ESTRENOS (2)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge6.telesport.pw:80/live/plusestrenos/index.m3u8
+#EXTINF:-1, ESTRENOS (3)
+http://s1.miip.tv:8000/live/stalker2/stalker2/183.ts
+#EXTINF:-1, ESTRENOS (4)
+http://93.158.220.149:5001/play/a02e
+#EXTINF:-1,  ACCION
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/56.ts
+#EXTINF:-1, ACCION HD (2)
+http://93.158.220.133:5000/play/a024
+#EXTINF:-1, ACCION (3)
+http://93.158.220.149:5001/play/a007
+#EXTINF:-1,  COMEDIA HD
+http://93.158.220.149:5001/play/a00q
+#EXTINF:-1, COMEDIA (2)
+http://93.158.220.149:5001/play/a008
+#EXTINF:-1,  COMEDIA (3)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/65.ts
+#EXTINF:-1, COMEDIA (4)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://cdn2.shurs.xyz:80/verliga/1/playlist.m3u8
+#EXTINF:-1, DCINE HD 
+http://93.158.220.133:5000/play/a025
+#EXTINF:-1,  DCINE (2)
+http://93.158.220.149:5001/play/a009
+#EXTINF:-1,  DCINE (3)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/70.ts
+#EXTINF:-1, DCINE (4)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://cdn1.shurs.xyz:80/verliga/3/playlist.m3u8
+#EXTINF:-1,  CINE Ñ
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/104.ts
+#EXTINF:-1,  XTRA
+http://s1.miip.tv:8000/live/stalker2/stalker2/185.ts
+#EXTINF:-1, XTRA (2)
+http://93.158.220.149:5001/play/a03k
+#EXTINF:-1, SERIES 
+http://93.158.220.133:5000/play/a03x
+#EXTINF:-1,  SERIES (2)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/106.ts
+#EXTINF:-1,  SERIES (3)
+http://edge1201.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTINF:-1,  SERIES XTRA
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/107.ts
+#EXTINF:-1, SERIES XTRA (2)
+http://93.158.220.149:5001/play/a02l
+#EXTINF:-1,  SERIES XTRA (3)
+http://edge1201.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+#EXTINF:-1,  AMC
+http://93.158.220.149:5001/play/a02o
+#EXTINF:-1,  AMC (2)
+http://edge1202.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+#EXTINF:-1, HOLLYWOOD HD 
+http://93.158.220.133:5000/play/a026
+#EXTINF:-1, HOLLYWOOD HD (2)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://cdn2.shurs.xyz:80/verdirectotv/10/playlist.m3u8
+#EXTINF:-1,  HOLLYWOOD (3)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/89.ts
+#EXTINF:-1,  SYFY
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/90.ts
+#EXTINF:-1, SYFY HD (2)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge2.telesport.pw:80/live/syfy/index.m3u8
+#EXTINF:-1,  SYFY (3)
+http://s1.miip.tv:8000/live/stalker2/stalker2/180.ts
+#EXTINF:-1,  CALLE 13 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/55.ts
+#EXTINF:-1,  CALLE 13 (2)
+http://edge1203.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+#EXTINF:-1,CALLE 13 HD (3)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge8.telesport.pw:80/live/calle13/index.m3u8
+#EXTINF:-1,  DARK 
+http://edge1202.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+#EXTINF:-1,  FOX HD 
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/86.ts
+#EXTINF:-1, FOX HD (2)
+http://93.158.220.133:5000/play/a023
+#EXTINF:-1, FOX HD (3)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge2.telesport.pw:80/live/fox/index.m3u8
+#EXTINF:-1,  FOX LIFE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/108.ts
+#EXTINF:-1, FOX LIFE (2)
+http://93.158.220.149:5001/play/a003
+#EXTINF:-1, FOX NEWS
+http://93.158.220.133:5000/play/a029
+#EXTINF:-1,  FOX NEWS (2)
+http://93.158.220.149:5001/play/a015
+#EXTINF:-1,  AXN
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/109.ts
+#EXTINF:-1,AXN HD (2)
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge7.telesport.pw:80/live/axn/index.m3u8
+#EXTINF:-1, AXN (3)
+http://93.158.220.149:5001/play/a00c
+#EXTINF:-1,  AXN WHITE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/110.ts
+#EXTINF:-1, AXN WHITE (2)
+http://93.158.220.149:5001/play/a00b
+#EXTINF:-1, LIFE TV
+http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
+#EXTINF:-1, CINEMAX 
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1, FDF 
+http://149.100.19.147:8000/play/a01k
+#EXTINF:-1, FDF (2)
+http://93.158.220.149:5001/play/a03d
+#EXTINF:-1, FDF (3)
+http://edge5.telesport.pw/live/fdf/index.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+http://edge1203.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+#EXTINF:-1,  PARAMOUNT CHANNEL 
+http://149.100.19.147:8000/play/a00y
+#EXTINF:-1,  PARAMOUNT CHANNEL (2) 
+http://93.158.220.149:5001/play/a01n
+#EXTINF:-1,  PARAMOUNT COMEDY 
+http://cdn1.shurs.xyz/verdirectotv/8/playlist.m3u8
+#EXTINF:-1,  COSMO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/67.ts
+#EXTINF:-1,  TNT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/111.ts
+#EXTINF:-1, DISCOVERY CHANNEL 
+http://s1.miip.tv:8000/live/stalker2/stalker2/129.ts
+#EXTINF:-1,  DISCOVERY CHANNEL (2)
+http://edge1201.livesports.pw/live/verdiscoverychannelff096b/index.m3u8
+#EXTINF:-1,  DISCOVERY CHANNEL (3)
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/73.ts
+#EXTINF:-1,  NAT GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/102.ts
+#EXTINF:-1,  NAT GEO WILD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/103.ts
+#EXTINF:-1,NAT GEO WILD (2)
+http://93.158.220.149:5001/play/a03n
+#EXTINF:-1, NAT GEO WILD (3)
+http://s1.miip.tv:8000/live/stalker2/stalker2/131.ts
+#EXTINF:-1,  NAT GEO WILD HD (4)
+http://edge8.telesport.pw/live/nationalwild/index.m3u8
+#EXTINF:-1,  C&I
+http://s1.miip.tv:8000/live/stalker2/stalker2/163.ts
+#EXTINF:-1,  C&I (2)
+http://edge1202.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+#EXTINF:-1,  DMAX
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/73.ts
+#EXTINF:-1,  DMAX (2)
+http://149.100.19.147:8000/play/a00z
+#EXTINF:-1,  A&E
+http://s1.miip.tv:8000/live/stalker2/stalker2/127.ts
+#EXTINF:-1,  A&E (2)
+http://edge1201.livesports.pw/live/veraandeesp7a39fa61ef2f05/index.m3u8
+#EXTINF:-1,  HISTORIA 
+http://edge1204.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
+#EXTINF:-1,  HISTORIA (2)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/104.ts
+#EXTINF:-1,  IBERALIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/105.ts
+#EXTINF:-1,  IBERALIA (2)
+http://93.158.220.149:5001/play/a005
+#EXTINF:-1,  CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/61.ts
+#EXTINF:-1,  CAZA Y PESCA (2)
+http://edge2.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:-1,  MTV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/113.ts
+#EXTINF:-1,  MTV (2)
+http://93.158.220.149:5001/play/a01c
+#EXTINF:-1,  ODISEA
+http://edge7.telesport.pw/live/odisea/index.m3u8
+#EXTINF:-1,  VIAJAR 
+http://93.158.220.149:5001/play/a02k
+#EXTINF:-1,  COCINA 
+http://edge1202.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
+#EXTINF:-1,  DIVINITY HD
+http://149.100.19.147:8000/play/a01l
+#EXTINF:-1,  DIVINITY (2)
+http://93.158.220.149:5001/play/a014
+#EXTINF:-1,  BE MAD HD
+http://149.100.19.147:8000/play/a01f
+#EXTINF:-1,  NOVA 
+http://149.100.19.147:8000/play/a01c
+#EXTINF:-1, NOVA (2)
+http://93.158.220.149:5001/play/a004
+#EXTINF:-1, SUNDANCE 
+http://93.158.220.133:5000/play/a046
+#EXTINF:-1,  SOMOS
+http://88.148.69.129:9090/play/a00g
+#EXTINF:-1,  TEN 
+http://149.100.19.147:8000/play/a00b
+#EXTINF:-1,ENERGY
+http://93.158.220.149:5001/play/a019
+#EXTINF:-1, MEGA
+http://149.100.19.147:8000/play/a00o
+#EXTINF:-1, ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,  13 TV 
+http://149.100.19.147:8000/play/a00s
+#EXTINF:-1,  DKISS
+http://149.100.19.147:8000/play/a008
+#EXTINF:-1, CANAL ORBE21
+http://93.158.220.133:5000/play/a045
+#EXTINF:-1,  CLASSICA
+http://93.158.220.149:5001/play/a01t
+#EXTINF:-1,  DISNEY XD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/76.ts
+#EXTINF:-1,  DISNEY JR
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/75.ts
+#EXTINF:-1, DISNEY JR (2)
+http://93.158.220.149:5001/play/a006
+#EXTINF:-1,  DISNEY CHANNEL 
+http://149.100.19.147:8000/play/a00x
+#EXTINF:-1,  NICKELODEON
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/112.ts
+#EXTINF:-1, NICK JR
+http://93.158.220.133:5000/play/a03y
+#EXTINF:-1, CANAL PANDA 
+http://93.158.220.149:5001/play/a01r
+#EXTINF:-1, BABY TV
+http://93.158.220.133:5000/play/a02a
+#EXTINF:-1, BABY TV (2)
+http://93.158.220.149:5001/play/a016
+#EXTINF:-1,  BOING 
+http://149.100.19.147:8000/play/a00v
+#EXTINF:-1,  BOING (2) 
+http://93.158.220.149:5001/play/a018
+#EXTINF:-1,  CLAN 
+http://149.100.19.147:8000/play/a01s
+#EXTINF:-1,  CLAN (2)
+http://149.100.19.147:8000/play/a01s
+#EXTINF:-1,  NEOX
+http://149.100.19.147:8000/play/a01b
+#EXTINF:-1, NEOX (2)
+http://93.158.220.149:5001/play/a01q
+#EXTINF:-1,  SUPERNENE
+http://streann-i.akamaihd.net/hls/live/225396/STREANN-AkamaiSuperene/WVTSUPERENE/playlist.m3u8
+#EXTINF:-1,  PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,  TATETI
+http://us.watcha.live/ch16/hi.m3u8
+#EXTINF:-1,  IPE
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,  LA 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/98.ts
+#EXTINF:-1,  LA 1 (2)
+http://149.100.19.147:8000/play/a01p
+#EXTINF:-1, LA 1 HD (3)
+http://93.158.220.149:5001/play/a00t
+#EXTINF:-1,  LA 2
+http://149.100.19.147:8000/play/a01q
+#EXTINF:-1,  24 HORAS 
+http://149.100.19.147:8000/play/a01r
+#EXTINF:-1,  ANTENA 3
+http://93.158.220.149:5001/play/a01u
+#EXTINF:-1,  ANTENA 3 HD (2)
+http://149.100.19.147:8000/play/a017
+#EXTINF:-1,  ANTENA 3 HD (3)
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/99.ts
+#EXTINF:-1,  ANTENA 3 (3)
+http://149.100.19.147:8000/play/a018
+#EXTINF:-1,  CUATRO
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/69.ts
+#EXTINF:-1,  CUATRO HD (2)
+http://149.100.19.147:8000/play/a01n
+#EXTINF:-1,  CUATRO (3)
+http://149.100.19.147:8000/play/a01j
+#EXTINF:-1,  TELECINCO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/101.ts
+#EXTINF:-1,  TELECINCO HD (2)
+http://149.100.19.147:8000/play/a01m
+#EXTINF:-1,  TELECINCO (3)
+http://149.100.19.147:8000/play/a01i
+#EXTINF:-1,  LA SEXTA
+http://149.100.19.147:8000/play/a01a
+#EXTINF:-1,  LA SEXTA HD (2)
+http://149.100.19.147:8000/play/a019
+#EXTINF:-1,  CANAL SUR 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:-1, CANAL EXTREMADURA
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+
+#EXTINF:-1, TELEMADRD
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+
+#EXTINF:-1, LA OTRA
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+
+#EXTINF:-1, HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+
+#EXTINF:-1, INTERECONOMIA
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1991986513_b500000.m3u8
+
+#EXTINF:-1, TVG EUROPA
+http://media3.crtvg.es/live/tvge/chunklist_w1728723684.m3u8
+
+#EXTINF:-1, TVG AMÉRICA
+http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w2022272197.m3u8
+
+#EXTINF:-1, POPULAR TV CANTABRIA
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+
+#EXTINF:-1, ETB EUSKADI
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8?sd=8&rebase=on
+
+#EXTINF:-1, NAVARRA TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w605667087.m3u8
+
+#EXTINF:-1, ARAGON TV
+http://93.158.220.149:5001/play/a01p
+#EXTINF:-1, ARAGON TV (2)
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+#EXTINF:-1, TV3 CAT HD
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3310.ts
+
+#EXTINF:-1, TV3 CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1, 3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1, 8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1421144122.m3u8
+
+#EXTINF:-1, TV MEDITERRÁNEO
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
+
+#EXTINF:-1, RTV CEUTA HD
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3312.ts
+
+#EXTINF:-1, IB3 TV
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
+
+#EXTINF:-1, NUART 
+http://78.111.176.132:8080 
+#EXTINF:-1, HUSTLER TV
+http://78.111.176.132:8081
+#EXTINF:-1, RED LIGHT 
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://cdn3.shurs.xyz:80/verliga/11/playlist.m3u8
+#EXTINF:-1,VENUS 
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge8.telesport.pw:80/live/venus/index.m3u8
+#EXTINF:-1,PLAYBOY 
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge6.telesport.pw:80/live/playboy/index.m3u8
+#EXTINF:-1,HUSTLER 
+#EXTVLCOPT:http-referrer=http://verdirectotv.com/tv/digitales2/plustoros.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+http://edge8.telesport.pw:80/live/hustler/index.m3u8
 
 
 
@@ -297,7 +846,165 @@ http://192.99.47.130:8000/live/stalker/stalker/123.ts
 http://192.99.47.130:8000/live/stalker/stalker/124.ts
 #EXTINF:-1,Comedy Central HD
 http://192.99.47.130:8000/live/stalker/stalker/125.ts
-
+#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,ES: 24 Horas
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3366.ts
+#EXTINF:-1,ES: A&E
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3365.ts
+#EXTINF:-1,ES: AMC
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3364.ts
+#EXTINF:-1,ES: Antenna 3
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3362.ts
+#EXTINF:-1,ES: Axn
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3361.ts
+#EXTINF:-1,ES: AXN White
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3363.ts
+#EXTINF:-1,ES: Baby TV
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3360.ts
+#EXTINF:-1,ES: Barca TV
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3359.ts
+#EXTINF:-1,ES: Bein La Liga
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3358.ts
+#EXTINF:-1,ES: Bein Sport Spain
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3357.ts
+#EXTINF:-1,ES: Boing
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3356.ts
+#EXTINF:-1,ES: Calle 13
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3354.ts
+#EXTINF:-1,ES: CANAL
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3355.ts
+#EXTINF:-1,ES: Canal #0
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3353.ts
+#EXTINF:-1,ES: Canal Accion
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3352.ts
+#EXTINF:-1,ES: Canal Cocina
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3351.ts
+#EXTINF:-1,ES: Canal Comedia
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3350.ts
+#EXTINF:-1,ES: Canal Dcine
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3349.ts
+#EXTINF:-1,ES: Canal Deportes 1
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3347.ts
+#EXTINF:-1,ES: Canal Deportes 2
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3346.ts
+#EXTINF:-1,ES: Canal Estrenos
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3345.ts
+#EXTINF:-1,ES: Canal F1
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3344.ts
+#EXTINF:-1,ES: Canal Futbal
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3343.ts
+#EXTINF:-1,ES: Canal Golf
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3342.ts
+#EXTINF:-1,ES: Canal Motogp
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3341.ts
+#EXTINF:-1,ES: Canal Orbe 21
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3340.ts
+#EXTINF:-1,ES: Canal Series
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3339.ts
+#EXTINF:-1,ES: Canal Series Xtra
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3338.ts
+#EXTINF:-1,ES: Canal Xtra
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3337.ts
+#EXTINF:-1,ES: Cazaypesca
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3336.ts
+#EXTINF:-1,ES: Comedy Central
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3335.ts
+#EXTINF:-1,ES: Cosmo
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3334.ts
+#EXTINF:-1,ES: Crime&Investigation
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3333.ts
+#EXTINF:-1,ES: Cuatro
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3332.ts
+#EXTINF:-1,ES: Decasa
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3331.ts
+#EXTINF:-1,ES: Discovery Channel
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3330.ts
+#EXTINF:-1,ES: Disney Channel
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3329.ts
+#EXTINF:-1,ES: Disney Jr.
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3328.ts
+#EXTINF:-1,ES: Disney XD
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3327.ts
+#EXTINF:-1,ES: Eurosport 1
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3325.ts
+#EXTINF:-1,ES: Eurosport 2
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3324.ts
+#EXTINF:-1,ES: FDF
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3323.ts
+#EXTINF:-1,ES: Fox
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3321.ts
+#EXTINF:-1,ES: FOX LIFE
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3322.ts
+#EXTINF:-1,ES: GOL
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3320.ts
+#EXTINF:-1,ES: Historia
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3319.ts
+#EXTINF:-1,ES: Hollywood
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3318.ts
+#EXTINF:-1,ES: Iberalia TV
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3317.ts
+#EXTINF:-1,ES: LA 1
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3316.ts
+#EXTINF:-1,ES: La 2
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3304.ts
+#EXTINF:-1,ES: La Liga
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3314.ts
+#EXTINF:-1,ES: LA Sexta
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3315.ts
+#EXTINF:-1,ES: Los 40
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3313.ts
+#EXTINF:-1,ES: MEZZO
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3312.ts
+#EXTINF:-1,ES: MTV
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3311.ts
+#EXTINF:-1,ES: Nat Geo
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3326.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3309.ts
+#EXTINF:-1,ES: Nick Jr.
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3348.ts
+#EXTINF:-1,ES: Nonstop People
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3308.ts
+#EXTINF:-1,ES: NOVA
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3310.ts
+#EXTINF:-1,ES: Odisea
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3307.ts
+#EXTINF:-1,ES: Paramount Channel
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3306.ts
+#EXTINF:-1,ES: Real madrid
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3305.ts
+#EXTINF:-1,ES: Syfy
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3303.ts
+#EXTINF:-1,ES: TCM
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3302.ts
+#EXTINF:-1,ES: Telecinco
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3298.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3301.ts
+#EXTINF:-1,ES: TNT
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3300.ts
+#EXTINF:-1,ES: Toros
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3297.ts
+#EXTINF:-1,ES: TV Galicia
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3299.ts
+#EXTINF:-1,ES:  Cantabria
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/1194.ts
+#EXTINF:-1,ES: DW Espanol
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/1185.ts
+#EXTINF:-1,ES: el Correo tv
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/1187.ts
+#EXTINF:-1,ES: telesur
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/1198.ts
+#EXTINF:-1,ES: TVES TV
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/1200.ts
+#EXTINF:-1,ES: TVES TV ?
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/1201.ts
+#EXTINF:-1,ES:Levente TV
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/1193.ts
+#EXTINF:-1,ES: Viajar
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/3296.ts
+#EXTINF:-1,ES: Real Madrid TV HD
+http://149.56.240.30:25461/live/djdomination718@gmail.com/P53fxb18rD/5323.ts
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
