@@ -5,37 +5,229 @@
 
 
 
-#EXTINF:-1,[COLOR red][I][B]---------------JUVENTUS VS REAL MADRID------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,  24 HORAS 
-http://149.100.19.147:8000/play/a01r
-#EXTINF:-1,  ANTENA 3
-http://93.158.220.149:5001/play/a01u
-#EXTINF:-1,  ANTENA 3 HD (2)
-http://149.100.19.147:8000/play/a017
-#EXTINF:-1,  ANTENA 3 HD (3)
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/99.ts
-#EXTINF:-1,  ANTENA 3 (3)
-http://149.100.19.147:8000/play/a018
-
-#EXTINF:-1,ES: ANTENA 3 HD
-http://142.4.218.121:25461/live/Asia_package/12345/5431.ts
- #EXTINF:-1,ANTENA 3
-http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
-
-
-
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,ES: ANTENA 3 HD
-http://142.4.218.121:25461/live/Asia_package/12345/5431.ts
- #EXTINF:-1,ANTENA 3
-http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
+
+
+#EXTINF:-1   tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png",#0
+http://edge3.telesport.pw/live/plus1/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png",#0
+http://edge3.telesport.pw/live/plus1/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MV1",ESTRENOS
+http://edge1201.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI",ACCION
+http://edge1204.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME",COMEDIA
+http://edge1506.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE",DCINE
+http://edge1203.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCESP",CINE Ñ
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3296.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA",XTRA
+http://163.172.78.96:8000/live/sam/sam/3508.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/HOLLYW", HOLLYWOOD
+http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://static.programacion-tdt.com/imgAPP/Paramount_Channel.min.png", PARAMOUNT
+http://cdn1.shurs.xyz/verdirectotv/5/chunks.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CL13",CALLE 13
+http://edge1201.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Somos.png/245px-Somos.png",SOMOS
+http://88.148.69.129:9090/play/a00g
+ 
+ 
+#EXTINF:-1   tvg-logo="http://1.bp.blogspot.com/-a3_p2hxL8ys/VUPAu2ScZ-I/AAAAAAAABOs/y-VVLbob0lY/s1600/unnamed.png",LISTA SERIES
+ 
+ 
+#EXTINF:-1  tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER",M.SERIES
+http://163.172.78.96:8000/live/sam/sam/3495.ts
+ 
+#EXTINF:-1  tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MV2",M.SERIES XTRA
+http://163.172.78.96:8000/live/sam/sam/3494.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/FOXGE",FOX
+http://93.158.220.133:5000/play/a023
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/FOXCR",FOX life
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3299.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/AXN",AXN
+http://edge1202.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/SET",AXN WHITE
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3277.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TNT",TNT
+http://edge8.telesport.pw/live/tnt/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/SCI-FI",SYFY
+http://edge1204.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DARK",DARK
+http://edge1202.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/AMC",AMC  
+http://edge1201.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TCM",TCM
+http://edge1504.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/PCM",COMEDY CENTRAL
+http://edge1204.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.almussafes.es/sites/almussafes.portalesmunicipales.es/files/customcssjs/images/ajuntament/consells/icono-esports.png",LISTA DEPORTES
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CHUEFA",BEIN SPORTS
+http://edge1503.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BELIGA",BEIN LA LIGA
+http://edge1505.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png",LA LIGATV
+http://edge1502.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPFUT",FUTBOL
+http://edge1507.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPPART",PARTIDAZO
+http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPDEP",DEPORTES 1
+http://edge1503.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPD2",DEPORTES 2
+http://edge12.verliga1.pw/live/plusdeportes2/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MVF1",M.FORMULA1
+http://edge1504.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MVMTGP",M. MOTOGP
+http://edge15.verliga11.pw/live/verliga4/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/GOLF%2B",M.GOLF
+http://edge8.telesport.pw/live/golf/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/ESP",EUROSPORT 1
+http://edge1507.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/ESP2", EUROSPORT 2
+http://edge1508.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CFERIA",TOROS
+http://edge1506.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://4.bp.blogspot.com/-nSBuDM5bbHM/VAWRl5CJ2NI/AAAAAAAAAaY/Saqo3Q1NzBA/s1600/787B16382.png",LISTA DOCUMENTALES
+ 
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/HIST",HISTORIA
+http://edge1205.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCRMAX",DMAX
+http://149.100.19.147:8000/play/a00z
+ 
+#EXTINF:-1   tvg-logo="http://media.lasierra.edu/programs/Extron/GUI%20Configurator%20Templates/Resources/Speed/Icons/TV%20Icons/discovery-channel.png",DISCOVERY CHANNEL
+http://edge1205.livesports.pw/live/verdiscoverychannelff096b/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/ODISEA",ODISEA
+http://edge2.telesport.pw/live/odisea/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NATGEO",NATIONAL GEOGRAPHIC
+http://edge1202.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NATGW",NAT GEO WILD
+http://edge5.telesport.pw/live/nationalwild/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111",CAZA Y PESCA
+http://edge2.telesport.pw/live/cazaypesca/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/VJR",VIAJAR
+http://ksportiptv.com:1557/live/metti/metti/3683.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CACOC",COCINA
+http://edge205.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DECASA",DECASA
+http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5424.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/COSMO",COSMO
+http://cdn1.shurs.xyz/verdirectotv/15/chunks.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN",TEN
+http://163.172.78.96:8000/live/sam/sam/3478.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BIOGRA",A&E
+http://edge1204.livesports.pw/live/veraandeesp7a39fa61ef2f05/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CYM",C&I
+http://edge1201.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/be_mad_logo_500.png",BE MAD
+http://cdn2.shurs.xyz/verdirectotv/14/chunks.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://infantil.britanico-aragon.edu/wp-content/uploads/2015/04/header-infantil.png",LISTA INFANTIL
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CLANTV",CLAN
+http://149.100.19.147:8000/play/a01s
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/PANDA",PANDA
+http://xc.cobra-iptv.com:25461/live/kos/kos/486.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NICKJR",NICK JUNIOR
+http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7670.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NICK", NICKELODEON
+http://edge1507.livesports.pw/live/vernickelones9a7699e72b5a/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCH",DISNEY CHANNEL
+http://edge1201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/PLAYDC",DISNEY JR
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3290.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCHXD",DISNEY XD
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3282.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BABY",BABY TV
+http://ksportiptv.com:1557/live/metti/metti/3651.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BOING",BOING
+http://edge1505.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TDT_wordmark.svg/250px-TDT_wordmark.svg.png",LISTA TDT
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png",LA 1
+http://edge1203.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png",LA 2
+http://edge1203.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3
+http://edge1202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",CUATRO
+http://edge1204.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/telecinco_circular_500.png",TELE 5
+http://edge1202.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png",LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+
+
+
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
