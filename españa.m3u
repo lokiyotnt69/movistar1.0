@@ -1599,6 +1599,49 @@ http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg",[ES] C  movistar Toros HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13602.ts&streamtype=TSDOWNLOADER&name=[ES] C  movistar Toros HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png",[ES] C  Comedy Central
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/7216.ts&streamtype=TSDOWNLOADER&name=[ES] C  Comedy Central
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/k_Mo_uqNVio/hqdefault.jpg",[ES] C  Moto GP
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13641.ts&streamtype=TSDOWNLOADER&name=[ES] C  Moto GP
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/574499541212270592/FpXDipiC.jpeg",[ES] C  Moviestar F1
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13642.ts&streamtype=TSDOWNLOADER&name=[ES] C  Moviestar F1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-opQiCWN4znY/AAAAAAAAAAI/AAAAAAAAAAA/NtX1CJ8GHnI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[ES] C BABY TV
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13666.ts&streamtype=TSDOWNLOADER&name=[ES] C BABY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png",[ES] C  M. SERIES XTRA HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13628.ts&streamtype=TSDOWNLOADER&name=[ES] C M. SERIES XTRA HD
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104",[ES] C  Dcine HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/7210.ts&streamtype=TSDOWNLOADER&name=[ES] C  Dcine HD
+#EXTINF:-1 tvg-logo="http://www.hertv.net/i/canli-tv-izle/fox-tv.png",[ES] C  Fox HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13594.ts&streamtype=TSDOWNLOADER&name=[ES] C  Fox HD
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/339904/screenshots/2126554/nickjr-logo.png",[ES] C  NICK JR
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/41.ts&streamtype=TSDOWNLOADER&name=[ES] C  NICK JR
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/854259821348085760/d75OR8My.jpg",[ES] C  #0 HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/7262.ts&streamtype=TSDOWNLOADER&name=[ES] C  #0 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1200px-Movistar_Acción.svg.png",[ES] C  Accion HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13603.ts&streamtype=TSDOWNLOADER&name=[ES] C  Accion HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png",[ES] C  Comedia
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/6.ts&streamtype=TSDOWNLOADER&name=[ES] C  Comedia
+#EXTINF:-1 tvg-logo="http://s03.s3c.es/imag3/ecotv/moscas/mv1.png",[ES] C  M. ESTRENOS FHD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/425.ts&streamtype=TSDOWNLOADER&name=[ES] C  M. ESTRENOS FHD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",[ES] C  FUTBOL HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13596.ts&streamtype=TSDOWNLOADER&name=[ES] C  F.TBOL HD
+#EXTINF:-1 tvg-logo="http://lofrev.net/wp-content/photos/2017/05/fox_life_logo.jpg",[ES] C  Fox Life
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/30.ts&streamtype=TSDOWNLOADER&name=[ES] C  Fox Life
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_gHJbYyJnKDs/TJSebUHnRBI/AAAAAAAAK8M/d9354bAQV6g/s1600/CANAL%2B_XTRA_HD.jpg",[ES] C  M. Xtra
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/16.ts&streamtype=TSDOWNLOADER&name=[ES] C  M. Xtra
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/large.5786a351be747_TNTSeries.png.e65b71d677a4e3c70275b23dd09a3c51.png",[ES] C  TNT
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/46.ts&streamtype=TSDOWNLOADER&name=[ES] C  TNT
+#EXTINF:-1 tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",[ES] C  BEIN LA LIGA HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13932.ts&streamtype=TSDOWNLOADER&name=[ES] C BEIN LA LIGA HD
+#EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/og-image.jpg",[ES] C  BeIN Sports (es)
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/5983.ts&streamtype=TSDOWNLOADER&name=[ES] C  BeIN Sports (es)
+#EXTINF:-1 tvg-logo="http://www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png",[ES] C  Deportes
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13600.ts&streamtype=TSDOWNLOADER&name=[ES] C  Deportes
+#EXTINF:-1 tvg-logo="http://verdirectotv.com/logos/deportes2.png",[ES] C  M. DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?url=http://bestiptv01.com:999/live/Familiajgp/0W1anHG4wy/13627.ts&streamtype=TSDOWNLOADER&name=[ES] C  M. DEPORTES 2 HD
 
 
 
