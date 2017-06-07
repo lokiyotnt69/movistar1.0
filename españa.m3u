@@ -2,8 +2,157 @@
 
 
 
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/4.png",Cartoon Network
+http://209.126.110.107:8081/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/9.png",Disney Junior
+http://209.126.110.107:8081/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/13.png",Disney Channel
+http://209.126.110.107:8081/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/13.png",Disney XD
+http://209.126.110.107:8081/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/nick-2.png",Nick
+http://209.126.110.107:8081/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png",Nick Junior
+http://209.126.110.107:8081/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="   ",Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/2.png",Discovery H&H
+http://209.126.110.107:8081/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8?
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://stream.i4atv.info/ggwpl/live2.m3u8
+#EXTINF:-1 group-title="DEPORTES", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", E!
+http://209.126.110.107:8081/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Sony
+http://209.126.110.107:8081/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TBS
+http://209.126.110.107:8081/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:-1,NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
+#EXTINF:-1,GreenTV
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/1.png",Discovery Channel
+http://209.126.110.107:8081/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/2.png",Discovery Home And Health
+http://209.126.110.107:8081/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/history.png",History Channel
+http://209.126.110.107:8081/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",Nat Geo
+http://209.126.110.107:8081/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png",Comedy Central
+http://209.126.110.107:8081/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TBS
+http://209.126.110.107:8081/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png",Studio Universal
+http://209.126.110.107:8081/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png",Sony
+http://209.126.110.107:8081/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,SyFy
+http://209.126.110.107:8081/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,AXN
+http://209.126.110.107:8081/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/5.png",TNT Series
+http://209.126.110.107:8081/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Universal Channel
+http://209.126.110.107:8081/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png",Warner Channel
+http://209.126.110.107:8081/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,FX
+http://209.126.110.107:8081/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png",Fox
+http://209.126.110.107:8081/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png",Fox Life
+http://209.126.110.107:8081/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="CINE", FOX Life
+http://209.126.110.107:8081/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 5
+http://209.126.110.107:8081/105canal5/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Azteca 7
+http://209.126.110.107:8081/107azteca7/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Azteca 13
+http://209.126.110.107:8081/113azteca13/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Fox
+http://209.126.110.107:8081/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery H&H
+http://209.126.110.107:8081/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8?
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Universal
+http://209.126.110.107:8081/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",SyFy
+http://209.126.110.107:8081/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TNT
+http://209.126.110.107:8081/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Studio
+http://209.126.110.107:8081/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",FX
+http://209.126.110.107:8081/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ANX
+http://209.126.110.107:8081/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TBS
+http://209.126.110.107:8081/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Fox Life
+http://209.126.110.107:8081/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Warner
+http://209.126.110.107:8081/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Sony
+http://209.126.110.107:8081/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",E!
+http://209.126.110.107:8081/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Central Comedy
+http://209.126.110.107:8081/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney Channel
+http://209.126.110.107:8081/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney Jr
+http://209.126.110.107:8081/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney XD
+http://209.126.110.107:8081/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nick
+http://209.126.110.107:8081/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nick JR
+http://209.126.110.107:8081/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Cartoon Network
+http://209.126.110.107:8081/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Kids
+http://209.126.110.107:8081/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Channel
+http://209.126.110.107:8081/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",History
+http://209.126.110.107:8081/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Natgeo
+http://209.126.110.107:8081/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 
 
