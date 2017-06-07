@@ -229,11 +229,631 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-
+#EXTINF:-1,►►● SPAIN ●◄◄
+http://163.172.78.96:8000/live/sam/sam/3432.ts
+#EXTINF:-1,----- ES Deportes -----
+http://163.172.78.96:8000/live/sam/sam/3529.ts
+#EXTINF:-1,ES: Bein Sports HD
+http://163.172.78.96:8000/live/sam/sam/3528.ts
+#EXTINF:-1,ES: Bein Sports Opc 2
+http://163.172.78.96:8000/live/sam/sam/3537.ts
+#EXTINF:-1,ES: Bein Sports La Liga HD
+http://163.172.78.96:8000/live/sam/sam/3527.ts
+#EXTINF:-1,ES: Bein Sports La Liga Opc 2
+http://163.172.78.96:8000/live/sam/sam/3538.ts
+#EXTINF:-1,ES: La Liga TV BAR HD
+http://163.172.78.96:8000/live/sam/sam/3530.ts
+#EXTINF:-1,ES: La Liga TV BAR HD OPC 2
+http://163.172.78.96:8000/live/sam/sam/3544.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 HD (TEST)
+http://163.172.78.96:8000/live/sam/sam/3526.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://163.172.78.96:8000/live/sam/sam/3519.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 HD
+http://163.172.78.96:8000/live/sam/sam/3518.ts
+#EXTINF:-1,ES: Movistar  Formula 1 HD
+http://163.172.78.96:8000/live/sam/sam/3522.ts
+#EXTINF:-1,ES: Movistar Formula 1 Opc 2
+http://163.172.78.96:8000/live/sam/sam/3540.ts
+#EXTINF:-1,ES: Movistar  Futbol HD
+http://163.172.78.96:8000/live/sam/sam/3525.ts
+#EXTINF:-1,ES: Movistar  Golf HD
+http://163.172.78.96:8000/live/sam/sam/3517.ts
+#EXTINF:-1,ES: Movistar  Moto GP HD
+http://163.172.78.96:8000/live/sam/sam/3516.ts
+#EXTINF:-1,ES: Movistar Moto GP Opc 2
+http://163.172.78.96:8000/live/sam/sam/3539.ts
+#EXTINF:-1,ES: Movistar  Partidazo HD (LIVE DURING MATCH)
+http://163.172.78.96:8000/live/sam/sam/3524.ts
+#EXTINF:-1,ES: Real Madrid HD
+http://163.172.78.96:8000/live/sam/sam/3523.ts
+#EXTINF:-1,ES: Eurosport 1 HD
+http://163.172.78.96:8000/live/sam/sam/3521.ts
+#EXTINF:-1,ES: Eurosport 2 HD
+http://163.172.78.96:8000/live/sam/sam/3520.ts
+#EXTINF:-1,ES: Gol HD
+http://163.172.78.96:8000/live/sam/sam/3469.ts
+#EXTINF:-1,----- ES Entretenimiento -----
+http://163.172.78.96:8000/live/sam/sam/3515.ts
+#EXTINF:-1,ES: #0 HD
+http://163.172.78.96:8000/live/sam/sam/3505.ts
+#EXTINF:-1,ES: AMC HD
+http://163.172.78.96:8000/live/sam/sam/3504.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://163.172.78.96:8000/live/sam/sam/3503.ts
+#EXTINF:-1,ES: AXN HD
+http://163.172.78.96:8000/live/sam/sam/3502.ts
+#EXTINF:-1,ES: AXN White HD
+http://163.172.78.96:8000/live/sam/sam/3501.ts
+#EXTINF:-1,ES: Comedy Central HD
+http://163.172.78.96:8000/live/sam/sam/3499.ts
+#EXTINF:-1,ES: Crime & Investigation
+http://163.172.78.96:8000/live/sam/sam/3483.ts
+#EXTINF:-1,ES: Dark
+http://163.172.78.96:8000/live/sam/sam/3514.ts
+#EXTINF:-1,ES: Discovery Channel HD
+http://163.172.78.96:8000/live/sam/sam/3490.ts
+#EXTINF:-1,ES: Fox HD
+http://163.172.78.96:8000/live/sam/sam/3497.ts
+#EXTINF:-1,ES: Fox Life HD
+http://163.172.78.96:8000/live/sam/sam/3496.ts
+#EXTINF:-1,ES: Historia HD
+http://163.172.78.96:8000/live/sam/sam/3489.ts
+#EXTINF:-1,ES: Hollywood HD
+http://163.172.78.96:8000/live/sam/sam/3513.ts
+#EXTINF:-1,ES: Movistar  Accion HD
+http://163.172.78.96:8000/live/sam/sam/3512.ts
+#EXTINF:-1,ES: Movistar  Comedia HD
+http://163.172.78.96:8000/live/sam/sam/3511.ts
+#EXTINF:-1,ES: Movistar  Dcine HD
+http://163.172.78.96:8000/live/sam/sam/3510.ts
+#EXTINF:-1,ES: Movistar  Estrenos HD
+http://163.172.78.96:8000/live/sam/sam/3509.ts
+#EXTINF:-1,ES: Movistar  Series HD
+http://163.172.78.96:8000/live/sam/sam/3495.ts
+#EXTINF:-1,ES: Movistar  Series Xtra HD
+http://163.172.78.96:8000/live/sam/sam/3494.ts
+#EXTINF:-1,ES: Movistar  Xtra HD
+http://163.172.78.96:8000/live/sam/sam/3508.ts
+#EXTINF:-1,ES: MTV Espana
+http://163.172.78.96:8000/live/sam/sam/3493.ts
+#EXTINF:-1,ES: MTV Rocks
+http://163.172.78.96:8000/live/sam/sam/3453.ts
+#EXTINF:-1,ES: Nat Geo Wild HD
+http://163.172.78.96:8000/live/sam/sam/3488.ts
+#EXTINF:-1,ES: National Geoghraphic HD
+http://163.172.78.96:8000/live/sam/sam/3487.ts
+#EXTINF:-1,ES: Sundance TV
+http://163.172.78.96:8000/live/sam/sam/3507.ts
+#EXTINF:-1,ES: SyFy HD
+http://163.172.78.96:8000/live/sam/sam/3492.ts
+#EXTINF:-1,ES: TCM HD
+http://163.172.78.96:8000/live/sam/sam/3506.ts
+#EXTINF:-1,ES: Televisa HD
+http://163.172.78.96:8000/live/sam/sam/3452.ts
+#EXTINF:-1,ES: TNT HD
+http://163.172.78.96:8000/live/sam/sam/3491.ts
+#EXTINF:-1,ES: Toros HD
+http://163.172.78.96:8000/live/sam/sam/3451.ts
+#EXTINF:-1,Discovery Max SD
+http://163.172.78.96:8000/live/sam/sam/3444.ts
+#EXTINF:-1,----- ES Infantil -----
+http://163.172.78.96:8000/live/sam/sam/3480.ts
+#EXTINF:-1,ES: DINOSAURIOS
+http://163.172.78.96:8000/live/sam/sam/4015.ts
+#EXTINF:-1,ES: Baby TV
+http://163.172.78.96:8000/live/sam/sam/3479.ts
+#EXTINF:-1,ES: Canal Panda
+http://163.172.78.96:8000/live/sam/sam/3478.ts
+#EXTINF:-1,ES: Disney Channel HD
+http://163.172.78.96:8000/live/sam/sam/3477.ts
+#EXTINF:-1,ES: Disney Junior
+http://163.172.78.96:8000/live/sam/sam/3476.ts
+#EXTINF:-1,ES: Nick JR
+http://163.172.78.96:8000/live/sam/sam/3475.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://163.172.78.96:8000/live/sam/sam/3474.ts
+#EXTINF:-1,----- ES Varios -----
+http://163.172.78.96:8000/live/sam/sam/3473.ts
+#EXTINF:-1,ES: Barca TV
+http://163.172.78.96:8000/live/sam/sam/3462.ts
+#EXTINF:-1,ES: Be Mad TV HD
+http://163.172.78.96:8000/live/sam/sam/3471.ts
+#EXTINF:-1,ES: Calle 13 HD
+http://163.172.78.96:8000/live/sam/sam/3500.ts
+#EXTINF:-1,ES: Canal Cocina
+http://163.172.78.96:8000/live/sam/sam/3484.ts
+#EXTINF:-1,ES: Canal Sur HD
+http://163.172.78.96:8000/live/sam/sam/3461.ts
+#EXTINF:-1,ES: Caza y Pesca HD
+http://163.172.78.96:8000/live/sam/sam/3460.ts
+#EXTINF:-1,ES: Classica HD
+http://163.172.78.96:8000/live/sam/sam/3459.ts
+#EXTINF:-1,ES: Cosmo TV HD
+http://163.172.78.96:8000/live/sam/sam/3498.ts
+#EXTINF:-1,ES: Cuatro HD
+http://163.172.78.96:8000/live/sam/sam/3470.ts
+#EXTINF:-1,ES: Decasa
+http://163.172.78.96:8000/live/sam/sam/3482.ts
+#EXTINF:-1,ES: Dkiss
+http://163.172.78.96:8000/live/sam/sam/3458.ts
+#EXTINF:-1,ES: El Garage TV
+http://163.172.78.96:8000/live/sam/sam/3481.ts
+#EXTINF:-1,ES: IB3 HD
+http://163.172.78.96:8000/live/sam/sam/3457.ts
+#EXTINF:-1,ES: Iberalia
+http://163.172.78.96:8000/live/sam/sam/3456.ts
+#EXTINF:-1,ES: Intereconomia
+http://163.172.78.96:8000/live/sam/sam/3455.ts
+#EXTINF:-1,ES: LA 1 
+http://163.172.78.96:8000/live/sam/sam/3472.ts
+#EXTINF:-1,ES: La Sexta HD
+http://163.172.78.96:8000/live/sam/sam/3468.ts
+#EXTINF:-1,ES: Mega HD
+http://163.172.78.96:8000/live/sam/sam/3467.ts
+#EXTINF:-1,ES: Mezzo Live HD
+http://163.172.78.96:8000/live/sam/sam/3454.ts
+#EXTINF:-1,ES: Non Stop People
+http://163.172.78.96:8000/live/sam/sam/3531.ts
+#EXTINF:-1,ES: Odisea HD
+http://163.172.78.96:8000/live/sam/sam/3486.ts
+#EXTINF:-1,ES: Super3. CAT HD
+http://163.172.78.96:8000/live/sam/sam/3463.ts
+#EXTINF:-1,ES: Telecinco HD
+http://163.172.78.96:8000/live/sam/sam/3466.ts
+#EXTINF:-1,ES: Teledeporte HD
+http://163.172.78.96:8000/live/sam/sam/3465.ts
+#EXTINF:-1,ES: TV3. CAT HD
+http://163.172.78.96:8000/live/sam/sam/3464.ts
+#EXTINF:-1,ES: Viajar HD
+http://163.172.78.96:8000/live/sam/sam/3485.ts
+#EXTINF:-1,24 Horas ES
+http://163.172.78.96:8000/live/sam/sam/3326.ts
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://163.172.78.96:8000/live/sam/sam/2527.ts
+#EXTINF:-1,►►● ARGENTINA ●◄◄
+http://163.172.78.96:8000/live/sam/sam/3434.ts
+#EXTINF:-1,►►● CHILE ●◄◄
+http://163.172.78.96:8000/live/sam/sam/3435.ts
+#EXTINF:-1,►►● COLOMBIA ●◄◄
+http://163.172.78.96:8000/live/sam/sam/3436.ts
+#EXTINF:-1,►►● PERU ●◄◄
+http://163.172.78.96:8000/live/sam/sam/3437.ts
+#EXTINF:-1,Panama: NEX TV
+http://163.172.78.96:8000/live/sam/sam/3422.ts
+#EXTINF:-1,Panama: RPC
+http://163.172.78.96:8000/live/sam/sam/3423.ts
+#EXTINF:-1,Panama: Telemetro 13
+http://163.172.78.96:8000/live/sam/sam/3421.ts
+#EXTINF:0,------- Spanish ---------
+http://163.172.6.8:8000/live/test28/test28/1072.ts
+#EXTINF:0,ES: Taquilla 1
+http://163.172.6.8:8000/live/test28/test28/1071.ts
+#EXTINF:0,ES: Taquilla 2
+http://163.172.6.8:8000/live/test28/test28/1070.ts
+#EXTINF:0,ES: Taquilla 3
+http://163.172.6.8:8000/live/test28/test28/1069.ts
+#EXTINF:0,ES: Taquilla 4
+http://163.172.6.8:8000/live/test28/test28/1068.ts
+#EXTINF:0,ES: Taquilla 5
+http://163.172.6.8:8000/live/test28/test28/1067.ts
+#EXTINF:0,ES: Taquilla 6
+http://163.172.6.8:8000/live/test28/test28/1066.ts
+#EXTINF:0,ES: Taquilla 7
+http://163.172.6.8:8000/live/test28/test28/1065.ts
+#EXTINF:0,ES: Taquilla 8
+http://163.172.6.8:8000/live/test28/test28/1064.ts
+#EXTINF:0,ES: Taquilla 9
+http://163.172.6.8:8000/live/test28/test28/1063.ts
+#EXTINF:0,ES: Taquilla 10
+http://163.172.6.8:8000/live/test28/test28/1062.ts
+#EXTINF:0,ES: Canal+ Liga
+http://163.172.6.8:8000/live/test28/test28/1022.ts
+#EXTINF:0,ES: Canal+ Deportes HD
+http://163.172.6.8:8000/live/test28/test28/1012.ts
+#EXTINF:0,ES: Canal+ Deportes 2 HD
+http://163.172.6.8:8000/live/test28/test28/2590.ts
+#EXTINF:0,ES: Canal+ Futpol
+http://163.172.6.8:8000/live/test28/test28/1020.ts
+#EXTINF:0,ES: Canal+ Golf
+http://163.172.6.8:8000/live/test28/test28/1019.ts
+#EXTINF:0,ES: Canal+ HD
+http://163.172.6.8:8000/live/test28/test28/1016.ts
+#EXTINF:0,ES: Canal+ Accion
+http://163.172.6.8:8000/live/test28/test28/1030.ts
+#EXTINF:0,ES: Canal+ Dcine
+http://163.172.6.8:8000/live/test28/test28/1028.ts
+#EXTINF:0,ES: Canal+ Comedia
+http://163.172.6.8:8000/live/test28/test28/1031.ts
+#EXTINF:0,ES: Canal+ Estrenos HD
+http://163.172.6.8:8000/live/test28/test28/1059.ts
+#EXTINF:0,ES: Canal+ de las Estrellas
+http://163.172.6.8:8000/live/test28/test28/1048.ts
+#EXTINF:0,ES: Canal+ Series
+http://163.172.6.8:8000/live/test28/test28/1058.ts
+#EXTINF:0,ES: Canal+ Serie Xtra
+http://163.172.6.8:8000/live/test28/test28/1004.ts
+#EXTINF:0,ES: Canal+ Cuatro
+http://163.172.6.8:8000/live/test28/test28/1026.ts
+#EXTINF:0,ES: Canal+ Cine
+http://163.172.6.8:8000/live/test28/test28/1033.ts
+#EXTINF:0,ES: Canal+ Cocina
+http://163.172.6.8:8000/live/test28/test28/1024.ts
+#EXTINF:0,ES: Canal+ AXN HD
+http://163.172.6.8:8000/live/test28/test28/1054.ts
+#EXTINF:0,ES: Canal+ Toros
+http://163.172.6.8:8000/live/test28/test28/1049.ts
+#EXTINF:0,ES: Canal Los40
+http://163.172.6.8:8000/live/test28/test28/1002.ts
+#EXTINF:0,ES: Canal+ Nova
+http://163.172.6.8:8000/live/test28/test28/1034.ts
+#EXTINF:0,ES: Canal+ Fox HD
+http://163.172.6.8:8000/live/test28/test28/1029.ts
+#EXTINF:0,ES: Canal T HD
+http://163.172.6.8:8000/live/test28/test28/1047.ts
+#EXTINF:0,ES: Alfa TV
+http://163.172.6.8:8000/live/test28/test28/1041.ts
+#EXTINF:0,ES: Canal+ Divinity
+http://163.172.6.8:8000/live/test28/test28/1039.ts
+#EXTINF:0,ES: 24 Horas
+http://163.172.6.8:8000/live/test28/test28/1046.ts
+#EXTINF:0,ES: Bein Sport ES HD
+http://163.172.6.8:8000/live/test28/test28/1003.ts
+#EXTINF:0,ES: Real Madrid
+http://163.172.6.8:8000/live/test28/test28/1037.ts
+#EXTINF:0,ES: Barca TV
+http://163.172.6.8:8000/live/test28/test28/1021.ts
+#EXTINF:0,ES: Movis Star Moto Gp
+http://163.172.6.8:8000/live/test28/test28/1011.ts
+#EXTINF:0,ES: Movi Star F1
+http://163.172.6.8:8000/live/test28/test28/1010.ts
+#EXTINF:0,ES: Comedy Central
+http://163.172.6.8:8000/live/test28/test28/1042.ts
+#EXTINF:0,ES: Teledeportes
+http://163.172.6.8:8000/live/test28/test28/1050.ts
+#EXTINF:0,ES: Clan TVE
+http://163.172.6.8:8000/live/test28/test28/1045.ts
+#EXTINF:0,ES: La 1
+http://163.172.6.8:8000/live/test28/test28/1014.ts
+#EXTINF:0,ES: La 2
+http://163.172.6.8:8000/live/test28/test28/1013.ts
+#EXTINF:0,ES: La  Sexta HD
+http://163.172.6.8:8000/live/test28/test28/1017.ts
+#EXTINF:0,ES: TV Galicia
+http://163.172.6.8:8000/live/test28/test28/1015.ts
+#EXTINF:0,ES: SYFY HD
+http://163.172.6.8:8000/live/test28/test28/1025.ts
+#EXTINF:0,ES: TV3
+http://163.172.6.8:8000/live/test28/test28/2591.ts
+#EXTINF:0,ES: Rtvcscolombia
+http://163.172.6.8:8000/live/test28/test28/2584.ts
+#EXTINF:0,ES: AMC HD
+http://163.172.6.8:8000/live/test28/test28/2589.ts
+#EXTINF:0,ES: LTC
+http://163.172.6.8:8000/live/test28/test28/2588.ts
+#EXTINF:0,ES: GOL Tv
+http://163.172.6.8:8000/live/test28/test28/2585.ts
+#EXTINF:0,ES: Boing
+http://163.172.6.8:8000/live/test28/test28/2586.ts
+#EXTINF:0,ES: Cosmo HD
+http://163.172.6.8:8000/live/test28/test28/2587.ts
+#EXTINF:0,ES: News DW
+http://163.172.6.8:8000/live/test28/test28/1053.ts
+#EXTINF:0,ES: TCM HD
+http://163.172.6.8:8000/live/test28/test28/1056.ts
+#EXTINF:0,ES: 324 Entertainment
+http://163.172.6.8:8000/live/test28/test28/1005.ts
+#EXTINF:0,ES: Fox Life
+http://163.172.6.8:8000/live/test28/test28/1060.ts
+#EXTINF:0,ES: Hollywood
+http://163.172.6.8:8000/live/test28/test28/1036.ts
+#EXTINF:0,ES: Axn White HD
+http://163.172.6.8:8000/live/test28/test28/1023.ts
+#EXTINF:0,ES: History
+http://163.172.6.8:8000/live/test28/test28/1051.ts
+#EXTINF:0,ES: Calle 13 Spain
+http://163.172.6.8:8000/live/test28/test28/1009.ts
+#EXTINF:0,ES: Anime
+http://163.172.6.8:8000/live/test28/test28/999.ts
+#EXTINF:0,ES: A&E
+http://163.172.6.8:8000/live/test28/test28/1001.ts
+#EXTINF:0,ES: FDF
+http://163.172.6.8:8000/live/test28/test28/1007.ts
+#EXTINF:0,ES: Caza Y Pesca
+http://163.172.6.8:8000/live/test28/test28/1027.ts
+#EXTINF:0,ES: Viajar
+http://163.172.6.8:8000/live/test28/test28/1043.ts
+#EXTINF:0,ES: Teleticino
+http://163.172.6.8:8000/live/test28/test28/1008.ts
+#EXTINF:0,ES: National Geographic
+http://163.172.6.8:8000/live/test28/test28/1057.ts
+#EXTINF:0,ES: National Geographic Wild
+http://163.172.6.8:8000/live/test28/test28/1055.ts
+#EXTINF:0,ES: Disney Chaneel
+http://163.172.6.8:8000/live/test28/test28/1040.ts
+#EXTINF:0,ES: Disney XD
+http://163.172.6.8:8000/live/test28/test28/1038.ts
+#EXTINF:0,ES: TNT
+http://163.172.6.8:8000/live/test28/test28/1032.ts
+#EXTINF:0,ES: TVN Chile HD
+http://163.172.6.8:8000/live/test28/test28/1006.ts
+#EXTINF:0,ES: CHILE VTV
+http://163.172.6.8:8000/live/test28/test28/1052.ts
+#EXTINF:0,ES: Chile 18 Carnaval
+http://163.172.6.8:8000/live/test28/test28/1044.ts
+#EXTINF:0,----------Latino----------
+http://163.172.6.8:8000/live/test28/test28/2701.ts
+#EXTINF:0,ES: Azteca trece
+http://163.172.6.8:8000/live/test28/test28/1018.ts
+#EXTINF:0,ES: Azteca Noticias
+http://163.172.6.8:8000/live/test28/test28/1061.ts
+#EXTINF:0,ES: Azteca Noticias 16
+http://163.172.6.8:8000/live/test28/test28/2583.ts
+#EXTINF:0,ES: Azteca 7 Monterrey
+http://163.172.6.8:8000/live/test28/test28/1035.ts
+#EXTINF:0,ES: Antena 3 Internacional
+http://163.172.6.8:8000/live/test28/test28/1000.ts
+#EXTINF:0,ES: Canal del Congreso
+http://163.172.6.8:8000/live/test28/test28/2567.ts
+#EXTINF:0,ES: Azteca CLIC
+http://163.172.6.8:8000/live/test28/test28/2571.ts
+#EXTINF:0,ES: Canel Wow TV
+http://163.172.6.8:8000/live/test28/test28/2558.ts
+#EXTINF:0,ES: Canel 26 HD
+http://163.172.6.8:8000/live/test28/test28/2561.ts
+#EXTINF:0,ES: Canal Antiestres
+http://163.172.6.8:8000/live/test28/test28/2597.ts
+#EXTINF:0,ES: Canal 4 HD Jujuy
+http://163.172.6.8:8000/live/test28/test28/2598.ts
+#EXTINF:0,ES: Canal 10 Chetumal
+http://163.172.6.8:8000/live/test28/test28/2565.ts
+#EXTINF:0,ES: Univision 23
+http://163.172.6.8:8000/live/test28/test28/2607.ts
+#EXTINF:0,ES: Channel 8
+http://163.172.6.8:8000/live/test28/test28/2610.ts
+#EXTINF:0,ES: Channel 32
+http://163.172.6.8:8000/live/test28/test28/2608.ts
+#EXTINF:0,ES: Combate
+http://163.172.6.8:8000/live/test28/test28/2609.ts
+#EXTINF:0,ES: Azteca Cinma
+http://163.172.6.8:8000/live/test28/test28/2559.ts
+#EXTINF:0,ES: Telemaax argentina
+http://163.172.6.8:8000/live/test28/test28/2570.ts
+#EXTINF:0,ES: TV Brasil
+http://163.172.6.8:8000/live/test28/test28/2564.ts
+#EXTINF:0,ES: CBN Español
+http://163.172.6.8:8000/live/test28/test28/2569.ts
+#EXTINF:0,ES: TV Mas HD
+http://163.172.6.8:8000/live/test28/test28/2550.ts
+#EXTINF:0,ES: ALL Sports
+http://163.172.6.8:8000/live/test28/test28/2593.ts
+#EXTINF:0,ES: Tyc Sports
+http://163.172.6.8:8000/live/test28/test28/2574.ts
+#EXTINF:0,ES: Williax
+http://163.172.6.8:8000/live/test28/test28/2572.ts
+#EXTINF:0,ES: Religion
+http://163.172.6.8:8000/live/test28/test28/2554.ts
+#EXTINF:0,ES: Telpin HD
+http://163.172.6.8:8000/live/test28/test28/2560.ts
+#EXTINF:0,ES: Zoom
+http://163.172.6.8:8000/live/test28/test28/2606.ts
+#EXTINF:0,ES: Radiovida
+http://163.172.6.8:8000/live/test28/test28/2601.ts
+#EXTINF:0,ES: Noticias16
+http://163.172.6.8:8000/live/test28/test28/2605.ts
+#EXTINF:0,ES: Mega
+http://163.172.6.8:8000/live/test28/test28/2557.ts
+#EXTINF:0,ES: Mega2015
+http://163.172.6.8:8000/live/test28/test28/2602.ts
+#EXTINF:0,ES: Cable Noticias
+http://163.172.6.8:8000/live/test28/test28/2604.ts
+#EXTINF:0,ES: Cablenoticias
+http://163.172.6.8:8000/live/test28/test28/2603.ts
+#EXTINF:0,ES: Orbe 21
+http://163.172.6.8:8000/live/test28/test28/2578.ts
+#EXTINF:0,ES: Neox HD
+http://163.172.6.8:8000/live/test28/test28/2577.ts
+#EXTINF:0,ES: Rede Super
+http://163.172.6.8:8000/live/test28/test28/2576.ts
+#EXTINF:0,ES: microvision
+http://163.172.6.8:8000/live/test28/test28/2555.ts
+#EXTINF:0,ES: unknown20
+http://163.172.6.8:8000/live/test28/test28/2592.ts
+#EXTINF:0,ES: Atreseries
+http://163.172.6.8:8000/live/test28/test28/2594.ts
+#EXTINF:0,ES: La Otra
+http://163.172.6.8:8000/live/test28/test28/2551.ts
+#EXTINF:0,ES: Konyha TV
+http://163.172.6.8:8000/live/test28/test28/2575.ts
+#EXTINF:0,ES: Kids TV
+http://163.172.6.8:8000/live/test28/test28/2547.ts
+#EXTINF:0,ES: Gong
+http://163.172.6.8:8000/live/test28/test28/2563.ts
+#EXTINF:0,ES: CyL7
+http://163.172.6.8:8000/live/test28/test28/2552.ts
+#EXTINF:0,ES: cliparts/jix
+http://163.172.6.8:8000/live/test28/test28/2573.ts
+#EXTINF:0,ES: Castilla
+http://163.172.6.8:8000/live/test28/test28/2553.ts
+#EXTINF:0,ES: Canal 4
+http://163.172.6.8:8000/live/test28/test28/2556.ts
+#EXTINF:0,ES: Brazil 1
+http://163.172.6.8:8000/live/test28/test28/2562.ts
+#EXTINF:0,ES: Axial TV
+http://163.172.6.8:8000/live/test28/test28/2581.ts
+#EXTINF:0,ES: Efekto tv
+http://163.172.6.8:8000/live/test28/test28/2580.ts
+#EXTINF:0,ES: Rede New
+http://163.172.6.8:8000/live/test28/test28/2548.ts
+#EXTINF:0,ES: A3S
+http://163.172.6.8:8000/live/test28/test28/2579.ts
+#EXTINF:0,ES: 8aldia
+http://163.172.6.8:8000/live/test28/test28/2546.ts
+#EXTINF:0,ES: 66 Mexicali
+http://163.172.6.8:8000/live/test28/test28/2566.ts
+#EXTINF:0,ES: 44 Mexico
+http://163.172.6.8:8000/live/test28/test28/2549.ts
+#EXTINF:0,ES: 3abn Kidz
+http://163.172.6.8:8000/live/test28/test28/2568.ts
+#EXTINF:0,ES: Venezolano TV
+http://163.172.6.8:8000/live/test28/test28/2611.ts
+#EXTINF:0,ES: Todo Deportes
+http://163.172.6.8:8000/live/test28/test28/2618.ts
+#EXTINF:0,ES: Sun HD
+http://163.172.6.8:8000/live/test28/test28/2620.ts
+#EXTINF:0,ES: RtvCe
+http://163.172.6.8:8000/live/test28/test28/2622.ts
+#EXTINF:0,ES: PopularTv
+http://163.172.6.8:8000/live/test28/test28/2612.ts
+#EXTINF:0,ES: Olympic HD
+http://163.172.6.8:8000/live/test28/test28/2614.ts
+#EXTINF:0,ES: LaOtra
+http://163.172.6.8:8000/live/test28/test28/2619.ts
+#EXTINF:0,ES: RTV
+http://163.172.6.8:8000/live/test28/test28/2613.ts
+#EXTINF:0,ES: EitbEuskadi
+http://163.172.6.8:8000/live/test28/test28/2623.ts
+#EXTINF:0,ES: Deport Tv
+http://163.172.6.8:8000/live/test28/test28/2617.ts
+#EXTINF:0,ES: CDO Premium HD
+http://163.172.6.8:8000/live/test28/test28/2615.ts
+#EXTINF:0,ES: Banda Ancha TV
+http://163.172.6.8:8000/live/test28/test28/2616.ts
+#EXTINF:0,ES: 8Tv
+http://163.172.6.8:8000/live/test28/test28/2621.ts
+#EXTINF:0,ES: Uestv
+http://163.172.6.8:8000/live/test28/test28/2627.ts
+#EXTINF:0,ES: Willax TV
+http://163.172.6.8:8000/live/test28/test28/2628.ts
+#EXTINF:0,ES: REDETV HD
+http://163.172.6.8:8000/live/test28/test28/2624.ts
+#EXTINF:0,ES: Noticias News
+http://163.172.6.8:8000/live/test28/test28/2625.ts
+#EXTINF:0,ES: Konyha TV HD
+http://163.172.6.8:8000/live/test28/test28/2629.ts
+#EXTINF:0,ES: Foro TV Opción 2
+http://163.172.6.8:8000/live/test28/test28/2626.ts
+#EXTINF:0,ES: Canal 5
+http://163.172.6.8:8000/live/test28/test28/2631.ts
+#EXTINF:0,ES: Cartoon Network
+http://163.172.6.8:8000/live/test28/test28/2632.ts
+#EXTINF:0,ES: Cinemax
+http://163.172.6.8:8000/live/test28/test28/2630.ts
+#EXTINF:0,ES: De Pelicula
+http://163.172.6.8:8000/live/test28/test28/2634.ts
+#EXTINF:0,ES: Discovery Cimvilization
+http://163.172.6.8:8000/live/test28/test28/2637.ts
+#EXTINF:0,ES: Discovery TLC
+http://163.172.6.8:8000/live/test28/test28/2635.ts
+#EXTINF:0,ES: Discovery World
+http://163.172.6.8:8000/live/test28/test28/2636.ts
+#EXTINF:0,ES: Disny HD
+http://163.172.6.8:8000/live/test28/test28/2638.ts
+#EXTINF:0,ES: E! Entertainment
+http://163.172.6.8:8000/live/test28/test28/2640.ts
+#EXTINF:0,ES: FOX 1
+http://163.172.6.8:8000/live/test28/test28/2641.ts
+#EXTINF:0,ES: FOX Action
+http://163.172.6.8:8000/live/test28/test28/2642.ts
+#EXTINF:0,ES: FOX Classic
+http://163.172.6.8:8000/live/test28/test28/2643.ts
+#EXTINF:0,ES: Fox Movies
+http://163.172.6.8:8000/live/test28/test28/2645.ts
+#EXTINF:0,ES: Fox Sport
+http://163.172.6.8:8000/live/test28/test28/2646.ts
+#EXTINF:0,ES: FX HD
+http://163.172.6.8:8000/live/test28/test28/2647.ts
+#EXTINF:0,ES: Fox Life 2
+http://163.172.6.8:8000/live/test28/test28/2644.ts
+#EXTINF:0,ES: Hola TV
+http://163.172.6.8:8000/live/test28/test28/2648.ts
+#EXTINF:0,ES: Life Time
+http://163.172.6.8:8000/live/test28/test28/2649.ts
+#EXTINF:0,ES: omedy Central
+http://163.172.6.8:8000/live/test28/test28/2633.ts
+#EXTINF:0,ES: RCN HD
+http://163.172.6.8:8000/live/test28/test28/2651.ts
+#EXTINF:0,ES: Sony HD
+http://163.172.6.8:8000/live/test28/test28/2650.ts
+#EXTINF:0,ES: SYFY
+http://163.172.6.8:8000/live/test28/test28/2652.ts
+#EXTINF:0,ES: TV Aparecida
+http://163.172.6.8:8000/live/test28/test28/2582.ts
+#EXTINF:-1,Spain&PT_TV ///
+#EXTINF:-1,Es-LA 1
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2558.ts
+#EXTINF:-1,ES-LA2
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2599.ts
+#EXTINF:-1,ES-TV3
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/1558.ts
+#EXTINF:-1,es-Antenna 3
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2007.ts
+#EXTINF:-1,ES-CALLE 13
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2595.ts
+#EXTINF:-1,ES:#0
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/3616.ts
+#EXTINF:-1,ES:NEOX
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/3615.ts
+#EXTINF:-1,Es-C  XTRA HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2563.ts
+#EXTINF:-1,Es-C  LIGA HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2567.ts
+#EXTINF:-1,Es-C  FUTBOL HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2570.ts
+#EXTINF:-1,Es-C  ESTRENOS HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2571.ts
+#EXTINF:-1,Es-C  DEPORTES1 HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2572.ts
+#EXTINF:-1,Es-C  DCINE HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2574.ts
+#EXTINF:-1,ES-ENERGY
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2606.ts
+#EXTINF:-1,Es-La Sexta
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2576.ts
+#EXTINF:-1,Es-EuroNews
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2569.ts
+#EXTINF:-1,Es-COSMO
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2573.ts
+#EXTINF:-1,Es-RT es
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2564.ts
+#EXTINF:-1,Es-EiTB
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2565.ts
+#EXTINF:-1,Es-BEIN SPORTS
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2579.ts
+#EXTINF:-1,ES-REAL MADRID TV
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2589.ts
+#EXTINF:-1,ES-Canal.Costa
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2601.ts
+#EXTINF:-1,ES-MOVISTAR_FORMULA_1_HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2598.ts
+#EXTINF:-1,ES-FOX HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2590.ts
+#EXTINF:-1,Es-Animal_plante
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2566.ts
+#EXTINF:-1,ES-Disney.Channel
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2592.ts
+#EXTINF:-1,ES-DISNEY XD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2593.ts
+#EXTINF:-1,ES-DISNEY JUNIOR
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2594.ts
+#EXTINF:-1,ES-Canal_Toros
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2591.ts
+#EXTINF:-1,ES-AXN HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2597.ts
+#EXTINF:-1,ES-moviestar.Comedia
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2596.ts
+#EXTINF:-1,Es-TELECINCO HD
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2556.ts
+#EXTINF:-1,Es-Nat.Geo
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2557.ts
+#EXTINF:-1,es-Discovery
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2003.ts
+#EXTINF:-1,es-Europe News
+http://best4u.biz:8000/live/alonewolf71/alonewolf71/2011.ts
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
