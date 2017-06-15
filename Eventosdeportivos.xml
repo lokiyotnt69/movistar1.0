@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+
+<items>
+
+<item>
+<title>                [COLOR=deeppink]?~?~? ??   [/COLOR][B][COLOR darkorchid]DEPORTES GOLEANDO.com[/COLOR][/B]    [COLOR=deeppink]?? ?~?~?[/COLOR]</title>
+	<fanart>http://files.laliga.es/201705/855x481_02211838636293563458141219.jpg</fanart>
+    <thumbnail>http://2.bp.blogspot.com/-QCP_bg9mc3o/WHP1xa93AyI/AAAAAAAACBQ/fH1m6cuSZi4nUwzESolu3Nv4YEdT7d0SQCK4B/s1600/logodef.png</thumbnail>
+    <link>http://www.goleando.com/</link>
+	<info>La disposicion nueva de los canales es:
+	Gol 1: Bein LaLiga
+	Gol 2: Movistar Futbol
+	Gol 3: Bein Sports Espana
+	Gol 4: Movistar Deportes
+	Gol 5: Movistar Deportes 2
+	Gol 6: Movistar Formula 1
+	Gol 7: Movistar MotoGP
+	Gol 8: Eventos deportivos de #0
+	Gol 9: GOL (Canal disponible los fines de semana o jornadas intersemanales)
+	Gol 10: Bein Sports 1 France
+	Gol 11: Bein Sports 2 France
+	Gol 12: Eventos
+	Gol 13 al 17: Multifutbol / Multideporte Movistar
+	Gol 18 al 21: Reservados exclusivamente para LaLiga 123	
+	Gol 22 al 27: Eventos
+	AdemȢs, tambien se ha reorganizado los canales HD que mantienen el mismo nombre pero cada canal estara destinado a un deporte o competicion
+	Gol HD 1: LaLiga (Solo partidos)
+	Gol HD 2: Premier y Bundesliga (Solo partidos)
+	Gol HD 3: LaLiga 123
+	Gol HD 4: LaLiga (Si se necesita mas de 1 canal HD)
+	Gol HD 5: Reservado
+	Gol HD 6: Formula 1 (Previamente, se indicara que evento va por este canal)
+	Gol HD 7: Motociclismo (Previamente, se indicara que evento va por este canal)
+	Gol HD 8: Otros deportes</info>
+</item>
+
+
+
+
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 1:[/B][/COLOR] [COLOR orangered][B]Bein LaLiga [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-FLFlXVfOLSM/V58eYppySpI/AAAAAAAAB3k/Jfn3AdxhU6gtP6YEMNrknKMcOjXGW4npwCCo/s150/beinliga.png</thumbnail>
+</item>
+  
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 2: [/B][/COLOR] [COLOR orangered][B]Movistar Futbol [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-2.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-M-IcAgmtX_U/V58eZP-TxaI/AAAAAAAAB3Y/K4KPjBvmGq0QV6RRtutC7AEy95w4N8YBQCCo/s150/mfutbol.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 3: [/B][/COLOR] [COLOR orangered][B]Bein Sports Espa?a [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-3.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-7CzWp4UbpmA/V58eYWG076I/AAAAAAAAB28/WMmG0wJF5zgWEbtIBE4Y1VJkGaiMeRx3gCCo/s150/bein.png</thumbnail>
+</item> 
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 4: [/B][/COLOR] [COLOR orangered][B]Movistar Deportes [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-4.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-27kElkGoOko/V58eYrjaVOI/AAAAAAAAB3M/udsKtvL38-wPxMqp_wEDIdBL8_CMVbm2gCCo/s150/mdep1.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 5: [/B][/COLOR] [COLOR orangered][B]Movistar Deportes 2 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-5.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-MDGJKFWxDZw/V58eY69_WHI/AAAAAAAAB3Q/76jT26aUpgc_uXRy44BlN2v3h5khC8INACCo/s150/mdep2.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 6: [/B][/COLOR] [COLOR orangered][B]Movistar FȮrmula 1 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-6.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-XH3mQ5m8GXg/Voa3mtK2RkI/AAAAAAAABP8/-kn-HwL9EZo/s1600/movf1.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 7: [/B][/COLOR] [COLOR orangered][B]Movistar MotoGP [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-7.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-81QCqan8aXo/Voa3m0CLilI/AAAAAAAABQA/nrQx8DKVixY/s1600/movmotogp.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 8: [/B][/COLOR] [COLOR orangered][B]Eventos deportivos de #0 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-8.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://www.reasonwhy.es/sites/default/files/cero-canal-plus-movistar-reasonwhy.es__0.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 9: [/B][/COLOR] [COLOR orangered][B]GOL[/B][/COLOR][COLOR=white]  (disponible fines de semana o jornadas intersemanales)[/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-9.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://i.imgur.com/AjzUJSr.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 10: [/B][/COLOR] [COLOR orangered][B]Bein Sports 1 France [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-10.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://i.imgur.com/IUGR7y5.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 11: [/B][/COLOR] [COLOR orangered][B]Bein Sports 2 France [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-11.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://i.imgur.com/FbwWQPu.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 12: [/B][/COLOR] [COLOR orangered][B]Eventos [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-12.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://1.bp.blogspot.com/-iagPURIgzBQ/WAKtwMJ2MPI/AAAAAAAAB9I/cfAizcxXEQ0fX6TPnMHAyTkdiRkXQ-XsgCLcB/w72-h72-p-k-no-nu/BANNER.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 13: [/B][/COLOR] [COLOR orangered][B]Multifutbol / Multideporte Movistar [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-13.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://4.bp.blogspot.com/-_RqGJ3NbsZM/ViFtX2SoOEI/AAAAAAAAApw/XU-mI6fH5Nw/s1600/Sin%2Bt%25C3%25ADtulo-8.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 14: [/B][/COLOR] [COLOR orangered][B]Multifutbol / Multideporte Movistar [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-14.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://4.bp.blogspot.com/-_RqGJ3NbsZM/ViFtX2SoOEI/AAAAAAAAApw/XU-mI6fH5Nw/s1600/Sin%2Bt%25C3%25ADtulo-8.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 15: [/B][/COLOR] [COLOR orangered][B]Multifutbol / Multideporte Movistar [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-15.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://4.bp.blogspot.com/-_RqGJ3NbsZM/ViFtX2SoOEI/AAAAAAAAApw/XU-mI6fH5Nw/s1600/Sin%2Bt%25C3%25ADtulo-8.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 16: [/B][/COLOR] [COLOR orangered][B]Multifutbol / Multideporte Movistar [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-16.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://4.bp.blogspot.com/-_RqGJ3NbsZM/ViFtX2SoOEI/AAAAAAAAApw/XU-mI6fH5Nw/s1600/Sin%2Bt%25C3%25ADtulo-8.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 17: [/B][/COLOR] [COLOR orangered][B]Multifutbol / Multideporte Movistar [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-17.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://4.bp.blogspot.com/-_RqGJ3NbsZM/ViFtX2SoOEI/AAAAAAAAApw/XU-mI6fH5Nw/s1600/Sin%2Bt%25C3%25ADtulo-8.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 18: [/B][/COLOR] [COLOR orangered][B]Exclusivamente para LaLiga 123 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-18.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-5GRRkl1TWDE/V5E3cMJUJGI/AAAAAAAAByo/ICl7SQ_E1jo3Eq4jEItSszKm6U1ve_iTQCLcB/w72-h72-p-k-no-nu/02b8a898-2717-43b2-9fa6-7d26028a2291.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 19: [/B][/COLOR] [COLOR orangered][B]Exclusivamente para LaLiga 123 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-19.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-5GRRkl1TWDE/V5E3cMJUJGI/AAAAAAAAByo/ICl7SQ_E1jo3Eq4jEItSszKm6U1ve_iTQCLcB/w72-h72-p-k-no-nu/02b8a898-2717-43b2-9fa6-7d26028a2291.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 20: [/B][/COLOR] [COLOR orangered][B]Exclusivamente para LaLiga 123 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-20.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-5GRRkl1TWDE/V5E3cMJUJGI/AAAAAAAAByo/ICl7SQ_E1jo3Eq4jEItSszKm6U1ve_iTQCLcB/w72-h72-p-k-no-nu/02b8a898-2717-43b2-9fa6-7d26028a2291.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 21: [/B][/COLOR] [COLOR orangered][B]Exclusivamente para LaLiga 123 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-21.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-5GRRkl1TWDE/V5E3cMJUJGI/AAAAAAAAByo/ICl7SQ_E1jo3Eq4jEItSszKm6U1ve_iTQCLcB/w72-h72-p-k-no-nu/02b8a898-2717-43b2-9fa6-7d26028a2291.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 22: [/B][/COLOR] [COLOR orangered][B]Eventos [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-22.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://1.bp.blogspot.com/-iagPURIgzBQ/WAKtwMJ2MPI/AAAAAAAAB9I/cfAizcxXEQ0fX6TPnMHAyTkdiRkXQ-XsgCLcB/w72-h72-p-k-no-nu/BANNER.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 23: [/B][/COLOR] [COLOR orangered][B]Eventos [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-23.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://1.bp.blogspot.com/-iagPURIgzBQ/WAKtwMJ2MPI/AAAAAAAAB9I/cfAizcxXEQ0fX6TPnMHAyTkdiRkXQ-XsgCLcB/w72-h72-p-k-no-nu/BANNER.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 24: [/B][/COLOR] [COLOR orangered][B]Eventos [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-24.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://1.bp.blogspot.com/-iagPURIgzBQ/WAKtwMJ2MPI/AAAAAAAAB9I/cfAizcxXEQ0fX6TPnMHAyTkdiRkXQ-XsgCLcB/w72-h72-p-k-no-nu/BANNER.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 25: [/B][/COLOR] [COLOR orangered][B]Eventos [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-25.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://1.bp.blogspot.com/-iagPURIgzBQ/WAKtwMJ2MPI/AAAAAAAAB9I/cfAizcxXEQ0fX6TPnMHAyTkdiRkXQ-XsgCLcB/w72-h72-p-k-no-nu/BANNER.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 26: [/B][/COLOR] [COLOR orangered][B]Eventos [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-26.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://1.bp.blogspot.com/-iagPURIgzBQ/WAKtwMJ2MPI/AAAAAAAAB9I/cfAizcxXEQ0fX6TPnMHAyTkdiRkXQ-XsgCLcB/w72-h72-p-k-no-nu/BANNER.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol 27: [/B][/COLOR] [COLOR orangered][B]Eventos[/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-27.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://1.bp.blogspot.com/-iagPURIgzBQ/WAKtwMJ2MPI/AAAAAAAAB9I/cfAizcxXEQ0fX6TPnMHAyTkdiRkXQ-XsgCLcB/w72-h72-p-k-no-nu/BANNER.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 1: [/B][/COLOR] [COLOR orangered][B]LaLiga[/B][/COLOR][COLOR=white]  (Solo partidos) [/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-FLFlXVfOLSM/V58eYppySpI/AAAAAAAAB3k/Jfn3AdxhU6gtP6YEMNrknKMcOjXGW4npwCCo/s150/beinliga.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 2: [/B][/COLOR] [COLOR orangered][B]Premier y Bundesliga[/B][/COLOR][COLOR=white]  (Solo partidos)[/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-7CzWp4UbpmA/V58eYWG076I/AAAAAAAAB28/WMmG0wJF5zgWEbtIBE4Y1VJkGaiMeRx3gCCo/s150/bein.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 3: [/B][/COLOR] [COLOR orangered][B]LaLiga 123 [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-5GRRkl1TWDE/V5E3cMJUJGI/AAAAAAAAByo/ICl7SQ_E1jo3Eq4jEItSszKm6U1ve_iTQCLcB/w72-h72-p-k-no-nu/02b8a898-2717-43b2-9fa6-7d26028a2291.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 4: [/B][/COLOR] [COLOR orangered][B]LaLiga[/B][/COLOR][COLOR=white] (Si se necesita mas de 1 canal HD)[/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-FLFlXVfOLSM/V58eYppySpI/AAAAAAAAB3k/Jfn3AdxhU6gtP6YEMNrknKMcOjXGW4npwCCo/s150/beinliga.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 5: [/B][/COLOR] [COLOR orangered][B]Reservado [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://2.bp.blogspot.com/-qIEZT7AAnKM/VohRM3mMWaI/AAAAAAAABY4/mKqyCL4JS4k/s1600/TELEDEPORTE.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 6: [/B][/COLOR] [COLOR orangered][B]Formula 1[/B][/COLOR][COLOR=white] (Previamente, se indicara que evento va por este canal)[/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-XH3mQ5m8GXg/Voa3mtK2RkI/AAAAAAAABP8/-kn-HwL9EZo/s1600/movf1.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 7: [/B][/COLOR] [COLOR orangered][B]Motociclismo[/B][/COLOR][COLOR=white] (Previamente, se indicara que evento va por este canal)[/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://3.bp.blogspot.com/-81QCqan8aXo/Voa3m0CLilI/AAAAAAAABQA/nrQx8DKVixY/s1600/movmotogp.png</thumbnail>
+</item>
+
+<item><title>[COLOR=lime][B]  [/B][/COLOR]  [COLOR=goldenrod][B]Gol HD 8: [/B][/COLOR] [COLOR orangered][B]Otros deportes [/B][/COLOR][COLOR darkcyan] [I] ~  SportsDevil[/I][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getM3u8]</link>
+<regex><name>getM3u8</name>
+    <expres><![CDATA[src="(.*?)"]]></expres>
+    <page>http://www.goleando.com/p/gol-hd-1.html?m=1</page>
+	<referer>http://www.goleando.com/</referer>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://lh3.googleusercontent.com/-HDPUK1-A1Nc/V58eYteDCfI/AAAAAAAAB3I/bOGoZIqzOYgcGSoBKeYaqlObfHDNuI-pACCo/s150/RMTV.png</thumbnail>
+</item>
+
+<items>
+
+
+</channel>  
