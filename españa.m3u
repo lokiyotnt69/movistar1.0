@@ -12,306 +12,371 @@
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTM3U name="Yoyo"
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg, [000] Movistar+
-rtp://@239.0.0.77:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg, [000] Movistar+ HD
-rtp://@239.0.5.185:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg, [001] TVE 1
-rtp://@239.0.0.76:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg, [001] TVE 1 HD
-rtp://@239.0.0.185:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg, [002] TVE 2
-rtp://@239.0.0.2:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg, [003] Antena 3
-rtp://@239.0.0.3:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg, [003] Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg, [004] Cuatro
-rtp://@239.0.0.4:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg, [004] Cuatro HD
-rtp://@239.0.0.177:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg, [005] Telecinco
-rtp://@239.0.0.5:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg, [005] Telecinco HD
-rtp://@239.0.0.176:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg, [006] La Sexta
-rtp://@239.0.0.58:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg, [006] La Sexta HD
-rtp://@239.0.0.187:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg, [007] #0
-rtp://@239.0.0.108:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg, [007] #0 HD
-rtp://@239.0.5.187:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/series.jpg, [010] Series
-rtp://@239.0.3.32:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/series.jpg, [010] Series HD
-rtp://@239.0.0.184:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg, [013] FOX
-rtp://@239.0.0.74:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg, [013] FOX HD
-rtp://@239.0.9.134:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg, [014] AXN
-rtp://@239.0.0.14:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg, [014] AXN HD
-rtp://@239.0.9.131:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg, [015] TNT
-rtp://@239.0.0.44:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg, [015] TNT HD
-rtp://@239.0.5.87:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg, [016] Comedy Central
-rtp://@239.0.0.68:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg, [016] Comedy Central HD
-rtp://@239.0.0.174:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg, [017] Calle 13
-rtp://@239.0.0.13:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg, [017] Calle 13 HD
-rtp://@239.0.5.74:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cosmo.jpg, [018] Cosmo
-rtp://@239.0.0.15:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cosmo.jpg, [018] Cosmo HD
-rtp://@239.0.5.71:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mgm.jpg, [019] AMC
-rtp://@239.0.0.8:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mgm.jpg, [019] AMC HD
-rtp://@239.0.9.132:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg, [020] FOX Life
-rtp://@239.0.0.112:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg, [020] FOX Life HD
-rtp://@239.0.5.86:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg, [021] AXN White
-rtp://@239.0.0.62:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg, [021] AXN White HD
-rtp://@239.0.5.79:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg, [022] SyFy
-rtp://@239.0.0.111:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg, [022] SyFy HD
-rtp://@239.0.5.75:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nsp.jpg, [023] Non Stop People
-rtp://@239.0.0.212:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nsp.jpg, [023] Non Stop People HD
-rtp://@239.0.5.170:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mtvespana.jpg, [024] MTV
-rtp://@239.0.0.211:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg, [025] FDF
-rtp://@239.0.0.84:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/neox.jpg, [026] Neox
-rtp://@239.0.0.107:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/atreseries.jpg, [027] Atreseries
-rtp://@239.0.3.29:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/atreseries.jpg, [027] Atreseries HD
-rtp://@239.0.0.181:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cine.jpg, [030] Cine
-rtp://@239.0.3.30:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cine.jpg, [030] Cine HD
-rtp://@239.0.0.178:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg, [037] TCM
-rtp://@239.0.6.5:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg, [037] TCM HD
-rtp://@239.0.5.89:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg, [038] Hollywood
-rtp://@239.0.0.16:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg, [038] Hollywood HD
-rtp://@239.0.5.76:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/sundance.jpg, [039] Sundance
-rtp://@239.0.0.102:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/sundance.jpg, [039] Sundance HD
-rtp://@239.0.5.72:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg, [040] Paramount
-rtp://@239.0.0.90:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/13tv.jpg, [041] 13 TV
-rtp://@239.0.0.91:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/ten.jpg, [042] Ten
-rtp://@239.0.0.34:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/deportes.jpg, [044] Deportes
-rtp://@239.0.3.33:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/deportes.jpg, [044] Deportes HD
-rtp://@239.0.0.180:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg, [045] Movistar Futbol
-rtp://@239.0.6.8:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg, [045] Movistar Futbol HD
-rtp://@239.0.6.14:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg, [046] Movistar Partidazo
-rtp://@239.0.4.129:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg, [046] Movistar Partidazo HD
-rtp://@239.0.5.84:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [047] beIN La Liga
-rtp://@239.0.0.46:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [047] beIN La Liga HD
-rtp://@239.0.5.106:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [048] beIN La Liga 1
-rtp://@239.0.0.47:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [048] beIN La Liga 1 HD
-rtp://@239.0.5.179:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [049] beIN La Liga 2
-rtp://@239.0.0.67:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [049] beIN La Liga 2 HD
-rtp://@239.0.5.180:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg, [050] beIN SPORTS
-rtp://@239.0.3.100:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg, [050] beIN SPORTS HD
-rtp://@239.0.9.80:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/futbol-replay.jpg, [050] Futbol Replay
-rtp://@239.0.0.97:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg, [051] beIN MAX 1
-rtp://@239.0.6.7:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg, [051] beIN MAX 1 HD
-rtp://@239.0.5.177:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg, [052] beIN MAX 2
-rtp://@239.0.6.13:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg, [057] Movistar F1
-rtp://@239.0.0.210:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg, [057] Movistar F1 HD
-rtp://@239.0.5.246:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg, [058] Movistar MotoGP
-rtp://@239.0.3.38:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg, [058] Movistar MotoGP HD
-rtp://@239.0.5.107:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg, [060] EuroSport
-rtp://@239.0.0.18:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg, [060] EuroSport HD New
-rtp://@239.0.9.144:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg, [060] EuroSport HD Old
-rtp://@239.0.9.135:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg, [061] EuroSport 2
-rtp://@239.0.0.37:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg, [061] EuroSport 2 HD
-rtp://@239.0.5.105:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg, [063] Teledeporte
-rtp://@239.0.0.79:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg, [063] Teledeporte HD
-rtp://@239.0.0.188:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/iberalia.jpg, [066] Iberalia
-rtp://@239.0.5.6:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg, [070] National Geographic
-rtp://@239.0.0.103:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg, [070] National Geographic HD
-rtp://@239.0.5.78:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg, [071] Nat Geo Wild
-rtp://@239.0.0.89:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg, [071] Nat Geo Wild HD
-rtp://@239.0.9.136:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg, [072] Historia
-rtp://@239.0.0.19:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg, [073] Discovery Channel
-rtp://@239.0.0.21:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg, [073] Discovery Channel HD
-rtp://@239.0.5.77:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/odisea.jpg, [074] Odisea
-rtp://@239.0.0.22:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/odisea.jpg, [074] Odisea HD
-rtp://@239.0.5.82:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/ae.jpg, [075] A&E
-rtp://@239.0.0.38:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg, [076] Viajar
-rtp://@239.0.0.20:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg, [076] Viajar HD
-rtp://@239.0.5.73:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverymax.jpg, [077] Discovery MAX
-rtp://@239.0.0.32:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cctve.jpg, [079] CCTV-E
-rtp://@239.0.0.65:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg, [080] Cocina
-rtp://@239.0.0.27:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg, [081] Decasa
-rtp://@239.0.0.71:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg, [082] Crimen e Investigacion
-rtp://@239.0.0.57:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/divinity.jpg, [083] Divinity
-rtp://@239.0.0.48:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nova.jpg, [084] Nova
-rtp://@239.0.0.106:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg, [085] MEGA
-rtp://@239.0.3.31:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg, [086] Energy
-rtp://@239.0.0.59:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/garagetv.jpg, [087] Garage TV
-rtp://@239.0.0.99:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/baby_tv.jpg, [090] Baby TV
-rtp://@239.0.0.113:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg, [091] Disney Junior
-rtp://@239.0.0.10:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg, [092] Canal Panda
-rtp://@239.0.0.117:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickjr.jpg, [093] Nick Jr
-rtp://@239.0.0.115:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg, [094] Nickelodeon
-rtp://@239.0.0.69:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg, [095] Disney XD
-rtp://@239.0.0.11:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneychannel.jpg, [096] Disney Channel
-rtp://@239.0.0.64:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneychannel.jpg, [096] Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/boing.jpg, [097] Boing
-rtp://@239.0.0.66:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg, [098] Clan TVE
-rtp://@239.0.0.80:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/40tv.jpg, [103] 40 TV
-rtp://@239.0.0.12:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/solmusica.jpg, [104] Sol Musica
-rtp://@239.0.0.39:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/vh1.jpg, [105] VH1
-rtp://@239.0.0.75:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve_24h.jpg, [112] Canal 24 Horas
-rtp://@239.0.0.78:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bbcworld.jpg, [113] BBC world
-rtp://@239.0.0.30:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cnni.jpg, [114] CNN International
-rtp://@239.0.0.40:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox_news.jpg, [115] Fox News
-rtp://@239.0.7.65:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/euronews.jpg, [116] Euronews
-rtp://@239.0.0.28:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/aljazeera.jpg, [117] Al Jazeera
-rtp://@239.0.7.66:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/france24.jpg, [118] France 24
-rtp://@239.0.7.67:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/russia_today.jpg, [119] Russia Today
-rtp://@239.0.7.68:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cnbc.jpg, [120] CNBC Europe
-rtp://@239.0.7.69:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tv5monde.jpg, [122] TV5 Monde Europe
-rtp://@239.0.0.31:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bloomberg.jpg, [123] Bloomberg
-rtp://@239.0.0.29:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/intereconomia.jpg, [124] Intereconomia TV
-rtp://@239.0.0.63:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/i24news-44x36.jpg, [128] I24 News
-rtp://@239.0.0.220:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cnc-world.jpg, [129] CNC World
-rtp://@239.0.0.221:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/orbe-21.jpg, [133] Canal Orbe 21
-rtp://@239.0.0.45:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalsur.jpg, [150] Andalucia TV
-rtp://@239.0.0.1:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/TELEVISION-GALICIA-44x36.jpg, [151] Galicia TV Europa
-rtp://@239.0.3.37:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/TV3-44x36.jpg, [153] TV3CAT
-rtp://@239.0.3.36:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eitb.png, [154] ETB Sat
-rtp://@239.0.0.60:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/ARAGON-TV-44x36.jpg, [155] Aragon TV Int
-rtp://@239.0.0.81:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/multifutbol.jpg, [176] Multifutbol 1
-rtp://@239.0.0.92:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/multifutbol.jpg, [177] Multifutbol 2
-rtp://@239.0.0.93:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/multifutbol.jpg, [178] Multifutbol 3
-rtp://@239.0.0.94:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/multifutbol.jpg, [179] Multifutbol 4
-rtp://@239.0.0.95:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/multifutbol.jpg, [180] Multifutbol 5
-rtp://@239.0.0.96:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [181] beIN La Liga 3
-rtp://@239.0.0.70:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [181] beIN La Liga 3 HD
-rtp://@239.0.5.181:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png, [182] beIN La Liga 4
-rtp://@239.0.0.72:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg, [186] beIN MAX 3
-rtp://@239.0.0.216:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg, [187] beIN MAX 4
-rtp://@239.0.0.217:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/ltc.jpg, [200] La Tienda en Casa
-rtp://@239.0.0.98:8208
+#EXTINF:-1,SP: La 1
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/482.ts
+#EXTINF:-1,SP: La 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/483.ts
+#EXTINF:-1,SP: Antena 3
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/484.ts
+#EXTINF:-1,SP: Cuatro
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/485.ts
+#EXTINF:-1,SP: Telecino
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/518.ts
+#EXTINF:-1,SP: La Sexta
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/539.ts
+#EXTINF:-1,SP: Clan TVE
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/545.ts
+#EXTINF:-1,SP: Nova
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/1858.ts
+#EXTINF:-1,SP: Neox
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/527.ts
+#EXTINF:-1,SP: Canal Sur
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/542.ts
+#EXTINF:-1,SP: C+ Estrenos
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/509.ts
+#EXTINF:-1,SP: C+ Xtra
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/534.ts
+#EXTINF:-1,SP: C+ Accion HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/512.ts
+#EXTINF:-1,SP:  C+ Comedia HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/513.ts
+#EXTINF:-1,SP: C+ Dcine HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/511.ts
+#EXTINF:-1,SP: Hollywood
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/538.ts
+#EXTINF:-1,SP: TNT
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/520.ts
+#EXTINF:-1,SP: Tcm
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/517.ts
+#EXTINF:-1,SP: C+ Series
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/503.ts
+#EXTINF:-1,SP: C+ Series Xtra
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/514.ts
+#EXTINF:-1,SP: Fox HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/492.ts
+#EXTINF:-1,SP: Amc
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/500.ts
+#EXTINF:-1,SP: Axn HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/550.ts
+#EXTINF:-1,SP: Syfy
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/516.ts
+#EXTINF:-1,SP: Calle 13
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/540.ts
+#EXTINF:-1,SP: Comedy Central
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/528.ts
+#EXTINF:-1,SP: FDF
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/535.ts
+#EXTINF:-1,SP: Divinity
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/489.ts
+#EXTINF:-1,SP: Energy
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/490.ts
+#EXTINF:-1,SP: C+ Toros
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/501.ts
+#EXTINF:-1,SP: Ltc
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/491.ts
+#EXTINF:-1,SP: C+ Deportes
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/507.ts
+#EXTINF:-1,SP: C+ Deportes 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/508.ts
+#EXTINF:-1,SP: C+ Futbol HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/505.ts
+#EXTINF:-1,SP: C + Futbol
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/504.ts
+#EXTINF:-1,SP: Teledeporte
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/519.ts
+#EXTINF:-1,SP: Bein Sports
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/523.ts
+#EXTINF:-1,SP: Real Madrid TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/525.ts
+#EXTINF:-1,SP: Barca TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/524.ts
+#EXTINF:-1,SP: Euro Sport 1
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/529.ts
+#EXTINF:-1,SP: Euro Sport 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/530.ts
+#EXTINF:-1,SP: Moto GP
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/493.ts
+#EXTINF:-1,SP: C+ Golf
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/510.ts
+#EXTINF:-1,SP: Canal Odisea
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/541.ts
+#EXTINF:-1,SP: National Geographic
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/548.ts
+#EXTINF:-1,SP: National Geographic Wild HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/547.ts
+#EXTINF:-1,SP: Discovery
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/532.ts
+#EXTINF:-1,SP: Historia
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/537.ts
+#EXTINF:-1,SP: Canal Decasa
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/496.ts
+#EXTINF:-1,SP: Caza Y Pesca
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/549.ts
+#EXTINF:-1,SP: Viajar
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/526.ts
+#EXTINF:-1,SP: Canal Cocina
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/495.ts
+#EXTINF:-1,SP: Mtv Espana
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/546.ts
+#EXTINF:-1,SP: Mezzo
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/487.ts
+#EXTINF:-1,SP: Classica
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/531.ts
+#EXTINF:-1,SP: Disney Channel
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/533.ts
+#EXTINF:-1,SP: Disney XD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/488.ts
+#EXTINF:-1,SP: Boing
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/1446.ts
+#EXTINF:-1,SP: Canal Panda
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/486.ts
+#EXTINF:-1,SP: Baby TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/544.ts
+#EXTINF:-1,SP: Canal 24 Horas
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/494.ts
+#EXTINF:-1,SP: 24 Horas
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/498.ts
+#EXTINF:-1,SP: Fox News
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/536.ts
+#EXTINF:-1,SP: TV International Europa
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/521.ts
+#EXTINF:-1,SP: C+ Liga
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/506.ts
+#EXTINF:-1,#0 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
+#EXTINF:-1,LA 1 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
+#EXTINF:-1,LA 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
+#EXTINF:-1,ANTENA 3 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
+#EXTINF:-1,CUATRO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
+#EXTINF:-1,TELECINCO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
+#EXTINF:-1,LA SEXTA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
+#EXTINF:-1,FOX LIFE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
+#EXTINF:-1,FOX HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
+#EXTINF:-1,AXN WHITE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
+#EXTINF:-1,AXN HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
+#EXTINF:-1,HOLLYWOODHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
+#EXTINF:-1,M.ESTRENOSHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
+#EXTINF:-1,M.COMEDIA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
+#EXTINF:-1,M. XTRA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
+#EXTINF:-1,M. SeriesXtraHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
+#EXTINF:-1,M. SERIES HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
+#EXTINF:-1,M. DCINE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
+#EXTINF:-1,M. ACCI©N HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
+#EXTINF:-1,SYFY HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
+#EXTINF:-1,TNT HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
+#EXTINF:-1,TCM HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
+#EXTINF:-1,AMC HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
+#EXTINF:-1,FDF
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
+#EXTINF:-1,CLAN TVE
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
+#EXTINF:-1,NICKELODEONHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
+#EXTINF:-1,COSMO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
+#EXTINF:-1,COMEDYCENTRALHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
+#EXTINF:-1,CALLE 13 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
+#EXTINF:-1,BEIN SPORT HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
+#EXTINF:-1,BEIN LALIGA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
+#EXTINF:-1,LALIGA TV BAR HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
+#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
+#EXTINF:-1,M.MOTOGPHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
+#EXTINF:-1,M.FORMULA1HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
+#EXTINF:-1,M. GOLF HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
+#EXTINF:-1,M. F.TBOL HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
+#EXTINF:-1,M. DEP 2 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
+#EXTINF:-1,M. DEP 1 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
+#EXTINF:-1,GOL TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
+#EXTINF:-1,R. MADRID TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
+#EXTINF:-1,BARCA TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
+#EXTINF:-1,EUROSPORT1HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
+#EXTINF:-1,EUROSPORT 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
+#EXTINF:-1,TOROS TV HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
+#EXTINF:-1,BEINLALIGA1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
+#EXTINF:-1,BEINLALIGA2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
+#EXTINF:-1,BEIN MAX 1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
+#EXTINF:-1,BEIN MAX 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
+#EXTINF:-1,NG WILD HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
+#EXTINF:-1,VIAJAR HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
+#EXTINF:-1,NAT GEO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
+#EXTINF:-1,CAZA Y PESCA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
+#EXTINF:-1,BABY TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
+#EXTINF:-1,DISNEY CH HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
+#EXTINF:-1,24 HORAS
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
+#EXTINF:-1,NEOX
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
+#EXTINF:-1,M. Cine Espaæol
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
+#EXTINF:-1,LTC
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
+#EXTINF:-1,PARAMOUNT
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
+#EXTINF:-1,CANAL ODISEA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
+#EXTINF:-1,Canal Extremadura SAT
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/344.ts
+#EXTINF:-1,CANAL DECASA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
+#EXTINF:-1,NONSTOPEOPLE
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
+#EXTINF:-1,MTV ESPA¹A
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
+#EXTINF:-1,HISTORIA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
+#EXTINF:-1,DIVINITY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
+#EXTINF:-1,DISNEY XD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
+#EXTINF:-1,DISCOVERY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
+#EXTINF:-1,CRIMEN INVES
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
+#EXTINF:-1,CLASSICA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
+#EXTINF:-1,CANAL SUR A.
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
+#EXTINF:-1,CANAL PANDA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
+#EXTINF:-1,BOING
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
+#EXTINF:-1,ARAGON TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
+#EXTINF:-1,A&E
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
+#EXTINF:-1,C&I
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
+#EXTINF:-1,ENERGY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
+#EXTINF:-1,TAQUILLA_1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
+#EXTINF:-1,TAQUILLA_2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
+#EXTINF:-1,TAQUILLA_3
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
+#EXTINF:-1,TAQUILLA_4
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
+#EXTINF:-1,TAQUILLA_5
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
+#EXTINF:-1,TAQUILLA_6
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
+#EXTINF:-1,TAQUILLA_7
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
+#EXTINF:-1,TAQUILLA_8
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
+#EXTINF:-1,TAQUILLA_9
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
+#EXTINF:-1,TAQUILLA_10
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
+#EXTINF:-1,TAQUILLA_11
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
+#EXTINF:-1,TAQUILLA_12
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
+#EXTINF:-1,TAQUILLA_13
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
+#EXTINF:-1,TAQUILLA_14
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
+#EXTINF:-1,TAQUILLA_15
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
+#EXTINF:-1,TAQUILLA_16
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
+#EXTINF:-1,TAQUILLA_17
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
+#EXTINF:-1,TAQUILLA_18
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
+#EXTINF:-1,TAQUILLA_19
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
+#EXTINF:-1,TAQUILLA_20
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
+#EXTINF:-1,TAQUILLA_21
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
+#EXTINF:-1,TAQUILLA_22
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
+#EXTINF:-1,TAQUILLA_23
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
+#EXTINF:-1,TAQUILLA_24
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
+#EXTINF:-1,TAQUILLA_25
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
+#EXTINF:-1,TAQUILLA_26
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
+#EXTINF:-1,TAQUILLA_27
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
+#EXTINF:-1,TAQUILLA_28
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
+#EXTINF:-1,TAQUILLA_29
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
+#EXTINF:-1,TAQUILLA_30
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
+#EXTINF:-1,TAQUILLA_31
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
+#EXTINF:-1,TAQUILLA_32
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
+#EXTINF:-1,TAQUILLA_33
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
+#EXTINF:-1,TAQUILLA_34
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
+#EXTINF:-1,TAQUILLA_35
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
+#EXTINF:-1,TAQUILLA_36
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
+#EXTINF:-1,TAQUILLA_37
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
+#EXTINF:-1,TAQUILLA_38
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
+#EXTINF:-1,TAQUILLA_39
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
+#EXTINF:-1,TAQUILLA_40
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
