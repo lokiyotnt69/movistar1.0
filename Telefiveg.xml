@@ -36,3 +36,37 @@
 
 </item>
 
+
+ <item>
+
+<title>LaTelete</title>
+
+<link>$doregex[makelist]</link>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[makelist.param2]</title>
+
+<sportsdevil>[makelist.param1]</sportsdevil>
+
+<referer>http://latelete.tv/</referer>
+
+<thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
+
+]]></listrepeat>
+
+<expres>href="(.*?)" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
+
+<page>http://latelete.tv/</page>
+
+<referer></referer>
+
+<cookieJar></cookieJar>
+
+</regex>
+
+</item>
