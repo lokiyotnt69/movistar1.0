@@ -144,6 +144,10 @@ http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/536.ts
 http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/521.ts
 #EXTINF:-1,Movistar Liga
 http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
+#EXTINF:-1,MOVISTAR F1 OPCION 2
+http://edge505.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+#EXTINF:-1,MOVISTAR F1 OPCION 3
+http://edge504.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
