@@ -155,7 +155,215 @@ http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
+#EXTINF:-1 group-title="TDT ESPAÑA",LA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/98.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",LA 2
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/99.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",CUATRO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/69.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",TELECINCO
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/539.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",NEOX
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/527.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",NOVA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1858.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",FDF
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/535.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",TEN
+http://149.100.19.147:8000/play/a00b
+#EXTINF:-1 group-title="TDT ESPAÑA",GOL TV
+http://edge504.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",REAL MADRID TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/525.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/519.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",DISCOVERY MAX HD
+http://149.100.19.147:8000/play/a00z
+#EXTINF:-1 group-title="TDT ESPAÑA",PARAMOUNT CHANNEL
+http://cdn1.shurs.xyz/verdirectotv/5/chunks.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",BEMAD TV
+http://cdn2.shurs.xyz/verdirectotv/14/playlist.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",ENERGY
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",DKISS
+http://edge8.telesport.pw/live/dkiss/index.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",DIVINITY
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/489.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/494.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CLAN TVE
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",BOING
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1446.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",DISNEY CHANNEL
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/533.ts
 
+#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/114.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ CINE Ñ
+http://bit.ly/2sX0gUg
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",TCM
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",AMC
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",HOLLYWOOD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",DARK
+http://edge203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",BABY TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
+http://tinyurl.com/yc3askmw/1:0:1:746B:3F0:1:C00000:0:0:0
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",CANAL PANDA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/112.ts
+
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",A&E
+http://edge204.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",DISCOVERY CHANNEL
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",ODISEA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CANAL DE CASA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",VIAJAR TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CANAL COCINA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CRIMEN + INVESTIGACION
+http://edge3.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CAZA Y PESCA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",IBERALIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/105.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",HISTORIA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts
+
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/107.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",COSMO
+http://tinyurl.com/yc3askmw/1:0:1:7730:416:1:C00000:0:0:0
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/110.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",COMEDY CENTRAL HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/111.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/86.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE
+http://edge3.telesport.pw/live/foxlife/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",MTV HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/55.ts
+
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN LA LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/92.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN SPORTS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/115.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LA LIGA TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/91.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ FUTBOL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/84.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO
+http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/82.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 2
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BARÇA TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",FORMULA 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/83.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/94.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/71.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/72.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",GOLF
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/97.ts
 
 
 
