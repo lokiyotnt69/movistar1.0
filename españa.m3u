@@ -159,181 +159,377 @@ http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:0,==========Spain==========
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7231.ts
+#EXTINF:0,---------- TDT ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13657.ts
+#EXTINF:0,SP: LA1 HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19271.ts
+#EXTINF:0,SP: LA1 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13643.ts
+#EXTINF:0,SP: LA1
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/33.ts
+#EXTINF:0,SP: LA2
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/34.ts
+#EXTINF:0,SP: ANTENA 3 HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19272.ts
+#EXTINF:0,SP: ANTENA 3 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13640.ts
+#EXTINF:0,SP: ANTENA 3
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/407.ts
+#EXTINF:0,SP: CUATRO HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19273.ts
+#EXTINF:0,SP: CUATRO HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13671.ts
+#EXTINF:0,SP: CUATRO
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/24.ts
+#EXTINF:0,SP: TELECINCO HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19274.ts
+#EXTINF:0,SP: TELECINCO HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7209.ts
+#EXTINF:0,SP: TELECINCO
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/44.ts
+#EXTINF:0,SP: LA SEXTA HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19275.ts
+#EXTINF:0,SP: LA SEXTA HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/408.ts
+#EXTINF:0,SP: LA SEXTA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/35.ts
+#EXTINF:0,SP: NEOX
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7194.ts
+#EXTINF:0,SP: NOVA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/42.ts
+#EXTINF:0,SP: MEGA TV
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7200.ts
+#EXTINF:0,SP: FDF
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/404.ts
+#EXTINF:0,SP: DIVINITY
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7196.ts
+#EXTINF:0,SP: ENERGY
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/405.ts
+#EXTINF:0,SP: TV GALICIA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/410.ts
+#EXTINF:0,SP: ANDALUCIA TV
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7195.ts
+#EXTINF:0,---------- MOVISTAR + ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13658.ts
+#EXTINF:0,SP: 0# HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19279.ts
+#EXTINF:0,SP: #0 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13606.ts
+#EXTINF:0,SP: #0
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7262.ts
+#EXTINF:0,---------- CINE ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13651.ts
+#EXTINF:0,SP: M. ESTRENOS HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18704.ts
+#EXTINF:0,SP: M. ESTRENOS HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/425.ts
+#EXTINF:0,SP: M. ESTRENOS SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/9.ts
+#EXTINF:0,SP: M. ACCION HD(1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18703.ts
+#EXTINF:0,SP: M. ACCION HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13603.ts
+#EXTINF:0,SP: M. ACCION
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/5.ts
+#EXTINF:0,SP:  M. COMEDIA HD(1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18702.ts
+#EXTINF:0,SP: M. COMEDIA HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7211.ts
+#EXTINF:0,SP: M. COMEDIA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/6.ts
+#EXTINF:0,SP: M. DCINE HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18705.ts
+#EXTINF:0,SP: M. DCINE HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7210.ts
+#EXTINF:0,SP: M. DCINE
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/25.ts
+#EXTINF:0,SP: M. XTRA HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13625.ts
+#EXTINF:0,SP: M. XTRA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/16.ts
+#EXTINF:0,SP: M CINE ESPANOL
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7224.ts
+#EXTINF:0,---------- SERIES ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13652.ts
+#EXTINF:0,SP: M SERIES HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18706.ts
+#EXTINF:0,SP: M. SERIES HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13605.ts
+#EXTINF:0,SP: M. SERIES
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13.ts
+#EXTINF:0,SP: M. SERIES XTRA HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18707.ts
+#EXTINF:0,SP: M. SERIES XTRA HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13628.ts
+#EXTINF:0,SP: M. SERIES XTRA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/14.ts
+#EXTINF:0,SP: COMEDY CENTRAL HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13634.ts
+#EXTINF:0,SP: COMEDY CENTRAL SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7216.ts
+#EXTINF:0,SP: H0LLYWOOD HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18708.ts
+#EXTINF:0,SP: HOLLYWOOD HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13593.ts
+#EXTINF:0,SP: HOLLYWOOD SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/32.ts
+#EXTINF:0,SP: PARAMOUNT
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7212.ts
+#EXTINF:0,SP: FOX HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18713.ts
+#EXTINF:0,SP: FOX HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13594.ts
+#EXTINF:0,SP: FOX
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/29.ts
+#EXTINF:0,SP: FOX LIFE HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13622.ts
+#EXTINF:0,SP: FOX LIFE SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/30.ts
+#EXTINF:0,SP: AMC HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18709.ts
+#EXTINF:0,SP: AMC HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13702.ts
+#EXTINF:0,SP: AMC
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13665.ts
+#EXTINF:0,SP: AXN HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13589.ts
+#EXTINF:0,SP: AXN
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/3.ts
+#EXTINF:0,SP: AXN WHITE HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13624.ts
+#EXTINF:0,SP: AXN WHITE
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/4.ts
+#EXTINF:0,SP: SYFY HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13633.ts
+#EXTINF:0,SP:  SYFY
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/48.ts
+#EXTINF:0,SP: TNT HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13592.ts
+#EXTINF:0,SP: TNT
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/46.ts
+#EXTINF:0,SP: TCM HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13604.ts
+#EXTINF:0,SP: TCM HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18710.ts
+#EXTINF:0,SP: TCM
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/43.ts
+#EXTINF:0,SP: SUNDANCE
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13691.ts
+#EXTINF:0,SP: CALLE 13 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13645.ts
+#EXTINF:0,SP: CALLE 13
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/17.ts
+#EXTINF:0,SP: A&E
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/2.ts
+#EXTINF:0,---------- EXTRA ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13660.ts
+#EXTINF:0,SP: TOROS HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18711.ts
+#EXTINF:0,SP: TOROS HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13602.ts
+#EXTINF:0,SP: TOROS
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/15.ts
+#EXTINF:0,SP: CAZA Y PESCA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/21.ts
+#EXTINF:0,SP: IBERALIA TV
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13936.ts
+#EXTINF:0,---------- DOCUMENTALES ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13654.ts
+#EXTINF:0,SP: HISTORIA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/31.ts
+#EXTINF:0,SP: CANAL ODISEA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7225.ts
+#EXTINF:0,SP: NAT GEO HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13590.ts
+#EXTINF:0,SP: NATIONAL GEOGRAPHIC HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19276.ts
+#EXTINF:0,SP: NATIONAL GEOGRAPHIC
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/38.ts
+#EXTINF:0,SP: NAT GEO WILD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/39.ts
+#EXTINF:0,SP: VIAJAR
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13623.ts
+#EXTINF:0,SP: CRIME & INVESTIGATION
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7226.ts
+#EXTINF:0,SP: DISCOVERY
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13692.ts
+#EXTINF:0,SP: NON STOP PEOPLE
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13935.ts
+#EXTINF:0,---------- MUSICA ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13656.ts
+#EXTINF:0,SP: MEZZO
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13701.ts
+#EXTINF:0,SP: VH1
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/47.ts
+#EXTINF:0,SP: M. eSports
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/426.ts
+#EXTINF:0,SP: MTV
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13667.ts
+#EXTINF:0,---------- ESTILO DE VIDA ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13659.ts
+#EXTINF:0,SP: COSMO HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18712.ts
+#EXTINF:0,SP: COSMO HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13629.ts
+#EXTINF:0,SP: CANAL COCINA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7201.ts
+#EXTINF:0,SP: CANAL DECASA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/1760.ts
+#EXTINF:0,SP: CANAL ORBE 21
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13937.ts
+#EXTINF:0,SP: 24 HORAS
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13939.ts
+#EXTINF:0,---------- INFANTILES ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13655.ts
+#EXTINF:0,SP: DISNEY CHANNEL
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/26.ts
+#EXTINF:0,SP: DISNEY JUNIOR
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/27.ts
+#EXTINF:0,SP: DISNEY XD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/28.ts
+#EXTINF:0,SP: NICK JR
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/41.ts
+#EXTINF:0,SP: CLAN TVE
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/413.ts
+#EXTINF:0,SP: BOING
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/409.ts
+#EXTINF:0,SP: NICKELODEON
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/40.ts
+#EXTINF:0,SP: BABY TV
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13666.ts
+#EXTINF:0,SP: CANAL PANDA
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13669.ts
+#EXTINF:0,---------- DEPORTES ----------
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13653.ts
+#EXTINF:0,SP: BEIN SPORTS HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18684.ts
+#EXTINF:0,SP: BEIN SPORTS HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/5983.ts
+#EXTINF:0,SP: BEIN SPORTS SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/587.ts
+#EXTINF:0,SP: BEIN LA LIGA HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18683.ts
+#EXTINF:0,SP: BEIN LA LIGA HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13932.ts
+#EXTINF:0,SP: BEIN LA LIGA SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13914.ts
+#EXTINF:0,SP: LA LIGA TV BAR (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18685.ts
+#EXTINF:0,SP: LA LIGA TV BAR HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13933.ts
+#EXTINF:0,SP: LA LIGA TV BAR SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/12.ts
+#EXTINF:0,SP: LA LIGA BAR TV 1
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13940.ts
+#EXTINF:0,SP: GOL TV
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13934.ts
+#EXTINF:0,SP: M. PARTIDAZO HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18692.ts
+#EXTINF:0,SP: M. PARTIDAZO HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13649.ts
+#EXTINF:0,SP: M. PARTIDAZO SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/9190.ts
+#EXTINF:0,SP: M. FUTBOL HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18686.ts
+#EXTINF:0,SP: M.  FUTBOL HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13596.ts
+#EXTINF:0,SP: M. FUTBOL
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/10.ts
+#EXTINF:0,SP: M. DEPORTES 1 HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18690.ts
+#EXTINF:0,SP: M. DEPORTES 1 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13600.ts
+#EXTINF:0,SP: M.  DEPORTES 1 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/419.ts
+#EXTINF:0,SP: M. DEPORTES 2 HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18691.ts
+#EXTINF:0,SP: M. DEPORTES 2 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13627.ts
+#EXTINF:0,SP: M. DEPORTES 2
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7197.ts
+#EXTINF:0,SP: M. GOLF HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18689.ts
+#EXTINF:0,SP: M. GOLF HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7202.ts
+#EXTINF:0,SP: M. GOLF
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/11.ts
+#EXTINF:0,SP: M. F1 HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18687.ts
+#EXTINF:0,SP: M. F1 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13642.ts
+#EXTINF:0,SP: M. F1 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/5963.ts
+#EXTINF:0,SP: M. MOTOGP HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/18688.ts
+#EXTINF:0,SP:  M. MOTO GP HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13641.ts
+#EXTINF:0,SP: M. MOTO GP
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/5962.ts
+#EXTINF:0,SP: EUROSPORT 1 HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19277.ts
+#EXTINF:0,SP: EUROSPORT 1 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13587.ts
+#EXTINF:0,SP: EUROSPORT 1 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13668.ts
+#EXTINF:0,SP: EUROSPORT 2 HD (1080)
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/19278.ts
+#EXTINF:0,SP: EUROSPORT 2 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13670.ts
+#EXTINF:0,SP: BEIN LA LIGA 1 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13700.ts
+#EXTINF:0,SP: LA LIGA TV 2 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13699.ts
+#EXTINF:0,SP: LA LIGA TV 3 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13698.ts
+#EXTINF:0,SP: LA LIGA TV 4 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13697.ts
+#EXTINF:0,SP: LA LIGA TV 5 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13696.ts
+#EXTINF:0,SP: LA LIGA TV 6 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13695.ts
+#EXTINF:0,SP: LA LIGA TV 7 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13694.ts
+#EXTINF:0,SP: LA LIGA TV 8 SD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13693.ts
+#EXTINF:0,SP: BEIN MAX 1 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13646.ts
+#EXTINF:0,SP: BEIN MAX 2 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13647.ts
+#EXTINF:0,SP: BEIN MAX 3 HD
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13648.ts
+#EXTINF:0,SP: BEIN MAX 1
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13948.ts
+#EXTINF:0,SP: BEIN MAX 2
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13947.ts
+#EXTINF:0,SP: BEIN MAX 3
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13946.ts
+#EXTINF:0,SP: BEIN MAX 4
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13945.ts
+#EXTINF:0,SP: BEIN MAX 5
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13944.ts
+#EXTINF:0,SP: BEIN MAX 6
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13943.ts
+#EXTINF:0,SP: BEIN MAX 7
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13942.ts
+#EXTINF:0,SP: BEIN MAX 8
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13941.ts
+#EXTINF:0,SP: MULTIDEPORTES 1
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/16837.ts
+#EXTINF:0,SP: MULTIDEPORTES 2
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/16838.ts
+#EXTINF:0,SP: MULTIDEPORTES 3
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/16839.ts
+#EXTINF:0,SP: MULTIDEPORTES 4
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/16840.ts
+#EXTINF:0,SP: BARCA TV
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/7213.ts
+#EXTINF:0,SP: REAL MADRID
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/422.ts
+#EXTINF:0,SP: TELEDEPORTES
+http://bestiptv01.com:999/live/Iptv006/6swgd3Gx5a/13917.ts
 
-
-
-#EXTINF:-1 group-title="TDT ESPAÑA",LA 1 HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/98.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",LA 1 HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/98.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",LA 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/99.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",CUATRO HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/69.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",TELECINCO
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/539.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",NEOX
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/527.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",NOVA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1858.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",FDF
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/535.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",TEN
-http://149.100.19.147:8000/play/a00b
-#EXTINF:-1 group-title="TDT ESPAÑA",GOL TV
-http://edge504.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",REAL MADRID TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/525.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/519.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",DISCOVERY MAX HD
-http://149.100.19.147:8000/play/a00z
-#EXTINF:-1 group-title="TDT ESPAÑA",PARAMOUNT CHANNEL
-http://cdn1.shurs.xyz/verdirectotv/5/chunks.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",BEMAD TV
-http://cdn2.shurs.xyz/verdirectotv/14/playlist.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",ENERGY
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",DKISS
-http://edge8.telesport.pw/live/dkiss/index.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",DIVINITY
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/489.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/494.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",CLAN TVE
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",BOING
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1446.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",DISNEY CHANNEL
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/533.ts
-
-#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/114.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ CINE Ñ
-http://bit.ly/2sX0gUg
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",TCM
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",AMC
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",HOLLYWOOD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",DARK
-http://edge203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
-
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",BABY TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
-http://tinyurl.com/yc3askmw/1:0:1:746B:3F0:1:C00000:0:0:0
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",CANAL PANDA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/112.ts
-
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",A&E
-http://edge204.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",DISCOVERY CHANNEL
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",ODISEA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CANAL DE CASA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",VIAJAR TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CANAL COCINA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CRIMEN + INVESTIGACION
-http://edge3.telesport.pw/live/canalcrimen/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CAZA Y PESCA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",IBERALIA
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/105.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",HISTORIA
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts
-
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/107.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",COSMO
-http://tinyurl.com/yc3askmw/1:0:1:7730:416:1:C00000:0:0:0
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/110.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",COMEDY CENTRAL HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/111.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/86.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE
-http://edge3.telesport.pw/live/foxlife/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",MTV HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/55.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN LA LIGA HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/92.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN SPORTS HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/115.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LA LIGA TV HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/91.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ FUTBOL HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/84.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO
-http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/82.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BARÇA TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",FORMULA 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/83.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/94.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/71.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/72.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",GOLF
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/97.ts
 
 
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
@@ -343,195 +539,14 @@ http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/97.ts
 
 #EXTINF:-1,[COLOR skyblue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+
+
+
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]-------------------AUTONOMICAS--------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tve_la1_logo_since_2008.png?ssl=1&w=450" group-title="España", La 1
-http://edge1201.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tve_la1_logo_since_2008.png?ssl=1&w=450" group-title="España", La 1
-http://edge1201.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8G6/b46c4a6c18.png" group-title="España", La 2
-http://edge1202.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
-#EXTINF:-0 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="España", Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="España", Antena 3 Internacional
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
-#EXTINF:0 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="España", La Cuatro
-http://edge1201.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
-#EXTINF:0 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="España", La Cuatro
-http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="España", Telecinco
-http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="España", Telecinco
-http://edge1203.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="España", La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="España", La Sexta 
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="España", 7 TV España
-http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png" group-title="España", 8 TV España
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg" group-title="España", 13 TV	
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="España", TVE
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1230.ts
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8JA/fbaae3e6bb.png" group-title="España", TVE 24h
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/494.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png" group-title="España",MEGA HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2015/05/logo-mega.jpg" group-title="España", MEGA ESPANA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8 
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png" group-title="España", Neox HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png" group-title="España", Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="España",NOVA  HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="España",NOVA 
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 tvg-logo="http://radioqrzlatina.com/attachments/Image/LOGO-LIFE-TV-.png?template=generic" group-title="España", LIFE TV
-http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="España",A3SERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="España",A3SERIES 
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="España", Be Mad HD
-http://cdn2.shurs.xyz/verdirectotv/14/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.videocadenasur.net/images/laotra.gif" group-title="España", la Otra
-http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="España", COSMO TV
-http://we-you-iptv.tv:8000/live/1111/1111/1971.m3u8
-#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="España", Divinity
-http://cdn2.shurs.xyz/verdirectotv/3/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" ggroup-title="España", Energy
-http://edge1201.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="España", FDF
-http://edge5.telesport.pw/live/fdf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/calle131.jpg?ssl=1&w=450" group-title="España", Calle 13
-http://edge8.telesport.pw/live/calle13/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/calle131.jpg?ssl=1&w=450" group-title="España", Calle 13
-http://edge1204.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="España", Ten
-http://edge3.telesport.pw:80/live/ten/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="España", Comedy Central
-http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="España", Comedy Central
-http://edge1201.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/crimen.jpg" group-title="España", Crimen investigacion
-http://edge1202.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/crimen.jpg" group-title="España", Crimen investigacion
-http://edge7.telesport.pw/live/canalcrimen/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="España", A&E
-http://edge1201.livesports.pw/live/veraandeesp7a39fa61ef2f05/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="España", AMC
-http://edge8.telesport.pw/live/amc/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="España", AMC
-http://edge1202.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="España", AXN
-http://edge5.telesport.pw/live/axn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="España", AXN
-http://edge7.telesport.pw:80/live/axn/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.elrincondelheavy.freeiz.com/fotos%20NOTICIAS/AXN_White_final_logo_GENERAL_3D_GLASSY_X_1_v3.jpg" group-title="España", AXN White
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1387.ts
-#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Buzz/Buzz_.png" group-title="España", Dark
-http://edge1202.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/tcm.png" group-title="España", TCM 
-http://edge6.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/tnt.png" group-title="España",TNT España
-http://edge1204.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/CINEmaxlogo2011b.png?ssl=1&w=450" group-title="España", CINEmax
-http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/CINEmaxlogo2011b.png?ssl=1&w=450" group-title="España", CINEmax
-http://cdn3.shurs.xyz/verliga/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="España", Paramount Channel
-http://cdn2.shurs.xyz/verdirectotv/5/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i12.photobucket.com/albums/a208/misterpom/canal_hollywood.jpg" group-title="España", Hollywood
-http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i12.photobucket.com/albums/a208/misterpom/canal_hollywood.jpg" group-title="España", Hollywood
-http://edge1201.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="España", FOX
-http://edge1204.livesports.pw/live/verfoxespana247756767558f1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="España", FOX Life
-http://edge2.telesport.pw/live/foxlife/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png?ssl=1&w=450" group-title="España", SyFy
-http://edge8.telesport.pw/live/syfy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png?ssl=1&w=450" group-title="España", SyFy
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1079.ts
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/canal-0.png" group-title="España", #0 Series
-http://edge15.verliga1.pw/live/verliga3/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/canal-0.png" group-title="España", #0 Series
-http://edge2.telesport.pw/live/plus1/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/canal-0.png" group-title="España", #0 Series
-http://edge3.telesport.pw/live/plus1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistar-estrenos.jpg?ssl=1&w=450" group-title="España", Movistar Estrenos
-http://edge1204.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistar-estrenos.jpg?ssl=1&w=450" group-title="España", Movistar Estrenos
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1383.ts
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/250px-movistar_accic3b3n-svg.png?ssl=1&w=450" group-title="España", Movistar Accion
-http://edge1204.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/250px-movistar_accic3b3n-svg.png?ssl=1&w=450" group-title="España", Movistar Accion
-http://edge6.telesport.pw/live/plusaccion/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x2f/dafe7d630e.png" group-title="España", Movistar Comedia
-http://cdn2.shurs.xyz/verliga/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x2f/dafe7d630e.png" group-title="España", Movistar Comedia
-http://edge3.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x2f/dafe7d630e.png" group-title="España", Movistar Comedia
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/648.ts
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", Movistar DCINE
-http://edge1204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", Movistar DCINE
-http://cdn1.shurs.xyz/verliga/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", Movistar DCINE
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1384.ts
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", DCINE Español 
-http://edge1203.livesports.pw/live/verdCINEn472ab4996ac0193b/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
-http://edge1202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1382.ts
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-series-xtra.jpg" group-title="España", Movistar Series Xtra
-http://edge1203.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-series-xtra.jpg" group-title="España", Movistar Series Xtra
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1381.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839442094783672320/PedOMK5x.jpg" group-title="España", Movistar Xtra
-http://edge1203.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839442094783672320/PedOMK5x.jpg" group-title="España", Movistar Xtra
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1380.ts
-#EXTINF:-1 tvg-logo="http://www.dkiss.es/wp-content/uploads/DKiss-1.png" group-title="España", DKISS
-http://edge2.telesport.pw/live/dkiss/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="España", Mezzo Live
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/487.m3u8
-#EXTINF:-1 tvg-logo="https://www.unitymedia-helpdesk.de/logos/classica_hd.jpg" group-title="España", CLASSICA 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/531.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="España", Discovery Channel
-http://edge1201.livesports.pw/live/verdiscoverychannelff096b/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", DMAX España
-http://edge7.telesport.pw/live/dmax/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeo.gif" group-title="España", National Geographic España
-http://edge1201.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeo.gif" group-title="España", National Geographic España
-http://edge8.telesport.pw/live/nationalgeo/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeow.png" group-title="España", NatGeo Wild
-http://edge7.telesport.pw/live/nationalwild/index.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeow.png" group-title="España", NatGeo Wild
-http://edge8.telesport.pw/live/nationalwild/index.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="España", Historia
-http://142.4.217.62:25461/live/deadpooladdon/visitapungatv.club/1569.ts
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="España", Historia
-http://edge1201.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="España", Historia
-http://edge2.telesport.pw/live/historia/index.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" group-title="España", ODISEA
-http://edge7.telesport.pw/live/odisea/index.m3u8
-#EXTINF:-1 tvg-logo="http://decasa.tv/minisites/especial-homeopatia/imagenes/logo_decasa.png" group-title="España", CANAL DECASA
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/496.m3u8
-#EXTINF:-1 tvg-logo="http://www.conecta.es/images/NOTICIAS/AMC/canal-cocina.png" group-title="España", CANAL COCINA
-http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.conecta.es/images/NOTICIAS/AMC/canal-cocina.png" group-title="España", CANAL COCINA
-http://edge1204.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0TYIEqMGl5k/mqdefault_live.jpg" group-title="España", HispanTV
 http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
 #EXTINF:-1 tvg-logo="http://gaceta.es/sites/default/files/styles/140x/public/intermosca_copia.png?itok=9OUJzDhA" group-title="España", INTERECONOMÍA TV España
