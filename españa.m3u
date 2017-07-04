@@ -335,20 +335,120 @@ http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts
 #EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD
 http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/97.ts
 
-#EXTINF:-1   tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png",#0
-http://edge2503.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MV1",ESTRENOS
-http://edge5203.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI",ACCION
-http://edge5202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME",COMEDIA
-http://edge2506.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR gold][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
+#EXTINF:-1,[COLOR skyblue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,LA LIGA TV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/91.ts
+#EXTINF:-1,BEIN SPORTS LIGA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/92.ts
+#EXTINF:-1,BEIN SPORTS
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/115.ts
+#EXTINF:-1,GOL TV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/93.ts
+#EXTINF:-1,FUTBOL
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/84.ts
+#EXTINF:-1,DEPORTE 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/71.ts
+#EXTINF:-1,DEPORTE 2
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/72.ts
+#EXTINF:-1,F1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/83.ts
+#EXTINF:-1,GOLF
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/95.ts
+#EXTINF:-1,MOTOGP
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/94.ts
+#EXTINF:-1,BARÇA TV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/96.ts
+#EXTINF:-1,EUROSPORT
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/82.ts
+#EXTINF:-1,TOROS
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/97.ts
+#EXTINF:-1,#0
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/114.ts
+#EXTINF:-1,ESTRENOS
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/79.ts
+#EXTINF:-1,DCINE
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/70.ts
+#EXTINF:-1,ACCION
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/56.ts
+#EXTINF:-1,COMEDIA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/65.ts
+#EXTINF:-1,XTRA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/88.ts
+#EXTINF:-1,HOLLYWOOD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/89.ts
+#EXTINF:-1,SYFY
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/90.ts
+#EXTINF:-1,CALLE 13
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/55.ts
+#EXTINF:-1,SERIES
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/106.ts
+#EXTINF:-1,SERIES XTRA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/107.ts
+#EXTINF:-1,FOX HD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/86.ts
+#EXTINF:-1,FOX LIFE
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/108.ts
+#EXTINF:-1,AXN
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/109.ts
+#EXTINF:-1,AXN WHITE
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/110.ts
+#EXTINF:-1,COSMO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/67.ts
+#EXTINF:-1,TNT
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/111.ts
+#EXTINF:-1,NAT GEO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/102.ts
+#EXTINF:-1,NAT GEO WILD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/103.ts
+#EXTINF:-1,DMAX
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/73.ts
+#EXTINF:-1,HISTORIA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/104.ts
+#EXTINF:-1,IBERALIA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/105.ts
+#EXTINF:-1,CAZA Y PESCA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/61.ts
+#EXTINF:-1,MTV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/113.ts
+#EXTINF:-1,DISNEY XD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/76.ts
+#EXTINF:-1,DISNEY JR
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/75.ts
+#EXTINF:-1,NICKELODEON
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/112.ts
+#EXTINF:-1,LA 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/98.ts
+#EXTINF:-1,ANTENA 3
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/99.ts
+#EXTINF:-1,CUATRO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/69.ts
+#EXTINF:-1,TELECINCO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/101.ts
+#EXTINF:-1,XXX 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/87.ts
+#EXTINF:-1,XXX 2
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/46.ts
+#EXTINF:-1,XXX 3
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/47.ts
+#EXTINF:-1,XXX 4
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/48.ts
+#EXTINF:-1,XXX 5
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/49.ts
+#EXTINF:-1,XXX 6
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/50.ts
 
 
 
