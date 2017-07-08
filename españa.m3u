@@ -14,6 +14,225 @@
 #EXTINF:-1,[COLOR red][I][B]--------------------EN REPARACION LISTA 1-------------------------------------------[/B][/I][/COLOR]
 
 
+ 
+#EXTINF:-1   tvg-logo="http://www.trailerparkstudios.net/wp-content/uploads/2013/06/clipspjald.png",LISTA CINE
+ 
+#EXTINF:-1   tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png",#0
+http://edge2502.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MV1",ESTRENOS
+http://edge5203.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI",ACCION
+http://edge5202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME",COMEDIA
+http://edge2506.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE",DCINE
+http://edge5202.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCESP",CINE Ñ
+http://bit.ly/2sX0gUg
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA",XTRA
+http://edge2505.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/HOLLYW", HOLLYWOOD
+http://edge5201.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://static.programacion-tdt.com/imgAPP/Paramount_Channel.min.png", PARAMOUNT
+http://cdn1.shurs.xyz/verdirectotv/5/chunks.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CL13",CALLE 13
+http://edge5203.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Somos.png/245px-Somos.png",SOMOS
+http://smartiptvspain1.mine.nu:980/live/smartv/smartviptvespain/53447.ts
+ 
+ 
+#EXTINF:-1   tvg-logo="http://1.bp.blogspot.com/-a3_p2hxL8ys/VUPAu2ScZ-I/AAAAAAAABOs/y-VVLbob0lY/s1600/unnamed.png",LISTA SERIES
+ 
+ 
+#EXTINF:-1  tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER",M.SERIES
+http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MV2",M.SERIES XTRA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/514.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/FOXGE",FOX
+http://edge5204.livesports.pw/live/verfoxespana247756767558f1/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/FOXCR",FOX life
+http://edge3.telesport.pw/live/foxlife/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/AXN",AXN
+http://edge5201.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/SET",AXN WHITE
+http://vip.groupiptv.com:7000/live/stephen/stephen/4427.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TNT",TNT
+http://edge5201.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/SCI-FI",SYFY
+http://edge5201.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DARK",DARK
+http://edge5202.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/AMC",AMC  
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TCM",TCM
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/PCM",COMEDY CENTRAL
+http://edge5203.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.almussafes.es/sites/almussafes.portalesmunicipales.es/files/customcssjs/images/ajuntament/consells/icono-esports.png",LISTA DEPORTES
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CHUEFA",BEIN SPORTS
+http://edge2502.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BELIGA",BEIN LA LIGA
+http://edge2505.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png",LA LIGATV
+http://edge2504.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPFUT",FUTBOL
+http://edge2501.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPPART",PARTIDAZO
+http://edge9.verliga11.pw/live/verliga2/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPDEP",DEPORTES 1
+http://edge2506.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPD2",DEPORTES 2
+http://edge2504.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MVF1",M.FORMULA1
+http://edge2502.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MVMTGP",M. MOTOGP
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/GOLF%2B",M.GOLF
+http://edge2505.livesports.pw/live/vergolfespef14708285db183/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/ESP",EUROSPORT 1
+http://edge11.verliga11.pw/live/eurosport/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/ESP2", EUROSPORT 2
+http://edge13.verliga11.pw/live/eurosport2/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CFERIA",TOROS
+http://edge2504.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://4.bp.blogspot.com/-nSBuDM5bbHM/VAWRl5CJ2NI/AAAAAAAAAaY/Saqo3Q1NzBA/s1600/787B16382.png",LISTA DOCUMENTALES
+ 
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/HIST",HISTORIA
+http://edge5204.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCRMAX",DMAX
+http://149.100.19.147:8000/play/a00z
+ 
+#EXTINF:-1   tvg-logo="http://media.lasierra.edu/programs/Extron/GUI%20Configurator%20Templates/Resources/Speed/Icons/TV%20Icons/discovery-channel.png",DISCOVERY CHANNEL
+http://cdn2.shurs.xyz/verdirectotv/11/chunks.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/ODISEA",ODISEA
+http://edge5203.livesports.pw/live/verodiseatelef121d54573d3192a6/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NATGEO",NATIONAL GEOGRAPHIC
+http://edge5201.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NATGW",NAT GEO WILD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts
+ 
+#EXTINF:-1   tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111",CAZA Y PESCA
+http://edge5201.livesports.pw/live/vercazaypesca65b3f60d9f53/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png",IBERALIA TV
+http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/15425.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/VJR",VIAJAR
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CACOC",COCINA
+http://edge5204.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DECASA",DECASA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/COSMO",COSMO
+http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/13704.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN",TEN
+http://149.100.19.147:8000/play/a00b
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BIOGRA",A&E
+http://edge5204.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CYM",C&I
+http://edge5204.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/be_mad_logo_500.png",BE MAD
+http://149.100.19.147:8000/play/a01f
+ 
+#EXTINF:-1   tvg-logo="http://infantil.britanico-aragon.edu/wp-content/uploads/2015/04/header-infantil.png",LISTA INFANTIL
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CLANTV",CLAN
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/PANDA",PANDA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NICKJR",NICK JUNIOR
+http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7670.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NICK", NICKELODEON
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCH",DISNEY CHANNEL
+http://edge5201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/PLAYDC",DISNEY JR
+http://vip.groupiptv.com:7000/live/stephen/stephen/4448.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCHXD",DISNEY XD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BABY",BABY TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts
+ 
+#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/BOING",BOING
+http://edge2504.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TDT_wordmark.svg/250px-TDT_wordmark.svg.png",LISTA TDT
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png",LA 1
+http://edge5201.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png",LA 2
+http://edge5204.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",CUATRO
+http://edge5202.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/telecinco_circular_500.png",TELE 5
+http://cdn1.shurs.xyz/verdirectotv/1/chunks.m3u8
+ 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png",LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+ 
+#EXTINF:-1  tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png",CanalExtremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
 
 
 #EXTINF:-1,[COLOR gold][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
@@ -36,138 +255,1224 @@
 
 #EXTINF:-1,[COLOR skyblue][I][B]--------Lista 2 -------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTM3U
-#EXTINF:0,BEIN SPORTS
-http://62.167.57.5:1006/play/a002
-#EXTINF:0,BEIN LALIGA
-http://62.167.57.5:1002/play/a008
-#EXTINF:0,BEIN LALIGA
-http://62.167.57.5:1002/play/a003
-#EXTINF:0,BEINLALIGA1
-http://62.167.57.5:1001/play/a002
-#EXTINF:0,BEINLALIGA2
-http://62.167.57.5:1001/play/a004
-#EXTINF:0,BEIN MAX 1
-http://62.167.57.5:1001/play/a009
-#EXTINF:0,BEIN MAX 2
-http://62.167.57.5:1001/play/a00b
-#EXTINF:0,LALIGATV BAR
-http://62.167.57.5:1001/play/a007
-#EXTINF:0,M .PARTIDAZO HD
-http://62.167.57.5:1001/play/a008
-#EXTINF:0,M. FUTBOL HD
-http://62.167.57.5:1002/play/a002
-#EXTINF:0,M. GOLF HD
-http://62.167.57.5:1006/play/a005
-#EXTINF:0,M.MOTOGPHD
-http://62.167.57.5:1003/play/a003
-#EXTINF:0,M. MOTOGP
-http://62.167.57.5:1008/play/a00d
-#EXTINF:0,M.FORMULA1HD
-http://62.167.57.5:1003/play/a002
-#EXTINF:0,M.FORMULA1
-http://62.167.57.5:1009/play/a00c
-#EXTINF:0,M. DEP 2 HD
-http://62.167.57.5:1007/play/a005
-#EXTINF:0,GOL
-http://62.167.57.5:1009/play/a00b
-#EXTINF:0,EUROSPORT 1
-http://62.167.57.5:1009/play/a009
-#EXTINF:0,BARÇA TV
-http://62.167.57.5:1009/play/a008
-#EXTINF:0,#0 HD
-http://62.167.57.5:1005/play/a008
-#EXTINF:0,M.ESTRENOSHD
-http://62.167.57.5:1007/play/a004
-#EXTINF:0,M. ACCION HD
-http://62.167.57.5:1002/play/a005
-#EXTINF:0,M.COMEDIA HD
-http://62.167.57.5:1001/play/a006
-#EXTINF:0,M. DCINE HD
-http://62.167.57.5:1002/play/a006
-#EXTINF:0,M. SERIES HD
-http://62.167.57.5:1005/play/a003
-#EXTINF:0,AMC HD
-http://62.167.57.5:1003/play/a004
-#EXTINF:0,HOLLYWOODHD
-http://62.167.57.5:1002/play/a007
-#EXTINF:0,FOX HD
-http://62.167.57.5:1002/play/a004
-#EXTINF:0,FOX LIFE HD
-http://62.167.57.5:1006/play/a003
-#EXTINF:0,AXN HD
-http://62.167.57.5:1001/play/a005
-#EXTINF:0,M. CINE ESPAÑOL
-http://62.167.57.5:1008/play/a00b
-#EXTINF:0,AXN WHITE HD
-http://62.167.57.5:1007/play/a007
-#EXTINF:0,M. XTRA HD
-http://62.167.57.5:1007/play/a006
-#EXTINF:0,SYFY HD
-http://62.167.57.5:1007/play/a002
-#EXTINF:0,M. SeriesXtraHD
-http://62.167.57.5:1006/play/a004
-#EXTINF:0,TCM HD
-http://62.167.57.5:1005/play/a004
-#EXTINF:0,TNT HD
-http://62.167.57.5:1005/play/a005
-#EXTINF:0,COMEDYCENTRALHD
-http://62.167.57.5:1006/play/a007
-#EXTINF:0,CRIMEN+INVES
-http://62.167.57.5:1008/play/a00a
-#EXTINF:0,A&E
-http://62.167.57.5:1008/play/a005
-#EXTINF:0,NONSTOPEOPLE
-http://62.167.57.5:1008/play/a006
-#EXTINF:0,HISTORIA
-http://62.167.57.5:1008/play/a009
-#EXTINF:0,CAZA Y PESCA
-http://62.167.57.5:1008/play/a004
-#EXTINF:0,DISCOVERY
-http://62.167.57.5:1008/play/a007
-#EXTINF:0,NG WILD HD
-http://62.167.57.5:1005/play/a006
-#EXTINF:0,CAZAyPESCA HD
-http://62.167.57.5:1005/play/a009
-#EXTINF:0,VIAJAR HD
-http://62.167.57.5:1007/play/a003
-#EXTINF:0,COSMO HD
-http://62.167.57.5:1006/play/a006
-#EXTINF:0,COSMO
-http://62.167.57.5:1008/play/a008
-#EXTINF:0,LTC
-http://62.167.57.5:1009/play/a005
-#EXTINF:0,DISNEY XD
-http://62.167.57.5:1008/play/a003
-#EXTINF:0,DISNEY CH HD
-http://62.167.57.5:1005/play/a007
-#EXTINF:0,BABY TV
-http://62.167.57.5:1009/play/a004
-#EXTINF:0,BOING
-http://62.167.57.5:1009/play/a006
-#EXTINF:0,ENERGY
-http://62.167.57.5:1009/play/a007
-#EXTINF:0,DIVINITY
-http://62.167.57.5:1009/play/a002
-#EXTINF:0,MTV ESPAÑA
-http://62.167.57.5:1009/play/a00a
-#EXTINF:0,FOX NEWS
-http://62.167.57.5:1009/play/a003
-#EXTINF:0,CANAL SUR A.
-http://62.167.57.5:1008/play/a002
-#EXTINF:0,LA 1 HD
-http://62.167.57.5:1001/play/a00a
-#EXTINF:0,24 HORAS
-http://62.167.57.5:1008/play/a00c
-#EXTINF:0,ANTENA 3 HD
-http://62.167.57.5:1003/play/a005
-#EXTINF:0,CUATRO HD
-http://62.167.57.5:1003/play/a006
-#EXTINF:0,TELECINCO HD
-http://62.167.57.5:1003/play/a007
-#EXTINF:0,LA SEXTA HD
-http://62.167.57.5:1003/play/a008
-
+#EXTINF:-1,SP: Axn HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/550.ts
+#EXTINF:-1,SP: Syfy
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/516.ts
+#EXTINF:-1,SP: C+ Estrenos
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/509.ts
+#EXTINF:-1,SP: C+ Xtra
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/534.ts
+#EXTINF:-1,SP: C+ Accion HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/512.ts
+#EXTINF:-1,SP:  C+ Comedia HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/513.ts
+#EXTINF:-1,SP: C+ Dcine HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/511.ts
+#EXTINF:-1,SP: La 1
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/482.ts
+#EXTINF:-1,SP: La 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/483.ts
+#EXTINF:-1,SP: Antena 3
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/484.ts
+#EXTINF:-1,SP: Cuatro
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/485.ts
+#EXTINF:-1,SP: Hollywood
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/538.ts
+#EXTINF:-1,SP: TNT
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/520.ts
+#EXTINF:-1,SP: Tcm
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/517.ts
+#EXTINF:-1,SP: C+ Series
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/503.ts
+#EXTINF:-1,SP: C+ Series Xtra
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/514.ts
+#EXTINF:-1,SP: Fox HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/492.ts
+#EXTINF:-1,SP: Amc
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/500.ts
+#EXTINF:-1,SP: Telecino
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/518.ts
+#EXTINF:-1,SP: La Sexta
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/539.ts
+#EXTINF:-1,SP: Clan TVE
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/545.ts
+#EXTINF:-1,SP: Nova
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/1858.ts
+#EXTINF:-1,SP: Neox
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/527.ts
+#EXTINF:-1,SP: Canal Sur
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/542.ts
+#EXTINF:-1,SP: Calle 13
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/540.ts
+#EXTINF:-1,SP: Comedy Central
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/528.ts
+#EXTINF:-1,SP: FDF
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/535.ts
+#EXTINF:-1,SP: Divinity
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/489.ts
+#EXTINF:-1,SP: Energy
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/490.ts
+#EXTINF:-1,SP: C+ Toros
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/501.ts
+#EXTINF:-1,SP: Ltc
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/491.ts
+#EXTINF:-1,SP: C+ Deportes
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/507.ts
+#EXTINF:-1,SP: C+ Deportes 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/508.ts
+#EXTINF:-1,SP: C+ Futbol HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/505.ts
+#EXTINF:-1,SP: C + Futbol
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/504.ts
+#EXTINF:-1,SP: Teledeporte
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/519.ts
+#EXTINF:-1,SP: Bein Sports
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/523.ts
+#EXTINF:-1,SP: Real Madrid TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/525.ts
+#EXTINF:-1,SP: Barca TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/524.ts
+#EXTINF:-1,SP: Euro Sport 1
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/529.ts
+#EXTINF:-1,SP: Euro Sport 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/530.ts
+#EXTINF:-1,SP: Moto GP
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/493.ts
+#EXTINF:-1,SP: C+ Golf
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/510.ts
+#EXTINF:-1,SP: Canal Odisea
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/541.ts
+#EXTINF:-1,SP: National Geographic
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/548.ts
+#EXTINF:-1,SP: National Geographic Wild HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/547.ts
+#EXTINF:-1,SP: Discovery
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/532.ts
+#EXTINF:-1,SP: Historia
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/537.ts
+#EXTINF:-1,SP: Canal Decasa
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/496.ts
+#EXTINF:-1,SP: Caza Y Pesca
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/549.ts
+#EXTINF:-1,SP: Viajar
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/526.ts
+#EXTINF:-1,SP: Canal Cocina
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/495.ts
+#EXTINF:-1,SP: Mtv Espana
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/546.ts
+#EXTINF:-1,SP: Mezzo
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/487.ts
+#EXTINF:-1,SP: Classica
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/531.ts
+#EXTINF:-1,SP: Disney Channel
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/533.ts
+#EXTINF:-1,SP: Disney XD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/488.ts
+#EXTINF:-1,SP: Boing
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/1446.ts
+#EXTINF:-1,SP: Canal Panda
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/486.ts
+#EXTINF:-1,SP: Baby TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/544.ts
+#EXTINF:-1,SP: Canal 24 Horas
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/494.ts
+#EXTINF:-1,SP: 24 Horas
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/498.ts
+#EXTINF:-1,SP: Fox News
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/536.ts
+#EXTINF:-1,SP: TV International Europa
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/521.ts
+#EXTINF:-1,SP: C+ Liga
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/506.ts
+#EXTINF:-1,ES: 0 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5877.ts
+#EXTINF:-1,ES: 24H
+http://ndasat.pro:8000/live/58965889362952/1593574628/5876.ts
+#EXTINF:-1,ES: 40TV
+http://ndasat.pro:8000/live/58965889362952/1593574628/5875.ts
+#EXTINF:-1,ES: AE
+http://ndasat.pro:8000/live/58965889362952/1593574628/5828.ts
+#EXTINF:-1,ES: Axn White HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5826.ts
+#EXTINF:-1,ES: BABY
+http://ndasat.pro:8000/live/58965889362952/1593574628/5873.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5825.ts
+#EXTINF:-1,ES: Calle 13
+http://ndasat.pro:8000/live/58965889362952/1593574628/222.ts
+#EXTINF:-1,ES: CALLE13
+http://ndasat.pro:8000/live/58965889362952/1593574628/5865.ts
+#EXTINF:-1,ES: Canal   Comedia HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5822.ts
+#EXTINF:-1,ES: Canal  Cocina
+http://ndasat.pro:8000/live/58965889362952/1593574628/5821.ts
+#EXTINF:-1,ES: Canal  Cuatro HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5820.ts
+#EXTINF:-1,ES: Canal  Dcine
+http://ndasat.pro:8000/live/58965889362952/1593574628/5819.ts
+#EXTINF:-1,ES: Canal  de las Estrellas
+http://ndasat.pro:8000/live/58965889362952/1593574628/5818.ts
+#EXTINF:-1,ES: Canal  Deportes HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5817.ts
+#EXTINF:-1,ES: Canal  Estrenos HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5816.ts
+#EXTINF:-1,ES: Canal  Fox HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5815.ts
+#EXTINF:-1,ES: Canal  Golf
+http://ndasat.pro:8000/live/58965889362952/1593574628/5813.ts
+#EXTINF:-1,ES: Canal  HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5812.ts
+#EXTINF:-1,ES: Canal  Nova
+http://ndasat.pro:8000/live/58965889362952/1593574628/5810.ts
+#EXTINF:-1,ES: Canal  Serie Xtra
+http://ndasat.pro:8000/live/58965889362952/1593574628/5809.ts
+#EXTINF:-1,ES: Canal  Series
+http://ndasat.pro:8000/live/58965889362952/1593574628/5808.ts
+#EXTINF:-1,ES: Canal  Toros
+http://ndasat.pro:8000/live/58965889362952/1593574628/5807.ts
+#EXTINF:-1,ES: CANAL ACCION HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5864.ts
+#EXTINF:-1,ES: CANAL COMEDIA HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5863.ts
+#EXTINF:-1,ES: CANAL DCINE HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5862.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://ndasat.pro:8000/live/58965889362952/1593574628/5861.ts
+#EXTINF:-1,ES: Canal Deportes 2
+http://ndasat.pro:8000/live/58965889362952/1593574628/5806.ts
+#EXTINF:-1,ES: CANAL ESTRENOS
+http://ndasat.pro:8000/live/58965889362952/1593574628/5860.ts
+#EXTINF:-1,ES: Canal Golf HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5805.ts
+#EXTINF:-1,ES: CANAL LIGA HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5859.ts
+#EXTINF:-1,ES: CANAL ODISEA
+http://ndasat.pro:8000/live/58965889362952/1593574628/5858.ts
+#EXTINF:-1,ES: CANAL PANDA
+http://ndasat.pro:8000/live/58965889362952/1593574628/5857.ts
+#EXTINF:-1,ES: CANAL SERIES HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5856.ts
+#EXTINF:-1,ES: Caza Y Pesca
+http://ndasat.pro:8000/live/58965889362952/1593574628/5804.ts
+#EXTINF:-1,ES: Clan TVE
+http://ndasat.pro:8000/live/58965889362952/1593574628/5803.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://ndasat.pro:8000/live/58965889362952/1593574628/5855.ts
+#EXTINF:-1,ES: COSMO HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5854.ts
+#EXTINF:-1,ES: CRIMEN INVES
+http://ndasat.pro:8000/live/58965889362952/1593574628/5853.ts
+#EXTINF:-1,ES: CUATRO HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5852.ts
+#EXTINF:-1,ES: DCINE ESPANOL
+http://ndasat.pro:8000/live/58965889362952/1593574628/5851.ts
+#EXTINF:-1,ES: DISCOVERY
+http://ndasat.pro:8000/live/58965889362952/1593574628/5850.ts
+#EXTINF:-1,ES: DISNEY
+http://ndasat.pro:8000/live/58965889362952/1593574628/5849.ts
+#EXTINF:-1,ES: Disney Chaneel
+http://ndasat.pro:8000/live/58965889362952/1593574628/5802.ts
+#EXTINF:-1,ES: DIVINITY
+http://ndasat.pro:8000/live/58965889362952/1593574628/5848.ts
+#EXTINF:-1,ES: ENERGY
+http://ndasat.pro:8000/live/58965889362952/1593574628/5847.ts
+#EXTINF:-1,ES: FDF
+http://ndasat.pro:8000/live/58965889362952/1593574628/5801.ts
+#EXTINF:-1,ES: FOX HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5846.ts
+#EXTINF:-1,ES: Fox Life
+http://ndasat.pro:8000/live/58965889362952/1593574628/5800.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5845.ts
+#EXTINF:-1,ES: Futebol
+http://ndasat.pro:8000/live/58965889362952/1593574628/5844.ts
+#EXTINF:-1,ES: History
+http://ndasat.pro:8000/live/58965889362952/1593574628/5799.ts
+#EXTINF:-1,ES: Hollywood
+http://ndasat.pro:8000/live/58965889362952/1593574628/5798.ts
+#EXTINF:-1,ES: La  Sexta HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5797.ts
+#EXTINF:-1,ES: La 2
+http://ndasat.pro:8000/live/58965889362952/1593574628/5796.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5843.ts
+#EXTINF:-1,ES: LTC
+http://ndasat.pro:8000/live/58965889362952/1593574628/5840.ts
+#EXTINF:-1,ES: MOVISTAR F1
+http://ndasat.pro:8000/live/58965889362952/1593574628/5839.ts
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+http://ndasat.pro:8000/live/58965889362952/1593574628/5838.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://ndasat.pro:8000/live/58965889362952/1593574628/5837.ts
+#EXTINF:-1,ES: National Geographic Wild
+http://ndasat.pro:8000/live/58965889362952/1593574628/5795.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://ndasat.pro:8000/live/58965889362952/1593574628/5836.ts
+#EXTINF:-1,ES: NOVA HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5835.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://ndasat.pro:8000/live/58965889362952/1593574628/5834.ts
+#EXTINF:-1,ES: Real Madrid
+http://ndasat.pro:8000/live/58965889362952/1593574628/5794.ts
+#EXTINF:-1,ES: SYFY HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5833.ts
+#EXTINF:-1,ES: TCM
+http://ndasat.pro:8000/live/58965889362952/1593574628/5832.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5831.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://ndasat.pro:8000/live/58965889362952/1593574628/5830.ts
+#EXTINF:-1,ES: Teledeportes
+http://ndasat.pro:8000/live/58965889362952/1593574628/5793.ts
+#EXTINF:-1,ES: Teleticino
+http://ndasat.pro:8000/live/58965889362952/1593574628/5792.ts
+#EXTINF:-1,ES: TNT
+http://ndasat.pro:8000/live/58965889362952/1593574628/5791.ts
+#EXTINF:-1,ES: TNT HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/5829.ts
+#EXTINF:-1,ES: TV Galicia
+http://ndasat.pro:8000/live/58965889362952/1593574628/5790.ts
+#EXTINF:-1,ES: Viajar
+http://ndasat.pro:8000/live/58965889362952/1593574628/5789.ts
+#EXTINF:-1,ES: AXN HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/217.ts
+#EXTINF:-1,ES: Boing
+http://ndasat.pro:8000/live/58965889362952/1593574628/221.ts
+#EXTINF:-1,ES: Disney Junior HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/229.ts
+#EXTINF:-1,ES: Hollywood HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/233.ts
+#EXTINF:-1,ES: La sexta
+http://ndasat.pro:8000/live/58965889362952/1593574628/235.ts
+#EXTINF:-1,ES: M MotoGP HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/247.ts
+#EXTINF:-1,ES: Movistar Formula1
+http://ndasat.pro:8000/live/58965889362952/1593574628/244.ts
+#EXTINF:-1,ES: Nova
+http://ndasat.pro:8000/live/58965889362952/1593574628/253.ts
+#EXTINF:-1,ES: Odisea
+http://ndasat.pro:8000/live/58965889362952/1593574628/254.ts
+#EXTINF:-1,ES: TAQUILLA 1 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2177.ts
+#EXTINF:-1,ES: TAQUILLA 2 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2178.ts
+#EXTINF:-1,ES: TAQUILLA 3 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2179.ts
+#EXTINF:-1,ES: TAQUILLA 4 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2180.ts
+#EXTINF:-1,ES: TAQUILLA 5 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2181.ts
+#EXTINF:-1,ES: TAQUILLA 6 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2182.ts
+#EXTINF:-1,ES: TAQUILLA 7 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2183.ts
+#EXTINF:-1,ES:TAQUILLA 10 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2186.ts
+#EXTINF:-1,ES:TAQUILLA 8 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2184.ts
+#EXTINF:-1,ES: TAQUILLA 9 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/2185.ts
+#EXTINF:-1,ES: Eurosport 1 HD
+http://ndasat.pro:8000/live/58965889362952/1593574628/231.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://pro213.com/live/azk/azk/2432.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://pro213.com/live/azk/azk/2518.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://pro213.com/live/azk/azk/2519.ts
+#EXTINF:-1,ES: Beinsport HD
+http://pro213.com/live/azk/azk/2515.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://pro213.com/live/azk/azk/1903.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://pro213.com/live/azk/azk/2425.ts
+#EXTINF:-1,ES: GOL TV
+http://pro213.com/live/azk/azk/2514.ts
+#EXTINF:-1,ES: Movistar moto gp
+http://pro213.com/live/azk/azk/1916.ts
+#EXTINF:-1,ES: Movistar F1
+http://pro213.com/live/azk/azk/1915.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://pro213.com/live/azk/azk/2427.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://pro213.com/live/azk/azk/2524.ts
+#EXTINF:-1,ES : MOVISTAR TOROS HD
+http://pro213.com/live/azk/azk/2525.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://pro213.com/live/azk/azk/2522.ts
+#EXTINF:-1,ES : MOVISTAR LA LIGA
+http://pro213.com/live/azk/azk/1785.ts
+#EXTINF:-1,ES: CUATRO HD
+http://pro213.com/live/azk/azk/2510.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://pro213.com/live/azk/azk/2512.ts
+#EXTINF:-1,ES: MOVISTAR XTRA HD
+http://pro213.com/live/azk/azk/3137.ts
+#EXTINF:-1,ES: CASA Y PESCA
+http://pro213.com/live/azk/azk/2429.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://pro213.com/live/azk/azk/2426.ts
+#EXTINF:-1,ES: Canal Cocina
+http://pro213.com/live/azk/azk/2430.ts
+#EXTINF:-1,ES: BARCA TV
+http://pro213.com/live/azk/azk/2445.ts
+#EXTINF:-1,ES: TELECINCO
+http://pro213.com/live/azk/azk/1767.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://pro213.com/live/azk/azk/2511.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://pro213.com/live/azk/azk/2724.ts
+#EXTINF:-1,ES : COMEDY CENTRAL HD
+http://pro213.com/live/azk/azk/1907.ts
+#EXTINF:-1,ES: TCM
+http://pro213.com/live/azk/azk/2528.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://pro213.com/live/azk/azk/2436.ts
+#EXTINF:-1,ES: MEGA
+http://pro213.com/live/azk/azk/2721.ts
+#EXTINF:-1,ES : Viajar HD
+http://pro213.com/live/azk/azk/1909.ts
+#EXTINF:-1,ES: La 2
+http://pro213.com/live/azk/azk/2532.ts
+#EXTINF:-1,ES: La 1
+http://pro213.com/live/azk/azk/2531.ts
+#EXTINF:-1,ES: BEIN LA LIGA 2
+http://pro213.com/live/azk/azk/2438.ts
+#EXTINF:-1,ES: ENERGY
+http://pro213.com/live/azk/azk/2530.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://pro213.com/live/azk/azk/2529.ts
+#EXTINF:-1,ES: Baby TV
+http://pro213.com/live/azk/azk/2527.ts
+#EXTINF:-1,ES: Antena 3
+http://pro213.com/live/azk/azk/1770.ts
+#EXTINF:-1,ES: antena3 HD
+http://pro213.com/live/azk/azk/3135.ts
+#EXTINF:-1,ES: Disney channel
+http://pro213.com/live/azk/azk/1793.ts
+#EXTINF:-1,ES: FOX
+http://pro213.com/live/azk/azk/1790.ts
+#EXTINF:-1,ES: History
+http://pro213.com/live/azk/azk/1928.ts
+#EXTINF:-1,ES: Hollywood HD
+http://pro213.com/live/azk/azk/1773.ts
+#EXTINF:-1,ES: SyFy HD
+http://pro213.com/live/azk/azk/1791.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://pro213.com/live/azk/azk/2421.ts
+#EXTINF:-1,ES: LaSextaHD
+http://pro213.com/live/azk/azk/1768.ts
+#EXTINF:-1,ES: AMC HD
+http://pro213.com/live/azk/azk/2435.ts
+#EXTINF:-1,ES: AMC
+http://pro213.com/live/azk/azk/2434.ts
+#EXTINF:-1,ES: FOX Life
+http://pro213.com/live/azk/azk/1771.ts
+#EXTINF:-1,ES: CUATRO SD
+http://pro213.com/live/azk/azk/1769.ts
+#EXTINF:-1,ES: CALLE13
+http://pro213.com/live/azk/azk/2422.ts
+#EXTINF:-1,ES: Axn White
+http://pro213.com/live/azk/azk/1786.ts
+#EXTINF:-1,ES: 40 TV
+http://pro213.com/live/azk/azk/2423.ts
+#EXTINF:-1,ES: TVE 24 Hora
+http://pro213.com/live/azk/azk/1923.ts
+#EXTINF:-1,ES: COSMO
+http://pro213.com/live/azk/azk/1919.ts
+#EXTINF:-1,ES: TVE 2
+http://pro213.com/live/azk/azk/1918.ts
+#EXTINF:-1,ES: TNT HD
+http://pro213.com/live/azk/azk/1788.ts
+#EXTINF:-1,ES: Odisea HD
+http://pro213.com/live/azk/azk/1912.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://pro213.com/live/azk/azk/1789.ts
+#EXTINF:-1,ES: Eurosport
+http://pro213.com/live/azk/azk/1906.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://pro213.com/live/azk/azk/1917.ts
+#EXTINF:-1,ES: AXNSpain
+http://pro213.com/live/azk/azk/1772.ts
+#EXTINF:-1,ES: Andalucia TV
+http://pro213.com/live/azk/azk/1921.ts
+#EXTINF:-1,SP: C+ Accion HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts
+#EXTINF:-1,SP:  C+ Comedia HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts
+#EXTINF:-1,SP: C+ Dcine HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts
+#EXTINF:-1,SP: Axn HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts
+#EXTINF:-1,SP: Syfy
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts
+#EXTINF:-1,SP: Calle 13
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/540.ts
+#EXTINF:-1,SP: Comedy Central
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts
+#EXTINF:-1,SP: C+ Estrenos
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts
+#EXTINF:-1,SP: C+ Xtra
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts
+#EXTINF:-1,SP: FDF
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/535.ts
+#EXTINF:-1,SP: Divinity
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/489.ts
+#EXTINF:-1,SP: Energy
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts
+#EXTINF:-1,SP: C+ Toros
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/501.ts
+#EXTINF:-1,SP: Antena 3
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/484.ts
+#EXTINF:-1,SP: Cuatro
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/485.ts
+#EXTINF:-1,SP: Telecino
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts
+#EXTINF:-1,SP: La Sexta
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/539.ts
+#EXTINF:-1,SP: Clan TVE
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts
+#EXTINF:-1,SP: Nova
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1858.ts
+#EXTINF:-1,SP: Neox
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/527.ts
+#EXTINF:-1,SP: Canal Sur
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts
+#EXTINF:-1,SP: Ltc
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/491.ts
+#EXTINF:-1,SP: La 1
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/482.ts
+#EXTINF:-1,SP: La 2
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts
+#EXTINF:-1,SP: Hollywood
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts
+#EXTINF:-1,SP: TNT
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/520.ts
+#EXTINF:-1,SP: Tcm
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
+#EXTINF:-1,SP: C+ Deportes
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/507.ts
+#EXTINF:-1,SP: C+ Deportes 2
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/508.ts
+#EXTINF:-1,SP: C+ Futbol HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/505.ts
+#EXTINF:-1,SP: C + Futbol
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/504.ts
+#EXTINF:-1,SP: Teledeporte
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/519.ts
+#EXTINF:-1,SP: Bein Sports
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/523.ts
+#EXTINF:-1,SP: Real Madrid TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/525.ts
+#EXTINF:-1,SP: Barca TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts
+#EXTINF:-1,SP: Euro Sport 1
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts
+#EXTINF:-1,SP: Euro Sport 2
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts
+#EXTINF:-1,SP: Moto GP
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts
+#EXTINF:-1,SP: C+ Golf
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts
+#EXTINF:-1,SP: Canal Odisea
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts
+#EXTINF:-1,SP: National Geographic
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts
+#EXTINF:-1,SP: National Geographic Wild HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts
+#EXTINF:-1,SP: Discovery
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts
+#EXTINF:-1,SP: Historia
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts
+#EXTINF:-1,SP: Canal Decasa
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts
+#EXTINF:-1,SP: Caza Y Pesca
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts
+#EXTINF:-1,SP: Viajar
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
+#EXTINF:-1,SP: C+ Series
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts
+#EXTINF:-1,SP: C+ Series Xtra
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/514.ts
+#EXTINF:-1,SP: Fox HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/492.ts
+#EXTINF:-1,SP: Amc
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts
+#EXTINF:-1,SP: Canal Cocina
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts
+#EXTINF:-1,SP: Mtv Espana
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts
+#EXTINF:-1,SP: Mezzo
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/487.ts
+#EXTINF:-1,SP: Classica
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/531.ts
+#EXTINF:-1,SP: Disney Channel
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/533.ts
+#EXTINF:-1,SP: Disney XD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts
+#EXTINF:-1,SP: Boing
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1446.ts
+#EXTINF:-1,SP: Canal Panda
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
+#EXTINF:-1,SP: Baby TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts
+#EXTINF:-1,SP: Canal 24 Horas
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/494.ts
+#EXTINF:-1,SP: 24 Horas
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/498.ts
+#EXTINF:-1,SP: Fox News
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/536.ts
+#EXTINF:-1,SP: TV International Europa
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/521.ts
+#EXTINF:-1,SP: C+ Liga
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
+#EXTINF:-1,ES | 24 Horas
+http://vip.groupiptv.com:7000/live/stephen/stephen/4473.ts
+#EXTINF:-1,ES | A & E
+http://vip.groupiptv.com:7000/live/stephen/stephen/4423.ts
+#EXTINF:-1,ES | Andalucia
+http://vip.groupiptv.com:7000/live/stephen/stephen/4424.ts
+#EXTINF:-1,ES | Antenna 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/4425.ts
+#EXTINF:-1,ES | AXN
+http://vip.groupiptv.com:7000/live/stephen/stephen/4426.ts
+#EXTINF:-1,ES | AXN White
+http://vip.groupiptv.com:7000/live/stephen/stephen/4427.ts
+#EXTINF:-1,ES | Barca TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4428.ts
+#EXTINF:-1,ES | Bein Spain
+http://vip.groupiptv.com:7000/live/stephen/stephen/4429.ts
+#EXTINF:-1,ES | CanalPlus 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4430.ts
+#EXTINF:-1,ES | CanalPlus Accion
+http://vip.groupiptv.com:7000/live/stephen/stephen/4431.ts
+#EXTINF:-1,ES | CanalPlus Cocina
+http://vip.groupiptv.com:7000/live/stephen/stephen/4432.ts
+#EXTINF:-1,ES | CanalPlus Comedia
+http://vip.groupiptv.com:7000/live/stephen/stephen/4433.ts
+#EXTINF:-1,ES | CanalPlus DCine
+http://vip.groupiptv.com:7000/live/stephen/stephen/4434.ts
+#EXTINF:-1,ES | CanalPlus Deportes
+http://vip.groupiptv.com:7000/live/stephen/stephen/4435.ts
+#EXTINF:-1,ES | CanalPlus Deportes 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4436.ts
+#EXTINF:-1,ES | CanalPlus Futbol
+http://vip.groupiptv.com:7000/live/stephen/stephen/4437.ts
+#EXTINF:-1,ES | CanalPlus Golf
+http://vip.groupiptv.com:7000/live/stephen/stephen/4438.ts
+#EXTINF:-1,ES | Canalplus Odisea
+http://vip.groupiptv.com:7000/live/stephen/stephen/4439.ts
+#EXTINF:-1,ES | CanalPlus Series Xtra
+http://vip.groupiptv.com:7000/live/stephen/stephen/4440.ts
+#EXTINF:-1,ES | CanalPlus Xtra
+http://vip.groupiptv.com:7000/live/stephen/stephen/4441.ts
+#EXTINF:-1,ES | Comedy Central
+http://vip.groupiptv.com:7000/live/stephen/stephen/4442.ts
+#EXTINF:-1,ES | Cosmo
+http://vip.groupiptv.com:7000/live/stephen/stephen/4443.ts
+#EXTINF:-1,ES | Cuatro
+http://vip.groupiptv.com:7000/live/stephen/stephen/4444.ts
+#EXTINF:-1,ES | Dcine Espanol
+http://vip.groupiptv.com:7000/live/stephen/stephen/4445.ts
+#EXTINF:-1,ES | Discovery
+http://vip.groupiptv.com:7000/live/stephen/stephen/4446.ts
+#EXTINF:-1,ES | Disney Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/4447.ts
+#EXTINF:-1,ES | Disney Junior
+http://vip.groupiptv.com:7000/live/stephen/stephen/4448.ts
+#EXTINF:-1,ES | Disney XD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4449.ts
+#EXTINF:-1,ES | Estrenos
+http://vip.groupiptv.com:7000/live/stephen/stephen/4450.ts
+#EXTINF:-1,ES | FDF
+http://vip.groupiptv.com:7000/live/stephen/stephen/4451.ts
+#EXTINF:-1,ES | FOX
+http://vip.groupiptv.com:7000/live/stephen/stephen/4452.ts
+#EXTINF:-1,ES | FOX Life
+http://vip.groupiptv.com:7000/live/stephen/stephen/4453.ts
+#EXTINF:-1,ES | Galicia
+http://vip.groupiptv.com:7000/live/stephen/stephen/4454.ts
+#EXTINF:-1,ES | Historia
+http://vip.groupiptv.com:7000/live/stephen/stephen/4455.ts
+#EXTINF:-1,ES | Hollywood
+http://vip.groupiptv.com:7000/live/stephen/stephen/4456.ts
+#EXTINF:-1,ES | La 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4457.ts
+#EXTINF:-1,ES | La 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4458.ts
+#EXTINF:-1,ES | La Sexta
+http://vip.groupiptv.com:7000/live/stephen/stephen/4459.ts
+#EXTINF:-1,ES | MoviStar F1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4460.ts
+#EXTINF:-1,ES | MoviStar MotoGP
+http://vip.groupiptv.com:7000/live/stephen/stephen/4461.ts
+#EXTINF:-1,ES | Nat Geo Wild
+http://vip.groupiptv.com:7000/live/stephen/stephen/4462.ts
+#EXTINF:-1,ES | National Geographic
+http://vip.groupiptv.com:7000/live/stephen/stephen/4463.ts
+#EXTINF:-1,ES | Neox
+http://vip.groupiptv.com:7000/live/stephen/stephen/4464.ts
+#EXTINF:-1,ES | Nickelodeon
+http://vip.groupiptv.com:7000/live/stephen/stephen/4465.ts
+#EXTINF:-1,ES | Nova
+http://vip.groupiptv.com:7000/live/stephen/stephen/4466.ts
+#EXTINF:-1,ES | SyFy
+http://vip.groupiptv.com:7000/live/stephen/stephen/4467.ts
+#EXTINF:-1,ES | Telecinco
+http://vip.groupiptv.com:7000/live/stephen/stephen/4468.ts
+#EXTINF:-1,ES | Teledeporte
+http://vip.groupiptv.com:7000/live/stephen/stephen/4469.ts
+#EXTINF:-1,ES | Telesur
+http://vip.groupiptv.com:7000/live/stephen/stephen/4474.ts
+#EXTINF:-1,ES | TNT
+http://vip.groupiptv.com:7000/live/stephen/stephen/4470.ts
+#EXTINF:-1,ES | TOROS TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4471.ts
+#EXTINF:-1,ES | TV 3 Catalunya
+http://vip.groupiptv.com:7000/live/stephen/stephen/4472.ts
+#EXTINF:-1,SP: #0 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12532.ts
+#EXTINF:-1,SP: LA 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15907.ts
+#EXTINF:-1,SP: LA 1 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7661.ts
+#EXTINF:-1,SP: LA 2
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7660.ts
+#EXTINF:-1,SP: Antena 3 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7710.ts
+#EXTINF:-1,SP: Antena 3
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15474.ts
+#EXTINF:-1,SP: CUATRO HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15411.ts
+#EXTINF:-1,SP: Cuatro.
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7686.ts
+#EXTINF:-1,SP: TELECINCO FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15412.ts
+#EXTINF:-1,SP: TELECINCO
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/10008.ts
+#EXTINF:-1,SP: La Sexta HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7674.ts
+#EXTINF:-1,SP: La Sexta
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15909.ts
+#EXTINF:-1,SP: Neox
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/14970.ts
+#EXTINF:-1,SP: NOVA
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7668.ts
+#EXTINF:-1,SP: Mega Tv HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7713.ts
+#EXTINF:-1,SP: Fdf
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7679.ts
+#EXTINF:-1,SP: DIVINITY
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7714.ts
+#EXTINF:-1,SP: Energy
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7681.ts
+#EXTINF:-1,SP: Andalucia TV
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7640.ts
+#EXTINF:-1,SP: TV Galicia
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7601.ts
+#EXTINF:-1,====== ESTILO DE VIDA======
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12539.ts
+#EXTINF:-1,SP: Cosmo HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13704.ts
+#EXTINF:-1,SP: Cosmo
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7621.ts
+#EXTINF:-1,SP: Canal Cocina
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7629.ts
+#EXTINF:-1,SP: 24 Horas
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13003.ts
+#EXTINF:-1,====== INFANTILES ======
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12536.ts
+#EXTINF:-1,SP: Disney Channel
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7684.ts
+#EXTINF:-1,SP: Disney Jr.
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7683.ts
+#EXTINF:-1,SP: DISNEY XD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7682.ts
+#EXTINF:-1,SP: Clan TVE
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7720.ts
+#EXTINF:-1,SP: Boing
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7707.ts
+#EXTINF:-1,SP: Nick Jr.
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7670.ts
+#EXTINF:-1,SP: NICKELODEON HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7669.ts
+#EXTINF:-1,====== DOCUMENTALES ======
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12537.ts
+#EXTINF:-1,SP: HISTORIA
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7676.ts
+#EXTINF:-1,SP: Viajar HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12542.ts
+#EXTINF:-1,SP: Discovery Channel
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7620.ts
+#EXTINF:-1,SP: National Geo HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13706.ts
+#EXTINF:-1,SP: National Geo
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7671.ts
+#EXTINF:-1,SP: National Geo Wild HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13707.ts
+#EXTINF:-1,SP: National Geo Wild
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7672.ts
+#EXTINF:-1,SP: Crime + Investigation
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13004.ts
+#EXTINF:-1,SP: NON STOP PEOPLE
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15427.ts
+#EXTINF:-1,====== CINE ======
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12538.ts
+#EXTINF:-1,SP: M. ESTRENOS FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15414.ts
+#EXTINF:-1,SP: M.Estrenos
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7703.ts
+#EXTINF:-1,SP: M. ACCION HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15415.ts
+#EXTINF:-1,SP: M. Accion
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7698.ts
+#EXTINF:-1,SP: M. COMEDIA FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15416.ts
+#EXTINF:-1,SP: M. Comedia
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7697.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15417.ts
+#EXTINF:-1,SP: M. Dcine
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7652.ts
+#EXTINF:-1,SP: M. XTRA FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15418.ts
+#EXTINF:-1,SP: M. XTRA
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7649.ts
+#EXTINF:-1,SP: M. SERIES HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15419.ts
+#EXTINF:-1,SP: M. Series
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7691.ts
+#EXTINF:-1,SP: M. SERIES XTRA HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15420.ts
+#EXTINF:-1,SP: M. Series Xtra
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7690.ts
+#EXTINF:-1,SP: Comedy Central HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13710.ts
+#EXTINF:-1,SP: Comedy Central.
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7687.ts
+#EXTINF:-1,SP: Hollywood FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7689.ts
+#EXTINF:-1,SP: FOX FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7643.ts
+#EXTINF:-1,SP: Fox.
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7678.ts
+#EXTINF:-1,SP: Fox Life HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13711.ts
+#EXTINF:-1,SP: FOX LIFE
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7677.ts
+#EXTINF:-1,SP: AMC HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15421.ts
+#EXTINF:-1,SP: AXN HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7653.ts
+#EXTINF:-1,SP: AXN
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7709.ts
+#EXTINF:-1,SP: AXN WHITE HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7708.ts
+#EXTINF:-1,SP: SYFY HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7594.ts
+#EXTINF:-1,SP: SYFY
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7666.ts
+#EXTINF:-1,SP: TCM HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15423.ts
+#EXTINF:-1,SP: TCM
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7665.ts
+#EXTINF:-1,SP: TNT
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7663.ts
+#EXTINF:-1,SP: TNT HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15422.ts
+#EXTINF:-1,SP: CALLE 13 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7705.ts
+#EXTINF:-1,SP: PARAMOUNT
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7716.ts
+#EXTINF:-1,====== Taquilla ======
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12540.ts
+#EXTINF:-1,SP: Taquilla 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7612.ts
+#EXTINF:-1,SP: Taquilla 2
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7610.ts
+#EXTINF:-1,SP: Taquilla 3
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7609.ts
+#EXTINF:-1,SP: Taquilla 4
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7608.ts
+#EXTINF:-1,SP: Taquilla 5
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7607.ts
+#EXTINF:-1,SP: Taquilla 6
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7606.ts
+#EXTINF:-1,SP: Taquilla 7
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7605.ts
+#EXTINF:-1,SP: Taquilla 8
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7604.ts
+#EXTINF:-1,SP: Taquilla 9
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7603.ts
+#EXTINF:-1,SP: Taquilla 10
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7611.ts
+#EXTINF:-1,====== EXTRA ======
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15476.ts
+#EXTINF:-1,SP: TOROS HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15424.ts
+#EXTINF:-1,SP: Toros Tv
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7701.ts
+#EXTINF:-1,SP: Caza Y Pesca HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7688.ts
+#EXTINF:-1,SP: IBERALIA TV
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15425.ts
+#EXTINF:-1,====== DEPORTES ======
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12541.ts
+#EXTINF:-1,SP:  M. MOTO GP
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15438.ts
+#EXTINF:-1,SP: M. MotoGp HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7616.ts
+#EXTINF:-1,SP: Canal+ Liga
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7715.ts
+#EXTINF:-1,SP: Gol TV
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7702.ts
+#EXTINF:-1,SP: M.  FUTBOL FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15433.ts
+#EXTINF:-1,SP: M. Futbol
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13008.ts
+#EXTINF:-1,SP: M. GOLF
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13010.ts
+#EXTINF:-1,SP: M. DEPORTES 1 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15434.ts
+#EXTINF:-1,SP: M. Depotes 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13009.ts
+#EXTINF:-1,SP: M. DEPORTES 2 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15435.ts
+#EXTINF:-1,SP: M. Deportes 2
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12545.ts
+#EXTINF:-1,SP: M. Formula 1 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15437.ts
+#EXTINF:-1,SP: M. Formula 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7617.ts
+#EXTINF:-1,SP: M. GOLF HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15436.ts
+#EXTINF:-1,SP: M. PARTIDAZO HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15431.ts
+#EXTINF:-1,SP: Real Madrid
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7614.ts
+#EXTINF:-1,SP: Barca TV
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7662.ts
+#EXTINF:-1,SP: Eurosport 1 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15439.ts
+#EXTINF:-1,SP: Eurosport 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7680.ts
+#EXTINF:-1,SP: Eurosport 2
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15475.ts
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15440.ts
+#EXTINF:-1,SP: BeIN Sports FHD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13279.ts
+#EXTINF:-1,SP: Bein LaLiga HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13709.ts
+#EXTINF:-1,SP: beIN La Liga
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12497.ts
+#EXTINF:-1,SP: La Liga TV Bar
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/13006.ts
+#EXTINF:-1,SP: LA LIGA TV BAR HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15429.ts
+#EXTINF:-1,SP: LA LIGA BAR TV 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15430.ts
+#EXTINF:-1,SP: LA LIGA HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15428.ts
+#EXTINF:-1,SP: LA LIGA
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15441.ts
+#EXTINF:-1,SP: LA LIGA TV 1 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15442.ts
+#EXTINF:-1,SP: LA LIGA TV 2 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15443.ts
+#EXTINF:-1,SP: LA LIGA TV 3 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15444.ts
+#EXTINF:-1,SP: LA LIGA TV 4 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15445.ts
+#EXTINF:-1,SP: LA LIGA TV 5 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15446.ts
+#EXTINF:-1,SP: LA LIGA TV 6 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15447.ts
+#EXTINF:-1,SP: LA LIGA TV 7 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15448.ts
+#EXTINF:-1,SP: LA LIGA TV 8 SD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15449.ts
+#EXTINF:-1,SP: BEIN MAX 1 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15450.ts
+#EXTINF:-1,SP: BEIN MAX 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15453.ts
+#EXTINF:-1,SP: BEIN MAX 2 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15451.ts
+#EXTINF:-1,SP: BEIN MAX 2
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15454.ts
+#EXTINF:-1,SP: BEIN MAX 3
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15455.ts
+#EXTINF:-1,SP: BEIN MAX 3 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15452.ts
+#EXTINF:-1,SP: BEIN MAX 4
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15456.ts
+#EXTINF:-1,SP: BEIN MAX 5
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15457.ts
+#EXTINF:-1,SP: BEIN MAX 6
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15458.ts
+#EXTINF:-1,SP: BEIN MAX 7
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15459.ts
+#EXTINF:-1,SP: BEIN MAX 8
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15460.ts
+#EXTINF:-1,SP: MULTIDEPORTES 1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15461.ts
+#EXTINF:-1,SP: MULTIDEPORTES 2
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15462.ts
+#EXTINF:-1,SP: MULTIDEPORTES 3
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15463.ts
+#EXTINF:-1,SP: MULTIDEPORTES 4
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/15464.ts
+#EXTINF:-1,SP: Teledeporte
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7658.ts
+#EXTINF:-1,SP: Sol Musica
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7721.ts
+#EXTINF:-1,SP: MTV Espana
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/12535.ts
+#EXTINF:-1,SP: VH1
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7591.ts
+#EXTINF:-1,SP: Proyecto 40
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7667.ts
+#EXTINF:-1,SP: Canal 7 HD
+http://xtream.swiftiptv.com:6500/live/baium/TfzK6qGF/7631.ts
+#EXTINF:-1,#0 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
+#EXTINF:-1,LA 1 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
+#EXTINF:-1,LA 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
+#EXTINF:-1,ANTENA 3 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
+#EXTINF:-1,CUATRO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
+#EXTINF:-1,TELECINCO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
+#EXTINF:-1,LA SEXTA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
+#EXTINF:-1,FOX LIFE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
+#EXTINF:-1,FOX HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
+#EXTINF:-1,AXN WHITE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
+#EXTINF:-1,AXN HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
+#EXTINF:-1,HOLLYWOODHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
+#EXTINF:-1,M.ESTRENOSHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
+#EXTINF:-1,M.COMEDIA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
+#EXTINF:-1,M. XTRA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
+#EXTINF:-1,M. SeriesXtraHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
+#EXTINF:-1,M. SERIES HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
+#EXTINF:-1,M. DCINE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
+#EXTINF:-1,M. ACCI©N HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
+#EXTINF:-1,SYFY HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
+#EXTINF:-1,TNT HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
+#EXTINF:-1,TCM HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
+#EXTINF:-1,AMC HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
+#EXTINF:-1,FDF
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
+#EXTINF:-1,CLAN TVE
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
+#EXTINF:-1,NICKELODEONHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
+#EXTINF:-1,COSMO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
+#EXTINF:-1,COMEDYCENTRALHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
+#EXTINF:-1,CALLE 13 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
+#EXTINF:-1,BEIN SPORT HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
+#EXTINF:-1,BEIN LALIGA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
+#EXTINF:-1,LALIGA TV BAR HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
+#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
+#EXTINF:-1,M.MOTOGPHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
+#EXTINF:-1,M.FORMULA1HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
+#EXTINF:-1,M. GOLF HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
+#EXTINF:-1,M. F.TBOL HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
+#EXTINF:-1,M. DEP 2 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
+#EXTINF:-1,M. DEP 1 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
+#EXTINF:-1,GOL TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
+#EXTINF:-1,R. MADRID TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
+#EXTINF:-1,BARCA TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
+#EXTINF:-1,EUROSPORT1HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
+#EXTINF:-1,EUROSPORT 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
+#EXTINF:-1,TOROS TV HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
+#EXTINF:-1,BEINLALIGA1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
+#EXTINF:-1,BEINLALIGA2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
+#EXTINF:-1,BEIN MAX 1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
+#EXTINF:-1,BEIN MAX 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
+#EXTINF:-1,NG WILD HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
+#EXTINF:-1,VIAJAR HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
+#EXTINF:-1,NAT GEO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
+#EXTINF:-1,CAZA Y PESCA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
+#EXTINF:-1,BABY TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
+#EXTINF:-1,DISNEY CH HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
+#EXTINF:-1,24 HORAS
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
+#EXTINF:-1,NEOX
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
+#EXTINF:-1,M. Cine Espa?ol
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
+#EXTINF:-1,LTC
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
+#EXTINF:-1,PARAMOUNT
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
+#EXTINF:-1,CANAL ODISEA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
+#EXTINF:-1,Canal Extremadura SAT
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/344.ts
+#EXTINF:-1,CANAL DECASA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
+#EXTINF:-1,NONSTOPEOPLE
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
+#EXTINF:-1,MTV ESPA¹A
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
+#EXTINF:-1,HISTORIA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
+#EXTINF:-1,DIVINITY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
+#EXTINF:-1,DISNEY XD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
+#EXTINF:-1,DISCOVERY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
+#EXTINF:-1,CRIMEN INVES
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
+#EXTINF:-1,CLASSICA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
+#EXTINF:-1,CANAL SUR A.
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
+#EXTINF:-1,CANAL PANDA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
+#EXTINF:-1,BOING
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
+#EXTINF:-1,ARAGON TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
+#EXTINF:-1,A&E
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
+#EXTINF:-1,C&I
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
+#EXTINF:-1,ENERGY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
+#EXTINF:-1,TAQUILLA_1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
+#EXTINF:-1,TAQUILLA_2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
+#EXTINF:-1,TAQUILLA_3
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
+#EXTINF:-1,TAQUILLA_4
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
+#EXTINF:-1,TAQUILLA_5
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
+#EXTINF:-1,TAQUILLA_6
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
+#EXTINF:-1,TAQUILLA_7
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
+#EXTINF:-1,TAQUILLA_8
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
+#EXTINF:-1,TAQUILLA_9
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
+#EXTINF:-1,TAQUILLA_10
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
+#EXTINF:-1,TAQUILLA_11
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
+#EXTINF:-1,TAQUILLA_12
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
+#EXTINF:-1,TAQUILLA_13
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
+#EXTINF:-1,TAQUILLA_14
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
+#EXTINF:-1,TAQUILLA_15
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
+#EXTINF:-1,TAQUILLA_16
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
+#EXTINF:-1,TAQUILLA_17
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
+#EXTINF:-1,TAQUILLA_18
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
+#EXTINF:-1,TAQUILLA_19
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
+#EXTINF:-1,TAQUILLA_20
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
+#EXTINF:-1,TAQUILLA_21
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
+#EXTINF:-1,TAQUILLA_22
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
+#EXTINF:-1,TAQUILLA_23
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
+#EXTINF:-1,TAQUILLA_24
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
+#EXTINF:-1,TAQUILLA_25
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
+#EXTINF:-1,TAQUILLA_26
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
+#EXTINF:-1,TAQUILLA_27
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
+#EXTINF:-1,TAQUILLA_28
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
+#EXTINF:-1,TAQUILLA_29
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
+#EXTINF:-1,TAQUILLA_30
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
+#EXTINF:-1,TAQUILLA_31
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
+#EXTINF:-1,TAQUILLA_32
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
+#EXTINF:-1,TAQUILLA_33
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
+#EXTINF:-1,TAQUILLA_34
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
+#EXTINF:-1,TAQUILLA_35
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
+#EXTINF:-1,TAQUILLA_36
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
+#EXTINF:-1,TAQUILLA_37
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
+#EXTINF:-1,TAQUILLA_38
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
+#EXTINF:-1,TAQUILLA_39
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
+#EXTINF:-1,TAQUILLA_40
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
 
 #EXTINF:-1,[COLOR red][I][B]------------------------LISTA 3---------------------------------------[/B][/I][/COLOR]
 
