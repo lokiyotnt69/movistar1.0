@@ -1357,7 +1357,12 @@ http://cod.gnulas.com/video/93.mp4
 http://cod.gnulas.com/video/94.mp4
 #EXTINF:-1,Dragon Ball Super:DBS95
 http://cod.gnulas.com/video/95.mp4
-#EXTINF:-1,Dragon Ball Super:DBS96
+#EXTINF:-1 tvg-logo="http://cde.laprensa.com.pe//ima/0/0/1/5/5/155253.jpg" group-title="Dragon Ball Super" ,DBS 96
+http://cod.gnulas.com/video/96.webm
+#EXTINF:-1 tvg-logo="http://cde.laprensa.com.pe//ima/0/0/1/5/5/155253.jpg" group-title="Dragon Ball Super" ,DBS 97
+http://cod.gnulas.com/video/97.mp4
+#EXTINF:-1 tvg-logo="http://cde.laprensa.com.pe//ima/0/0/1/5/5/155253.jpg" group-title="Dragon Ball Super" ,DBS 98
+http://cod.gnulas.com/video/98.mp4
 
 #EXTINF:-1,[COLOR gold][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
