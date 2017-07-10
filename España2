@@ -1,0 +1,92 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,SP: La 1
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/482.ts
+#EXTINF:-1,SP: La 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/483.ts
+#EXTINF:-1,SP: Antena 3
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/484.ts
+#EXTINF:-1,SP: Cuatro
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/485.ts
+#EXTINF:-1,SP: Telecinco
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/518.ts
+#EXTINF:-1,SP: Telecinco
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/518.ts
+#EXTINF:-1,SP: La Sexta
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/539.ts
+#EXTINF:-1,SP: Clan TVE
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/545.ts
+#EXTINF:-1,SP: Nova
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/1858.ts
+#EXTINF:-1,SP: Neox
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/527.ts
+#EXTINF:-1,SP: Canal Sur
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/542.ts
+#EXTINF:-1,SP: FDF
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/535.ts
+#EXTINF:-1,SP: Divinity
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/489.ts
+#EXTINF:-1,SP: Energy
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/490.ts
+
+#EXTINF:-1,[COLOR red][I][B]-------------------AUTONOMICAS--------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0TYIEqMGl5k/mqdefault_live.jpg" group-title="España", HispanTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+#EXTINF:-1 tvg-logo="http://gaceta.es/sites/default/files/styles/140x/public/intermosca_copia.png?itok=9OUJzDhA" group-title="España", INTERECONOMÍA TV España
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1991986513_b500000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="España",Lancelot TV 
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png" group-title="España", Andalucia TV
+http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.aragonradio.es/_archivos/imagenes/grande/20131112_00007.jpg" group-title="España", AragonTv
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalsur.es/css/cssimg/logoCS.jpg" group-title="España", CANAL SUR ANDALUCIA 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="http://telebasura.com/wp-content/2013/01/logo-telemadrid.jpg" group-title="España", Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.congreso.es/wc/htdocs/web/img/canal_parlamento.gif" group-title="España", Canal Parlamento (Madrid) 	
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8
+#EXTINF:-1 tvg-logo="http://www.eldia.tv/images/logo-cabecera-u103.png" group-title="España", EL DÍA TV España
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+#EXTINF:-1 tvg-logo="http://www.federacionaspacecyl.org/wp-content/uploads/2016/08/cyltv-600x400.jpg" group-title="España",CYLTV
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",ONDA AZUL SEVILLA
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España", EXTREMADURA TV 
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1 tvg-logo="http://tecavicas.es/wp-content/uploads/2013/03/levante_tv_1.jpg" group-title="España", LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oPHetkQd2Rs/VFkkpCYxqkI/AAAAAAAAOMU/C1Ahjb1peOs/s1600/log_etb.png" group-title="España", EITB.EUS 
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="España", 324 	
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="España", T V3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="España", TV GALICIA	
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hernandezpsicologos.es/wp-content/uploads/colaboraciones-radio-television-marbella-alejandra-hernandez-psicologos-marbella-fuengirola-malaga.jpg" group-title="España", Marbella TV 
+http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2179119415/MoscaTVM-para-social_400x400.jpg" group-title="España", TV Melilla	
+http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/1280px-TVG_logo.svg.png" group-title="España", TVG America 
+http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w2022272197.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/1280px-TVG_logo.svg.png" group-title="España", TVG Europa 
+http://media3.crtvg.es/live/tvge/chunklist_w1728723684.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="España", Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Ribera-TV.png" group-title="España", Ribera TV 
+http://188.165.135.22/ribera/livestream/.m3u8
+
+
+
+#EXTINF:-1,[COLOR orange][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
