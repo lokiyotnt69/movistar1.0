@@ -7,376 +7,632 @@
 
 #EXTINF:-1,[COLOR red][I][B]------------------------LISTA EN FASE---------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,==========Spain==========
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7231.ts
-#EXTINF:-1,---------- TDT ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13657.ts
-#EXTINF:-1,SP: LA1 HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19271.ts
-#EXTINF:-1,SP: LA1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13643.ts
-#EXTINF:-1,SP: LA1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/33.ts
-#EXTINF:-1,SP: LA2
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/34.ts
-#EXTINF:-1,SP: ANTENA 3 HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19272.ts
-#EXTINF:-1,SP: ANTENA 3 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13640.ts
-#EXTINF:-1,SP: ANTENA 3
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/407.ts
-#EXTINF:-1,SP: CUATRO HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19273.ts
-#EXTINF:-1,SP: CUATRO HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13671.ts
-#EXTINF:-1,SP: CUATRO
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/24.ts
-#EXTINF:-1,SP: TELECINCO HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19274.ts
-#EXTINF:-1,SP: TELECINCO HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7209.ts
-#EXTINF:-1,SP: TELECINCO
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/44.ts
-#EXTINF:-1,SP: LA SEXTA HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19275.ts
-#EXTINF:-1,SP: LA SEXTA HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/408.ts
-#EXTINF:-1,SP: LA SEXTA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/35.ts
-#EXTINF:-1,SP: NEOX
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7194.ts
-#EXTINF:-1,SP: NOVA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/42.ts
-#EXTINF:-1,SP: MEGA TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7200.ts
-#EXTINF:-1,SP: FDF
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/404.ts
-#EXTINF:-1,SP: DIVINITY
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7196.ts
-#EXTINF:-1,SP: ENERGY
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/405.ts
-#EXTINF:-1,SP: TV GALICIA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/410.ts
-#EXTINF:-1,SP: ANDALUCIA TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7195.ts
-#EXTINF:-1,---------- MOVISTAR + ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13658.ts
-#EXTINF:-1,SP: 0# HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19279.ts
-#EXTINF:-1,SP: #0 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13606.ts
-#EXTINF:-1,SP: #0
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7262.ts
-#EXTINF:-1,---------- CINE ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13651.ts
-#EXTINF:-1,SP: M. ESTRENOS HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18704.ts
-#EXTINF:-1,SP: M. ESTRENOS HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/425.ts
-#EXTINF:-1,SP: M. ESTRENOS SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/9.ts
-#EXTINF:-1,SP: M. ACCION HD(1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18703.ts
-#EXTINF:-1,SP: M. ACCION HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13603.ts
-#EXTINF:-1,SP: M. ACCION
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/5.ts
-#EXTINF:-1,SP: M. COMEDIA HD(1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18702.ts
-#EXTINF:-1,SP: M. COMEDIA HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7211.ts
-#EXTINF:-1,SP: M. COMEDIA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/6.ts
-#EXTINF:-1,SP: M. DCINE HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18705.ts
-#EXTINF:-1,SP: M. DCINE HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7210.ts
-#EXTINF:-1,SP: M. DCINE
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/25.ts
-#EXTINF:-1,SP: M. XTRA HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13625.ts
-#EXTINF:-1,SP: M. XTRA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/16.ts
-#EXTINF:-1,SP: M CINE ESPANOL
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7224.ts
-#EXTINF:-1,---------- SERIES ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13652.ts
-#EXTINF:-1,SP: M SERIES HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18706.ts
-#EXTINF:-1,SP: M. SERIES HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13605.ts
-#EXTINF:-1,SP: M. SERIES
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18707.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13628.ts
-#EXTINF:-1,SP: M. SERIES XTRA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/14.ts
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13634.ts
-#EXTINF:-1,SP: COMEDY CENTRAL SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7216.ts
-#EXTINF:-1,SP: H0LLYWOOD HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18708.ts
-#EXTINF:-1,SP: HOLLYWOOD HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13593.ts
-#EXTINF:-1,SP: HOLLYWOOD SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/32.ts
-#EXTINF:-1,SP: PARAMOUNT
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7212.ts
-#EXTINF:-1,SP: FOX HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18713.ts
-#EXTINF:-1,SP: FOX HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13594.ts
-#EXTINF:-1,SP: FOX
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/29.ts
-#EXTINF:-1,SP: FOX LIFE HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13622.ts
-#EXTINF:-1,SP: FOX LIFE SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/30.ts
-#EXTINF:-1,SP: AMC HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18709.ts
-#EXTINF:-1,SP: AMC HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13702.ts
-#EXTINF:-1,SP: AMC
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13665.ts
-#EXTINF:-1,SP: AXN HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13589.ts
-#EXTINF:-1,SP: AXN
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/3.ts
-#EXTINF:-1,SP: AXN WHITE HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13624.ts
-#EXTINF:-1,SP: AXN WHITE
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/4.ts
-#EXTINF:-1,SP: SYFY HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13633.ts
-#EXTINF:-1,SP: SYFY
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/48.ts
-#EXTINF:-1,SP: TNT HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13592.ts
-#EXTINF:-1,SP: TNT
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/46.ts
-#EXTINF:-1,SP: TCM HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13604.ts
-#EXTINF:-1,SP: TCM HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18710.ts
-#EXTINF:-1,SP: TCM
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/43.ts
-#EXTINF:-1,SP: SUNDANCE
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13691.ts
-#EXTINF:-1,SP: CALLE 13 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13645.ts
-#EXTINF:-1,SP: CALLE 13
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17.ts
-#EXTINF:-1,SP: A&E
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/2.ts
-#EXTINF:-1,---------- EXTRA ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13660.ts
-#EXTINF:-1,SP: TOROS HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18711.ts
-#EXTINF:-1,SP: TOROS HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13602.ts
-#EXTINF:-1,SP: TOROS
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/15.ts
-#EXTINF:-1,SP: CAZA Y PESCA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/21.ts
-#EXTINF:-1,SP: IBERALIA TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13936.ts
-#EXTINF:-1,---------- DOCUMENTALES ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13654.ts
-#EXTINF:-1,SP: HISTORIA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/31.ts
-#EXTINF:-1,SP: CANAL ODISEA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7225.ts
-#EXTINF:-1,SP: NAT GEO HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13590.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19276.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/38.ts
-#EXTINF:-1,SP: NAT GEO WILD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/39.ts
-#EXTINF:-1,SP: VIAJAR
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13623.ts
-#EXTINF:-1,SP: CRIME & INVESTIGATION
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7226.ts
-#EXTINF:-1,SP: DISCOVERY
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13692.ts
-#EXTINF:-1,SP: NON STOP PEOPLE
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13935.ts
-#EXTINF:-1,---------- MUSICA ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13656.ts
-#EXTINF:-1,SP: MEZZO
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13701.ts
-#EXTINF:-1,SP: VH1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/47.ts
-#EXTINF:-1,SP: M. eSports
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/426.ts
-#EXTINF:-1,SP: MTV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13667.ts
-#EXTINF:-1,---------- ESTILO DE VIDA ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13659.ts
-#EXTINF:-1,SP: COSMO HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18712.ts
-#EXTINF:-1,SP: COSMO HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13629.ts
-#EXTINF:-1,SP: CANAL COCINA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7201.ts
-#EXTINF:-1,SP: CANAL DECASA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/1760.ts
-#EXTINF:-1,SP: CANAL ORBE 21
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13937.ts
-#EXTINF:-1,SP: 24 HORAS
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13939.ts
-#EXTINF:-1,---------- INFANTILES ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13655.ts
-#EXTINF:-1,SP: DISNEY CHANNEL
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/26.ts
-#EXTINF:-1,SP: DISNEY JUNIOR
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/27.ts
-#EXTINF:-1,SP: DISNEY XD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/28.ts
-#EXTINF:-1,SP: NICK JR
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/41.ts
-#EXTINF:-1,SP: CLAN TVE
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/413.ts
-#EXTINF:-1,SP: BOING
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/409.ts
-#EXTINF:-1,SP: NICKELODEON
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/40.ts
-#EXTINF:-1,SP: BABY TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13666.ts
-#EXTINF:-1,SP: CANAL PANDA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13669.ts
-#EXTINF:-1,---------- DEPORTES ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13653.ts
-#EXTINF:-1,SP: BEIN SPORTS HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18684.ts
-#EXTINF:-1,SP: BEIN SPORTS HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/5983.ts
-#EXTINF:-1,SP: BEIN SPORTS SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/587.ts
-#EXTINF:-1,SP: BEIN LA LIGA HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18683.ts
-#EXTINF:-1,SP: BEIN LA LIGA HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13932.ts
-#EXTINF:-1,SP: BEIN LA LIGA SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13914.ts
-#EXTINF:-1,SP: LA LIGA TV BAR (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18685.ts
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13933.ts
-#EXTINF:-1,SP: LA LIGA TV BAR SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/12.ts
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13940.ts
-#EXTINF:-1,SP: GOL TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13934.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18692.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13649.ts
-#EXTINF:-1,SP: M. PARTIDAZO SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/9190.ts
-#EXTINF:-1,SP: M. FUTBOL HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18686.ts
-#EXTINF:-1,SP: M. FUTBOL HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13596.ts
-#EXTINF:-1,SP: M. FUTBOL
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/10.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18690.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13600.ts
-#EXTINF:-1,SP: M. DEPORTES 1 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/419.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18691.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13627.ts
-#EXTINF:-1,SP: M. DEPORTES 2
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7197.ts
-#EXTINF:-1,SP: M. GOLF HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18689.ts
-#EXTINF:-1,SP: M. GOLF HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7202.ts
-#EXTINF:-1,SP: M. GOLF
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/11.ts
-#EXTINF:-1,SP: M. F1 HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18687.ts
-#EXTINF:-1,SP: M. F1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13642.ts
-#EXTINF:-1,SP: M. F1 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/5963.ts
-#EXTINF:-1,SP: M. MOTOGP HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18688.ts
-#EXTINF:-1,SP: M. MOTO GP HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13641.ts
-#EXTINF:-1,SP: M. MOTO GP
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/5962.ts
-#EXTINF:-1,SP: EUROSPORT 1 HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19277.ts
-#EXTINF:-1,SP: EUROSPORT 1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13587.ts
-#EXTINF:-1,SP: EUROSPORT 1 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13668.ts
-#EXTINF:-1,SP: EUROSPORT 2 HD (1080)
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/19278.ts
-#EXTINF:-1,SP: EUROSPORT 2 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13670.ts
-#EXTINF:-1,SP: BEIN LA LIGA 1 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13700.ts
-#EXTINF:-1,SP: LA LIGA TV 2 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13699.ts
-#EXTINF:-1,SP: LA LIGA TV 3 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13698.ts
-#EXTINF:-1,SP: LA LIGA TV 4 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13697.ts
-#EXTINF:-1,SP: LA LIGA TV 5 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13696.ts
-#EXTINF:-1,SP: LA LIGA TV 6 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13695.ts
-#EXTINF:-1,SP: LA LIGA TV 7 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13694.ts
-#EXTINF:-1,SP: LA LIGA TV 8 SD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13693.ts
-#EXTINF:-1,SP: BEIN MAX 1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13646.ts
-#EXTINF:-1,SP: BEIN MAX 2 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13647.ts
-#EXTINF:-1,SP: BEIN MAX 3 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13648.ts
-#EXTINF:-1,SP: BEIN MAX 1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13948.ts
-#EXTINF:-1,SP: BEIN MAX 2
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13947.ts
-#EXTINF:-1,SP: BEIN MAX 3
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13946.ts
-#EXTINF:-1,SP: BEIN MAX 4
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13945.ts
-#EXTINF:-1,SP: BEIN MAX 5
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13944.ts
-#EXTINF:-1,SP: BEIN MAX 6
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13943.ts
-#EXTINF:-1,SP: BEIN MAX 7
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13942.ts
-#EXTINF:-1,SP: BEIN MAX 8
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13941.ts
-#EXTINF:-1,SP: MULTIDEPORTES 1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/16837.ts
-#EXTINF:-1,SP: MULTIDEPORTES 2
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/16838.ts
-#EXTINF:-1,SP: MULTIDEPORTES 3
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/16839.ts
-#EXTINF:-1,SP: MULTIDEPORTES 4
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/16840.ts
-#EXTINF:-1,SP: BARCA TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7213.ts
-#EXTINF:-1,SP: REAL MADRID
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/422.ts
-#EXTINF:-1,SP: TELEDEPORTES
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/13917.ts
+#EXTINF:-1,▬ Spain [ES] ▬
+#EXTINF:-1,#0 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9411.ts
+#EXTINF:-1,#0 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12734.ts
+#EXTINF:-1,Movistar eSports ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5475.ts
+#EXTINF:-1,A&E ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5474.ts
+#EXTINF:-1,AMC ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9438.ts
+#EXTINF:-1,AMC HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12733.ts
+#EXTINF:-1,AXN ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5471.ts
+#EXTINF:-1,AXN HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12731.ts
+#EXTINF:-1,AXN White ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5470.ts
+#EXTINF:-1,AXN White HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12730.ts
+#EXTINF:-1,Animal Planet ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11606.ts
+#EXTINF:-1,Antena 3 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5472.ts
+#EXTINF:-1,Antena 3 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12732.ts
+#EXTINF:-1,Aragón TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9409.ts
+#EXTINF:-1,Baby TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9427.ts
+#EXTINF:-1,Barca TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5466.ts
+#EXTINF:-1,Boing ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9429.ts
+#EXTINF:-1,Calle 13 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5469.ts
+#EXTINF:-1,Calle 13 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12728.ts
+#EXTINF:-1,Canal 24 Horas ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9410.ts
+#EXTINF:-1,Canal Cocina ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5456.ts
+#EXTINF:-1,Decasa ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5460.ts
+#EXTINF:-1,Canal Panda ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9418.ts
+#EXTINF:-1,Canal Sur Andalucia ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5467.ts
+#EXTINF:-1,Caza y Pesca ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9426.ts
+#EXTINF:-1,Caza y Pesca HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13659.ts
+#EXTINF:-1,Clan TVE ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9428.ts
+#EXTINF:-1,Comedy Central ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9420.ts
+#EXTINF:-1,Comedy Central HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12711.ts
+#EXTINF:-1,Cosmopolitan TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5473.ts
+#EXTINF:-1,Cosmopolitan TV HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12710.ts
+#EXTINF:-1,Crimen + Investigación ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9433.ts
+#EXTINF:-1,Cuatro ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5464.ts
+#EXTINF:-1,Cuatro HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12709.ts
+#EXTINF:-1,Discovery Channel ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5448.ts
+#EXTINF:-1,Disney Channel ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5446.ts
+#EXTINF:-1,Disney Channel HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12708.ts
+#EXTINF:-1,Disney Junior ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9431.ts
+#EXTINF:-1,Disney XD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9430.ts
+#EXTINF:-1,Divinity ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9442.ts
+#EXTINF:-1,Energy ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9440.ts
+#EXTINF:-1,Eurosport 1 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5410.ts
+#EXTINF:-1,Eurosport 1 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12707.ts
+#EXTINF:-1,Factoria de Ficción ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9434.ts
+#EXTINF:-1,FOX ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5442.ts
+#EXTINF:-1,FOX HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13661.ts
+#EXTINF:-1,FOX Life ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5439.ts
+#EXTINF:-1,FOX News ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9443.ts
+#EXTINF:-1,Fox Life HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12706.ts
+#EXTINF:-1,Gol ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9416.ts
+#EXTINF:-1,Historia ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9425.ts
+#EXTINF:-1,HIT TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9435.ts
+#EXTINF:-1,Canal Hollywood ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5428.ts
+#EXTINF:-1,Canal Hollywood HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12705.ts
+#EXTINF:-1,Iberalia TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9408.ts
+#EXTINF:-1,LTC ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9439.ts
+#EXTINF:-1,TVE La 1 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9404.ts
+#EXTINF:-1,TVE La 1 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12704.ts
+#EXTINF:-1,TVE La 2 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9405.ts
+#EXTINF:-1,La Sexta ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9406.ts
+#EXTINF:-1,La Sexta HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12703.ts
+#EXTINF:-1,LaLiga TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5457.ts
+#EXTINF:-1,LaLiga TV HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12718.ts
+#EXTINF:-1,MTV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9448.ts
+#EXTINF:-1,MTV ROCKS ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9444.ts
+#EXTINF:-1,Mega HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16262.ts
+#EXTINF:-1,Mezzo Live HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12702.ts
+#EXTINF:-1,Movistar Acción ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5463.ts
+#EXTINF:-1,Movistar Acción HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12727.ts
+#EXTINF:-1,Movistar Cine Ñ ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5411.ts
+#EXTINF:-1,Movistar Comedia ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5462.ts
+#EXTINF:-1,Movistar Comedia HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12726.ts
+#EXTINF:-1,Movistar DCine ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5461.ts
+#EXTINF:-1,Movistar DCine HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12725.ts
+#EXTINF:-1,Movistar Deportes 1 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5465.ts
+#EXTINF:-1,Movistar Deportes 1 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12723.ts
+#EXTINF:-1,Movistar Deportes 2 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9419.ts
+#EXTINF:-1,Movistar Deportes 2 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12724.ts
+#EXTINF:-1,Movistar Estrenos ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9415.ts
+#EXTINF:-1,Movistar Estrenos HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12722.ts
+#EXTINF:-1,Movistar Formula 1 ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5445.ts
+#EXTINF:-1,Movistar Formula 1 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12701.ts
+#EXTINF:-1,Movistar Fútbol ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5459.ts
+#EXTINF:-1,Movistar Fútbol HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12721.ts
+#EXTINF:-1,Movistar Golf ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5458.ts
+#EXTINF:-1,Movistar Golf HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12720.ts
+#EXTINF:-1,Movistar Moto GP ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5436.ts
+#EXTINF:-1,Movistar Moto GP HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12700.ts
+#EXTINF:-1,Movistar Partidazo ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5447.ts
+#EXTINF:-1,Movistar Partidazo HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12716.ts
+#EXTINF:-1,Movistar Series ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9413.ts
+#EXTINF:-1,Movistar Series HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13664.ts
+#EXTINF:-1,Movistar Series Xtra ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9414.ts
+#EXTINF:-1,Movistar Series Xtra HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12714.ts
+#EXTINF:-1,Movistar Xtra ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9412.ts
+#EXTINF:-1,Movistar Xtra HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12712.ts
+#EXTINF:-1,National Geographic HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9441.ts
+#EXTINF:-1,National Geographic Wild ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5476.ts
+#EXTINF:-1,National Geographic Wild HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12698.ts
+#EXTINF:-1,National Geographic ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5455.ts
+#EXTINF:-1,Neox ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9421.ts
+#EXTINF:-1,Nick Jr. ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14247.ts
+#EXTINF:-1,Nickelodeon ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14248.ts
+#EXTINF:-1,Nickelodeon HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12697.ts
+#EXTINF:-1,Nova ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9422.ts
+#EXTINF:-1,Odisea ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9417.ts
+#EXTINF:-1,Paramount Channel ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9446.ts
+#EXTINF:-1,Real Madrid TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5420.ts
+#EXTINF:-1,Sol Musica ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9432.ts
+#EXTINF:-1,Syfy ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5417.ts
+#EXTINF:-1,Syfy HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12696.ts
+#EXTINF:-1,TCM ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9445.ts
+#EXTINF:-1,TCM HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12695.ts
+#EXTINF:-1,TNT ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9423.ts
+#EXTINF:-1,TNT HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12693.ts
+#EXTINF:-1,TV3 Cat ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9436.ts
+#EXTINF:-1,Taquilla 1 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15615.ts
+#EXTINF:-1,Taquilla 2 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15616.ts
+#EXTINF:-1,Taquilla 3 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15617.ts
+#EXTINF:-1,Taquilla 4 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15618.ts
+#EXTINF:-1,Taquilla 5 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15619.ts
+#EXTINF:-1,Taquilla 6 HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15620.ts
+#EXTINF:-1,Telecinco ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5415.ts
+#EXTINF:-1,Telecinco HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12694.ts
+#EXTINF:-1,Teledeporte ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5414.ts
+#EXTINF:-1,Toros TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5437.ts
+#EXTINF:-1,Toros TV HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12713.ts
+#EXTINF:-1,Viajar ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9424.ts
+#EXTINF:-1,Viajar HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12717.ts
+#EXTINF:-1,Caçavision HD ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9492.ts
+#EXTINF:-1,Galicia TV Europa ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9473.ts
+#EXTINF:-1,Real Madrid TV ES
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5552.ts
+#EXTINF:-1,▬ Portugal [PT] ▬
+#EXTINF:-1,RTP 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3208.ts
+#EXTINF:-1,RTP 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3209.ts
+#EXTINF:-1,SIC PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3227.ts
+#EXTINF:-1,TVI PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3214.ts
+#EXTINF:-1,SIC Mulher PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9467.ts
+#EXTINF:-1,SIC Caras PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9466.ts
+#EXTINF:-1,SIC Radical PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9468.ts
+#EXTINF:-1,Canal Q PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9465.ts
+#EXTINF:-1,AMC HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9487.ts
+#EXTINF:-1,Sporting TV HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3246.ts
+#EXTINF:-1,AXN HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3255.ts
+#EXTINF:-1,AXN Black HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5551.ts
+#EXTINF:-1,AXN White HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3242.ts
+#EXTINF:-1,FOX HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3232.ts
+#EXTINF:-1,FOX Crime HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5549.ts
+#EXTINF:-1,FOX Life HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3233.ts
+#EXTINF:-1,Syfy PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3226.ts
+#EXTINF:-1,FOX Comedy PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9489.ts
+#EXTINF:-1,TVCine 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15796.ts
+#EXTINF:-1,TV Cine 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5545.ts
+#EXTINF:-1,TV Cine 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15797.ts
+#EXTINF:-1,TV Cine 2 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5546.ts
+#EXTINF:-1,TV Cine 3 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15798.ts
+#EXTINF:-1,TV Cine 3 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5547.ts
+#EXTINF:-1,TV Cine 4 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15799.ts
+#EXTINF:-1,TV Cine 4 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5548.ts
+#EXTINF:-1,Canal Hollywood HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3307.ts
+#EXTINF:-1,FOX Movies PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5550.ts
+#EXTINF:-1,Cine Mundo PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5544.ts
+#EXTINF:-1,E! PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3257.ts
+#EXTINF:-1,BBC Entertainment PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9488.ts
+#EXTINF:-1,CBS Reality PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3215.ts
+#EXTINF:-1,TV Séries HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3304.ts
+#EXTINF:-1,TVI Ficção PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5542.ts
+#EXTINF:-1,TVI Reality PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9464.ts
+#EXTINF:-1,Caça e Pesca PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5543.ts
+#EXTINF:-1,National Geographic HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3306.ts
+#EXTINF:-1,National Geographic Wild PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5556.ts
+#EXTINF:-1,Discovery Channel PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3247.ts
+#EXTINF:-1,Discovery Showcase HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3253.ts
+#EXTINF:-1,TLC PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9496.ts
+#EXTINF:-1,Odisseia PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3230.ts
+#EXTINF:-1,MTV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9478.ts
+#EXTINF:-1,Travel Channel HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9497.ts
+#EXTINF:-1,Nickelodeon PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3240.ts
+#EXTINF:-1,História HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3238.ts
+#EXTINF:-1,24 Kitchen HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3243.ts
+#EXTINF:-1,Fashion TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9495.ts
+#EXTINF:-1,MCS LifeStyle PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3220.ts
+#EXTINF:-1,Trace Urban PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3219.ts
+#EXTINF:-1,BabyFirst TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7855.ts
+#EXTINF:-1,Baby TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9490.ts
+#EXTINF:-1,SIC K PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3228.ts
+#EXTINF:-1,Disney Channel PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3310.ts
+#EXTINF:-1,Disney Junior PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3258.ts
+#EXTINF:-1,JimJam PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9491.ts
+#EXTINF:-1,Cartoon Network PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5554.ts
+#EXTINF:-1,Panda Biggs PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5553.ts
+#EXTINF:-1,Canal Panda PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3239.ts
+#EXTINF:-1,RTP Memória PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3212.ts
+#EXTINF:-1,RTP África PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5539.ts
+#EXTINF:-1,RTP Madeira PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3211.ts
+#EXTINF:-1,RTP Açores PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3210.ts
+#EXTINF:-1,Porto Canal PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5538.ts
+#EXTINF:-1,TV Globo PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9471.ts
+#EXTINF:-1,TV Globo Premium PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3217.ts
+#EXTINF:-1,Record Europa PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3249.ts
+#EXTINF:-1,Afro Music Channel PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3250.ts
+#EXTINF:-1,C Music TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3259.ts
+#EXTINF:-1,VH1 Classic PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9475.ts
+#EXTINF:-1,TV Canção Nova PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3237.ts
+#EXTINF:-1,RTP 3 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3213.ts
+#EXTINF:-1,CM TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3236.ts
+#EXTINF:-1,SIC Notícias PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3229.ts
+#EXTINF:-1,TVI 24 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5536.ts
+#EXTINF:-1,FOX News PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9476.ts
+#EXTINF:-1,Eurosport News PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9483.ts
+#EXTINF:-1,TVI HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5537.ts
+#EXTINF:-1,Toros TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5555.ts
+#EXTINF:-1,Sport TV + PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9499.ts
+#EXTINF:-1,Sport TV 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7846.ts
+#EXTINF:-1,Sport TV 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3221.ts
+#EXTINF:-1,Sport TV 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7845.ts
+#EXTINF:-1,Sport TV 2 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3222.ts
+#EXTINF:-1,Sport TV 3 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7844.ts
+#EXTINF:-1,Sport TV 3 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3223.ts
+#EXTINF:-1,Sport TV 4 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7843.ts
+#EXTINF:-1,Sport TV 4 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3224.ts
+#EXTINF:-1,Sport TV 5 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7842.ts
+#EXTINF:-1,Benfica TV 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3308.ts
+#EXTINF:-1,Benfica TV 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5541.ts
+#EXTINF:-1,Benfica TV 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3309.ts
+#EXTINF:-1,Sporting TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3305.ts
+#EXTINF:-1,A Bola TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5540.ts
+#EXTINF:-1,Eurosport 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7851.ts
+#EXTINF:-1,Eurosport 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3234.ts
+#EXTINF:-1,Eurosport 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9482.ts
+#EXTINF:-1,Motorvision PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9485.ts
+#EXTINF:-1,PFC PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3248.ts
+#EXTINF:-1,Canal NOS PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9470.ts
+#EXTINF:-1,Sport TV 5 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16297.ts
+#EXTINF:-1,MCS Extrême PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3231.ts
+#EXTINF:-1,ES: 24 Horas
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3366.ts
+#EXTINF:-1,ES: A&E
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3365.ts
+#EXTINF:-1,ES: AMC
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3364.ts
+#EXTINF:-1,ES: Antenna 3
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3362.ts
+#EXTINF:-1,ES: Axn
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3361.ts
+#EXTINF:-1,ES: AXN White
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3363.ts
+#EXTINF:-1,ES: Baby TV
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3360.ts
+#EXTINF:-1,ES: Barca TV
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3359.ts
+#EXTINF:-1,ES: Bein La Liga
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3358.ts
+#EXTINF:-1,ES: Bein Sport Spain
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3357.ts
+#EXTINF:-1,ES: Boing
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3356.ts
+#EXTINF:-1,ES: Calle 13
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3354.ts
+#EXTINF:-1,ES: CANAL #0*
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3355.ts
+#EXTINF:-1,ES: Canal #0
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3353.ts
+#EXTINF:-1,ES: Canal Accion
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3352.ts
+#EXTINF:-1,ES: Canal Cocina
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3351.ts
+#EXTINF:-1,ES: Canal Comedia
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3350.ts
+#EXTINF:-1,ES: Canal Dcine
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3349.ts
+#EXTINF:-1,ES: Canal Deportes 1
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3347.ts
+#EXTINF:-1,ES: Canal Deportes 2
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3346.ts
+#EXTINF:-1,ES: Canal Estrenos
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3345.ts
+#EXTINF:-1,ES: Canal F1
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3344.ts
+#EXTINF:-1,ES: Canal Futbal
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3343.ts
+#EXTINF:-1,ES: Canal Golf
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3342.ts
+#EXTINF:-1,ES: Canal Motogp
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3341.ts
+#EXTINF:-1,ES: Canal Orbe 21
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3340.ts
+#EXTINF:-1,ES: Canal Series
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3339.ts
+#EXTINF:-1,ES: Canal Series Xtra
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3338.ts
+#EXTINF:-1,ES: Canal Xtra
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3337.ts
+#EXTINF:-1,ES: Cazaypesca
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3336.ts
+#EXTINF:-1,ES: Comedy Central
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3335.ts
+#EXTINF:-1,ES: Cosmo
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3334.ts
+#EXTINF:-1,ES: Crime&Investigation
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3333.ts
+#EXTINF:-1,ES: Cuatro
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3332.ts
+#EXTINF:-1,ES: Decasa
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3331.ts
+#EXTINF:-1,ES: Discovery Channel
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3330.ts
+#EXTINF:-1,ES: Disney Channel
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3329.ts
+#EXTINF:-1,ES: Disney Jr.
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3328.ts
+#EXTINF:-1,ES: Disney XD
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3327.ts
+#EXTINF:-1,ES: Eurosport 1
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3325.ts
+#EXTINF:-1,ES: Eurosport 2
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3324.ts
+#EXTINF:-1,ES: FDF
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3323.ts
+#EXTINF:-1,ES: Fox
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3321.ts
+#EXTINF:-1,ES: FOX LIFE
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3322.ts
+#EXTINF:-1,ES: GOL
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3320.ts
+#EXTINF:-1,ES: Historia
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3319.ts
+#EXTINF:-1,ES: Canal Hollywood HD
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3318.ts
+#EXTINF:-1,ES: Iberalia TV
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3317.ts
+#EXTINF:-1,ES: LA 1
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3316.ts
+#EXTINF:-1,ES: La 2
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3304.ts
+#EXTINF:-1,ES: La Liga
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3314.ts
+#EXTINF:-1,ES: LA Sexta
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3315.ts
+#EXTINF:-1,ES: Los 40
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3313.ts
+#EXTINF:-1,ES: MEZZO
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3312.ts
+#EXTINF:-1,ES: MTV
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3311.ts
+#EXTINF:-1,ES: Nat Geo
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3326.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3309.ts
+#EXTINF:-1,ES: Nick Jr.
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3348.ts
+#EXTINF:-1,ES: Nonstop People
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3308.ts
+#EXTINF:-1,ES: NOVA
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3310.ts
+#EXTINF:-1,ES: Odisea
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3307.ts
+#EXTINF:-1,ES: Paramount Channel
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3306.ts
+#EXTINF:-1,ES: Real madrid
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3305.ts
+#EXTINF:-1,ES: Syfy
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3303.ts
+#EXTINF:-1,ES: TCM
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3302.ts
+#EXTINF:-1,ES: Telecinco
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3298.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3301.ts
+#EXTINF:-1,ES: TNT
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3300.ts
+#EXTINF:-1,ES: Toros
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3297.ts
+#EXTINF:-1,ES: TV Galicia
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3299.ts
+#EXTINF:-1,ES: Cantabria
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/1194.ts
+#EXTINF:-1,ES: DW Espanol
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/1185.ts
+#EXTINF:-1,ES: el Correo tv
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/1187.ts
+#EXTINF:-1,ES: telesur
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/1198.ts
+#EXTINF:-1,ES: TVES TV
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/1200.ts
+#EXTINF:-1,ES: TVES TV ?
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/1201.ts
+#EXTINF:-1,ES:Levente TV
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/1193.ts
+#EXTINF:-1,ES: Viajar
+http://nitrotv.for-the.biz:25461/live/brian123/brian123/3296.ts
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
