@@ -6,46 +6,7 @@
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR red][I][B]------------------------LISTA EN FASE---------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1   tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png",#0
-http://edge105.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MV1",ESTRENOS
-http://edge1201.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPACCI",ACCION
-http://edge1202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOME",COMEDIA
-http://edge107.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPCOLE",DCINE
-http://edge1201.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/DCESP",CINE Ñ
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPXTRA",XTRA
-http://edge108.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/HOLLYW", HOLLYWOOD
-http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
- 
-#EXTINF:-1   tvg-logo="http://static.programacion-tdt.com/imgAPP/Paramount_Channel.min.png", PARAMOUNT
-http://cdn1.shurs.xyz/verdirectotv/5/chunks.m3u8
- 
-#EXTINF:-1   tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CL13",CALLE 13
-http://edge1203.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
- 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Somos.png/245px-Somos.png",SOMOS
-http://88.148.69.129:9090/play/a00g
- 
- 
-#EXTINF:-1  tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/CPSER",M.SERIES
-http://edge1201.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
- 
-#EXTINF:-1  tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/MV2",M.SERIES XTRA
-http://edge1203.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
- 
+
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
