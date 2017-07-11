@@ -1,0 +1,121 @@
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+
+
+#EXTINF:-1,[COLOR blue][I][B]-------------------MOVISTAR + CINE--------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1 group-title="MOVISTAR+ CINE",DARK
+http://edge5203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ CINE Ñ
+http://bit.ly/2sX0gUg
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",TCM
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",AMC
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",HOLLYWOOD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",DARK
+http://edge5203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR blue][I][B]-------------------MOVISTAR + INFANTILES--------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",BABY TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",CANAL PANDA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts
+
+#EXTINF:-1,[COLOR blue][I][B]----------------DOCUMENTALES-----------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",DISCOVERY CHANNEL
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",ODISEA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CANAL DE CASA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",VIAJAR TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CANAL COCINA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CRIMEN + INVESTIGACION
+http://edge3.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",CAZA Y PESCA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",HISTORIA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts
+
+
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR blue][I][B]----------------------SERIES + MOVISTAR -----------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",COMEDY CENTRAL HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/520.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/492.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",MTV HD
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/540.ts
+
+#EXTINF:-1,[COLOR orange][I][B]-----------------DEPORTES-----------------------------------------[/B][/I][/COLOR]
+
+
+
+
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LA LIGA TV SD
+http://edge2505.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/493.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 1
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 2
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BARÇA TV
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 1 SD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/507.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 SD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/508.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ GOLF
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ GOLF SD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/510.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/501.ts
