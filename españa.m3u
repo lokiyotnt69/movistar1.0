@@ -34,7 +34,7 @@ http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ^@6Qg7xc=1
 #EXTINF:-1, Disney Junior
 http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1,[COLOR red]*TELECINCO[/COLOR]
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/101.ts
+
 #EXTINF:-1,[COLOR red]*FOX[/COLOR]
 http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1,[COLOR red]*CALLE13[/COLOR]
@@ -796,7 +796,22 @@ http://186.155.200.118:1935/live/telemusica/master.m3u8?
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w893059947_b964000_sleng.m3u8
 #EXTINF:-1,MUSIC TOP B
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
-
+#EXTINF:-1,[000] Movistar+
+rtp://@239.0.0.77:8208
+#EXTINF:-1,[001] La 1
+rtp://@239.0.0.76:8208
+#EXTINF:-1,[002] La 2
+rtp://@239.0.0.2:8208
+#EXTINF:-1,[003] Antena 3
+rtp://@239.0.0.3:8208
+#EXTINF:-1,[004] Cuatro
+rtp://@239.0.0.4:8208
+#EXTINF:-1,[005] Tele 5
+rtp://@239.0.0.5:8208
+#EXTINF:-1,[006] LaSexta
+rtp://@239.0.0.58:8208
+#EXTINF:-1,[007] #0
+rtp://@239.0.0.108:8208
 
 
 
