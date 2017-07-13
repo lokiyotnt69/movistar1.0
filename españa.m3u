@@ -8,7 +8,364 @@
 
 #EXTINF:-1,[COLOR red][I][B]------------------------LISTA EN FASE---------------------------------------[/B][/I][/COLOR]
 
-
+#EXTINF:-1,|ES| LA 1 HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22203.ts
+#EXTINF:-1,|ES| LA 1 FHD
+http://193.70.45.41:8000/live/Nasser/Nasser/12529.ts
+#EXTINF:-1,|ES| LA 2 HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19635.ts
+#EXTINF:-1,|ES| LA 2 FHD
+http://193.70.45.41:8000/live/Nasser/Nasser/22202.ts
+#EXTINF:-1,|ES| ANTENA 3 HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19636.ts
+#EXTINF:-1,|ES| ANTENA 3 FHD
+http://193.70.45.41:8000/live/Nasser/Nasser/12492.ts
+#EXTINF:-1,ES: Antena 3
+http://193.70.45.41:8000/live/Nasser/Nasser/22200.ts
+#EXTINF:-1,(ES) CUATRO HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12493.ts
+#EXTINF:-1,(ES): Cuatro
+http://193.70.45.41:8000/live/Nasser/Nasser/19637.ts
+#EXTINF:-1,ES: Cuatro
+http://193.70.45.41:8000/live/Nasser/Nasser/22198.ts
+#EXTINF:-1,ES: N Cuatro HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22197.ts
+#EXTINF:-1,(ES) TELECINCO HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12494.ts
+#EXTINF:-1,(ES): Telecinco
+http://193.70.45.41:8000/live/Nasser/Nasser/19638.ts
+#EXTINF:-1,ES: Telecinco
+http://193.70.45.41:8000/live/Nasser/Nasser/22195.ts
+#EXTINF:-1,ES: Telecinco HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22196.ts
+#EXTINF:-1,(ES) LA SEXTA HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12495.ts
+#EXTINF:-1,(ES): La Sexta-HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19639.ts
+#EXTINF:-1,ES: la sexta HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22194.ts
+#EXTINF:-1,(ES) CLAN TVE
+http://193.70.45.41:8000/live/Nasser/Nasser/12521.ts
+#EXTINF:-1,ES: TVE Clan
+http://193.70.45.41:8000/live/Nasser/Nasser/22159.ts
+#EXTINF:-1,(ES): NOVA
+http://193.70.45.41:8000/live/Nasser/Nasser/19644.ts
+#EXTINF:-1,ES: Nova
+http://193.70.45.41:8000/live/Nasser/Nasser/22150.ts
+#EXTINF:-1,(ES) NEOX
+http://193.70.45.41:8000/live/Nasser/Nasser/12528.ts
+#EXTINF:-1,(ES): NEOX
+http://193.70.45.41:8000/live/Nasser/Nasser/19643.ts
+#EXTINF:-1,ES: Neox Tv
+http://193.70.45.41:8000/live/Nasser/Nasser/22157.ts
+#EXTINF:-1,(ES):ARAGON TV
+http://193.70.45.41:8000/live/Nasser/Nasser/19611.ts
+#EXTINF:-1,(ES) MOVISTAR F1
+http://193.70.45.41:8000/live/Nasser/Nasser/4800.ts
+#EXTINF:-1,(ES) MOVISTAR MOTOGP
+http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts
+#EXTINF:-1,(ES) AMC HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12508.ts
+#EXTINF:-1,(ES) AXN HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12500.ts
+#EXTINF:-1,(ES): AXN-HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19649.ts
+#EXTINF:-1,ES: AXN
+http://193.70.45.41:8000/live/Nasser/Nasser/22177.ts
+#EXTINF:-1,(ES) AXN WHITE HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12501.ts
+#EXTINF:-1,ES: AXN White HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22178.ts
+#EXTINF:-1,(ES) BARCA TV
+http://193.70.45.41:8000/live/Nasser/Nasser/241.ts
+#EXTINF:-1,(ES) BeIN Sport
+http://193.70.45.41:8000/live/Nasser/Nasser/8924.ts
+#EXTINF:-1,(ES) BEIN LALIGA
+http://193.70.45.41:8000/live/Nasser/Nasser/12511.ts
+#EXTINF:-1,(ES) BEIN SPORTS
+http://193.70.45.41:8000/live/Nasser/Nasser/12512.ts
+#EXTINF:-1,(ES) C +ACCION
+http://193.70.45.41:8000/live/Nasser/Nasser/1740.ts
+#EXTINF:-1,(ES): Canal+Acción
+http://193.70.45.41:8000/live/Nasser/Nasser/19650.ts
+#EXTINF:-1,(SP) Canal Plus Accion Hd
+http://193.70.45.41:8000/live/Nasser/Nasser/20012.ts
+#EXTINF:-1,ES: Movistar Accion
+http://193.70.45.41:8000/live/Nasser/Nasser/22175.ts
+#EXTINF:-1,(ES) C +SERIES
+http://193.70.45.41:8000/live/Nasser/Nasser/1737.ts
+#EXTINF:-1,(ES): M SERIES
+http://193.70.45.41:8000/live/Nasser/Nasser/19647.ts
+#EXTINF:-1,ES: Moviestar Series
+http://193.70.45.41:8000/live/Nasser/Nasser/22162.ts
+#EXTINF:-1,ES: Movistar Series
+http://193.70.45.41:8000/live/Nasser/Nasser/22170.ts
+#EXTINF:-1,(ES):M. SERIES HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19608.ts
+#EXTINF:-1,(ES) M.SeriesXtraHD
+http://193.70.45.41:8000/live/Nasser/Nasser/12503.ts
+#EXTINF:-1,(ES):M. SeriesXtraHD
+http://193.70.45.41:8000/live/Nasser/Nasser/19607.ts
+#EXTINF:-1,ES: Movistar Series Xtra
+http://193.70.45.41:8000/live/Nasser/Nasser/22171.ts
+#EXTINF:-1,(ES) A&E
+http://193.70.45.41:8000/live/Nasser/Nasser/12534.ts
+#EXTINF:-1,(ES) C+LIGA
+http://193.70.45.41:8000/live/Nasser/Nasser/240.ts
+#EXTINF:-1,(ES) DISCOVERY
+http://193.70.45.41:8000/live/Nasser/Nasser/12532.ts
+#EXTINF:-1,(ES) DISNEY CH HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12524.ts
+#EXTINF:-1,ES: Disney Channel
+http://193.70.45.41:8000/live/Nasser/Nasser/22184.ts
+#EXTINF:-1,(ES) EUROSPORT1HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12518.ts
+#EXTINF:-1,ES: EUROSPORT
+http://193.70.45.41:8000/live/Nasser/Nasser/22123.ts
+#EXTINF:-1,(ES) EUROSPORT 2
+http://193.70.45.41:8000/live/Nasser/Nasser/12531.ts
+#EXTINF:-1,(ES) FOX HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12497.ts
+#EXTINF:-1,(ES): Fox HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19640.ts
+#EXTINF:-1,ES: Fox
+http://193.70.45.41:8000/live/Nasser/Nasser/22179.ts
+#EXTINF:-1,ES: FOX HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22180.ts
+#EXTINF:-1,(ES) FOX LIFE HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12499.ts
+#EXTINF:-1,(ES):  Fox Life
+http://193.70.45.41:8000/live/Nasser/Nasser/19641.ts
+#EXTINF:-1,ES: FOX LIFE
+http://193.70.45.41:8000/live/Nasser/Nasser/22182.ts
+#EXTINF:-1,ES: FOX Life HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22181.ts
+#EXTINF:-1,(ES) GOL TV
+http://193.70.45.41:8000/live/Nasser/Nasser/12530.ts
+#EXTINF:-1,(ES) LALIGATV BAR
+http://193.70.45.41:8000/live/Nasser/Nasser/12510.ts
+#EXTINF:-1,(ES) M DCINE HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12505.ts
+#EXTINF:-1,(SP) Canal Plus  Dcine Hd
+http://193.70.45.41:8000/live/Nasser/Nasser/20011.ts
+#EXTINF:-1,ES: C+ DCINE
+http://193.70.45.41:8000/live/Nasser/Nasser/19654.ts
+#EXTINF:-1,ES: Movistar DCine
+http://193.70.45.41:8000/live/Nasser/Nasser/22173.ts
+#EXTINF:-1,(ES) M.Estrenos
+http://193.70.45.41:8000/live/Nasser/Nasser/3118.ts
+#EXTINF:-1,(ES) M.ESTRENOSHD
+http://193.70.45.41:8000/live/Nasser/Nasser/12504.ts
+#EXTINF:-1,ES: Movistar Estrenos
+http://193.70.45.41:8000/live/Nasser/Nasser/22169.ts
+#EXTINF:-1,(ES):M.ESTRENOSHD
+http://193.70.45.41:8000/live/Nasser/Nasser/19605.ts
+#EXTINF:-1,(ES): M.Estrenos
+http://193.70.45.41:8000/live/Nasser/Nasser/19648.ts
+#EXTINF:-1,(ES) M DEP 1 HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12516.ts
+#EXTINF:-1,ES: Canal  Deportes
+http://193.70.45.41:8000/live/Nasser/Nasser/22122.ts
+#EXTINF:-1,(ES) M F TBOL HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12514.ts
+#EXTINF:-1,(ES) M. XTRAHD
+http://193.70.45.41:8000/live/Nasser/Nasser/12502.ts
+#EXTINF:-1,(ES): C+XTRA-HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19656.ts
+#EXTINF:-1,(SP) Canal Plus Xtra Hd
+http://193.70.45.41:8000/live/Nasser/Nasser/20010.ts
+#EXTINF:-1,ES: Movistar Xtra
+http://193.70.45.41:8000/live/Nasser/Nasser/22172.ts
+#EXTINF:-1,(ES) MEZZO LIVE HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12520.ts
+#EXTINF:-1,(ES) Movistar Moto GP
+http://193.70.45.41:8000/live/Nasser/Nasser/7243.ts
+#EXTINF:-1,(ES) NATGEO
+http://193.70.45.41:8000/live/Nasser/Nasser/3120.ts
+#EXTINF:-1,(ES): National-Geo
+http://193.70.45.41:8000/live/Nasser/Nasser/19655.ts
+#EXTINF:-1,ES: National Geographic
+http://193.70.45.41:8000/live/Nasser/Nasser/22156.ts
+#EXTINF:-1,(ES) NG WILD HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12519.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://193.70.45.41:8000/live/Nasser/Nasser/22155.ts
+#EXTINF:-1,(ES) NICKELODEONHD
+http://193.70.45.41:8000/live/Nasser/Nasser/12523.ts
+#EXTINF:-1,ES: Nickelodeon
+http://193.70.45.41:8000/live/Nasser/Nasser/22185.ts
+#EXTINF:-1,(ES) NONSTOPEOPLE
+http://193.70.45.41:8000/live/Nasser/Nasser/12527.ts
+#EXTINF:-1,(ES) PARAMOUNT
+http://193.70.45.41:8000/live/Nasser/Nasser/334.ts
+#EXTINF:-1,ES: Paramount Channel
+http://193.70.45.41:8000/live/Nasser/Nasser/22165.ts
+#EXTINF:-1,(ES)  REAL MADRID TV.
+http://193.70.45.41:8000/live/Nasser/Nasser/243.ts
+#EXTINF:-1,(ES) SYFY HD
+http://193.70.45.41:8000/live/Nasser/Nasser/7264.ts
+#EXTINF:-1,(ES): SYFY HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19652.ts
+#EXTINF:-1,ES: SYFY
+http://193.70.45.41:8000/live/Nasser/Nasser/22183.ts
+#EXTINF:-1,(ES) TCM HD
+http://193.70.45.41:8000/live/Nasser/Nasser/12509.ts
+#EXTINF:-1,(ES): TCM-HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19651.ts
+#EXTINF:-1,(ES) CANAL+ TOROS
+http://193.70.45.41:8000/live/Nasser/Nasser/12525.ts
+#EXTINF:-1,ES: Canal+Toros
+http://193.70.45.41:8000/live/Nasser/Nasser/19653.ts
+#EXTINF:-1,ES: Toros Tv
+http://193.70.45.41:8000/live/Nasser/Nasser/22153.ts
+#EXTINF:-1,(TAQUILLA)
+http://rouge-alternative.ice.infomaniak.ch/rouge-alternative-64.aac
+#EXTINF:-1,ES: Taquilla 1
+http://193.70.45.41:8000/live/Nasser/Nasser/22133.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-1
+http://193.70.45.41:8000/live/Nasser/Nasser/16629.ts
+#EXTINF:-1,ES: Taquilla 2
+http://193.70.45.41:8000/live/Nasser/Nasser/22132.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-2
+http://193.70.45.41:8000/live/Nasser/Nasser/16628.ts
+#EXTINF:-1,ES: Taquilla 3
+http://193.70.45.41:8000/live/Nasser/Nasser/22131.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-3
+http://193.70.45.41:8000/live/Nasser/Nasser/16627.ts
+#EXTINF:-1,ES: Taquilla 4
+http://193.70.45.41:8000/live/Nasser/Nasser/22130.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-4
+http://193.70.45.41:8000/live/Nasser/Nasser/16626.ts
+#EXTINF:-1,ES: Taquilla 5
+http://193.70.45.41:8000/live/Nasser/Nasser/22129.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-5
+http://193.70.45.41:8000/live/Nasser/Nasser/16625.ts
+#EXTINF:-1,ES: Taquilla 6
+http://193.70.45.41:8000/live/Nasser/Nasser/22128.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-6
+http://193.70.45.41:8000/live/Nasser/Nasser/16624.ts
+#EXTINF:-1,ES: Taquilla 7
+http://193.70.45.41:8000/live/Nasser/Nasser/22127.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-7
+http://193.70.45.41:8000/live/Nasser/Nasser/16623.ts
+#EXTINF:-1,ES: Taquilla 8
+http://193.70.45.41:8000/live/Nasser/Nasser/22126.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-8
+http://193.70.45.41:8000/live/Nasser/Nasser/16622.ts
+#EXTINF:-1,ES: Taquilla 9
+http://193.70.45.41:8000/live/Nasser/Nasser/22125.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-9
+http://193.70.45.41:8000/live/Nasser/Nasser/16621.ts
+#EXTINF:-1,ES: Taquilla 10
+http://193.70.45.41:8000/live/Nasser/Nasser/22124.ts
+#EXTINF:-1,|ES| MOVISTAR-TAQUILLA-10
+http://193.70.45.41:8000/live/Nasser/Nasser/16620.ts
+#EXTINF:-1,(ES):M. DEP 2 HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19609.ts
+#EXTINF:-1,(ES):M  DEPORTES 2
+http://193.70.45.41:8000/live/Nasser/Nasser/19645.ts
+#EXTINF:-1,ES: Movistar Comedia HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22174.ts
+#EXTINF:-1,(ES):M.COMEDIA HD
+http://193.70.45.41:8000/live/Nasser/Nasser/19606.ts
+#EXTINF:-1,(ES)  Hollywood
+http://193.70.45.41:8000/live/Nasser/Nasser/1633.ts
+#EXTINF:-1,(ES): HOLLYWOOD
+http://193.70.45.41:8000/live/Nasser/Nasser/19646.ts
+#EXTINF:-1,ES: Hollywood HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22163.ts
+#EXTINF:-1,ES: Hollywood SD
+http://193.70.45.41:8000/live/Nasser/Nasser/22164.ts
+#EXTINF:-1,ES: Historia
+http://193.70.45.41:8000/live/Nasser/Nasser/22154.ts
+#EXTINF:-1,(ES): Historia
+http://193.70.45.41:8000/live/Nasser/Nasser/19657.ts
+#EXTINF:-1,(ES): TNT
+http://193.70.45.41:8000/live/Nasser/Nasser/19642.ts
+#EXTINF:-1,ES: TNT
+http://193.70.45.41:8000/live/Nasser/Nasser/22167.ts
+#EXTINF:-1,(SP) Canal Plus Hd
+http://193.70.45.41:8000/live/Nasser/Nasser/20009.ts
+#EXTINF:-1,ES: Andalucia Tv
+http://193.70.45.41:8000/live/Nasser/Nasser/22135.ts
+#EXTINF:-1,ES: Anima Tv
+http://193.70.45.41:8000/live/Nasser/Nasser/22189.ts
+#EXTINF:-1,ES: Azteca Honduras
+http://193.70.45.41:8000/live/Nasser/Nasser/22141.ts
+#EXTINF:-1,ES: Azteca Noticias
+http://193.70.45.41:8000/live/Nasser/Nasser/22140.ts
+#EXTINF:-1,ES: Azteca Trece
+http://193.70.45.41:8000/live/Nasser/Nasser/22199.ts
+#EXTINF:-1,ES: Baby TV
+http://193.70.45.41:8000/live/Nasser/Nasser/22191.ts
+#EXTINF:-1,ES: Barca TV
+http://193.70.45.41:8000/live/Nasser/Nasser/22120.ts
+#EXTINF:-1,ES: Bein LaLiga
+http://193.70.45.41:8000/live/Nasser/Nasser/22158.ts
+#EXTINF:-1,ES: beIN LALIGA HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22119.ts
+#EXTINF:-1,ES: Bein Sport Espana
+http://193.70.45.41:8000/live/Nasser/Nasser/22121.ts
+#EXTINF:-1,ES: beIN SPORTS HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22118.ts
+#EXTINF:-1,ES: BOING
+http://193.70.45.41:8000/live/Nasser/Nasser/22190.ts
+#EXTINF:-1,ES: Calle 13 HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22176.ts
+#EXTINF:-1,ES: Canal Cocina
+http://193.70.45.41:8000/live/Nasser/Nasser/22143.ts
+#EXTINF:-1,ES: Canal DeCasa
+http://193.70.45.41:8000/live/Nasser/Nasser/22144.ts
+#EXTINF:-1,ES: Canal HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22168.ts
+#EXTINF:-1,ES: Cartoon Network
+http://193.70.45.41:8000/live/Nasser/Nasser/22186.ts
+#EXTINF:-1,ES: Comedy Central
+http://193.70.45.41:8000/live/Nasser/Nasser/22166.ts
+#EXTINF:-1,ES: Cosmo HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22145.ts
+#EXTINF:-1,ES: Crimen y Investigation
+http://193.70.45.41:8000/live/Nasser/Nasser/22146.ts
+#EXTINF:-1,ES: Disney Junior
+http://193.70.45.41:8000/live/Nasser/Nasser/22187.ts
+#EXTINF:-1,ES: Disney XD
+http://193.70.45.41:8000/live/Nasser/Nasser/22188.ts
+#EXTINF:-1,ES: Energy
+http://193.70.45.41:8000/live/Nasser/Nasser/22160.ts
+#EXTINF:-1,ES: Mega
+http://193.70.45.41:8000/live/Nasser/Nasser/22149.ts
+#EXTINF:-1,ES: Moviestar Portrada
+http://193.70.45.41:8000/live/Nasser/Nasser/22193.ts
+#EXTINF:-1,ES: Movistar  FUTBOL
+http://193.70.45.41:8000/live/Nasser/Nasser/22117.ts
+#EXTINF:-1,ES: Movistar F1
+http://193.70.45.41:8000/live/Nasser/Nasser/22136.ts
+#EXTINF:-1,ES: Movistar MotoGP
+http://193.70.45.41:8000/live/Nasser/Nasser/22142.ts
+#EXTINF:-1,ES: MTV espana
+http://193.70.45.41:8000/live/Nasser/Nasser/22148.ts
+#EXTINF:-1,ES: Odisea Tv
+http://193.70.45.41:8000/live/Nasser/Nasser/22151.ts
+#EXTINF:-1,ES: Proyecto 40
+http://193.70.45.41:8000/live/Nasser/Nasser/22147.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://193.70.45.41:8000/live/Nasser/Nasser/22116.ts
+#EXTINF:-1,ES: RealMadrid TV
+http://193.70.45.41:8000/live/Nasser/Nasser/22134.ts
+#EXTINF:-1,ES: RTVA
+http://193.70.45.41:8000/live/Nasser/Nasser/22192.ts
+#EXTINF:-1,ES: Sevilla Channel
+http://193.70.45.41:8000/live/Nasser/Nasser/22139.ts
+#EXTINF:-1,ES: Telemadrid
+http://193.70.45.41:8000/live/Nasser/Nasser/22138.ts
+#EXTINF:-1,ES: Telesur
+http://193.70.45.41:8000/live/Nasser/Nasser/22137.ts
+#EXTINF:-1,ES: Televisa HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22161.ts
+#EXTINF:-1,ES: TV3 Catalynia HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22201.ts
+#EXTINF:-1,ES: Viajar HD
+http://193.70.45.41:8000/live/Nasser/Nasser/22152.ts
 
 
 
@@ -17,129 +374,10 @@
 
 
 #EXTINF:-1,[COLOR red][I][B]--------------------EN REPARACION LISTA 1-------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ESP - LA 1
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7301.ts
-#EXTINF:-1,ESP - LA 2
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7302.ts
-#EXTINF:-1,ESP - Andalucia TV
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11049.ts
-#EXTINF:-1,ESP - Antena 3
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7271.ts
-#EXTINF:-1,ESP - Divinity
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7294.ts
-#EXTINF:-1,ESP - Quatro
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7317.ts
-#EXTINF:-1,ESP - La Sexta
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7304.ts
-#EXTINF:-1,ESP - Toros TV
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11035.ts
-#EXTINF:-1,ESP - Calle 13
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11016.ts
-#EXTINF:-1,ESP - Telecinico
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7321.ts
-#EXTINF:-1,ESP - Teledeporte
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7322.ts
-#EXTINF:-1,ESP - Viajar HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11015.ts
-#EXTINF:-1,ESP - TCM
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7320.ts
-#EXTINF:-1,ESP - Fox HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11026.ts
-#EXTINF:-1,ESP - Fox Life HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11027.ts
-#EXTINF:-1,ESP - A & E
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11009.ts
-#EXTINF:-1,ESP - AMC
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11010.ts
-#EXTINF:-1,ESP - AXN HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11045.ts
-#EXTINF:-1,ESP - AXN White
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11008.ts
-#EXTINF:-1,ESP - Canal Series
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11020.ts
-#EXTINF:-1,ESP - Canal Accion
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11018.ts
-#EXTINF:-1,ESP - Canal Comedia
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11019.ts
-#EXTINF:-1,ESP - Canal Estrenos
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11017.ts
-#EXTINF:-1,ESP - Comedy Central
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11023.ts
-#EXTINF:-1,ESP - Hollywood HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11025.ts
-#EXTINF:-1,ESP - Discovery Channel
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11030.ts
-#EXTINF:-1,ESP - Discovery Dmax
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11031.ts
-#EXTINF:-1,ESP - National Geographic HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11038.ts
-#EXTINF:-1,ESP - National Geographic Wild
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11011.ts
-#EXTINF:-1,ESP - Canal Cocina
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11014.ts
-#EXTINF:-1,ESP - Historia
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11024.ts
-#EXTINF:-1,ESP - Caza y Pesca
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11012.ts
-#EXTINF:-1,ESP - Canal Baby
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11021.ts
-#EXTINF:-1,ESP - Cartoon Network
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11022.ts
-#EXTINF:-1,ESP - Disney Channel
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11032.ts
-#EXTINF:-1,ESP - Disney Junior
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11033.ts
-#EXTINF:-1,ESP - Disney XD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11034.ts
-#EXTINF:-1,ESP - Nick Jr.
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11036.ts
-#EXTINF:-1,ESP - Nickelodeon
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11037.ts
-#EXTINF:-1,ESP - MTV Espana
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11040.ts
-#EXTINF:-1,ESP - Bein Sport La Liga HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11047.ts
-#EXTINF:-1,ESP - La Liga
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11013.ts
-#EXTINF:-1,ESP - Movistar Deportes 1
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11041.ts
-#EXTINF:-1,ESP - Movistar Deportes 2
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11042.ts
-#EXTINF:-1,ESP - Movistar Formula 1
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11043.ts
-#EXTINF:-1,ESP - Movistar Moto GP
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11039.ts
-#EXTINF:-1,ESP - Movistar Futbol
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11044.ts
-#EXTINF:-1,ESP - Eurosport 1 HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11028.ts
-#EXTINF:-1,ESP - Eurosport 2 HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11029.ts
-#EXTINF:-1,ESP - La Liga Tv Bar
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7240.ts
-#EXTINF:-1,ESP - Gol TV
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7298.ts
-#EXTINF:-1,ESP - Barca TV
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11046.ts
-#EXTINF:-1,ESP - Real Madrid TV
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11048.ts
-#EXTINF:-1,ESP - Real Madrid TV (B)
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/4879.ts
-#EXTINF:-1,ESP - Bein La Liga HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7261.ts
-#EXTINF:-1,ESP - Caza Y Pesca HD
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7242.ts
-#EXTINF:-1,ESP - Mezzo
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/4878.ts
-#EXTINF:-1,ESP - MTV Dance
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7310.ts
-#EXTINF:-1,ESP - MTV Hits
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7309.ts
-#EXTINF:-1,ESP - MTV Rock
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7308.ts
-#EXTINF:-1,ESP - VH1
-http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7311.ts
- 
+
+
+
+
  
  
  
