@@ -2,9 +2,33 @@
 
 
 
+#EXTINF:-1,[COLOR red][I][B]-------------------PREPARANDO MEGA LISTA--------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,[COLOR red]*FOX LIVE[/COLOR]
+http://edge6.telesport.pw/live/foxlife/index.m3u8
+#EXTINF:-1,[COLOR red][/COLOR]
 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red]*TNT[/COLOR]
+http://cdn2.shurs.xyz/verliga/7/chunks.m3u8
+#EXTINF:-1,[COLOR red]*TNT[/COLOR]
+http://edge5201.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+
+#EXTINF:-1,[COLOR red]NOVA[/COLOR]
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,[COLOR red]NOVA[/COLOR]
+http://cdn2.shurs.xyz/verdirectotv/13/playlist.m3u8
+#EXTINF:-1,[COLOR red][/COLOR]
+
+#EXTINF:-1,[COLOR red][/COLOR]
+
+#EXTINF:-1,[COLOR red][/COLOR]
+
+#EXTINF:-1,[COLOR red][/COLOR]
+
+#EXTINF:-1,[COLOR red][/COLOR]
+
+#EXTINF:-1,[COLOR red][/COLOR]
+
 
 #EXTINF:-1,[COLOR red][I][B]------------------------LISTA EN FASE---------------------------------------[/B][/I][/COLOR]
 
@@ -16,6 +40,7 @@ http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ^@6Qg7xc=1
 http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
  Disney Junior
 http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
 #EXTINF:-1,FOX NEWS
 http://46.249.60.210:50001/play/a01h
 #EXTINF:-1,COMEDY CENTRAL
