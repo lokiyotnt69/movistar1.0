@@ -33,13 +33,12 @@ http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ^@6Qg7xc=1
 http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1, Disney Junior
 http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
 #EXTINF:-1,[COLOR red]*TELECINCO[/COLOR]
 http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/101.ts
-#EXTINF:-1,[COLOR red][/COLOR]
-
+#EXTINF:-1,[COLOR red]*FOX[/COLOR]
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1,[COLOR red]*CALLE13[/COLOR]
-http://edge8.telesport.pw/live/calle13/index.m3u8
+
 #EXTINF:-1,[COLOR red][/COLOR]
 
 #EXTINF:-1,[COLOR red][/COLOR]
