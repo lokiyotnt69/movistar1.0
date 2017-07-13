@@ -2144,5 +2144,70 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
 
 #EXTINF:-1,[COLOR gold][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,ES: A&E
+http://109.236.80.19:8000/live/imranitel/rashid/1054.m3u8
+#EXTINF:-1,ES: AXN HD
+http://109.236.80.19:8000/live/imranitel/rashid/1053.m3u8
+#EXTINF:-1,ES: AXN White HD
+http://109.236.80.19:8000/live/imranitel/rashid/1052.m3u8
+#EXTINF:-1,ES: BARCA TV
+http://109.236.80.19:8000/live/imranitel/rashid/811.m3u8
+#EXTINF:-1,ES: Bein Sports HD
+http://109.236.80.19:8000/live/imranitel/rashid/1262.m3u8
+#EXTINF:-1,ES: CALLE13
+http://109.236.80.19:8000/live/imranitel/rashid/1059.m3u8
+#EXTINF:-1,ES: Canal  Deportes 1
+http://109.236.80.19:8000/live/imranitel/rashid/809.m3u8
+#EXTINF:-1,ES: Canal  Golf
+http://109.236.80.19:8000/live/imranitel/rashid/1051.m3u8
+#EXTINF:-1,ES: CANAL ACCION
+http://109.236.80.19:8000/live/imranitel/rashid/803.m3u8
+#EXTINF:-1,ES: CANAL COCINA
+http://109.236.80.19:8000/live/imranitel/rashid/804.m3u8
+#EXTINF:-1,ES: CANAL COMEDIA HD
+http://109.236.80.19:8000/live/imranitel/rashid/802.m3u8
+#EXTINF:-1,ES: CANAL DCINE
+http://109.236.80.19:8000/live/imranitel/rashid/801.m3u8
+#EXTINF:-1,ES: Canal Deportes 2
+http://109.236.80.19:8000/live/imranitel/rashid/1058.m3u8
+#EXTINF:-1,ES: CANAL Estrenos HD
+http://109.236.80.19:8000/live/imranitel/rashid/800.m3u8
+#EXTINF:-1,ES: CANAL LIGA HD
+http://109.236.80.19:8000/live/imranitel/rashid/807.m3u8
+#EXTINF:-1,ES: CANAL TOROS
+http://109.236.80.19:8000/live/imranitel/rashid/812.m3u8
+#EXTINF:-1,ES: CANAL+ FUTBOL
+http://109.236.80.19:8000/live/imranitel/rashid/808.m3u8
+#EXTINF:-1,ES: DECASA
+http://109.236.80.19:8000/live/imranitel/rashid/805.m3u8
+#EXTINF:-1,ES: Disney Channel
+http://109.236.80.19:8000/live/imranitel/rashid/1050.m3u8
+#EXTINF:-1,ES: Fox Spain
+http://109.236.80.19:8000/live/imranitel/rashid/1048.m3u8
+#EXTINF:-1,ES: History
+http://109.236.80.19:8000/live/imranitel/rashid/1047.m3u8
+#EXTINF:-1,ES: Hollywood
+http://109.236.80.19:8000/live/imranitel/rashid/1046.m3u8
+#EXTINF:-1,ES: LA 1
+http://109.236.80.19:8000/live/imranitel/rashid/798.m3u8
+#EXTINF:-1,ES: LA 2
+http://109.236.80.19:8000/live/imranitel/rashid/799.m3u8
+#EXTINF:-1,ES: LA SEXTA HD
+http://109.236.80.19:8000/live/imranitel/rashid/806.m3u8
+#EXTINF:-1,ES: MOVIESTAR MOTOGP
+http://109.236.80.19:8000/live/imranitel/rashid/1049.m3u8
+#EXTINF:-1,ES: National Geographic
+http://109.236.80.19:8000/live/imranitel/rashid/1045.m3u8
+#EXTINF:-1,ES: Odisea HD
+http://109.236.80.19:8000/live/imranitel/rashid/1057.m3u8
+#EXTINF:-1,ES: REAL MADRID TV
+http://109.236.80.19:8000/live/imranitel/rashid/810.m3u8
+#EXTINF:-1,ES: TELETICINCO
+http://109.236.80.19:8000/live/imranitel/rashid/1060.m3u8
+#EXTINF:-1,ES: TNT
+http://109.236.80.19:8000/live/imranitel/rashid/1056.m3u8
+#EXTINF:-1,ES: TVE La 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/1055.m3u8
+
 
 #EXTINF:-1,[COLOR skyblue][I][B]--------Lista 2 -------------------------------------------------------[/B][/I][/COLOR]
