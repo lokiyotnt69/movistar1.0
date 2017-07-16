@@ -2309,8 +2309,6 @@ http://edge5203.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8|User-Age
 http://edge2501.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8|User-Agent=iPad
 #EXTINF:-1,ACCIÓN
 http://edge5202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8|User-Agent=iPad
-#EXTINF:-1,COMEDIA
-http://edge2501.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8|User-Agent=iPad
 #EXTINF:-1,DCine
 http://edge5204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8|User-Agent=iPad
 #EXTINF:-1,TCM
@@ -2477,7 +2475,86 @@ http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Age
 
 
 
-
+#EXTINF:-1,ES: Taquilla_01
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2821.ts
+#EXTINF:-1,ES: Taquilla_02
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2822.ts
+#EXTINF:-1,ES: Taquilla_03
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2823.ts
+#EXTINF:-1,ES: Taquilla_04
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2824.ts
+#EXTINF:-1,ES: Taquilla_05
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2825.ts
+#EXTINF:-1,ES: taquilla_06
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2826.ts
+#EXTINF:-1,ES: taquilla_07
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2827.ts
+#EXTINF:-1,ES: taquilla_08
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2828.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2851.ts
+#EXTINF:-1,ES: SYFY
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2846.ts
+#EXTINF:-1,ES: AXN White Spain HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2855.ts
+#EXTINF:-1,ES: NEOX
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2854.ts
+#EXTINF:-1,ES: La Sexta HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2856.ts
+#EXTINF:-1,ES: Odisea Spain HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2857.ts
+#EXTINF:-1,ES: FOX_LIFE_HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2842.ts
+#EXTINF:-1,ES:  TNT
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2841.ts
+#EXTINF:-1,ES: History
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2858.ts
+#EXTINF:-1,DE: DISNEY_CHANNEL
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2861.ts
+#EXTINF:-1,ES: C_Hollywood_HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2845.ts
+#EXTINF:-1,ES: Caza y Pesca HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2843.ts
+#EXTINF:-1,ES: CANAL0
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2853.ts
+#EXTINF:-1,ES: Canal Series Xtra HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2837.ts
+#EXTINF:-1,ES: Canal _Toros
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2829.ts
+#EXTINF:-1,ES: AMC Spain HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2831.ts
+#EXTINF:-1,ES: A&E Spain HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2833.ts
+#EXTINF:-1,ES: Canal _DCINE
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2834.ts
+#EXTINF:-1,ES: Canal _COMEDIA
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2835.ts
+#EXTINF:-1,ES: AXN Spain HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2836.ts
+#EXTINF:-1,ES: TV Internacional Europa
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2844.ts
+#EXTINF:-1,ES: C+Action
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/1999.ts
+#EXTINF:-1,ES: Canal+Liga
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/1994.ts
+#EXTINF:-1,ES: MOVISTAR_MOTO_GP_HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2847.ts
+#EXTINF:-1,ES: MOVISTAR_FORMULA_1_HD
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2848.ts
+#EXTINF:-1,ES: Canal_Golf
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2840.ts
+#EXTINF:-1,ES: Canal_Deportes
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2839.ts
+#EXTINF:-1,ES: Canal _DEPORTES: 2
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2838.ts
+#EXTINF:-1,ES: BEIN-SPORT_SPAIN
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2849.ts
+#EXTINF:-1,ES: BARCA_TV
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2850.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/2321.ts
+#EXTINF:-1,ES: Canal+Futebol
+http://hbox.cdnss.com/live/5xn530c1/smx4mcrd/1996.ts
 
 
 
