@@ -2318,64 +2318,25 @@ http://62.167.57.5:1001/play/a002
 http://62.167.57.5:1001/play/a004
 #EXTINF:0,BEIN MAX 1
 http://62.167.57.5:1001/play/a009
-#EXTINF:1,sdsdsdsd
-http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
-
-#EXTINF:-1,ES: C  Teledeporte22
-http://edge5202.livesports.pw/live/versysfesp42975d2f318954b/16608.ts
-#EXTINF:-1,ES: C  Deportes
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/5019.ts
-#EXTINF:-1,ES: Canal Liga
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1670.ts
-#EXTINF:-1,ES: Canal Plus Golf
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1671.ts
-#EXTINF:-1,ES: Canal   Futbol
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1085.ts
-#EXTINF:-1,ES: MoviStar_MotoGp
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3101.ts
-#EXTINF:-1,ES: MOVISTAR_F1
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3102.ts
-#EXTINF:-1,ES: EUROSPORT
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3108.ts
-#EXTINF:-1,ES: BEIN_SPORTS
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3112.ts
-#EXTINF:-1,ES: Barça
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3113.ts
-#EXTINF:-1,ES: Barca TV
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1076.ts
-#EXTINF:-1,Smart Sport 1
-http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1966.ts
 
 
 
 
-#EXTM3U
-#EXTINF:-1,SP: C+ Deportes
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/507.ts
-#EXTINF:-1,SP: C+ Deportes 2
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/508.ts
-#EXTINF:-1,SP: C+ Futbol HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/505.ts
-#EXTINF:-1,SP: C + Futbol
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/504.ts
-#EXTINF:-1,SP: Teledeporte
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/519.ts
-#EXTINF:-1,SP: Bein Sports
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/523.ts
-#EXTINF:-1,SP: Real Madrid TV
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/525.ts
-#EXTINF:-1,SP: Barca TV
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/524.ts
-#EXTINF:-1,SP: Euro Sport 1
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/529.ts
-#EXTINF:-1,SP: Euro Sport 2
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/530.ts
-#EXTINF:-1,SP: Moto GP
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/493.ts
-#EXTINF:-1,SP: C+ Golf
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/510.ts
-#EXTINF:-1,SP: Caza Y Pesca
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/549.ts
-#EXTINF:-1,SP: C+ Liga
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/506.ts
- 
+
+
+#EXTINF:-1,#0
+http://edge2502.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8|User-Agent=iPad
+#EXTINF:-1,SERIES
+http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Agent=iPad
+#EXTINF:-1,SERIES XTRA
+http://edge5204.livesports.pw/live/vera6669184f0b71095624027/index.m3u8|User-Agent=iPad
+#EXTINF:-1,FOX
+http://edge5202.livesports.pw/live/verfoxespana247756767558f1/index.m3u8|User-Agent=iPad
+#EXTINF:-1,AXN
+http://edge5204.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8|User-Agent=iPad
+#EXTINF:-1,TNT
+http://edge5204.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8|User-Agent=iPad
+#EXTINF:-1,COMEDY CENTRAL
+http://cdn3.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,CALLE 13
+http://edge5202.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8|User-Agent=iPad
