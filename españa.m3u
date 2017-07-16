@@ -10,15 +10,13 @@
 
 
 #EXTINF:-1,[COLOR red]*LA 1[/COLOR]
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-#EXTINF:-1,[COLOR red]*LA 2[/COLOR]
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
-#EXTINF:-1,[COLOR red]/ANTENA 3[/COLOR]
+http://edge2.telesport.pw/live/tve1/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]ANTENA 3[/COLOR]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,[COLOR red]*CUATRO[/COLOR]
-http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro
+http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8|User-Agent=iPad 
 #EXTINF:-1,[COLOR red]*TELECINCO[/COLOR]
-http://www.apps4two.com/apps/tvonline/rm2access.php?o=telecinco
+http://edge2.telesport.pw/live/telecinco/index.m3u8|User-Agent=iPad
 #EXTINF:-1,[COLOR red]*LA SEXTA[/COLOR]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,[COLOR red]*A3SERIES[/COLOR]
@@ -30,7 +28,7 @@ http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_1_av-p.m3u8?sd=10&re
 #EXTINF:-1,[COLOR red]*MEGA[/COLOR]
 http://a3live-lh.akamaihd.net/i/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR red]*BE MAD TV[/COLOR]
-http://www.apps4two.com/apps/tvonline/rm2access.php?o=bemad
+
 #EXTINF:-1,[COLOR red][/COLOR]
 
 #EXTINF:-1,[COLOR red][/COLOR]
@@ -2277,48 +2275,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1,M.MOTOGPHD
-http://62.167.57.5:1003/play/a003
-#EXTINF:-1,M.FORMULA1HD
-http://62.167.57.5:1003/play/a002
-#EXTINF:-1,TELECINCO HD
-http://62.167.57.5:1003/play/a007
-#EXTINF:-1,CUATRO HD
-http://62.167.57.5:1003/play/a006#EXTINF:0,GOL
-http://62.167.57.5:1009/play/a00b
-#EXTINF:0,EUROSPORT 1
-http://62.167.57.5:1009/play/a009
-#EXTINF:0,M.FORMULA1
-http://62.167.57.5:1009/play/a00c
-#EXTINF:0,M. MOTOGP
-http://62.167.57.5:1008/play/a00d
-#EXTINF:0,M. DEP 2 HD
-http://62.167.57.5:1007/play/a005
-#EXTINF:0,M. GOLF HD
-http://62.167.57.5:1006/play/a005
-#EXTINF:0,BEIN SPORTS
-http://62.167.57.5:1006/play/a002
-#EXTINF:0,CAZAyPESCA HD
-http://62.167.57.5:1005/play/a009
-#EXTINF:0,M.MOTOGPHD
-http://62.167.57.5:1003/play/a003
-#EXTINF:0,M.FORMULA1HD
-http://62.167.57.5:1003/play/a002
-#EXTINF:0,M. F.TBOL HD
-http://62.167.57.5:1002/play/a002
-#EXTINF:0,BEIN LALIGA
-http://62.167.57.5:1002/play/a008
-#EXTINF:0,BEIN LALIGA
-http://62.167.57.5:1002/play/a003
-#EXTINF:0,LALIGATV BAR
-http://62.167.57.5:1001/play/a007
-#EXTINF:0,BEINLALIGA1
-http://62.167.57.5:1001/play/a002
-#EXTINF:0,BEINLALIGA2
-http://62.167.57.5:1001/play/a004
-#EXTINF:0,BEIN MAX 1
-http://62.167.57.5:1001/play/a009
-
 
 
 
@@ -2478,8 +2434,6 @@ http://cdn2.shurs.xyz/verliga/5/playlist.m3u8|User-Agent=iPad
 http://cdn2.shurs.xyz/verliga/6/playlist.m3u8|User-Agent=iPad
 #EXTINF:-1,[JHG*MASTER-]:tnt (latino)
 http://cdn2.shurs.xyz/verliga/7/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER-]:xxl
-http://cdn2.shurs.xyz/verliga/10/playlist.m3u8|User-Agent=iPad 
 #EXTINF:-1,[JHG*MASTER-]:redligth
 http://cdn2.shurs.xyz/verliga/11/playlist.m3u8|User-Agent=iPad
 #EXTINF:-1,[JHG*MASTER-]:cdf
@@ -2523,126 +2477,6 @@ http://cdn2.shurs.xyz/verdirectotv/15/playlist.m3u8|User-Agent=iPad
 
 
 
-#EXTINF:-1,[JHG*MASTER] livesports:LA1 **********
-http://edge2.telesport.pw/live/tve1/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:LA2
-http://edge202.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:antena3
-http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:cuatro
-http://edge202.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:TELECINCO
-http://edge202.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:lasexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:FDF
-http://edge2.telesport.pw/live/fdf/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:ENERGY
-http://edge2870.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:DIVINITY
-http://edge203.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:#0
-http://edge2870.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:ESTRENOS
-http://edge2870.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:ACCION
-http://edge2870.livesports.pw/live/veraccion177662786c60c28d/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:COMEDIA
-http://edge2870.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:DCINE
-http://edge203.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Dcine Ñ
-http://edge2870.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:XTRA
-http://edge2870.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:HOLLYWOOD
-http://edge202.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:AMC
-http://edge202.livesports.pw/live/veramcespteledd21791245ff/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:DARK
-http://edge202.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:TCM HD
-http://edge2870 ODF.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Life TV
-http://109.236.91.150:8080/A1:LifeTV/manifest.f4m
-#EXTINF:-1,[JHG*MASTER] livesports:M SERIES
-http://edge202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:M SERIES XTRA
-http://edge202.livesports.pw/live/vera6669184f0b71095624027/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:tnt
-http://edge202.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:AXN
-http://edge202.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:AXN WHITE
-http://edge203.livesports.pw/live/veraxnwahit4cc7f14e202608/index.m3u8|User-Agent=iPad 
-#EXTINF:-1,[JHG*MASTER] livesports:FOX
-http://edge203.livesports.pw/live/verfoxespana247756767558f/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:calle13
-http://edge203.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:SYFY
-http://edge202.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:COSMO
-http://edge3.livesports.pw/live/vercosmos250d386e5f510f45/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:comedycentral
-http://edge202.livesports.pw/live/vercomedycentral6b595e876/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:NAT GEO
-http://edge202.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:COCINA
-http://edge202.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:HISTORIA
-http://edge202.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:C/I
-http://edge202.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:natgeo
-http://edge202.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:ESPECIAL Viajar
-http://194.179.53.124:1935/live/myStream_2/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Caza y Pesca
-http://edge202.livesports.pw/live/vercazaypesca65b3f60d9f53/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:DECASA
-http://edge202.livesports.pw/live/vercasa46d1f3a8e2909fec09/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:NBATV
-http://edge2870.livesports.pw/live/vernbatvbacad13168a4762e0/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:TOROS
-http://edge2870.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:GOLTV
-http://edge2870.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:La Liga Tv
-http://edge2870.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:BEINLaLiga
-http://edge2870.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:BEINSports
-http://edge2870.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:FUTBOL
-http://edge2870.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Deportes 2
-http://edge2870.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:F1
-http://edge2870.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:MOTOGP
-http://edge2870.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:M Golf
-http://edge2870.livesports.pw/live/vergolfespef14708285db183/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:EuroSport 1
-http://edge2870.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:EuroSport 2
-http://edge2870.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:BETIS TV
-http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:HUSTLER HD
-http://edge2870.livesports.pw/live/verhustelar19be54d37b4056/index.m3u8|User-Agent=iPad 
-#EXTINF:-1,[JHG*MASTER] livesports:Baby Tv
-http://edge2870.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Disney Channel
-http://edge2870.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Disney Junior
-http://edge2870.livesports.pw/live/verdisneyjuniora1a6392c36/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Clan
-http://edge2870.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Boing
-http://edge1870.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8|User-Agent=iPad
-#EXTINF:-1,[JHG*MASTER] livesports:Nick Jr
-http://edge2870.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8|User-Agent=iPad
 
 
 
@@ -2661,223 +2495,6 @@ http://edge2870.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8|User-Age
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 ,-Hollywood-Spain-HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/582.m3u8
- 
-#EXTINF:-1 ,A&E   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1938.m3u8
- 
-#EXTINF:-1 ,AMC   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1897.m3u8
- 
-#EXTINF:-1 ,ANTENA 3 HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1882.m3u8
- 
-#EXTINF:-1 ,Asturias   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1877.m3u8
- 
-#EXTINF:-1 ,AXN   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1890.m3u8
- 
-#EXTINF:-1 ,AXN WHITE   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1951.m3u8
- 
-#EXTINF:-1 ,Barca TV   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1875.m3u8
- 
-#EXTINF:-1 ,BEIN LA LIGA 1   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1886.m3u8
- 
-#EXTINF:-1 ,Bein Sport  ES HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1876.m3u8
- 
-#EXTINF:-1 ,Boing   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1952.m3u8
- 
-#EXTINF:-1 ,C+ Futbol   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/581.m3u8
- 
-#EXTINF:-1 ,CALLE 13 HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1888.m3u8
- 
-#EXTINF:-1 ,Canal 4   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1878.m3u8
- 
-#EXTINF:-1 ,CANAL DECASA   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1939.m3u8
- 
-#EXTINF:-1 ,CANAL HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1953.m3u8
- 
-#EXTINF:-1 ,CAZA Y PESCA   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1894.m3u8
- 
-#EXTINF:-1 ,CLAN TVE   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1896.m3u8
- 
-#EXTINF:-1 ,Comedy central   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1919.m3u8
- 
-#EXTINF:-1 ,COSMO HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1918.m3u8
- 
-#EXTINF:-1 ,Crime&Investigation   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1954.m3u8
- 
-#EXTINF:-1 ,CUATRO   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1895.m3u8
- 
-#EXTINF:-1 ,DEPORTES.2   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1931.m3u8
- 
-#EXTINF:-1 ,DISNEY CHANNEL   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1892.m3u8
- 
-#EXTINF:-1 ,DISNEY XD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1891.m3u8
- 
-#EXTINF:-1 ,Canal #0 HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1937.m3u8
- 
-#EXTINF:-1 ,EUROSPORT 1 HD esp   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1940.m3u8
- 
-#EXTINF:-1 ,EUROSPORT 2 HD esp   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1941.m3u8
- 
-#EXTINF:-1 ,FOX LIFE HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1923.m3u8
- 
-#EXTINF:-1 ,GOL TV   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1942.m3u8
- 
-#EXTINF:-1 ,La -SextaHD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1873.m3u8
- 
-#EXTINF:-1 ,LA LIGATV BAR HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1885.m3u8
- 
-#EXTINF:-1 ,LA 1 HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1921.m3u8
- 
-#EXTINF:-1 ,M. PARTIDAZO HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1944.m3u8
- 
-#EXTINF:-1 ,M. SERIES HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1884.m3u8
- 
-#EXTINF:-1 ,MTV ESP   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1946.m3u8
- 
-#EXTINF:-1 ,NICK Jr   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1920.m3u8
- 
-#EXTINF:-1 ,NON STOP PEOPLE   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1949.m3u8
- 
-#EXTINF:-1 ,NOVA   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1899.m3u8
- 
-#EXTINF:-1 ,ODESSEIA   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1893.m3u8
- 
-#EXTINF:-1 ,Paramount Channel   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1948.m3u8
- 
-#EXTINF:-1 ,SYFY HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1883.m3u8
- 
-#EXTINF:-1 ,TAQUILLA 1   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1265.m3u8
- 
-#EXTINF:-1 ,TAQUILLA 3   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1267.m3u8
- 
-#EXTINF:-1 ,TAQUILLA 4   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1268.m3u8
- 
-#EXTINF:-1 ,TAQUILLA 5   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1269.m3u8
- 
-#EXTINF:-1 ,TAQUILLA 6   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1270.m3u8
- 
-#EXTINF:-1 ,TCM HD   ESPAÑA
- 
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1880.m3u8
- 
-#EXTINF:-1 ,TELEDEPORTE HD   ESPAÑA
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1922.m3u8
- 
-#EXTINF:-1 ,TeleticinoHD   ESPAÑA
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1874.m3u8
- 
-#EXTINF:-1 ,TNT HD   ESPAÑA
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1881.m3u8
- 
-#EXTINF:-1 ,TVE LA2   ESPAÑA
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1898.m3u8
- 
-#EXTINF:-1 ,VH1   ESPAÑA
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1950.m3u8
- 
-#EXTINF:-1 ,VIAJAR HD   ESPAÑA
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1879.m3u8
-#EXTINF:-1 ,FOX HD   ESPAÑA
-http://redmos.mine.nu:25461/live/tiryonlter/skypp/1854.m3u8
 
 
 
