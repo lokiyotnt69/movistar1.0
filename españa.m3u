@@ -2211,4 +2211,105 @@ http://193.70.116.156:8080/live/rvvuvzyh/1Jt7m66gbA/2644.m3u8
 http://62.167.57.5:1016/play/a004
 
 
+#EXTINF:-1,M.MOTOGPHD
+http://62.167.57.5:1003/play/a003
+#EXTINF:-1,M.FORMULA1HD
+http://62.167.57.5:1003/play/a002
+#EXTINF:-1,TELECINCO HD
+http://62.167.57.5:1003/play/a007
+#EXTINF:-1,CUATRO HD
+http://62.167.57.5:1003/play/a006#EXTINF:0,GOL
+http://62.167.57.5:1009/play/a00b
+#EXTINF:0,EUROSPORT 1
+http://62.167.57.5:1009/play/a009
+#EXTINF:0,M.FORMULA1
+http://62.167.57.5:1009/play/a00c
+#EXTINF:0,M. MOTOGP
+http://62.167.57.5:1008/play/a00d
+#EXTINF:0,M. DEP 2 HD
+http://62.167.57.5:1007/play/a005
+#EXTINF:0,M. GOLF HD
+http://62.167.57.5:1006/play/a005
+#EXTINF:0,BEIN SPORTS
+http://62.167.57.5:1006/play/a002
+#EXTINF:0,CAZAyPESCA HD
+http://62.167.57.5:1005/play/a009
+#EXTINF:0,M.MOTOGPHD
+http://62.167.57.5:1003/play/a003
+#EXTINF:0,M.FORMULA1HD
+http://62.167.57.5:1003/play/a002
+#EXTINF:0,M. F.TBOL HD
+http://62.167.57.5:1002/play/a002
+#EXTINF:0,BEIN LALIGA
+http://62.167.57.5:1002/play/a008
+#EXTINF:0,BEIN LALIGA
+http://62.167.57.5:1002/play/a003
+#EXTINF:0,LALIGATV BAR
+http://62.167.57.5:1001/play/a007
+#EXTINF:0,BEINLALIGA1
+http://62.167.57.5:1001/play/a002
+#EXTINF:0,BEINLALIGA2
+http://62.167.57.5:1001/play/a004
+#EXTINF:0,BEIN MAX 1
+http://62.167.57.5:1001/play/a009
+
+
+
+#EXTINF:-1,ES: C  Teledeporte
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/5033.ts
+#EXTINF:-1,ES: C  Deportes
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/5019.ts
+#EXTINF:-1,ES: Canal Liga
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1670.ts
+#EXTINF:-1,ES: Canal Plus Golf
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1671.ts
+#EXTINF:-1,ES: Canal   Futbol
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1085.ts
+#EXTINF:-1,ES: MoviStar_MotoGp
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3101.ts
+#EXTINF:-1,ES: MOVISTAR_F1
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3102.ts
+#EXTINF:-1,ES: EUROSPORT
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3108.ts
+#EXTINF:-1,ES: BEIN_SPORTS
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3112.ts
+#EXTINF:-1,ES: Barça
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/3113.ts
+#EXTINF:-1,ES: Barca TV
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1076.ts
+#EXTINF:-1,Smart Sport 1
+http://193.70.44.113:2500/live/foj8xnEjSx/FiPSSACea0/1966.ts
+
+
+
+
+#EXTM3U
+#EXTINF:-1,SP: C+ Deportes
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/507.ts
+#EXTINF:-1,SP: C+ Deportes 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/508.ts
+#EXTINF:-1,SP: C+ Futbol HD
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/505.ts
+#EXTINF:-1,SP: C + Futbol
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/504.ts
+#EXTINF:-1,SP: Teledeporte
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/519.ts
+#EXTINF:-1,SP: Bein Sports
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/523.ts
+#EXTINF:-1,SP: Real Madrid TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/525.ts
+#EXTINF:-1,SP: Barca TV
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/524.ts
+#EXTINF:-1,SP: Euro Sport 1
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/529.ts
+#EXTINF:-1,SP: Euro Sport 2
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/530.ts
+#EXTINF:-1,SP: Moto GP
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/493.ts
+#EXTINF:-1,SP: C+ Golf
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/510.ts
+#EXTINF:-1,SP: Caza Y Pesca
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/549.ts
+#EXTINF:-1,SP: C+ Liga
+http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/506.ts
  
