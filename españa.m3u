@@ -2402,3 +2402,501 @@ http://edge2504.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8|User-Age
 http://edge2502.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8|User-Agent=iPad
 #EXTINF:-1,ESPN
 https://live10.userapi.com/637601/live/1gJD5yNAfz8Y-Icl/playlist.m3u8|User-Agent=iPad
+
+
+#EXTINF:-1,[JHG*MASTER-]:#0  
+http://edge2.telesport.pw/live/plus1/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:ESTRENOS
+http://edge2.telesport.pw/live/plusestrenos/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:ACCION
+http://edge2.telesport.pw/live/plusaccion/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:COMEDIA
+http://edge2.telesport.pw/live/comedia/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:TNT
+http://edge2.telesport.pw/live/tnt/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:AXN
+http://edge2.telesport.pw/live/axn/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:FOX
+http://edge2.telesport.pw/live/fox/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:FOXLIFE
+http://edge2.telesport.pw/live/foxlife/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:CALLE13
+http://edge2.telesport.pw/live/calle13/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:SYFY
+http://edge2.telesport.pw/live/syfy/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:AMC
+http://edge2.telesport.pw/live/amc/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:TCM
+http://edge2.telesport.pw/live/tcm/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:HISTORIA
+http://edge2.telesport.pw/live/historia/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:ODISEA
+http://edge2.telesport.pw/live/odisea/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:TELECINCO
+http://edge2.telesport.pw/live/telecinco/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:FDF
+http://edge2.telesport.pw/live/fdf/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:GOLF
+http://edge2.telesport.pw/live/golf/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:TEN
+http://edge2.telesport.pw/live/ten/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:DMAX
+http://edge2.telesport.pw/live/dmax/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:DKISS
+http://edge2.telesport.pw/live/dkiss/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:NATGEO WILD
+http://edge3.telesport.pw/live/nationalwild/index.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:CazayPesca
+http://edge2.telesport.pw/live/cazaypesca/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:VENUS
+http://edge3.telesport.pw/live/venus/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:REDLIGHT
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:BUT GO
+rtmp://edge2.everyon.tv/etv2sb//phd10772
+#EXTINF:-1,[JHG*MASTER-]l:goltv
+http://edge10.verliga.me/live/verliga2/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:beinsports
+http://edge10.verliga.club/live/verliga11/index.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:beinsports
+http://edge10.verliga.me/live/verliga3/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:f1
+http://edge10.verliga.me/live/verliga4/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:beinlaliga
+http://edge10.verliga.me/live/verliga11/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:beinsports
+http://edge10.verliga.me/live/verliga3/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:comedia
+http://cdn2.shurs.xyz/verliga/1/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:dcine
+http://cdn2.shurs.xyz/verliga/3/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:cinemax
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:WIN sport
+http://cdn2.shurs.xyz/verliga/5/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:cocina
+http://cdn2.shurs.xyz/verliga/6/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:tnt (latino)
+http://cdn2.shurs.xyz/verliga/7/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:xxl
+http://cdn2.shurs.xyz/verliga/10/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:redligth
+http://cdn2.shurs.xyz/verliga/11/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:cdf
+http://cdn2.shurs.xyz/verliga/2/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER-]:telecinco
+http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:cuatro
+http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:divinity
+http://cdn2.shurs.xyz/verdirectotv/3/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:antena3
+http://cdn2.shurs.xyz/verdirectotv/4/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:Paramount Channel
+http://cdn2.shurs.xyz/verdirectotv/5/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:lasexta
+http://cdn2.shurs.xyz/verdirectotv/6/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:a3series
+http://cdn2.shurs.xyz/verdirectotv/7/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:Comedy Central
+http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:toros
+http://cdn2.shurs.xyz/verdirectotv/9/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:hollywood
+http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:discovery
+http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:energy
+http://cdn2.shurs.xyz/verdirectotv/12/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:nova
+http://cdn2.shurs.xyz/verdirectotv/13/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:BeMad
+http://cdn2.shurs.xyz/verdirectotv/14/playlist.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER-]:cosmo
+http://cdn2.shurs.xyz/verdirectotv/15/playlist.m3u8|User-Agent=iPad
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,[JHG*MASTER] livesports:LA1 **********
+http://edge2.telesport.pw/live/tve1/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:LA2
+http://edge202.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:antena3
+http://edge202.livesports.pw/live/verantenatress6d026436dd0/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:cuatro
+http://edge202.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:TELECINCO
+http://edge202.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:lasexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:FDF
+http://edge2.telesport.pw/live/fdf/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:ENERGY
+http://edge2870.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:DIVINITY
+http://edge203.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:#0
+http://edge2870.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:ESTRENOS
+http://edge2870.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:ACCION
+http://edge2870.livesports.pw/live/veraccion177662786c60c28d/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:COMEDIA
+http://edge2870.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:DCINE
+http://edge203.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Dcine Ñ
+http://edge2870.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:XTRA
+http://edge2870.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:HOLLYWOOD
+http://edge202.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:AMC
+http://edge202.livesports.pw/live/veramcespteledd21791245ff/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:DARK
+http://edge202.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:TCM HD
+http://edge2870 ODF.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Life TV
+http://109.236.91.150:8080/A1:LifeTV/manifest.f4m
+#EXTINF:-1,[JHG*MASTER] livesports:M SERIES
+http://edge202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:M SERIES XTRA
+http://edge202.livesports.pw/live/vera6669184f0b71095624027/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:tnt
+http://edge202.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:AXN
+http://edge202.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:AXN WHITE
+http://edge203.livesports.pw/live/veraxnwahit4cc7f14e202608/index.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER] livesports:FOX
+http://edge203.livesports.pw/live/verfoxespana247756767558f/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:calle13
+http://edge203.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:SYFY
+http://edge202.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:COSMO
+http://edge3.livesports.pw/live/vercosmos250d386e5f510f45/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:comedycentral
+http://edge202.livesports.pw/live/vercomedycentral6b595e876/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:NAT GEO
+http://edge202.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:COCINA
+http://edge202.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:HISTORIA
+http://edge202.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:C/I
+http://edge202.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:natgeo
+http://edge202.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:ESPECIAL Viajar
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Caza y Pesca
+http://edge202.livesports.pw/live/vercazaypesca65b3f60d9f53/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:DECASA
+http://edge202.livesports.pw/live/vercasa46d1f3a8e2909fec09/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:NBATV
+http://edge2870.livesports.pw/live/vernbatvbacad13168a4762e0/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:TOROS
+http://edge2870.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:GOLTV
+http://edge2870.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:La Liga Tv
+http://edge2870.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:BEINLaLiga
+http://edge2870.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:BEINSports
+http://edge2870.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:FUTBOL
+http://edge2870.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Deportes 2
+http://edge2870.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:F1
+http://edge2870.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:MOTOGP
+http://edge2870.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:M Golf
+http://edge2870.livesports.pw/live/vergolfespef14708285db183/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:EuroSport 1
+http://edge2870.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:EuroSport 2
+http://edge2870.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:BETIS TV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:HUSTLER HD
+http://edge2870.livesports.pw/live/verhustelar19be54d37b4056/index.m3u8|User-Agent=iPad 
+#EXTINF:-1,[JHG*MASTER] livesports:Baby Tv
+http://edge2870.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Disney Channel
+http://edge2870.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Disney Junior
+http://edge2870.livesports.pw/live/verdisneyjuniora1a6392c36/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Clan
+http://edge2870.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Boing
+http://edge1870.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[JHG*MASTER] livesports:Nick Jr
+http://edge2870.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8|User-Agent=iPad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,-Hollywood-Spain-HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/582.m3u8
+ 
+#EXTINF:-1 ,A&E   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1938.m3u8
+ 
+#EXTINF:-1 ,AMC   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1897.m3u8
+ 
+#EXTINF:-1 ,ANTENA 3 HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1882.m3u8
+ 
+#EXTINF:-1 ,Asturias   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1877.m3u8
+ 
+#EXTINF:-1 ,AXN   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1890.m3u8
+ 
+#EXTINF:-1 ,AXN WHITE   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1951.m3u8
+ 
+#EXTINF:-1 ,Barca TV   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1875.m3u8
+ 
+#EXTINF:-1 ,BEIN LA LIGA 1   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1886.m3u8
+ 
+#EXTINF:-1 ,Bein Sport  ES HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1876.m3u8
+ 
+#EXTINF:-1 ,Boing   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1952.m3u8
+ 
+#EXTINF:-1 ,C+ Futbol   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/581.m3u8
+ 
+#EXTINF:-1 ,CALLE 13 HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1888.m3u8
+ 
+#EXTINF:-1 ,Canal 4   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1878.m3u8
+ 
+#EXTINF:-1 ,CANAL DECASA   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1939.m3u8
+ 
+#EXTINF:-1 ,CANAL HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1953.m3u8
+ 
+#EXTINF:-1 ,CAZA Y PESCA   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1894.m3u8
+ 
+#EXTINF:-1 ,CLAN TVE   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1896.m3u8
+ 
+#EXTINF:-1 ,Comedy central   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1919.m3u8
+ 
+#EXTINF:-1 ,COSMO HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1918.m3u8
+ 
+#EXTINF:-1 ,Crime&Investigation   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1954.m3u8
+ 
+#EXTINF:-1 ,CUATRO   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1895.m3u8
+ 
+#EXTINF:-1 ,DEPORTES.2   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1931.m3u8
+ 
+#EXTINF:-1 ,DISNEY CHANNEL   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1892.m3u8
+ 
+#EXTINF:-1 ,DISNEY XD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1891.m3u8
+ 
+#EXTINF:-1 ,Canal #0 HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1937.m3u8
+ 
+#EXTINF:-1 ,EUROSPORT 1 HD esp   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1940.m3u8
+ 
+#EXTINF:-1 ,EUROSPORT 2 HD esp   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1941.m3u8
+ 
+#EXTINF:-1 ,FOX LIFE HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1923.m3u8
+ 
+#EXTINF:-1 ,GOL TV   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1942.m3u8
+ 
+#EXTINF:-1 ,La -SextaHD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1873.m3u8
+ 
+#EXTINF:-1 ,LA LIGATV BAR HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1885.m3u8
+ 
+#EXTINF:-1 ,LA 1 HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1921.m3u8
+ 
+#EXTINF:-1 ,M. PARTIDAZO HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1944.m3u8
+ 
+#EXTINF:-1 ,M. SERIES HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1884.m3u8
+ 
+#EXTINF:-1 ,MTV ESP   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1946.m3u8
+ 
+#EXTINF:-1 ,NICK Jr   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1920.m3u8
+ 
+#EXTINF:-1 ,NON STOP PEOPLE   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1949.m3u8
+ 
+#EXTINF:-1 ,NOVA   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1899.m3u8
+ 
+#EXTINF:-1 ,ODESSEIA   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1893.m3u8
+ 
+#EXTINF:-1 ,Paramount Channel   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1948.m3u8
+ 
+#EXTINF:-1 ,SYFY HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1883.m3u8
+ 
+#EXTINF:-1 ,TAQUILLA 1   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1265.m3u8
+ 
+#EXTINF:-1 ,TAQUILLA 3   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1267.m3u8
+ 
+#EXTINF:-1 ,TAQUILLA 4   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1268.m3u8
+ 
+#EXTINF:-1 ,TAQUILLA 5   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1269.m3u8
+ 
+#EXTINF:-1 ,TAQUILLA 6   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1270.m3u8
+ 
+#EXTINF:-1 ,TCM HD   ESPAÑA
+ 
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1880.m3u8
+ 
+#EXTINF:-1 ,TELEDEPORTE HD   ESPAÑA
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1922.m3u8
+ 
+#EXTINF:-1 ,TeleticinoHD   ESPAÑA
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1874.m3u8
+ 
+#EXTINF:-1 ,TNT HD   ESPAÑA
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1881.m3u8
+ 
+#EXTINF:-1 ,TVE LA2   ESPAÑA
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1898.m3u8
+ 
+#EXTINF:-1 ,VH1   ESPAÑA
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1950.m3u8
+ 
+#EXTINF:-1 ,VIAJAR HD   ESPAÑA
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1879.m3u8
+#EXTINF:-1 ,FOX HD   ESPAÑA
+http://redmos.mine.nu:25461/live/tiryonlter/skypp/1854.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
