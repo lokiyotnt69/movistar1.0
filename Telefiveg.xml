@@ -4,7 +4,7 @@
 
 <item>
 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (1)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Television (1)[/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -39,7 +39,7 @@
 
  <item>
 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (2)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Television (2)[/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -73,45 +73,12 @@
 
 
 
- <item>
-
-<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (3)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-
-<link>$doregex[makelist]</link>
-
-<regex>
-
-<name>makelist</name>
-
-<listrepeat><![CDATA[
-
-<title>[makelist.param2]</title>
-
-<sportsdevil>[makelist.param1]</sportsdevil>
-
-<referer>http://www.vercanalestv.com/</referer>
-
-<thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
-
-]]></listrepeat>
-
-<expres>href="(.*?)" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
-
-<page>http://www.vercanalestv.com/</page>
-
-<referer></referer>
-
-<cookieJar></cookieJar>
-
-</regex>
-
-</item>
 
 
 
  <item>
 
-<title>*[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (4)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>*[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Television (3)[/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -147,7 +114,7 @@
 
  <item>
 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (5)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Television (4)[/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
