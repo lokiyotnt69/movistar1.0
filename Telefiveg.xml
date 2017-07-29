@@ -75,7 +75,7 @@
 
  <item>
 
-<title>*CinestrenosTV</title>
+<title>*VercanalesTV</title>
 
 <link>$doregex[makelist]</link>
 
@@ -89,7 +89,7 @@
 
 <sportsdevil>[makelist.param1]</sportsdevil>
 
-<referer>http://cinestrenostv.tv/</referer>
+<referer>http://www.vercanalestv.com/</referer>
 
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
 
@@ -97,7 +97,7 @@
 
 <expres>href="(.*?)" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
 
-<page>http://cinestrenostv.tv/</page>
+<page>http://www.vercanalestv.com/</page>
 
 <referer></referer>
 
