@@ -4,7 +4,7 @@
 
 <item>
 
-<title>Telefiveg</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (1)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -39,7 +39,7 @@
 
  <item>
 
-<title>LaTelete</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (2)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -75,7 +75,7 @@
 
  <item>
 
-<title>*VercanalesTV</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (3)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -111,7 +111,7 @@
 
  <item>
 
-<title>*Verdirecto</title>
+<title>*[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (4)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -147,7 +147,7 @@
 
  <item>
 
-<title>*verdirectotv1</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR yellow]  Television (5)[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
