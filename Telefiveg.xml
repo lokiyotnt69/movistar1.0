@@ -70,3 +70,39 @@
 </regex>
 
 </item>
+
+
+
+ <item>
+
+<title>*CinestrenosTV</title>
+
+<link>$doregex[makelist]</link>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[makelist.param2]</title>
+
+<sportsdevil>[makelist.param1]</sportsdevil>
+
+<referer>http://cinestrenostv.tv/</referer>
+
+<thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
+
+]]></listrepeat>
+
+<expres>href="(.*?)" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
+
+<page>http://cinestrenostv.tv/</page>
+
+<referer></referer>
+
+<cookieJar></cookieJar>
+
+</regex>
+
+</item>
